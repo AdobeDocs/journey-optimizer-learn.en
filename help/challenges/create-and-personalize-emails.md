@@ -26,7 +26,7 @@ Luma, a fictional athletic apparel company, is looking to promote its latest ap
 
 >[!NOTE]
 >
->If the assets are not available in your sandbox, [download all Luma assets](/help/challenges/assets/email-assets/luma-Assets.zip).
+>If the assets are not available in your sandbox, [download all Luma assets](/help/challenges/assets/email-assets/luma-assets.zip).
 
 ### SKILLS YOU MIGHT NEED
 
