@@ -20,22 +20,6 @@ Your challenge is to create journeys to implement the following use cases:
 3. Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits
 4. When a previously out-of-stock item is back in stock, notify customers who had favorited the out-of-stock item with a call to start shopping now that the item is back in stock
 
-## Skills you might need
-
-To develop the knowledge and skills needed for this challenge, check out the following learning assets:
-
-* Course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)
-  
-## Required actions
-
-If you have not already done so, create a test profile for yourself and add the attributes for yourself that are used in this challenge.
-
-From the Journey Optimizer Home Page, find the Create Test Profiles use case and complete it to create a test profile for yourself. Use *Email* as the identity namespace (use your email address for both the Person ID and Email Address fields).
-  
-NEED HELP?
-
-Refer to the video: [Create a test profile](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/test-a-journey.html?lang=en)
-
 ## Let’s jump in
 
 Create the following journeys in Journey Optimizer:

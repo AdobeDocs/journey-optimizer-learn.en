@@ -28,15 +28,6 @@ Luma, a fictional athletic apparel company, is looking to promote its latest ap
 >
 >If the assets are not available in your sandbox, [download all Luma assets](/help/challenges/assets/email-assets/luma-assets.zip).
 
-### SKILLS YOU MIGHT NEED
-
-To develop the knowledge and skills needed for this challenge, complete the following course:
-
-* [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)  
-
-### REQUIRED ACTIONS
-
-If you haven’t already done so, from the Journey Optimizer Home Page, find the Create Test Profiles use case and complete it to create a test profile for yourself, using Email as the identity namespace. Optionally you can add  a street address (*street1*) to your test profile.
 
 ## Let’s jump in
 
