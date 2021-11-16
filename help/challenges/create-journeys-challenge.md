@@ -26,6 +26,8 @@ Create the following journeys in Journey Optimizer:
 
 ### **Journey #1 – Summer collection announcement**
 
+<br>&nbsp;
+
 YOUR CHALLENGE
 
 To promote the new Luma summer collection, send a summer collection announcement to a segment of existing customers email.
@@ -49,6 +51,8 @@ You should receive the following emails:
 
 ### **Journey #2 – Order confirmation transactional email**
 
+<br>&nbsp;
+
 YOUR CHALLENGE
 
 Send an order confirmation email when someone completes an online purchase.
@@ -67,6 +71,8 @@ You should receive the personalized purchase confirmation email, with the spe
 
 ### **Journey #3 – Diamond status upgrade welcome email**
 
+<br>&nbsp;
+
 YOUR CHALLENGE
 
 Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits.
@@ -79,6 +85,8 @@ SUCCESS CRITERIA
 You should receive the personalized “Luma – New Status- Diamond-Transactional” email.
 
 ### **Journey #4 – Product restock email**
+
+<br>&nbsp;
 
 YOUR CHALLENGE
 

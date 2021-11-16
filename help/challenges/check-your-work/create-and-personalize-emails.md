@@ -25,14 +25,14 @@ Email body should match the *Luma – New Seasonal Collection* message provided 
 
 {{ profile.person.name.firstName }}, thank you for your purchase!
 
-### Header and Body Section 1
+### **Header and Body Section** \
 
 ![Header and body section](/help/challenges/assets/email-header-and-body-1.png)
 
-### Oder detail section  
+### **Oder detail section**  
 
 ![Oder detail section](/help/challenges/assets/order-detail-section.png)
 
-### Customer information
+### **Customer information section**
 
 ![Customer information](/help/challenges/assets/customer-information-section.png)
