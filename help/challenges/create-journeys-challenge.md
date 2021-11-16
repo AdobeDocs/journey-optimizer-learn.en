@@ -40,7 +40,7 @@ Refer to the video: [Create a test profile](https://experienceleague.adobe.com/d
 
 Create the following journeys in Journey Optimizer:
 
-### Journey #1 – Summer collection announcement
+### **Journey #1 – Summer collection announcement**
 
 YOUR CHALLENGE
 
@@ -63,7 +63,7 @@ You should receive the following emails:
 * If you open the first email: The Luma collection email for either men or women if you added the gender, if not the Luma 20% off collection email
 * If you did not open the second email: The *Luma – 20% off sales* email
 
-### Journey #2 – Order confirmation transactional email
+### **Journey #2 – Order confirmation transactional email**
 
 YOUR CHALLENGE
 
@@ -71,7 +71,7 @@ Send an order confirmation email when someone completes an online purchase.
 
 >[!INFO]
 >
->If you completed the Create and Personalize Messages challenge, you can skip this journey and move to Journey #3.
+>If you completed the [Create and Personalize Messages challenge](/help/challenges/create-and-personalize-emails.md), you can skip this journey and move to Journey #3.
 
 1. Create a journey that is triggered when a customer completes a web purchase on the Luma site to send the “Luma – Website – Order confirmation” email.
 2. Map contextual information from the *LumaOnlinePurchase* event to personalize the email. To personalize with contextual information, you must duplicate the *Luma – Website – Order confirmation* email and prefix it with your name and use that in the journey.
@@ -81,7 +81,7 @@ SUCCESS CRITERIA
 
 You should receive the personalized purchase confirmation email, with the specified product.
 
-### Journey #3 – Diamond status upgrade welcome email
+### **Journey #3 – Diamond status upgrade welcome email**
 
 YOUR CHALLENGE
 
@@ -94,7 +94,7 @@ SUCCESS CRITERIA
 
 You should receive the personalized “Luma – New Status- Diamond-Transactional” email.
 
-### Journey #4 – Product restock email
+### **Journey #4 – Product restock email**
 
 YOUR CHALLENGE
 
@@ -115,4 +115,4 @@ You should receive the product restock email with the product you specified in
 
 >[!INFO]
 >
->You can see what the journeys should look like in the [Check your work](/help/challenges/check-your-work/create-journeys.md) section.
+>[Check your work](/help/challenges/check-your-work/create-journeys.md) to see what the journeys should look like.

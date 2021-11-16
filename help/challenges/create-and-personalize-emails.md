@@ -42,13 +42,13 @@ If you haven’t already done so, from the Journey Optimizer Home Page, find th
 
 ### Email Message #1 – Summer collection announcement
 
-Create an email to announce the arrival of the new Summer collection to active Luma customers from an HTML file
+Create an email to announce the arrival of the new Summer collection. You have received an html file from an agency with the design for the email body: [SeasonalCollectionEmail.html](/help/challenges/assets/SeasonalCollectionEmail.html)
 
-* You have received an html file from an agency with the design for the email body: SeasonalCollectionEmail.html
-* Create an email message titled “(your name)_Luma – New Seasonal Collection”
-* Give the email a subject line “(recipient’s first name), the new Luma collection is here!”, and use the provided HTML file for the email body  
+1. Create an email message titled *(your name)_Luma – New Seasonal Collection*
+2. Give the email a subject line: *(recipient’s first name), the new Luma collection is here!*
+3. Use the provided HTML file for the email body  
 
-#### SUCCESS CRITERIA
+SUCCESS CRITERIA
 
 Preview the email using your test profile, and send a proof to yourself.
 
@@ -111,12 +111,12 @@ Create an order confirmation email to be sent when a Luma customer completes
        * Unsubscribe link 
        * Text color:  #afafaf rgb (175, 175, 175)
 
-2. Create a journey that is triggered when a customer completes an online purchase on the Luma website site to send the “(your name)_ Luma – Website – Order confirmation” email
+2. Create a journey that is triggered when a customer completes an online purchase on the Luma website site to send the *(your name)_ Luma – Website – Order confirmation* email
 
    * Call the journey “your name _Luma-Order Confirmation”
    * Use the event: LumaOnlinePurchase  
 
-#### SUCCESS CRITERIA
+SUCCESS CRITERIA
 
 1. Preview your message using the test profile you created. The personalization should reflect the data in your test profile:  
    * Subject line should start with your test profile’s first name 
@@ -126,5 +126,8 @@ Create an order confirmation email to be sent when a Luma customer completes
    * Use “LLWH06” for the product SKU when triggering the test event in test mode.  
    * Add any additional information  
    * Image URL: https://publish1034.adobedemo.com/content/dam/luma/en/products/women/tops/hoodies-&-sweatshirts/wh06-purple_main.jpg 
-   * You should receive the email, and all personalization fields should be populated correctly. 
- 
+   * You should receive the email, and all personalization fields should be populated correctly.
+
+>[!INFO]
+>
+>[Check your work](/help/challenges/check-your-work/create-and-personalize-emails.md) to see what the emails should look like.
