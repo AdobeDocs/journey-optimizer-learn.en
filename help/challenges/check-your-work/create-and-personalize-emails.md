@@ -9,28 +9,29 @@ thumbnail: .jpg
 
 ## Email Message #1 – Summer collection announcement
 
-Subject line:
+### Email #1 Subject line:
 
 {{ profile.person.name.firstName }}, the new Luma collection is here!
 
+### Body
 Email body should match the *Luma – New Seasonal Collection* message provided in the training environment, and any personalization fields should be populated as expected:
 
 ![Summer Collection Announcement](/help/challenges/assets/email-1.mov)
 
 ## Email Message #2 – Order confirmation transactional email
 
-Subject line:
+### Email #2 Subject line
 
 {{ profile.person.name.firstName }}, thank you for your purchase!
 
-Header and Body Section 1:
+### Header and Body Section 1
 
 ![Header and body section](/help/challenges/assets/email-header-and-body-1.png)
 
-Oder detail section:  
+### Oder detail section:  
 
 ![Oder detail section](/help/challenges/assets/order-detail-section.png)
 
-Customer information:
+### Customer information:
 
 ![Customer information](/help/challenges/assets/customer-information-section.png)

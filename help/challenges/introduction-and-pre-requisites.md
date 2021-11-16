@@ -19,6 +19,10 @@ Challenges provide a scenario and the requirements needed to practice what you l
   * Luma Logo.png
   * Luma - Transactional - Order Confirmation 2.jpeg
 
+>[!NOTE]
+>
+>If the assets are not available in your sandbox, you can [download all Luma assets](/help/challenges/assets/email-assets/luma-assets.zip).
+
 ## Hands-on-environment
 
 It is recommended to complete the challenge in a dedicated training sandbox. Please refer to the [Set up a training sandbox](/help/tutorial-set-up-training-sandbox/overview.md) tutorial for instructions on how to set-up and configure a sandbox for training purposes.

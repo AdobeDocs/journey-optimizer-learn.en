@@ -9,7 +9,7 @@ level: Beginner
 
 # Create Journeys - Challenge
 
-## Story
+## The Story
 
 Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. The Luma marketing team asks you to implement a summer collection marketing campaign and additional use cases that improve the customer experience and increase retention.
 

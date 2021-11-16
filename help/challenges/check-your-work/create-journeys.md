@@ -7,8 +7,6 @@ thumbnail: .jpg
 
 # Check your work - Create Journeys
 
-Check if your challenge result are correct.
-
 ## Journey #1 - Luma – New Seasonal Collection Announcement
 
 Your journey should look like this:

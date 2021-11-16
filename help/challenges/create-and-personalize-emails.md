@@ -13,22 +13,6 @@ level: Beginner
 
 Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. To support the new collection campaign, the Luma marketing team asks you to create two email messages that are sent to customers as part of the campaign.
 
-## Have everything you need?
-
-### SYSTEM REQUIREMENTS
-
-* Access to a Journey Optimizer Journey instance  
-* Make sure you have either Journey Manager or Journey Administrator rights
-* AEM Assets Essentials must be provisioned for your sandbox
-* The following assets should be available in your sandbox:
-  * Luma Logo.png
-  * Luma - Transactional - Order Confirmation 2.jpeg
-
->[!NOTE]
->
->If the assets are not available in your sandbox, [download all Luma assets](/help/challenges/assets/email-assets/luma-assets.zip).
-
-
 ## Let’s jump in
 
 ### Email Message #1 – Summer collection announcement
