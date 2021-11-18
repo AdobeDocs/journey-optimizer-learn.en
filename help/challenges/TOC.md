@@ -14,5 +14,5 @@ index: yes
 + [Challenge 3: Create Journeys](/help/challenges/create-journeys-challenge.md)
 + Check your work {#check-your-work}
   + [Create Journeys](/help/challenges/check-your-work/create-journeys.md)
-  + [Create and personalize email messages](/help/challenges/check-your-work/create-and-personalize-emails-challenge.md)
+  + [Create and personalize email messages](/help/challenges/check-your-work/create-and-personalize-emails.md)
   
