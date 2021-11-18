@@ -102,4 +102,4 @@ SUCCESS CRITERIA
 
 READY TO FINISH?
 
-[Check your work](/help/challenges/check-your-work/create-and-personalize-emails-challenge.md) to see what the emails you created should look like.
+[Check your work](/help/challenges/check-your-work/create-and-personalize-emails.md) to see what the emails you created should look like.
