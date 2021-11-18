@@ -20,16 +20,9 @@ You have been hired to implement the Luma marketing and retention campaigns in J
 
 You are faced with three challenges:
 <table>
-<style>
-.verticalcenter {
-    display: table-cell;
-    height: 200px;
-    vertical-align: middle;
-}
-</style>
 <tr>
 <td>
-  <div class="verticalcenter">
+  <div>
       <a href="/help/challenges/create-segments-challenge.md">
         <img alt="Create Segments" src="./assets/create-segments.jpg"/>
       </a>
@@ -46,7 +39,7 @@ You are faced with three challenges:
   </tr>
   <tr>
   <td>
-  <div class="verticalcenter">
+  <div>
     <a href="/help/challenges/create-segments-challenge.md">
       <img alt="Luma Email" src="./assets/luma-email-design.jpg"/>
     </a>
@@ -64,7 +57,7 @@ You are faced with three challenges:
   </tr>
   <tr>
     <td>
-    <div class="verticalcenter">
+    <div>
     <a href="./create-journeys-challenge.md">
       <img alt="Luma website" src="./assets/luma-website.jpg"/>
     </a>
