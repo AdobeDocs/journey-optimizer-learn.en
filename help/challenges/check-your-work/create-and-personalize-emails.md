@@ -1,11 +1,13 @@
 ---
-title: Check your work
+title: Check your work - Create and personalize emails
 description: Check if your challenge result are correct.
 kt: 
 thumbnail: .jpg
 ---
 
-# Check your work - Create and personalize messages
+# Check your work - Create and personalize emails
+
+Now that you have completed the Challenge compare the emails you have built with the references below.
 
 ## Email Message #1 – Summer collection announcement
 

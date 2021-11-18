@@ -20,14 +20,11 @@ Your challenge is to create journeys to implement the following use cases:
 3. Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits
 4. When a previously out-of-stock item is back in stock, notify customers who had favorited the out-of-stock item with a call to start shopping now that the item is back in stock
 
-## Let’s jump in
+## YOUR CHALLENGE
 
 Create the following journeys in Journey Optimizer:
 
 ### **Journey #1 – Summer collection announcement**
-
-
-YOUR CHALLENGE
 
 To promote the new Luma summer collection, send a summer collection announcement to a segment of existing customers email.
 
@@ -50,14 +47,11 @@ You should receive the following emails:
 
 ### **Journey #2 – Order confirmation transactional email**
 
-
-YOUR CHALLENGE
-
 Send an order confirmation email when someone completes an online purchase.
 
 >[!INFO]
 >
->If you completed the [Create and Personalize Messages challenge](/help/challenges/create-and-personalize-emails.md), you can skip this journey and move to Journey #3.
+>If you completed the [Create and Personalize Messages challenge](/help/challenges/create-and-personalize-emails-challenge.md), you can skip this journey and move to Journey #3.
 
 1. Create a journey that is triggered when a customer completes a web purchase on the Luma site to send the “Luma – Website – Order confirmation” email.
 2. Map contextual information from the *LumaOnlinePurchase* event to personalize the email. To personalize with contextual information, you must duplicate the *Luma – Website – Order confirmation* email and prefix it with your name and use that in the journey.
@@ -69,9 +63,6 @@ You should receive the personalized purchase confirmation email, with the spe
 
 ### **Journey #3 – Diamond status upgrade welcome email**
 
-
-YOUR CHALLENGE
-
 Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits.
 
 1. Create a journey triggered when a customer moves into Diamond new loyalty tier (specifically when the customer enters the segment defined for a new Diamond level member) to send the “Luma – New Status – Diamond – Transactional” email
@@ -82,9 +73,6 @@ SUCCESS CRITERIA
 You should receive the personalized “Luma – New Status- Diamond-Transactional” email.
 
 ### **Journey #4 – Product restock email**
-
-
-YOUR CHALLENGE
 
 When a previously out-of-stock item is back in stock, notify customers who had favorited the out-of-stock item with a call to start shopping now that the item is back in stock.
 

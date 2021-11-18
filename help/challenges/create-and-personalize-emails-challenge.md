@@ -11,15 +11,13 @@ level: Beginner
 
 ## The Story
 
-Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. To support the new collection campaign, the Luma marketing team asks you to create two email messages that are sent to customers as part of the campaign.
+Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. To support the New Collection campaign, the Luma marketing team asks you to create two email messages that are sent to customers as part of the campaign.
 
-## Let’s jump in
+## Your Challenge
+
+Create the following emails in Journey Optimizer
 
 ### Email Message #1 – Summer collection announcement
-
-<br>&nbsp;
-
-YOUR CHALLENGE
 
 Create an email to announce the arrival of the new Summer collection. You have received an html file from an agency with the design for the email body: [SeasonalCollectionEmail.html](/help/challenges/assets/SeasonalCollectionEmail.html)
 
@@ -35,10 +33,6 @@ Preview the email using your test profile, and send a proof to yourself.
 * The email body should match what you have seen in the preview.
 
 ### Email Message #2 – Order confirmation transactional email
-
-<br>&nbsp;
-
-YOUR CHALLENGE
 
 Create an order confirmation email to be sent when a Luma customer completes an online order.  
 
@@ -106,6 +100,6 @@ SUCCESS CRITERIA
    * Image URL: https://publish1034.adobedemo.com/content/dam/luma/en/products/women/tops/hoodies-&-sweatshirts/wh06-purple_main.jpg 
    * You should receive the email, and all personalization fields should be populated correctly.
 
->[!INFO]
->
->[Check your work](/help/challenges/check-your-work/create-and-personalize-emails.md) to see what the emails should look like.
+READY TO FINISH?
+
+[Check your work](/help/challenges/check-your-work/create-and-personalize-emails-challenge.md) to see what the emails you created should look like.

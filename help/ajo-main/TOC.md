@@ -39,7 +39,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
   + [Create events](/help/set-up-journeys/create-events.md)
   + [Create actions](/help/set-up-journeys/create-actions.md)
-+ [Create segments](/help/set-up-resources/create-segments.md)
++ [Create segments](/help/set-up-resources/create-segments-challenge.md)
 + Create messages {#create-messages}
   + [Create email content with the message editor](/help/create-messages/create-email-content-with-the-message-editor.md)
   + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)

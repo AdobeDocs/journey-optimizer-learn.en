@@ -9,9 +9,10 @@ index: yes
 # Journey Optimizer - Challenges {#challenges}
 
 + [Introduction and pre-requisites](/help/challenges/introduction-and-pre-requisites.md)
-+ [Create and personalize email messages](/help/challenges/create-and-personalize-emails.md)
-+ [Create Journeys](/help/challenges/create-journeys-challenge.md)
++ [Challenge 1: Create segments](/help/challenges/create-segments-challenge.md)
++ [Challenge 2: Create and personalize email messages](/help/challenges/create-and-personalize-emails-challenge.md)
++ [Challenge 3: Create Journeys](/help/challenges/create-journeys-challenge.md)
 + Check your work {#check-your-work}
   + [Create Journeys](/help/challenges/check-your-work/create-journeys.md)
-  + [Create and personalize email messages](/help/challenges/check-your-work/create-and-personalize-emails.md)
+  + [Create and personalize email messages](/help/challenges/check-your-work/create-and-personalize-emails-challenge.md)
   
