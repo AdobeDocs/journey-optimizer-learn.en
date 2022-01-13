@@ -24,6 +24,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Configure source connectors](/help/set-up-data/configure-source-connectors.md)
 + Channel configuration {#channel-configuration}
   + [Set up email channel](/help/set-up-email-channel/set-up-email-channel.md)
+  + [Delegate CName subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + Decision management configuration {#decision-management-configuration}
   + [Introduction to [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
   + [Demo of [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
