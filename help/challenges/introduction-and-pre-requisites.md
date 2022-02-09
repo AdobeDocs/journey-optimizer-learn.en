@@ -98,7 +98,6 @@ You will need to complete three challenges:
 * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](/help/tutorial-set-up-training-sandbox/overview.md) for instructions.
   * Make sure you have either *Journey Manager* or *Journey Administrator* rights
 
-  
 ### Required actions
 
 Before you can get started you should 
