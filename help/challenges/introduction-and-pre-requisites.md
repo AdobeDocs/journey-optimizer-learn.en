@@ -10,7 +10,9 @@ level: Beginner
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
-Challenges provide a scenario and the requirements needed to practice what you learn. Use these Challenges to evaluate your skill level and identify areas for improvement.
+Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps.
+
+To develop the knowledge and skills needed for the following challenges, complete the [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) course.
 
 ## The Story
 
@@ -18,7 +20,7 @@ Luma, a fictional athletic apparel company, is looking to promote its latest app
 
 You have been hired to implement the Luma marketing and retention campaigns in Journey optimizer.
 
-You are faced with three challenges:
+You will need to complete three challenges:
 <table>
 <tr>
 <td>
@@ -91,18 +93,15 @@ You are faced with three challenges:
 
 ### System requirements
 
-* Access to a Journey Optimizer Journey instance
-  * Make sure you have either *Journey Manager* or *Journey Administrator* rights
+* Access to a Journey Optimizer instance
 * AEM Assets Essentials must be provisioned for your instance
 * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](/help/tutorial-set-up-training-sandbox/overview.md) for instructions.
+  * Make sure you have either *Journey Manager* or *Journey Administrator* rights
 
-### Skills you might need
-
-To develop the knowledge and skills needed for this challenge, complete the following course:
-
-* Course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)
   
 ### Required actions
+
+Before you can get started you should 
 
 1. [Create a test profile](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/test-a-journey.html?lang=en)
    1. From the Journey Optimizer Home Page, find the Create Test Profiles use case and complete it to create a test profile for yourself.
