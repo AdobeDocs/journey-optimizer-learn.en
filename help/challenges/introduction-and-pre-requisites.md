@@ -100,10 +100,4 @@ You will need to complete three challenges:
 
 ### Required actions
 
-Before you can get started you should 
-
-1. [Create a test profile](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/test-a-journey.html?lang=en)
-   1. From the Journey Optimizer Home Page, find the Create Test Profiles use case and complete it to create a test profile for yourself.
-   2. Use *Email* as the identity namespace (use your email address for both the Person ID and Email Address fields)
-   3. Optionally you can add a street address (column header: *street1*) to your test profile.
-2. [Download all Luma assets](/help/challenges/assets/email-assets/luma-assets.zip).
+Before you can get started you should [download all Luma assets](/help/challenges/assets/email-assets/luma-assets.zip).

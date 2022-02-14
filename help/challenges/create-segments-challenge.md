@@ -44,6 +44,7 @@ loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or l
 
 +++
 
+
 ## Segment #2 – Out-of-stock Wishlist Items
 
 Name this segment: *your name – Out-of-stock-Wishlist*
@@ -58,7 +59,7 @@ To target potential interested customers when products are restocked, create an 
 
 This is what your segment should look like:
 
-![Segment #2 - Out-of-stock Wishlist Items](/help/challenges/assets/C1-S1.png)
+![Segment #2 - Out-of-stock Wishlist Items](/help/challenges/assets/C1-S2.png)
 
 Customers who have added an item to their wish list that was out of stock in the last 3 months:
 
@@ -76,7 +77,7 @@ and have not since purchased the item:
 
 Check the code on the bottom right corner of the Edit segment screen, under Events. The code should look like this:
 
-Code: 
+Code:
 (Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)
 
 +++
