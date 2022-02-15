@@ -9,7 +9,7 @@ level: Beginner
 
 # Create an order confirmation transactional email
 
-![Order confirmation](/help/challenges/assets/email-assets/luma-transactional-order-confirmation-2.jpeg)
+![Order confirmation](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
 <table>
 <tr>
 <td>
@@ -89,7 +89,7 @@ Following the Luma brand guideline the email should be structured as follows:
     <strong>Text</strong></a><p>
     <strong>Thanks for the purchase!</strong><p>
     <li>Alignment: left  </li>
-   <li>Text color: rgb(101, 106, 119); font-size:14px	</li>
+   <li>Text color: rgb(101, 106, 119); font-size:14px</li>
     <li>Padding: left (95), right (95)<div>
     </a>
     <p>
@@ -97,8 +97,8 @@ Following the Luma brand guideline the email should be structured as follows:
     Once your package ships, we will send you an email with a tracking number so you can track your order.
     </strong><p>
     <li>Alignment: left  </li>
-    <li>Text color: rgb(101, 106, 119); font-size:14px	</li>
-    <li>Padding: left (95), right (95)</lt><div>
+    <li>Text color: rgb(101, 106, 119); font-size:14px</li>
+    <li>Padding: left (95), right (95)</li><div>
     </a>
     <p>
     <a><strong>Button:</a><p>
@@ -170,9 +170,8 @@ Name and Quantity:
 4. Go back to the message and add the contextual attributes
 5. Publish the email
 
->[TIP] 
+>[TIP]
 >To allow you to troubleshoot your journeys, best practice is to add an alternative path to all message actions in case of timeout or error.
-
 
 +++Success Criteria
 

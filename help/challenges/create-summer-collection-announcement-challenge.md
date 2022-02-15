@@ -1,5 +1,5 @@
 ---
-title: Create a Summer Collection Announcement - Challenge
+title: ]Create a Summer Collection Announcement - Challenge
 description: Send a summer collection announcement to a segment of existing customers' to promote the new Luma summer collection.
 kt: 8109
 feature: Journeys
@@ -96,7 +96,7 @@ Create an email which announces the arrival of the new summer collection to acti
 
 Preview the email using the Identity namespace: *Email* and the Identity value: *Jenna_Palmer9530@emailsim.io*
    * The subject line should read: Jenna, the new Luma collection is here!
-   * The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/SeasonalCollectionEmail)
+   * The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/SeasonalCollectionEmail.html)
 
 +++
 
