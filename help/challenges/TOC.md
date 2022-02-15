@@ -9,7 +9,7 @@ index: yes
 # Journey Optimizer - Challenges {#challenges}
 
 + [Introduction and pre-requisites](/help/challenges/introduction-and-pre-requisites.md)
-+ [Challenge 1: Create segments](/help/challenges/create-segments-challenge.md)
-+ [Challenge 2: Create and personalize email messages](/help/challenges/create-and-personalize-emails-challenge.md)
++ [Challenge - Create a summer collection announcement](/help/challenges/create-summer-collection-announcement-challenge.md)
++ [Challenge - Create an order confirmation email](/help/challenges/create-an-order-confirmation.md)
 + [Challenge 3: Create Journeys](/help/challenges/create-journeys-challenge.md)
   
