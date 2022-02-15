@@ -72,8 +72,11 @@ This is what your segment should look like:
 Check the code on the bottom-right corner of the Edit segment screen, under Events. 
 
 The code should look like this:
+
 ```javascript
+
 loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+
 ```
 
 +++
@@ -154,14 +157,14 @@ Preview the email using the Identity namespace: *Email* and the Identity value: 
 
 Send a summer collection announcement to a segment of existing customers' email promoting the new Luma summer collection.
 
-1.	Create a journey called “your name - Summer collection announcement”
-2.	Send Luma – New Seasonal Collection Announcement email to the Luma-Active Customers segment, holding out 10% of the audience as a control group  
-3.	Wait two days then send a follow-up email message with more targeted content:
+1. Create a journey called “your name - Summer collection announcement”
+2. Send Luma – New Seasonal Collection Announcement email to the Luma-Active Customers segment, holding out 10% of the audience as a control group  
+3. Wait two days then send a follow-up email message with more targeted content:
    * Male customers should receive the **Luma Men’s Collection email**
    * Female customers should receive the **Luma Women’s Collection email**
    * Other customers should receive the **Luma - 20 % off Collection email**
-4.	After sending the targeted emails above, wait two days for the email to be opened
-5.	If the targeted email is not opened within 2 days, send the **Luma - 20 %off Collection email** as a final retargeting attempt
+4. After sending the targeted emails above, wait two days for the email to be opened
+5. If the targeted email is not opened within 2 days, send the **Luma - 20 %off Collection email** as a final retargeting attempt
 
 +++**Success Criteria**
 

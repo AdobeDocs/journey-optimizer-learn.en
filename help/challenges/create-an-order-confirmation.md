@@ -182,7 +182,7 @@ Trigger the Journey you created in test mode and send the email to yourself:
    1. In the Email parameters click on the T symbol (enable parameter override
    ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
    1. Click into the Address field
-   2. On the next screen add your email address in parentheses: *yourname@yourdomain* in the expression editor and click ok.  
+   1. On the next screen add your email address in parentheses: *yourname@yourdomain* in the expression editor and click ok.  
 2. Put the journey into test mode
 3. Trigger the event with the following parameters:
    * Set the profile identifier to: Jenna_Palmer9530@emailsim.io
