@@ -1,8 +1,7 @@
 ---
-title: ]Create a Summer Collection Announcement - Challenge
+title: Create a Summer Collection Announcement - Challenge
 description: Send a summer collection announcement to a segment of existing customers' to promote the new Luma summer collection.
 kt: 8109
-feature: Journeys
 role: User
 level: Beginner
 ---
@@ -98,8 +97,8 @@ Create an email which announces the arrival of the new summer collection to acti
 +++**Success Criteria**
 
 Preview the email using the Identity namespace: *Email* and the Identity value: *Jenna_Palmer9530@emailsim.io*
-   * The subject line should read: Jenna, the new Luma collection is here!
-   * The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/SeasonalCollectionEmail.html)
+* The subject line should read: Jenna, the new Luma collection is here!
+* The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/SeasonalCollectionEmail.html)
 
 +++
 
@@ -114,8 +113,9 @@ Create a follow-up email announcing the arrival of the new summer collection to 
 +++**Success Criteria**
 
 Send a proof to yourself
-   * Enter your email address
-   * Select the test profile: Chris_Scott1244@emailsim.io
+
+* Enter your email address
+* Select the test profile: Chris_Scott1244@emailsim.io
   
   You should receive an email. The subject line should read “Chris, explore Men's New athletic gear!” and the email body should match what you have seen in the preview: [Luma Men’s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
 
@@ -132,8 +132,9 @@ Create a follow-up email announcing the arrival of the new summer collection to 
 +++**Success Criteria**
 
 Preview the email using the Identity namespace: *Email* and the Identity value: *Jenna_Palmer9530@emailsim.io*
-   * The subject line should read: *Jenna, explore Luma's Women Collection!*
-   * The email body should match what you have seen in the preview: [Luma Women’s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
+
+* The subject line should read: *Jenna, explore Luma's Women Collection!*
+* The email body should match what you have seen in the preview: [Luma Women’s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 +++
 
@@ -148,8 +149,9 @@ Create a follow-up email announcing the arrival of the new summer collection to 
 +++**Success Criteria**
 
 Preview the email using the Identity namespace: *Email* and the Identity value: *Benny_Steer4909@emailsim.io*
-   * The subject line should read: *Benny, enjoy 20% off sales!*
-   * The email body should match what you have seen in the preview: [Luma 20 % off Collection](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
+
+* The subject line should read: *Benny, enjoy 20% off sales!*
+* The email body should match what you have seen in the preview: [Luma 20 % off Collection](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 +++
 

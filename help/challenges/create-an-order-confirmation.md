@@ -10,6 +10,7 @@ level: Beginner
 # Create an order confirmation transactional email
 
 ![Order confirmation](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
+
 <table>
 <tr>
 <td>
