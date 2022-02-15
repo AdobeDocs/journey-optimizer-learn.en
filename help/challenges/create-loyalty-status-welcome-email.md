@@ -1,5 +1,5 @@
 ---
-title: Create Journeys - Challenge
+title: Create a loyalty status welcome email - Challenge
 description: Understand the basics of building a journey in the journey canvas.
 kt: 8109
 feature: Journeys
@@ -7,7 +7,7 @@ role: User
 level: Beginner
 ---
 
-# Create Journeys - Challenge
+# Create a loyalty status welcome email - Challenge
 
 ## The Story
 
@@ -21,45 +21,6 @@ Your challenge is to create journeys to implement the following use cases:
 4. When a previously out-of-stock item is back in stock, notify customers who had favorited the out-of-stock item with a call to start shopping now that the item is back in stock
 
 ## YOUR CHALLENGE
-
-Create the following journeys in Journey Optimizer:
-
-### **Journey #1 – Summer collection announcement**
-
-To promote the new Luma summer collection, send a summer collection announcement to a segment of existing customers email.
-
-1. Send “Luma – New Seasonal Collection Announcement” email to the Active Customer segment, holding out 10% of the audience as a control group.
-2. If a recipient opens the *Luma – New Seasonal Collection Announcement* email within two days, send a follow-on email message with more targeted content:
-   * Male customers should receive the *Luma Collection - Men’s* email
-   * Female customers should receive the *Luma Collection- Women’s* email
-   * Other customers should receive the *Luma – 20% off collection* email
-3. After sending the targeted emails above, wait an hour, then listen for the email to be opened.
-4. If the targeted email is not opened within 2 days, send the *Luma – 20% off sales* email as a final retargeting attempt.
-5. Once completed, put the journey in test mode and trigger the journey to send to yourself.
-
-SUCCESS CRITERIA
-
-You should receive the following emails:
-
-* *Luma – New Seasonal Collection Announcement*
-* If you open the first email: The Luma collection email for either men or women if you added the gender, if not the Luma 20% off collection email
-* If you did not open the second email: The *Luma – 20% off sales* email
-
-### **Journey #2 – Order confirmation transactional email**
-
-Send an order confirmation email when someone completes an online purchase.
-
->[!INFO]
->
->If you completed the [Create and Personalize Messages challenge](/help/challenges/create-and-personalize-emails-challenge.md), you can skip this journey and move to Journey #3.
-
-1. Create a journey that is triggered when a customer completes a web purchase on the Luma site to send the “Luma – Website – Order confirmation” email.
-2. Map contextual information from the *LumaOnlinePurchase* event to personalize the email. To personalize with contextual information, you must duplicate the *Luma – Website – Order confirmation* email and prefix it with your name and use that in the journey.
-3. Once completed, put the journey in test mode and trigger the journey to send to yourself. You can use “LLWH06” for the product SKU (Stock Keeping Unit) when triggering the test event, or browse the products on the [Luma website](https://publish1034.adobedemo.com/content/luma/us/en.html) if you would like to pick a different product. The SKU can be found on each product page, but leave off the suffix that denotes color/size, for example “.1-XS”
-
-SUCCESS CRITERIA
-
-You should receive the personalized purchase confirmation email, with the specified product.
 
 ### **Journey #3 – Diamond status upgrade welcome email**
 
@@ -88,7 +49,3 @@ When a previously out-of-stock item is back in stock, notify customers who had f
 SUCCESS CRITERIA
 
 You should receive the product restock email with the product you specified in the wish list event and test restock event.
-
->[!INFO]
->
->[Check your work](/help/challenges/check-your-work/create-journeys.md) to see what the journeys should look like.

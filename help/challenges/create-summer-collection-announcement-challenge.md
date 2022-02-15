@@ -1,8 +1,7 @@
 ---
-title: ]Create a Summer Collection Announcement - Challenge
+title: Create a Summer Collection Announcement - Challenge
 description: Send a summer collection announcement to a segment of existing customers' to promote the new Luma summer collection.
 kt: 8109
-feature: Journeys
 role: User
 level: Beginner
 ---
@@ -72,8 +71,11 @@ This is what your segment should look like:
 Check the code on the bottom-right corner of the Edit segment screen, under Events. 
 
 The code should look like this:
+
 ```javascript
+
 loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+
 ```
 
 +++
@@ -95,8 +97,8 @@ Create an email which announces the arrival of the new summer collection to acti
 +++**Success Criteria**
 
 Preview the email using the Identity namespace: *Email* and the Identity value: *Jenna_Palmer9530@emailsim.io*
-   * The subject line should read: Jenna, the new Luma collection is here!
-   * The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/SeasonalCollectionEmail.html)
+* The subject line should read: Jenna, the new Luma collection is here!
+* The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/SeasonalCollectionEmail.html)
 
 +++
 
@@ -111,8 +113,9 @@ Create a follow-up email announcing the arrival of the new summer collection to 
 +++**Success Criteria**
 
 Send a proof to yourself
-   * Enter your email address
-   * Select the test profile: Chris_Scott1244@emailsim.io
+
+* Enter your email address
+* Select the test profile: Chris_Scott1244@emailsim.io
   
   You should receive an email. The subject line should read “Chris, explore Men's New athletic gear!” and the email body should match what you have seen in the preview: [Luma Men’s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
 
@@ -129,8 +132,9 @@ Create a follow-up email announcing the arrival of the new summer collection to 
 +++**Success Criteria**
 
 Preview the email using the Identity namespace: *Email* and the Identity value: *Jenna_Palmer9530@emailsim.io*
-   * The subject line should read: *Jenna, explore Luma's Women Collection!*
-   * The email body should match what you have seen in the preview: [Luma Women’s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
+
+* The subject line should read: *Jenna, explore Luma's Women Collection!*
+* The email body should match what you have seen in the preview: [Luma Women’s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 +++
 
@@ -145,8 +149,9 @@ Create a follow-up email announcing the arrival of the new summer collection to 
 +++**Success Criteria**
 
 Preview the email using the Identity namespace: *Email* and the Identity value: *Benny_Steer4909@emailsim.io*
-   * The subject line should read: *Benny, enjoy 20% off sales!*
-   * The email body should match what you have seen in the preview: [Luma 20 % off Collection](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
+
+* The subject line should read: *Benny, enjoy 20% off sales!*
+* The email body should match what you have seen in the preview: [Luma 20 % off Collection](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 +++
 
@@ -154,14 +159,14 @@ Preview the email using the Identity namespace: *Email* and the Identity value: 
 
 Send a summer collection announcement to a segment of existing customers' email promoting the new Luma summer collection.
 
-1.	Create a journey called “your name - Summer collection announcement”
-2.	Send Luma – New Seasonal Collection Announcement email to the Luma-Active Customers segment, holding out 10% of the audience as a control group  
-3.	Wait two days then send a follow-up email message with more targeted content:
+1. Create a journey called “your name - Summer collection announcement”
+2. Send Luma – New Seasonal Collection Announcement email to the Luma-Active Customers segment, holding out 10% of the audience as a control group  
+3. Wait two days then send a follow-up email message with more targeted content:
    * Male customers should receive the **Luma Men’s Collection email**
    * Female customers should receive the **Luma Women’s Collection email**
    * Other customers should receive the **Luma - 20 % off Collection email**
-4.	After sending the targeted emails above, wait two days for the email to be opened
-5.	If the targeted email is not opened within 2 days, send the **Luma - 20 %off Collection email** as a final retargeting attempt
+4. After sending the targeted emails above, wait two days for the email to be opened
+5. If the targeted email is not opened within 2 days, send the **Luma - 20 %off Collection email** as a final retargeting attempt
 
 +++**Success Criteria**
 
