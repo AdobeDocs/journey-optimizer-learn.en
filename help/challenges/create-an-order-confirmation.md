@@ -97,7 +97,7 @@ Following the Luma brand guideline the email should be structured as follows:
     Once your package ships, we will send you an email with a tracking number so you can track your order.
     </strong><p>
     <li>Alignment: left  </li>
-    <li>Text color: rgb(101, 106, 119); font-size:14px</li>
+    <li>Text color: rgb(101, 106, 119); font-size:14px </li>
     <li>Padding: left (95), right (95)</li><div>
     </a>
     <p>
@@ -134,8 +134,8 @@ Following the Luma brand guideline the email should be structured as follows:
   <p>Each of the items should be formatted like this:
    <img alt="order" src="./assets/c2-order.png"/>
   
-<p>Product Image: 
-<li>class=cart-item-chair 
+<p>Product Image:
+<li>class=cart-item-chair
 <li>style= box-sizing: border-box: min-height:40px</li>
 <li>padding top and bottom:20px</li>
 <li>padding-left:80px</li>
@@ -170,20 +170,19 @@ Name and Quantity:
 4. Go back to the message and add the contextual attributes
 5. Publish the email
 
->[TIP]
+>[!TIP]
+>
 >To allow you to troubleshoot your journeys, best practice is to add an alternative path to all message actions in case of timeout or error.
 
 +++Success Criteria
 
 Trigger the Journey you created in test mode and send the email to yourself:
 
-1. Show the hidden values by clicking the eye symbol. 
-  1. In the Email parameters click on the T symbol (enable parameter override
-
-  ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
-      
-  2. Click into the Address field
-  3.  On the next screen add your email address in parentheses: *yourname@yourdomain* in the expression editor and click ok.
+1. Show the hidden values by clicking the eye symbol:
+   1. In the Email parameters click on the T symbol (enable parameter override
+   ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
+   1. Click into the Address field
+   2. On the next screen add your email address in parentheses: *yourname@yourdomain* in the expression editor and click ok.  
 2. Put the journey into test mode
 3. Trigger the event with the following parameters:
    * Set the profile identifier to: Jenna_Palmer9530@emailsim.io
@@ -193,12 +192,13 @@ Trigger the Journey you created in test mode and send the email to yourself:
    * Price Total: 61
    * Order number: 6253728
    * SKU: 24-WG080
-   * productImageURL: https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg
+   * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
 
 You should receive the personalized purchase confirmation email, with the specified product.
+
 * The subject line should start with your test profile’s first name: Jenna
-*	The order detail section should be populated with the order details you entered while testing
-*	The customer information should have your test profile’s city and postal code:
+* The order detail section should be populated with the order details you entered while testing
+* The customer information should have your test profile’s city and postal code:
 
     43913 Thierer Terrace,
     Washington DC 20099
@@ -221,7 +221,7 @@ You should receive the personalized purchase confirmation email, with the specif
 
 This is what your code should look like:
 
-Header: 
+Header:
 
 ```javascript
 Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
@@ -229,9 +229,9 @@ Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 
 List of products:
 
-Use the helper function “each” to create the list of products. This is what your code should look like: 
+Use the helper function “each” to create the list of products. This is what your code should look like:
 
-```javascript 
+```javascript
 {{#each context.journey.events.1911672547.productListItems as|product|}}
 <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product._wwfovlab065.productImageURL}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
 <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.priceTotal}}.00</h5>
@@ -240,6 +240,7 @@ Use the helper function “each” to create the list of products. This is what 
 
 Total: ${{context.journey.events.1627840522.commerce.order.priceTotal}} 
 ```
+
 **Customer information Section**
 
 ![Customer address](assets/c2-customer-information.png)
@@ -253,7 +254,6 @@ The personalization should look like this:
 
 **Footer:**
 ![footer](/help/challenges/assets/c2-footer.png)
-
 
 **Journey**
 
