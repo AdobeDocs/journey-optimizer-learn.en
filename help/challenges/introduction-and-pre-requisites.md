@@ -10,7 +10,9 @@ level: Beginner
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
-Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps.
+Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. Each challenge in this section addresses a unique use case.
+
+The target audience (persona), as well as the required skills are listed at the beginning of each challenge
 
 To develop the knowledge and skills needed for the following challenges, complete the [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) course.
 
@@ -20,22 +22,23 @@ Luma, a fictional athletic apparel company, is looking to promote its latest app
 
 You have been hired to implement the Luma marketing and retention campaigns in Journey optimizer.
 
-You will need to complete three challenges:
+## Your Challenges
+
 <table>
 <tr>
 <td>
-  <div>
-      <a href="/help/challenges/create-segments-challenge.md">
-        <img alt="Create Segments" src="./assets/create-segments.jpg"/>
+ <div>
+      <a href="/help/challenges/create-summer-collection-announcement-challenge.md">
+        <img alt="Create Segments" src="./assets/email-assets/luma-womens-banner.jpeg"/>
       </a>
       </div>
   </td>
   <td>
-   <a href="./create-segments-challenge.md">
-    <strong>Challenge 1: <div> Create segments </strong>
+   <a href="./create-summer-collection-announcement-challenge.md">
+    <strong>Challenge 1: <div> Create a summer collection announcement </strong>
     </a>
       <p>
-      <em>To target specific customer segments and make sure that the customers receive the personalized product information, you need to the create segments that are used in the customer journeys.</em>
+      <em>Send a summer collection announcement to a segment of existing customers' to promote the new Luma summer collection.</em>
       <p>
     </td>
   </tr>
@@ -43,16 +46,16 @@ You will need to complete three challenges:
   <td>
   <div>
     <a href="/help/challenges/create-segments-challenge.md">
-      <img alt="Luma Email" src="./assets/luma-email-design.jpg"/>
+      <img alt="Luma Email" src="./assets/email-assets/luma-transactional-order-confirmation-2.jpeg">
     </a>
   </td>
   <td>
       <a href="./create-segments-challenge.md">
-    <strong>Challenge 2:<div>Create and personalize email messages </strong>
+    <strong>Challenge 2:<div>Create an order confirmation</strong>
     </a>
     <div>
     <p>
-    <em>Create the personalized email messages that Luma customers receive when they interact with the brand or fall into the segment that is targeted with the Luma marketing campaign.
+    <em>Create and personalize a transactional order confirmation message.
     </em>
     <p>
   </td>
