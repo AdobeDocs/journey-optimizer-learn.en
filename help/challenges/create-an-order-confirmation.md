@@ -99,7 +99,7 @@ Following the Luma brand guideline the email should be structured as follows:
       </div>
       <p>Tips:
       <li>This is contextual event information. You will only be able to add in the context once you add the message to your journey (see step 2). Do not publish your email before you have added it to the Journey and modified it with the contextual event information!</li>
-      <li>Use the [helper function: Each](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/build-expressions/functions/helpers.html?lang=en#each)</li>
+      <li>Use the helper function: Each</li>
       <li>Use the HTML editor format the contextual data.Put the information into containers using DIV tags.</li>
   </td>
   <td>
