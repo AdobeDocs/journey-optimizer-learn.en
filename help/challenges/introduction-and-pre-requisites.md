@@ -28,34 +28,34 @@ You have been hired to implement the Luma marketing and retention campaigns in J
 <tr>
 <td>
  <div>
-      <a href="/help/challenges/create-summer-collection-announcement-challenge.md">
-        <img alt="Create Segments" src="./assets/email-assets/luma-womens-banner.jpeg"/>
+      <a href="help/challenges/create-summer-collection-announcement-challenge.md">
+        <img alt="Create Segments" src="./assets/email-assets/luma-transactional-onboarding-3.png"/>
       </a>
       </div>
   </td>
   <td>
-   <a href="./create-summer-collection-announcement-challenge.md">
-    <strong>Challenge 1: <div> Create a summer collection announcement </strong>
+   <a href="help/challenges/create-summer-collection-announcement-challenge.md">
+    <strong>Create a summer collection announcement </strong>
     </a>
       <p>
-      <em>Send a summer collection announcement to a segment of existing customers' to promote the new Luma summer collection.</em>
+      <em>Promote the new Luma summer collection. </em>
       <p>
     </td>
   </tr>
   <tr>
   <td>
   <div>
-    <a href="/help/challenges/create-segments-challenge.md">
-      <img alt="Luma Email" src="./assets/email-assets/luma-transactional-order-confirmation-2.jpeg">
+    <a href="/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png">
+      <img alt="Luma Email" src="./assets/email-assets/luma-transactional-order-confirmation.png"/>
     </a>
   </td>
   <td>
       <a href="./create-segments-challenge.md">
-    <strong>Challenge 2:<div>Create an order confirmation</strong>
+    <strong>Create an order confirmation</strong>
     </a>
     <div>
     <p>
-    <em>Create and personalize a transactional order confirmation message.
+    <em>Send an order confirmation email when someone completes an online purchase
     </em>
     <p>
   </td>
@@ -63,34 +63,41 @@ You have been hired to implement the Luma marketing and retention campaigns in J
   <tr>
     <td>
     <div>
-    <a href="./create-journeys-challenge.md">
-      <img alt="Luma website" src="./assets/luma-website.jpg"/>
+    <a href="product-replenishment.md">
+      <img alt="Luma website" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="./create-journeys-challenge.md">
-    <strong>Challenge 3:<div>Create Journeys </strong>
+      <a href="product-replenishment.md">
+    <strong>Create a product replenishment notification </strong>
     </a>
     </div>
     <p>
-    <em>Implement Luma's customer journeys for the following use cases:
-      <li>
-      Promote the new Luma summer collection
-      </li> 
-      <li>
-      Send an order confirmation email when someone completes an online purchase
-      </li> 
-      <li> 
-      Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits
-      </li> 
-      <li>
-      Notify customers, when a previously out-of-stock item is back in stock
-      </li>
-      </em>
+    <em>Notify customers, when a previously out-of-stock item is back in stock</em>
     <p>
   </td>
+  </tr>
+  <tr>
+    <td>
+    <div>
+    <a href="create-loyalty-status-welcome-email.md">
+      <img alt="Welcome" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+    </a>
+    </div>
+    <td>
+    <div >
+      <a href="create-loyalty-status-welcome-email.md">
+    <strong>Create a loyalty status welcome email </strong>
+    </a>
+    </div>
+    <p>
+    <em>Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits</em>
+    <p>
+  </td>
+  </tr>
 </table>
+
 
 ## Do you have everything you need?
 

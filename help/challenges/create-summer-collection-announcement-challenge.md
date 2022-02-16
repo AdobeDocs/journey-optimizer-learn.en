@@ -8,7 +8,7 @@ level: Beginner
 
 # Create a Summer Collection Announcement - Challenge
 
-![AJO Summer Collection Announcement Banner](/help/challenges/assets/email-assets/luma-womens-banner.jpeg)
+![AJO Summer Collection Announcement Banner](/help/challenges/assets/email-assets/luma-transactional-onboarding-3.png)
 
 <table>
 <tr>
@@ -28,9 +28,9 @@ level: Beginner
     <a>Required skills</a>
   </td>
   <td>
-[Create Segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en)<br>
-[Import and author HTML email content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en)<br>
-[Use Case - Read segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)
+  <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en">Create Segments</a></li>
+  <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en">Import and author HTML email content</a></li>
+ <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en">Use Case - Read segment</a></li>
   </td>
 </table>
 

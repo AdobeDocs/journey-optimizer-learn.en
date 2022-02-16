@@ -12,5 +12,5 @@ index: no
 + [Challenge - Create a summer collection announcement](/help/challenges/create-summer-collection-announcement-challenge.md)
 + [Challenge - Create an order confirmation email](/help/challenges/create-an-order-confirmation.md)
 + [Challenge - Create a loyalty status welcome email](/help/challenges/create-loyalty-status-welcome-email.md)
-+ [Challenge - Create a product replenishment notification](/help/challenges/create-segments-challenge.md)
++ [Challenge - Create a product replenishment notification](/help/challenges/product-replenishment.md)
   
