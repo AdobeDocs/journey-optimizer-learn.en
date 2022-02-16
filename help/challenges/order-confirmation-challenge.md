@@ -232,3 +232,4 @@ The personalization should look like this:
 ![Journey](/help/challenges/assets/c2-journey.png)
 
 +++
+
