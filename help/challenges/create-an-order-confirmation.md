@@ -11,30 +11,11 @@ level: Beginner
 
 ![Order confirmation](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
 
-<table>
-<tr>
-<td>
-  <div>
-     <a> Persona</a>
-      </div>
-  </td>
-  <td>
-     Journey Manager
-    </td>
-  </tr>
-  </td>
-  <tr>
-  <td>
-  <div>
-    <a>Required skills</a>
-  </td>
-<td>
-  <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en">Create email content with the message editor</a></li>
-  <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en">Use contextual event information for personalization</a></li>
-  <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-transactional-journey.html?lang=en">Use Case - Transactional Journey</a></li>
- <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Use helper functions for personalization</a></li>
-</td>
-</table>
+|Challenge|Create an order confirmation transactional email|
+|---|---|
+|Persona|Journey Manager|
+|Required skills|[Create email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en), [Use contextual event information for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en), [Use helper functions for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)|
+|Assets to download|[Order confirmation assets](/help/challenges/assets/email-assets/order-confirmation-assets.zip)|
 
 ## The Story
 
@@ -66,7 +47,7 @@ Following the Luma brand guideline the email should be structured as follows:
     <strong>Luma logo</strong>
     </a>
       <p>
-     <li>Luma_Logo.png</li>
+     <li>luma_logo.png</li>
     <li>Size 35%, centered white background </li>
     <li>It should have a link to the luma website: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
@@ -82,7 +63,7 @@ Following the Luma brand guideline the email should be structured as follows:
   <td>
       <a>
     <strong>Image</strong></a><p>
-    <li>Luma - Transactional - Order Confirmation 2.jpg </li>
+    <li>luma-transactional-order-confirmation-2.jpg </li>
     <li>Margin: Top, bottom (10)<div>
     </a>
     <p>
@@ -125,10 +106,8 @@ Following the Luma brand guideline the email should be structured as follows:
    <a>
     <strong>Header</strong>
     </a>
-      <p>
-     <li>Luma_Logo.png</li>
-     <li>Size 35%, centered white background </li>
-     <li>It should have a link to the luma website: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
+    <p>
+     Order (Purchase Order Number)
     <p>
     <a><strong>List of products that were ordered:</a>
   </strong>

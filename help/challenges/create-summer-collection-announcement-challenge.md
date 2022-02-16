@@ -10,29 +10,11 @@ level: Beginner
 
 ![AJO Summer Collection Announcement Banner](/help/challenges/assets/email-assets/luma-transactional-onboarding-3.png)
 
-<table>
-<tr>
-<td>
-  <div>
-     <a> Persona</a>
-      </div>
-  </td>
-  <td>
-     Journey Manager
-    </td>
-  </tr>
-  </td>
-  <tr>
-  <td>
-  <div>
-    <a>Required skills</a>
-  </td>
-  <td>
-  <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en">Create Segments</a></li>
-  <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en">Import and author HTML email content</a></li>
- <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en">Use Case - Read segment</a></li>
-  </td>
-</table>
+|Challenge|Create a Summer Collection Announcement|
+|---|---|
+|Persona|Journey Manager|
+|Required skills|[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en), [Import and author HTML email content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en), [Use Case - Read segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)|
+|Assets to download|[Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)|
 
 ## The Story
 
