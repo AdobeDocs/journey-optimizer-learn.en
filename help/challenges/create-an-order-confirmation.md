@@ -14,7 +14,7 @@ level: Beginner
 |Challenge|Create an order confirmation transactional email|
 |---|---|
 |Persona|Journey Manager|
-|Required skills|[Create email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en), [Use contextual event information for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en), [Use helper functions for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)|
+|Required skills|<ul><li>[Create email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en)</li> <li>[Use contextual event information for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Use helper functions for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul>|
 |Assets to download|[Order confirmation assets](/help/challenges/assets/email-assets/order-confirmation-assets.zip)|
 
 ## The Story
@@ -39,13 +39,11 @@ Following the Luma brand guideline the email should be structured as follows:
 <tr>
 <td>
   <div>
-     <a> Header Section</a>
+     <strong> Header Section</strong>
       </div>
   </td>
   <td>
-   <a>
     <strong>Luma logo</strong>
-    </a>
       <p>
      <li>luma_logo.png</li>
     <li>Size 35%, centered white background </li>
@@ -57,34 +55,30 @@ Following the Luma brand guideline the email should be structured as follows:
   <tr>
   <td>
   <div>
-    <a>Order Confirmation Section
-    </a>
+    <strong>Order Confirmation Section
+    </strong>
   </td>
   <td>
-      <a>
-    <strong>Image</strong></a><p>
+    <strong>Image</strong><p>
     <li>luma-transactional-order-confirmation-2.jpg </li>
     <li>Margin: Top, bottom (10)<div>
-    </a>
     <p>
-    <a>
-    <strong>Text</strong></a><p>
-    <strong>Thanks for the purchase!</strong><p>
+    <strong>Text</strong><p>
+    <em>Thanks for the purchase!</em><p>
     <li>Alignment: left  </li>
    <li>Text color: rgb(101, 106, 119); font-size:14px</li>
-    <li>Padding: left (95), right (95)<div>
-    </a>
+    <li>Padding: left (95), right (95)</li><div>
     <p>
-     <strong>Your order has been placed.</li>
-    Once your package ships, we will send you an email with a tracking number so you can track your order.
+     <em>Your order has been placed.
+    <p>Once your package ships, we will send you an email with a tracking number so you can track your order.</p></em>
     </strong><p>
     <li>Alignment: left  </li>
     <li>Text color: rgb(101, 106, 119); font-size:14px </li>
     <li>Padding: left (95), right (95)</li><div>
     </a>
     <p>
-    <a><strong>Button:</a><p>
-   View your order</strong><p>
+    <strong>Button:</strong>
+   <p><em>View your order</em></p>
       <li>Background color: rgb(25, 121, 195)</li>
       <li>Text color: White</li>
       <li>No border</li>
@@ -95,7 +89,7 @@ Following the Luma brand guideline the email should be structured as follows:
  <tr>
 <td>
   <div>
-     <a> Order Details Section</a>
+     <strong>Order Details Section</strong>
       </div>
       <p>Tips:
       <li>This is contextual event information. You will only be able to add in the context once you add the message to your journey (see step 2). Do not publish your email before you have added it to the Journey and modified it with the contextual event information!</li>
@@ -103,35 +97,33 @@ Following the Luma brand guideline the email should be structured as follows:
       <li>Use the HTML editor format the contextual data.Put the information into containers using DIV tags.</li>
   </td>
   <td>
-   <a>
     <strong>Header</strong>
-    </a>
     <p>
-     Order (Purchase Order Number)
-    <p>
-    <a><strong>List of products that were ordered:</a>
+    <em>Order {Purchase Order Number}</em>
+    </p>
+    <strong>List of products that were ordered:
   </strong>
   <p>Each of the items should be formatted like this:
    <img alt="order" src="./assets/c2-order.png"> 
-<p>
-Product Image:
-<li>class=cart-item-chair
-<li>style= box-sizing: border-box: min-height:40px</li>
+</p>
+<strong>Product Image:</strong>
+<li>class: cart-item-chair
+<li>style: border-box: min-height:40px</li>
 <li>padding top and bottom:20px</li>
 <li>padding-left:80px</li>
 <li>border-radius:0px</li>
 <li>Use as background image for the container</li>
 <li>background-position: 0% 50%</li>
-<li>background-size:60px</li>
-<li>background-repeat:no-repeat</li>
+<li>background-size: 60px</li>
+<li>background-repeat: no-repeat</li>
 <p>
-Price:
+<strong>Price:</strong>
 <li>Format = H5</li>
 <li>style = box-sizing:border-box</li>
 <li>margin-bottom:5px</li>
 <li>margin-top:0px;</li>
 <p>
-Name and Quantity:
+<strong>Name and Quantity:</strong>
 <li>class=text-small</li>
 <li>style=box-sizing: border-box</li>
 <li>padding-top: 5px</li>
@@ -145,10 +137,10 @@ Name and Quantity:
 ### Create the journey
 
 1. Call the journey “your name _Luma-Order Confirmation”
-2. Use the event: LumaOnlinePurchase
-3. Action: Add the message you created in step 1
-4. Go back to the message and add the contextual attributes
-5. Publish the email
+1. Use the event: LumaOnlinePurchase
+1. Action: Add the message you created in step 1
+1. Go back to the message and add the contextual attributes
+1. Publish the email
 
 >[!TIP]
 >
@@ -160,11 +152,11 @@ Trigger the Journey you created in test mode and send the email to yourself:
 
 1. Show the hidden values by clicking the eye symbol:
    1. In the Email parameters click on the T symbol (enable parameter override
-   ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
+      ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
    1. Click into the Address field
    1. On the next screen add your email address in parentheses: *yourname@yourdomain* in the expression editor and click ok.  
-2. Put the journey into test mode
-3. Trigger the event with the following parameters:
+1. Put the journey into test mode
+1. Trigger the event with the following parameters:
    * Set the profile identifier to: Jenna_Palmer9530@emailsim.io
    * Event Type: commerce.purchases
    * Name: Sprite Yoga Companion Kit
@@ -172,7 +164,7 @@ Trigger the Journey you created in test mode and send the email to yourself:
    * Price Total: 61
    * Order number: 6253728
    * SKU: 24-WG080
-   * productImageURL: https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg
+   * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
 
 You should receive the personalized purchase confirmation email, with the specified product.
 
@@ -238,3 +230,5 @@ The personalization should look like this:
 **Journey**
 
 ![Journey](/help/challenges/assets/c2-journey.png)
+
++++
