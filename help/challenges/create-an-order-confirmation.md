@@ -172,7 +172,7 @@ Trigger the Journey you created in test mode and send the email to yourself:
    * Price Total: 61
    * Order number: 6253728
    * SKU: 24-WG080
-   * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * productImageURL: https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg
 
 You should receive the personalized purchase confirmation email, with the specified product.
 
