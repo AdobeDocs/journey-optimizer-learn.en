@@ -9,8 +9,8 @@ index: no
 # Journey Optimizer - Challenges {#challenges}
 
 + [Introduction and pre-requisites](/help/challenges/introduction-and-pre-requisites.md)
-+ [Challenge - Create a summer collection announcement](/help/challenges/create-summer-collection-announcement-challenge.md)
-+ [Challenge - Create an order confirmation email](/help/challenges/create-an-order-confirmation.md)
-+ [Challenge - Create a loyalty status welcome email](/help/challenges/create-loyalty-status-welcome-email.md)
-+ [Challenge - Create a product replenishment notification](/help/challenges/product-replenishment.md)
++ [Challenge - Create a summer collection announcement](/help/challenges/summer-collection-announcement-challenge.md)
++ [Challenge - Create an order confirmation email](/help/challenges/order-confirmation-challenge.md)
++ [Challenge - Create a loyalty status welcome email](/help/challenges/loyalty-status-welcome-email-challenge.md)
++ [Challenge - Create a product replenishment notification](/help/challenges/product-replenishment-challenge.md)
   

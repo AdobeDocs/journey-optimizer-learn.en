@@ -28,13 +28,13 @@ You have been hired to implement the Luma marketing and retention campaigns in J
 <tr>
 <td>
  <div>
-      <a href="help/challenges/create-summer-collection-announcement-challenge.md">
-        <img alt="Create Segments" src="./assets/email-assets/luma-transactional-onboarding-3.png"/>
+      <a href="summer-collection-announcement-challenge.md">
+        <img alt="Image for Summer Collection Announcement" src="./assets/email-assets/luma-transactional-onboarding-3.png"/>
       </a>
       </div>
   </td>
   <td>
-   <a href="help/challenges/create-summer-collection-announcement-challenge.md">
+   <a href="summer-collection-announcement-challenge.md">
     <strong>Create a summer collection announcement </strong>
     </a>
       <p>
@@ -45,12 +45,12 @@ You have been hired to implement the Luma marketing and retention campaigns in J
   <tr>
   <td>
   <div>
-    <a href="/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png">
+    <a href="order-confirmation-challenge.md">
       <img alt="Luma Email" src="./assets/email-assets/luma-transactional-order-confirmation.png"/>
     </a>
   </td>
   <td>
-      <a href="./create-segments-challenge.md">
+      <a href="order-confirmation-challenge.md">
     <strong>Create an order confirmation</strong>
     </a>
     <div>
@@ -63,13 +63,13 @@ You have been hired to implement the Luma marketing and retention campaigns in J
   <tr>
     <td>
     <div>
-    <a href="product-replenishment.md">
+    <a href="product-replenishment-challenge.md">
       <img alt="Luma website" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment.md">
+      <a href="product-replenishment-challenge.md">
     <strong>Create a product replenishment notification </strong>
     </a>
     </div>
@@ -81,13 +81,13 @@ You have been hired to implement the Luma marketing and retention campaigns in J
   <tr>
     <td>
     <div>
-    <a href="create-loyalty-status-welcome-email.md">
+    <a href="loyalty-status-welcome-email-challenge.md">
       <img alt="Welcome" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="create-loyalty-status-welcome-email.md">
+      <a href="loyalty-status-welcome-email-challenge.md">
     <strong>Create a loyalty status welcome email </strong>
     </a>
     </div>
