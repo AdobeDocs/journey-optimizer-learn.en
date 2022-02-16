@@ -112,9 +112,9 @@ Following the Luma brand guideline the email should be structured as follows:
     <a><strong>List of products that were ordered:</a>
   </strong>
   <p>Each of the items should be formatted like this:
-   <img alt="order" src="./assets/c2-order.png"/>
-  
-<p>Product Image:
+   <img alt="order" src="./assets/c2-order.png"/> 
+<p>
+Product Image:
 <li>class=cart-item-chair
 <li>style= box-sizing: border-box: min-height:40px</li>
 <li>padding top and bottom:20px</li>
