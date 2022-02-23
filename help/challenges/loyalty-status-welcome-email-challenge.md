@@ -33,19 +33,4 @@ SUCCESS CRITERIA
 
 You should receive the personalized “Luma – New Status- Diamond-Transactional” email.
 
-### **Journey #4 – Product restock email**
 
-When a previously out-of-stock item is back in stock, notify customers who had favorited the out-of-stock item with a call to start shopping now that the item is back in stock.
-
-1. Create a journey that is triggered when Product ABC123 is back in stock. It should an email (*Luma Email Product Replenishment*) to notify users who had favorited the product while it was out of stock. The email has a call-to-action to start shopping.
-
-   * In the journey, check whether the restocked item is in the customer’s wish list before sending the email.
-   * Map contextual information from the *LumaProductRestock* event to personalize the email
-
-2. To generate a wish list event for yourself, run the *Student Onboarding* Journey . Use either *LLWH06* as the SKU or another SKU of choice found on the [Luma website](https://publish1034.adobedemo.com/content/luma/us/en.html).
-
-3. Once completed, put the journey in test mode and trigger the journey to send to yourself. Be sure to use the same SKU in the test event as you used when triggering the wish list event in the “Student Onboarding – Wishlist Event” journey
-
-SUCCESS CRITERIA
-
-You should receive the product restock email with the product you specified in the wish list event and test restock event.
