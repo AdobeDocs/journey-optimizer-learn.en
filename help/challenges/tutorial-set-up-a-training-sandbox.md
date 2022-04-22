@@ -41,14 +41,18 @@ Before you can begin to set up your training sandbox, you need to make sure that
 
 ### Create schemas and datasets
 
-1. In the left navigation go to *[!UICONTROL Data Management] > [!UICONTROL Schemas] > [!UICONTROL Create schema] > [!UICONTROL XDM Individual Profile])*
-2. Name the schema *[!DNL Luma Loyalty]*
-3. Create Luma Identifiers field group
-Add System Identifier (systemIdentifier) object to Luma Identifiers field group and CRM ID (crmId) and Loyalty ID (loyaltyId) fields within System Identifier object
-Add Demographic Details, Personal Contact Details, and Loyalty Details field groups
-Set Loyalty ID field as primary identity using Luma Loyalty ID namespace
-Set CRM ID field as an identity using Luma CRM ID namespace
-Enable for Profile and save
-Create dataset named “Luma Loyalty Data” from Luma Loyalty schema – Datasets > Create dataset > Create dataset from schema
-Once the dataset is created, scroll down in the right panel, enable error logs and partial ingestion, and drag and drop the “luma-loyalty.json” file to upload sample data to the dataset
-Check the batch status to confirm the file ingested correctly
+1. **Left navigation**:  Select *[!UICONTROL Data Management] > [!UICONTROL Schemas] > [!UICONTROL Create schema] > [!UICONTROL XDM Individual Profile])*
+2. **[!UICONTROL Add field groups] screen** (you can also add the field group on the [!UICONTROL Schemas] screen ): Select *[!UICONTROL Create new field group]* > [!UICONTROL Displayname]: [!DNL Luma Identifiers] > [!UICONTROL Add new fiedlgroup]
+3. [!UICONTROL Schemas] screen, in the *[!UICONTROL Composition]* section : 
+   1. Select the [!UICONTROL Schema]: Name the schema *[!DNL Luma Loyalty]*
+4. Add and modify [!UICONTROL Field groups]:
+   1. [!DNL Luma Identifiers] [!UICONTROL field group]:
+      1. Add [!DNL System Identifier) ([!DNL systemIdentifier]) object to [!DNL Luma Identifiers] [!UICONTROL field group] 
+      2. Within the [!DN System Identifier] object, add **[!DNL CRM ID] ([!DNL crmId])** and **[!DNL Loyalty ID] ([!DNL loyaltyId)]** fields
+   2. Add Demographic Details, Personal Contact Details, and Loyalty Details field groups
+5. Set Loyalty ID field as primary identity using Luma Loyalty ID namespace
+6. Set CRM ID field as an identity using Luma CRM ID namespace
+7. Enable for Profile and save
+8.  Create dataset named “Luma Loyalty Data” from Luma Loyalty schema – Datasets > Create dataset > Create dataset from schema
+9.  Once the dataset is created, scroll down in the right panel, enable error logs and partial ingestion, and drag and drop the “luma-loyalty.json” file to upload sample data to the dataset
+10. Check the batch status to confirm the file ingested correctly
