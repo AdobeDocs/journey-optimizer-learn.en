@@ -9,6 +9,7 @@ index: no
 # Tutorial - Configure a training sandbox {#challenges}
 
 + [Introduction and pre-requisites](/help/tutorial-configure-a-traing-sandbox/introduction-and-pre-requisites.md)
-+ Manual configuratio {#manual-configuration}
-+ [Challenge - Create a summer collection announcement](/help/challenges/summer-collection-announcement-challenge.md)
++ Manual configuration {#manual-configuration}
+  + [Manual data set-up](/help/tutorial-configure-a-traing-sandbox/manual-data-set-up.md)
+  + [Configure Events](/help/tutorial-configure-a-traing-sandbox/configure-events.md)
 + Automated configuration with a script {#automated-configuration}
