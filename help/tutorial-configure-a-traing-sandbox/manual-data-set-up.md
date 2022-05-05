@@ -26,17 +26,19 @@ Watch the video tutorial [Map identities](/help/set-up-data/map-identities.md) f
 
 -----
 
-## Create schemas and datasets
+## Create [!UICONTROL schemas] and[!UICONTROL datasets]
 
-In this step you will create five required schemas and ingest data.
+In this step you will create five schemas and ingest data from the JSON files you downloaded and modified (see [Introduction and pre-requisites](/help/tutorial-configure-a-traing-sandbox/introduction-and-pre-requisites.md) section for instructions).
 
-Watch the video tutorials [Create a schema](help/set-up-data/create-schema.md) and [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md) for more information on how to create schemas and datasets.
+For more guidance on how to create schemas and datasets, watch the video tutorials:
 
-### Luma Loyalty
+[Create a schema](help/set-up-data/create-schema.md) and [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md) .
 
-#### Create [!DNL Luma Loyalty] Schema
+### Create the first [!UICONTROL schema] and[!UICONTROL dataset]: [!DNL Luma Loyalty]
 
-1. Create the schema:
+#### Create [!DNL Luma Loyalty] [!UICONTROL Schema]
+
+1. Create the [!UICONTROL schema]:
    * **Left navigation**: *[!UICONTROL Data Management] > [!UICONTROL Schemas] > [!UICONTROL Create schema] > [!UICONTROL XDM Individual Profile])* (click cancel on the [!UICONTROL Add Field groups] screen)
    * Display name: **[!DNL Luma Loyalty]**
 2. Create new [!UICONTROL field group]: **[!DNL Luma Identifiers]**
@@ -45,16 +47,18 @@ Watch the video tutorials [Create a schema](help/set-up-data/create-schema.md) a
          Type: [!UICONTROL Object]
       * Within the [!DN System Identifier] object, add **[!DNL CRM ID] ([!DNL crmId])** and **[!DNL Loyalty ID] ([!DNL loyaltyId)]** fields, type [!UICONTROL String]
 3. Add existing [!UICONTROL field groups]:
-      * Demographic Details
-      * Personal Contact Details
-      * Loyalty Details
+      * [!UICONTROL Demographic Details]
+      * [!UICONTROL Personal Contact Details]
+      * [!UICONTROL Loyalty Details]
 4. Set Loyalty ID field as primary identity using Luma Loyalty ID namespace:
       * [! DNL Loyalty ID] > [!UICONTROL Field properties] > [!UICONTROL Identity]: Set [! DNLLoyalty ID] field as **[!UICONTROL primary identity]** using [!DNL Luma Loyalty ID] [!UICONTROL namespace] -> Apply
 5. Set [!DNL CRM ID] field as an identity using Luma CRM ID namespace
    * Enable the [!DNL Luma Loyalty] schema for [!UICONTROL Profile] -> Apply
 6. Save
 
-#### Create [!DNL Luma Loyalty] Dataset
+   ![xdm-profile-schema](/help/tutorial-configure-a-traing-sandbox/assets/xdm-profile-schema.jpg)
+
+#### Create [!DNL Luma Loyalty] [!UICONTROL Dataset]
  
 1. Create a dataset named *[!DNL Luma Loyalty Data]* from [!DNL Luma Loyalty schema]
    * [!UICONTROL Datasets] > [!UICONTROL Create dataset] > [!UICONTROL Create dataset from schema]
@@ -66,34 +70,42 @@ Watch the video tutorials [Create a schema](help/set-up-data/create-schema.md) a
 2. Once the dataset is created, scroll down in the right panel, enable [!UICONTROL Error diagnostics] and [!UICONTROL partial ingestion], and drag and drop the *[!DNL luma-loyalty.json]* file to upload sample data to the dataset
 3. Check the batch status to confirm the file ingested correctly. It might take a couple of minutes for the data to be ingested - 375 records should have been ingested.
 
-### Luma CRM
+### Create 4 more Schemas and Datasets...
 
-#### Create [!DNL Luma CRM] Schema
+#### Schemas
 
-1. Create Schema
-   * Display Name: *[!DNL Luma CRM]*
-2. Add the following existing field groups:
-   * [!DNL Luma Identifiers]
-   * [!UICONTROL Demographic Details]
-   * [!UICONTROL Personal Contact Details]
-3. Set identities:
-   * Luma Identifiers:
-     * Set *[!DNL CRM ID]* field as primary identity using *[!DNL Luma CRM ID]* namespace -> Apply
-   * Personal Contact Details
-     * Set *[!DNL mobilePhone.number]* as identities using the [!UICONTROL Phone] namespace -> Apply
-     * Set *[!DNL personalEmail.address]* as identities using the standard [!UICONTROL Email] and Phone namespace -> Apply
+**Schema:*[!DNL Luma CRM]***
 
-      ![xdm-profile-schema](/help/tutorial-configure-a-traing-sandbox/assets/xdm-profile-schema.jpg)
+1. Add the following existing field groups:
+* [!DNL Luma Identifiers]
+* [!UICONTROL Demographic Details]
+* [!UICONTROL Personal Contact Details]
 
-4. Enable the [!DNL XDM Profile] schema for Profile
-5. Save
+2. Set identities:
+* [!UICONTROL Primary indentity]:
+   * [!DNL Luma Identifiers]: *[!DNL CRM ID]*, using *[!DNL Luma CRM ID]* namespace
+* [!UICONTROL Indentity (not primary!)]
+  *  [!UICONTROL Personal Contact Details]:
+   * *[!DNL mobilePhone.number]*
+      [!UICONTROL Identity namespace]: [!UICONTROL Phone]
+   * *[!DNL personalEmail.address]* 
+      [!UICONTROL Identity namespace]:[!UICONTROL Phone]
+3. Enable the [!DNL XDM Profile] schema for Profile
 
-##### Create [!DNL Luma CRM Data] Dataset
 
-1. Create dataset:
-   Name *[!DNL Luma CRM Data]* from *[!DNL Luma CRM schema]*
-2. Once the dataset is created, scroll down in the right panel, enable error logs and partial ingestion, and drag and drop the *[!DNL luma-crm.json]* file to upload sample data to the dataset
-3. Check the batch status to confirm the file ingested correctly - 500 records should have been ingested.
+
+#### [!UICONTROL Datasets]**
+
+Create the following [!UICONTROL Datasets]:
+
+| Dataset Name                         | From Schema                         | File to ingest              | Records |
+| -------------------------------------| ----------------------------------- | ----------------------------| ------- |
+| *[!DNL Luma Loyalty Data]* (done)    | *[!DNL Luma Loyalty schema]*        |  *[!DNL luma-loyalty.json]* | 375     |
+| [!DNL Luma CRM Data]                 | [!DNL Luma CRM schema]              | [!DNL luma-crm.json]        | 500     |
+| [!DNL Luma Products Data]            | [!DNL Luma Products]                |  [!DNL luma-products.json]  | 92      |
+| [!DNL Luma Product Interactions Data]| [!DNL Luma Product Interactions]    |   [!DNL luma-crm.json]      | 500     |
+| [!DNL Luma Product Inventory Events] | [!DNL Luma Product Inventory Events]|  [!DNL luma-crm.json]       | 500     |
+
 
 ### Luma Products
 
