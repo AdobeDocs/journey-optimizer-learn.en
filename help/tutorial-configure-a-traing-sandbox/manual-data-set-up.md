@@ -13,6 +13,8 @@ In this step you will create identity the required identity namespaces and five 
 
 ## Create identity namespaces
 
+In this step you will create three new namespaces:
+
 1. In the left navigation go to *[!UICONTROL Customer] > [!UICONTROL Identities] > [!UICONTROL Create identity namespace]*
 1. Create the following identity namespaces:
 
@@ -26,19 +28,16 @@ Watch the video tutorial [Map identities](/help/set-up-data/map-identities.md) f
 
 -----
 
-## Create [!UICONTROL schemas] and[!UICONTROL datasets]
+## Create [!UICONTROL Schemas]
 
-In this step you will create five schemas and ingest data from the JSON files you downloaded and modified (see [Introduction and pre-requisites](/help/tutorial-configure-a-traing-sandbox/introduction-and-pre-requisites.md) section for instructions).
+In this step you will create five schemas.
 
-For more guidance on how to create schemas and datasets, watch the video tutorials:
+> [!TIP]
+> For more guidance on how to create [!UICONTROL schemas], watch the video tutorial: [Create a schema](help/set-up-data/create-schema.md).
 
-[Create a schema](help/set-up-data/create-schema.md) and [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md) .
+Follow the step by step instructions to create the first [!UICONTROL schema]:
 
-### Create the first [!UICONTROL schema] and[!UICONTROL dataset]: [!DNL Luma Loyalty]
-
-#### Create [!DNL Luma Loyalty] [!UICONTROL Schema]
-
-1. Create the [!UICONTROL schema]:
+1. Create the [!UICONTROL schema]: [!DNL Luma Loyalty]
    * **Left navigation**: *[!UICONTROL Data Management] > [!UICONTROL Schemas] > [!UICONTROL Create schema] > [!UICONTROL XDM Individual Profile])* (click cancel on the [!UICONTROL Add Field groups] screen)
    * Display name: **[!DNL Luma Loyalty]**
 2. Create new [!UICONTROL field group]: **[!DNL Luma Identifiers]**
@@ -56,21 +55,37 @@ For more guidance on how to create schemas and datasets, watch the video tutoria
    * Enable the [!DNL Luma Loyalty] schema for [!UICONTROL Profile] -> Apply
 6. Save
 
-   ![xdm-profile-schema](/help/tutorial-configure-a-traing-sandbox/assets/xdm-profile-schema.jpg)
+Next, create the fours additional [!UICONTROL schemas]:
 
-#### Create [!DNL Luma Loyalty] [!UICONTROL Dataset]
- 
+
+### Create [!UICONTROL Datasets]
+
+In this step you will create five [!UICONTROL datasets] based on the [!UICONTROL schemas] you created in the previous step. Once the datasets have been created you will ingest data from the JSON files you downloaded and modified (see [Introduction and pre-requisites](/help/tutorial-configure-a-traing-sandbox/introduction-and-pre-requisites.md) section for instructions).
+
+> [!TIP]
+> For more guidance on how to create [!UICONTROL datasets], watch the video tutorial: [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md).
+
+Follow the step by step instructions to create the first [!UICONTROL schema]: 
+
 1. Create a dataset named *[!DNL Luma Loyalty Data]* from [!DNL Luma Loyalty schema]
-   * [!UICONTROL Datasets] > [!UICONTROL Create dataset] > [!UICONTROL Create dataset from schema]
+   * From the left naviagtion select [!UICONTROL Datasets] > [!UICONTROL Create dataset] > [!UICONTROL Create dataset from schema]
    * Select *[!DNLLuma Loyalty]*
    * Click [!UICONTROL Next]
    * Name: [!DNL Luma Loyalty Data]
    * Click [!UICONTROL Finish]
   
-2. Once the dataset is created, scroll down in the right panel, enable [!UICONTROL Error diagnostics] and [!UICONTROL partial ingestion], and drag and drop the *[!DNL luma-loyalty.json]* file to upload sample data to the dataset
+2. Once the [!UICONTROL dataset], is created, scroll down in the right panel, enable [!UICONTROL Error diagnostics] and [!UICONTROL partial ingestion], and drag and drop the *[!DNL luma-loyalty.json]* file to upload sample data to the dataset
 3. Check the batch status to confirm the file ingested correctly. It might take a couple of minutes for the data to be ingested - 375 records should have been ingested.
 
-### Create 4 more Schemas and Datasets...
+Next, create the fours additional [!UICONTROL datasets]:
+
+| Dataset Name                         | From Schema                         | File to ingest              | Records |
+| -------------------------------------| ----------------------------------- | ----------------------------| ------- |
+| *[!DNL Luma Loyalty Data]* (done)    | *[!DNL Luma Loyalty schema]*        |  *[!DNL luma-loyalty.json]* | 375     |
+| [!DNL Luma CRM Data]                 | [!DNL Luma CRM schema]              | [!DNL luma-crm.json]        | 500     |
+| [!DNL Luma Products Data]            | [!DNL Luma Products]                |  [!DNL luma-products.json]  | 92      |
+| [!DNL Luma Product Interactions Data]| [!DNL Luma Product Interactions]    |   [!DNL luma-crm.json]      | 500     |
+| [!DNL Luma Product Inventory Events] | [!DNL Luma Product Inventory Events]|  [!DNL luma-crm.json]       | 500     |
 
 #### Schemas
 
@@ -94,17 +109,7 @@ For more guidance on how to create schemas and datasets, watch the video tutoria
 
 
 
-#### [!UICONTROL Datasets]**
 
-Create the following [!UICONTROL Datasets]:
-
-| Dataset Name                         | From Schema                         | File to ingest              | Records |
-| -------------------------------------| ----------------------------------- | ----------------------------| ------- |
-| *[!DNL Luma Loyalty Data]* (done)    | *[!DNL Luma Loyalty schema]*        |  *[!DNL luma-loyalty.json]* | 375     |
-| [!DNL Luma CRM Data]                 | [!DNL Luma CRM schema]              | [!DNL luma-crm.json]        | 500     |
-| [!DNL Luma Products Data]            | [!DNL Luma Products]                |  [!DNL luma-products.json]  | 92      |
-| [!DNL Luma Product Interactions Data]| [!DNL Luma Product Interactions]    |   [!DNL luma-crm.json]      | 500     |
-| [!DNL Luma Product Inventory Events] | [!DNL Luma Product Inventory Events]|  [!DNL luma-crm.json]       | 500     |
 
 
 ### Luma Products
