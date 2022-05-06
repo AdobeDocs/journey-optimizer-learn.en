@@ -57,7 +57,3 @@ This user guide contains videos and tutorials on features and capabilities of Ad
     <p>
   </td>
 </table>
-
-
-
-

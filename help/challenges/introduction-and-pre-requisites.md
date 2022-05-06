@@ -10,11 +10,26 @@ level: Beginner
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
-Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. Each challenge in this section addresses a unique use case.
+Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. Each challenge in this section addresses a unique use case that you will implement. 
 
-The target audience (persona), as well as the required skills are listed at the beginning of each challenge
+The target audience (persona), as well as the required skills are listed at the beginning of each challenge.
 
-To develop the knowledge and skills needed for the following challenges, complete the [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) course.
+## Prerequisites
+
+Complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) 
+
+### System requirements
+
+* Access to a Journey Optimizer sandbox
+  * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](/help/tutorial-set-up-training-sandbox/overview.md) for instructions.
+  *  You need the following access rights:
+     *  *Journey Manager* or *Journey Administrator* rights
+     *  View test profiles and their attributes 
+* AEM Assets Essentials must be provisioned for your instance
+
+### Required actions
+
+Before you can get started you should [download all Luma assets](/help/challenges/assets/email-assets/luma-assets.zip).
 
 ## The Story
 
@@ -97,17 +112,3 @@ You have been hired to implement the Luma marketing and retention campaigns in J
   </td>
   </tr>
 </table>
-
-
-## Do you have everything you need?
-
-### System requirements
-
-* Access to a Journey Optimizer instance
-* AEM Assets Essentials must be provisioned for your instance
-* It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](/help/tutorial-set-up-training-sandbox/overview.md) for instructions.
-  * Make sure you have either *Journey Manager* or *Journey Administrator* rights
-
-### Required actions
-
-Before you can get started you should [download all Luma assets](/help/challenges/assets/email-assets/luma-assets.zip).
