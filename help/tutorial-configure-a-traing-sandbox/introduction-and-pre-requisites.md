@@ -3,6 +3,7 @@ title: Introduction and pre-requisites
 description: Learn how to configure a sandbox for training purposes 
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
+kt: 9382
 role: Admin
 level: Beginner
 ---

@@ -3,20 +3,23 @@ title: Manual Data Set-Up
 description: Learn how to configure a sandbox for training purposes 
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
+kt: 9382
 role: Admin
 level: Beginner
 ---
 
 # Manual Data set-up
 
-In this step you will create identity the required identity namespaces and five schemas and the respective data sets. It is important that you follow the order given in this tutorial.
+In this step you will create the required identity namespaces and five schemas and the respective data sets. It is important that you follow the order given in this tutorial.
 
 ## Create identity namespaces
 
-In this step you will create three new namespaces:
+
+> [!TIP]
+> Watch the video tutorial [Map identities](/help/set-up-data/map-identities.md) for more information on how to create identity namespaces.
 
 1. In the left navigation go to *[!UICONTROL Customer] > [!UICONTROL Identities] > [!UICONTROL Create identity namespace]*
-1. Create the following identity namespaces:
+2. Create the following identity namespaces:
 
     | Display Name | Identity Symbol | Type |
     |---|---|---|
@@ -24,7 +27,8 @@ In this step you will create three new namespaces:
     | [!DNL Luma CRM ID] | [!DNL lumaCRM] | [!DNL Cross-device ID] |
     | [!DNL Luma Product SKU] | [!DNL lumaProduct] | [!DNL Non-people identifier] |
 
-Watch the video tutorial [Map identities](/help/set-up-data/map-identities.md) for more information on how to create identity namespaces.
+> [!TIP]
+> Watch the video tutorial [Map identities](/help/set-up-data/map-identities.md) for more information on how to create identity namespaces.
 
 -----
 
