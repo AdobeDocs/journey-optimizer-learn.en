@@ -42,22 +42,26 @@ In this step you will create five schemas.
 Follow the step by step instructions to create the first [!UICONTROL schema]:
 
 1. Create the [!UICONTROL schema]: [!DNL Luma Loyalty]
-   * **Left navigation**: *[!UICONTROL Data Management] > [!UICONTROL Schemas] > [!UICONTROL Create schema] > [!UICONTROL XDM Individual Profile])* (click cancel on the [!UICONTROL Add Field groups] screen)
-   * Display name: **[!DNL Luma Loyalty]**
-2. Create new [!UICONTROL field group]: **[!DNL Luma Identifiers]**
-      * Add [!DNL System Identifier] field to [!DNL Luma Identifiers] [!UICONTROL field group]
+   * **Left navigation**: *[!UICONTROL Data Management] > [!UICONTROL Schemas] > [!UICONTROL Create schema] > [!UICONTROL XDM Individual Profile])* 
+   * Add the display name: **[!DNL Luma Loyalty]**
+2. Create new [!UICONTROL field group]: 
+   1. In the middle [!UICONTROL Compostion] section: [!UICONTROL Field groups] > [!UICONTROL Add]
+   2. On the [!Add field group screen]: Select the radio button *[!UICONTROL Create new field group]* 
+   3. Add the [!UICONTROL Display name]: **[!DNL Luma Identifiers]**
+3. Add a new field to [!DNL Luma Identifiers] [!UICONTROL field group]
+   1. 
          Fieldname:[!DNL systemIdentifier]
          Type: [!UICONTROL Object]
       * Within the [!DN System Identifier] object, add **[!DNL CRM ID] ([!DNL crmId])** and **[!DNL Loyalty ID] ([!DNL loyaltyId)]** fields, type [!UICONTROL String]
-3. Add existing [!UICONTROL field groups]:
+4. Add existing [!UICONTROL field groups]:
       * [!UICONTROL Demographic Details]
       * [!UICONTROL Personal Contact Details]
       * [!UICONTROL Loyalty Details]
-4. Set Loyalty ID field as primary identity using Luma Loyalty ID namespace:
+5. Set Loyalty ID field as primary identity using Luma Loyalty ID namespace:
       * [! DNL Loyalty ID] > [!UICONTROL Field properties] > [!UICONTROL Identity]: Set [! DNLLoyalty ID] field as **[!UICONTROL primary identity]** using [!DNL Luma Loyalty ID] [!UICONTROL namespace] -> Apply
-5. Set [!DNL CRM ID] field as an identity using Luma CRM ID namespace
+6. Set [!DNL CRM ID] field as an identity using Luma CRM ID namespace
    * Enable the [!DNL Luma Loyalty] schema for [!UICONTROL Profile] -> Apply
-6. Save
+7. Save
 
 Next, create the fours additional [!UICONTROL schemas]:
 
