@@ -8,8 +8,8 @@ index: no
 
 # Tutorial - Configure a training sandbox {#challenges}
 
-+ [Introduction and pre-requisites](/help/tutorial-configure-a-traing-sandbox/introduction-and-pre-requisites.md)
++ [Introduction and pre-requisites](/help/tutorial-configure-a-training-sandbox/introduction-and-pre-requisites.md)
 + Manual configuration {#manual-configuration}
-  + [Manual data set-up](/help/tutorial-configure-a-traing-sandbox/manual-data-set-up.md)
-  + [Configure Events](/help/tutorial-configure-a-traing-sandbox/configure-events.md)
+  + [Manual data set-up](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
+  + [Configure Events](/help/tutorial-configure-a-training-sandbox/configure-events.md)
 + Automated configuration with a script {#automated-configuration}

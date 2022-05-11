@@ -29,13 +29,15 @@ Complete the course [Getting started with Journey Optimizer for Journey Manager
 
 ### Required actions
 
-Before you can get started you should [download all Luma assets](/help/challenges/assets/email-assets/luma-assets.zip).
+* Before you can get started, download the [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) file. It contains all assets required for to complete the challenges
+
+* From your downloads folder, move the `luma-assets.zip` file to the desired location on your computer, and unzip it.
 
 ## The Story
 
-Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. Luma uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
+Luma is a fictional athletic apparel company, with stores in multiple countries, an online presence with a website, and mobile apps. Luma uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
 
-You have been hired to implement the Luma marketing and retention campaigns in Journey optimizer.
+Luma is looking to promote its latest apparel and gear collection and to drive sales for existing customers. You have been hired to implement the Luma marketing and retention campaigns in Journey Optimizer.
 
 ## Your Challenges
 
