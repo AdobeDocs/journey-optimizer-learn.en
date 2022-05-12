@@ -189,92 +189,18 @@ This is what the schema should look like:
    |`productURL`|`Product URL`| [!UICONTROL String]|
    |`stockQuantity`|`Stock Quantity`| [!UICONTROL String]|
 9.  Add the **[!UICONTROL Display name]** `Luma Products` to the schema
-10. Save the schema
-
+10. Select [!UICONTROL Save] 
+    
 --------
 
 ## Step 4: Create three additional schemas
 
-Create the following fours additional [!UICONTROL schemas]:
+Create the following three additional [!UICONTROL schemas]:
 
-
-
-
-### Luma Products
-
-#### Create [!DNL Luma Products] Schema
-
-1. Schemas > Create schema > Browse all schema types> Create new class
-   * Display name: *[!DNL Luma Products] 
-   * Assign class
-2. Name the schema “Luma Products”
-3. Create a new [!UICONTROL field group]
-   * Display name: *[!DNL Luma Product Info]* 
-   * Add [!UICONTROL field group]
-4. Add a *[!DNL Product (product)]* object to the [!UICONTROL field group], and within the Product object add the following fields:
-
-
-   * [!DNL SKU (string)]
-   * [!DNL name (string)]
-   * [!DNL category (string)]
-   * [!DNL color (string)]
-   * [!DNL size (string)]
-   * [!DNL price (double)]
-   * [!DNL description (string)]
-   * [!DNL productImageURL (string)]
-   * [!DNL productURL (string)]
-   * [!DNL stockQuantity (long)]
-5. Save schema
-
-##### Create [!Luma Products Dataset]
-
-1. Create dataset named *[!DNL Luma Products Data] from *[!DNL Luma Products] schema
-   * [!UICONTROL Datasets] > [!UICONTROL Create dataset] > [!UICONTROL Create dataset from schema]
-2. Once the dataset is created, scroll down in the right panel, enable [!UICONTROL error logs] and [!UICONTROL partial ingestion], and drag and drop the *[!DNL luma-products.json]* file to upload sample data to the dataset
-3. Check the [!UICONTROL batch status] to confirm the file ingested correctly - 92 records should have been ingested.
-
-### Luma Product Interactions
-
-#### Create [!DNL Luma Products Interactions] Schema
-
-1. [!UICONTROL Schemas] > [!UICONTROL Create schema] > [!UICONTROL XDM Experience Event]
-   * [!UICONTROL Display Name]: *[!DNL Luma Product Interactions]*
-2. Add the following field groups:
-   * [!DNL Luma Identifiers]
-   * [!UICONTROL Demographic Details]
-   * [!UICONTROL Personal Contact Details]
-3. Set [!DNL CRM ID] field as [!UICONTROL primary identity} using [!DNL Luma CRM ID] [!UICONTROL namespace]
-4. Set *[!DNL personalEmail.address]* and *[!DNL mobilePhone.number]* as [!UICONTROL  identities] using the standard [!UICONTROL Email] and [!UICONTROL Phone] [!UICONTROL namespaces], respectively.
-5. [!UICONTROL Enable for Profile] and save
-
-##### Create [!DNL Luma Product Interactions Data] Dataset
-
-1. Create dataset named *[!DNL Luma Product Interactions Data] from *[!DNL Luma Product Interacticons] schema
-   * [!UICONTROL Datasets] > [!UICONTROL Create dataset] > [!UICONTROL Create dataset from schema]
-2. Once the dataset is created, scroll down in the right panel, enable [!UICONTROL error logs] and [!UICONTROL partial ingestion], and drag and drop the *[!DNL luma-crm.json]* file to upload sample data to the dataset
-3. Check the [!UICONTROL batch status] to confirm the file ingested correctly - 500 records should have been ingested.
-
-### Luma Product Inventory Events
-
-#### Create [!DNL Luma Product Inventory Events] Schema
-
-1. [!UICONTROL Schemas] > [!UICONTROL Create schema] > [!UICONTROL Browse] > [!UICONTROL Create new class]
-   * [!UICONTROL Display Name]: *[!DNL Luma Product Inventory Events]*
-2. Add the following field groups:
-   * [!DNL Luma Identifiers]
-   * [!UICONTROL Demographic Details]
-   * [!UICONTROL Personal Contact Details]
-3. Set [!DNL CRM ID] field as [!UICONTROL primary identity} using [!DNL Luma CRM ID] [!UICONTROL namespace]
-4. Set *[!DNL personalEmail.address]* and *[!DNL mobilePhone.number]* as [!UICONTROL  identities] using the standard [!UICONTROL Email] and [!UICONTROL Phone] [!UICONTROL namespaces], respectively.
-5. [!UICONTROL Enable for Profile] and save
-
-##### Create [!Luma Product Inventory Events] Dataset
-
-1. Create dataset named *[!DNL Luma Product Inventory Events] from *[!DNL Luma Product Inventory Events] schema
-   * [!UICONTROL Datasets] > [!UICONTROL Create dataset] > [!UICONTROL Create dataset from schema]
-2. Once the dataset is created, scroll down in the right panel, enable [!UICONTROL error logs] and [!UICONTROL partial ingestion], and drag and drop the *[!DNL luma-crm.json]* file to upload sample data to the dataset
-3. Check the [!UICONTROL batch status] to confirm the file ingested correctly - 500 records should have been ingested.
-
-
-
-
+|**[!UICONTROL Schema]/[!UICONTROL Display  Name]**| Luma CRM| Luma Product Interactions | Luma Product Inventory Events|
+|---| ------- | ---- | ----- |
+| **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|[!UICONTROL Create new class]:<br>`Luma Product Inventory Events`|
+| **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Luma Identifiers<br>Demographic Details<br>Personal Contact Details |
+| **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>Luma CRM Id| systemIdentifier.crmId<br>Luma CRM Id|systemIdentifier.crmId<br>Luma CRM Id|
+| **[!UICONTROL Secondary Indentity]**          | personalEmail.address (Email)<br>mobilePhone.number (Phone)         | personalEmail.address (Email)<br>mobilePhone.number (Phone)| personalEmail.address (Email)<br>mobilePhone.number (Phone)|
+| **[!UICONTROL Enable for profile]**| yes | yes | yes  |
