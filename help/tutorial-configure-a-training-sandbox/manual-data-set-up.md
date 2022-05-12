@@ -197,10 +197,10 @@ This is what the schema should look like:
 
 Create the following three additional [!UICONTROL schemas]:
 
-|**[!UICONTROL Schema]/[!UICONTROL Display  Name]**| Luma CRM| Luma Product Interactions | Luma Product Inventory Events|
-|---| ------- | ---- | ----- |
-| **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|[!UICONTROL Create new class]:<br>`Luma Product Inventory Events`|
-| **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Luma Identifiers<br>Demographic Details<br>Personal Contact Details |
-| **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>Luma CRM Id| systemIdentifier.crmId<br>Luma CRM Id|systemIdentifier.crmId<br>Luma CRM Id|
-| **[!UICONTROL Secondary Indentity]**          | personalEmail.address (Email)<br>mobilePhone.number (Phone)         | personalEmail.address (Email)<br>mobilePhone.number (Phone)| personalEmail.address (Email)<br>mobilePhone.number (Phone)|
-| **[!UICONTROL Enable for profile]**| yes | yes | yes  |
+|| Luma CRM| Luma Product Interactions | Luma Product Inventory Events|
+|  ---| ------- | ---- | ----- |
+|   **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|[!UICONTROL Create new class]:<br>`Luma Product Inventory Events`|
+|   **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Luma Identifiers<br>Demographic Details<br>Personal Contact Details |
+|   **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>Luma CRM Id| systemIdentifier.crmId<br>Luma CRM Id|systemIdentifier.crmId<br>Luma CRM Id|
+|   **[!UICONTROL Secondary Indentity]**          | personalEmail.address (Email)<br>mobilePhone.number (Phone)         | personalEmail.address (Email)<br>mobilePhone.number (Phone)| personalEmail.address (Email)<br>mobilePhone.number (Phone)|
+|   **[!UICONTROL Enable for profile]**| yes | yes | yes  |
