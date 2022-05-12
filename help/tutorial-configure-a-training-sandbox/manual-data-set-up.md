@@ -46,7 +46,7 @@ Now create two more namespaces following the same steps:
 
 -----
 
-## Step 2: Create [!UICONTROL Schemas]
+## Step 2: Create [!DNL Luma Loyalty] [!UICONTROL Schema]
 
 In this step you will you will model Luma’s data into schemas.
 
@@ -63,7 +63,7 @@ Let's start by creating the [!DNL Luma Loyalty] schema:
 
   ![Create schema](assets/loyaltyCreateSchema.png)
 
-#### Add existing field groups
+### Add existing field groups
 
 Next you will be prompted to add field groups to the schema. All fields must be added to schemas using groups. You will be adding existing field groups and you will also need to create a new field group.
 
@@ -86,7 +86,7 @@ Next you will be prompted to add field groups to the schema. All fields must be 
 2. Enter `Luma Loyalty` as the [!UICONTROL Display name]
 
 
-#### Create a new [!UICONTROL field group]
+### Create a new [!UICONTROL field group]
 
 To help ensure consistency across the schemas,we will manage all system identifiers in a single group:
 
@@ -98,7 +98,7 @@ To help ensure consistency across the schemas,we will manage all system identifi
 
 ![Create new field group](assets/addnewfieldgroup.png)
 
-#### Add fields to a [!UICONTROL field group]
+#### Add fields to the new [!UICONTROL field group]
 
 The new, empty field group is added to your schema. With the + buttons you can add new fields to any location in the hierarchy. In our case we want to add fields at the root level:
    
@@ -122,7 +122,7 @@ Now add two fields under the `systemIdentifier` object:
 
 ![fields](./assets/add_fields.png)
 
-#### Set identities
+### Set identities
 
 We have the namespace and the Luma Loyalty schema configures. Before we can ingest data, we is to label the identity fields. Each schema used with Real-time Customer Profile is required to have a primary identity specified. And each record ingested must have a value for that field.
 
@@ -146,8 +146,7 @@ From the `Luma Loyalty` schema
     5. Select **[!UICONTROL Apply]**
   
 
-
-#### Enable for profile and save
+### Enable for profile and save the schema
 
 1. Select the top node of the schema
 2. In the (!UICONTROL Field properties) enable [!UICONTROL Profile]
@@ -157,11 +156,48 @@ This is what the schema should look like:
 ![Luma Loyalty schema](assets/lumaloyaltyschema.png)
 
 3. Select **[!UICONTROL Save]**
-
-Next, create the following fours additional [!UICONTROL schemas]:
-
-
+   
 -----
+
+## Step 3: Create [!DNL Luma Products] [!UICONTROL Schema]
+
+1. Go to [!UICONTROL DATA MANAGEMENT] -> **[!UICONTROL Schemas]** in the left navigation
+1. Select the **[!UICONTROL Create Schema]** button on the top right
+1. From the dropdown menu, select **[!UICONTROL Browse all schema types]**, we will be creating a new type.
+2. Select **[!UICONTROLCreate new class]
+3. Add the display name: `Luma Products` 
+4. Assign class
+6. Create a new [!UICONTROL field group]
+   * Display name: `Luma Product Info`
+7. Add the following field to the Luma Product Info field group
+   * Field name: `product`
+   * Display name: `Product` 
+   * Type: [!UICONTROL Object] 
+   * Field group: [!DNL Luma Product info] 
+8. Add the following fields to the **[!DNL Product]** object: 
+   
+     [!UICONTROL Fieldname] |[!UICONTROL Display Name]|[!UICONTROL Type]|
+   |-------------|-----------|----------|
+   | `SKU`|`SKU`|[!UICONTROL String]|
+   | `name`| `Name`|[!UICONTROL String]|
+   | `category`| `Category`|[!UICONTROL String]|
+   |`color`|`Color`|[!UICONTROL String]|
+   |`size`|`Size`| [!UICONTROL String]|
+   |`price`|`Price`| [!UICONTROL double]|
+   |`description`|`Description`|[!UICONTROL String]|
+   |`productImageURL`|`Product Image URL`|[!UICONTROL String]|
+   |`productURL`|`Product URL`| [!UICONTROL String]|
+   |`stockQuantity`|`Stock Quantity`| [!UICONTROL String]|
+9.  Add the **[!UICONTROL Display name]** `Luma Products` to the schema
+10. Save the schema
+
+--------
+
+## Step 4: Create three additional schemas
+
+Create the following fours additional [!UICONTROL schemas]:
+
+
 
 
 ### Luma Products
@@ -176,6 +212,8 @@ Next, create the following fours additional [!UICONTROL schemas]:
    * Display name: *[!DNL Luma Product Info]* 
    * Add [!UICONTROL field group]
 4. Add a *[!DNL Product (product)]* object to the [!UICONTROL field group], and within the Product object add the following fields:
+
+
    * [!DNL SKU (string)]
    * [!DNL name (string)]
    * [!DNL category (string)]
@@ -237,56 +275,6 @@ Next, create the following fours additional [!UICONTROL schemas]:
 2. Once the dataset is created, scroll down in the right panel, enable [!UICONTROL error logs] and [!UICONTROL partial ingestion], and drag and drop the *[!DNL luma-crm.json]* file to upload sample data to the dataset
 3. Check the [!UICONTROL batch status] to confirm the file ingested correctly - 500 records should have been ingested.
 
-
-
-### Create [!UICONTROL Datasets]
-
-In this step you will create five [!UICONTROL datasets] based on the [!UICONTROL schemas] you created in the previous step. Once the datasets have been created you will ingest data from the JSON files you downloaded and modified (see [Introduction and pre-requisites](/help/tutorial-configure-a-training-sandbox/introduction-and-pre-requisites.md) section for instructions).
-
-> [!TIP]
-> For more guidance on how to create [!UICONTROL datasets], watch the video tutorial: [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md).
-
-Follow the step by step instructions to create the first [!UICONTROL schema]: 
-
-1. Create a dataset named *[!DNL Luma Loyalty Data]* from [!DNL Luma Loyalty schema]
-   * From the left navigation select [!UICONTROL Datasets] > [!UICONTROL Create dataset] > [!UICONTROL Create dataset from schema]
-   * Select *[!DNLLuma Loyalty]*
-   * Click [!UICONTROL Next]
-   * Name: [!DNL Luma Loyalty Data]
-   * Click [!UICONTROL Finish]
-  
-2. Once the [!UICONTROL dataset], is created, scroll down in the right panel, enable [!UICONTROL Error diagnostics] and [!UICONTROL partial ingestion], and drag and drop the *[!DNL luma-loyalty.json]* file to upload sample data to the dataset
-3. Check the batch status to confirm the file ingested correctly. It might take a couple of minutes for the data to be ingested - 375 records should have been ingested.
-
-Next, create the fours additional [!UICONTROL datasets]:
-
-| Dataset Name                         | From Schema                         | File to ingest              | Records |
-| -------------------------------------| ----------------------------------- | ----------------------------| ------- |
-| *[!DNL Luma Loyalty Data]* (done)    | *[!DNL Luma Loyalty schema]*        |  *[!DNL luma-loyalty.json]* | 375     |
-| [!DNL Luma CRM Data]                 | [!DNL Luma CRM schema]              | [!DNL luma-crm.json]        | 500     |
-| [!DNL Luma Products Data]            | [!DNL Luma Products]                |  [!DNL luma-products.json]  | 92      |
-| [!DNL Luma Product Interactions Data]| [!DNL Luma Product Interactions]    |   [!DNL luma-crm.json]      | 500     |
-| [!DNL Luma Product Inventory Events] | [!DNL Luma Product Inventory Events]|  [!DNL luma-crm.json]       | 500     |
-
-#### Schemas
-
-**Schema:*[!DNL Luma CRM]***
-
-1. Add the following existing field groups:
-* [!DNL Luma Identifiers]
-* [!UICONTROL Demographic Details]
-* [!UICONTROL Personal Contact Details]
-
-2. Set identities:
-* [!UICONTROL Primary indentity]:
-   * [!DNL Luma Identifiers]: *[!DNL CRM ID]*, using *[!DNL Luma CRM ID]* namespace
-* [!UICONTROL Indentity (not primary!)]
-  *  [!UICONTROL Personal Contact Details]:
-   * *[!DNL mobilePhone.number]*
-      [!UICONTROL Identity namespace]: [!UICONTROL Phone]
-   * *[!DNL personalEmail.address]* 
-      [!UICONTROL Identity namespace]:[!UICONTROL Phone]
-3. Enable the [!DNL XDM Profile] schema for Profile
 
 
 
