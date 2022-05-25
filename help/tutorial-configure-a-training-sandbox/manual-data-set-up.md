@@ -81,7 +81,7 @@ Next you are prompted to add field groups to the schema. All fields must be adde
    a. **[!UICONTROL Demographic Details]** for basic customer data like name and birthdate
    b. **[!UICONTROL Personal Contact Details]** for basic contact details like email address and phone number
    c.  **[!UICONTROL Loyalty Details]** for the loyalty details such as points, joined date, or status. The loyalty field group is far down the list, so it is easiest to search for it.
-  
+
 2. Select **[!UICONTROL Add field group]** to add all three field groups to the schema.
 
    ![Select standard field groups](assets/addstandardFieldGroups.png)
@@ -177,7 +177,8 @@ The schema should look like this:
    * Field name: `product`
    * Display name: `Product` 
    * Type: [!UICONTROL Object] 
-   * Field group: [!DNL Luma Product info] 
+   * Field group: [!DNL Luma Product info]
+8. Select[!UICONTROL Apply]
 8. Add the following fields to the **[!DNL Product]** object: 
    
      [!UICONTROL Fieldname] |[!UICONTROL Display Name]|[!UICONTROL Type]|
@@ -187,7 +188,7 @@ The schema should look like this:
    | `category`| `Category`|[!UICONTROL String]|
    |`color`|`Color`|[!UICONTROL String]|
    |`size`|`Size`| [!UICONTROL String]|
-   |`price`|`Price`| [!UICONTROL double]|
+   |`price`|`Price`| [!UICONTROL Double]|
    |`description`|`Description`|[!UICONTROL String]|
    |`productImageURL`|`Product Image URL`|[!UICONTROL String]|
    |`productURL`|`Product URL`| [!UICONTROL String]|
@@ -195,7 +196,7 @@ The schema should look like this:
 9.  Add the **[!UICONTROL Display name]** `Luma Products` to the schema
 10. Select [!UICONTROL Save] 
 
-## Step 4: Create [!DNL Luma Product Inventory Event Schema [!UICONTROL Schema]
+## Step 4: Create [!DNL Luma Product Inventory Event] [!UICONTROL Schema]
 
 1. Go to [!UICONTROL DATA MANAGEMENT] -> **[!UICONTROL Schemas]** in the left navigation
 1. Select the **[!UICONTROL Create Schema]** button on the top right
@@ -247,10 +248,16 @@ The schema should look like this:
 
 Create the following additional [!UICONTROL schemas]:
 
-||[!DNL Luma CRM]| [!DNL Luma Product Interactions] |
+|[!UICONTROL Display name|[!DNL Luma CRM]| [!DNL Luma Product Interactions] |
 |  ---| ------- | ---- | 
 |   **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|
-|   **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Luma Identifiers<br>Demographic Details<br>Personal Contact Details |
-|   **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>Luma CRM Id| systemIdentifier.crmId<br>Luma CRM Id|
-|   **[!UICONTROL Secondary Identity]** | personalEmail.address (Email)<br>mobilePhone.number (Phone)| personalEmail.address (Email)<br>mobilePhone.number (Phone)|
+|   **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Identity Map<br>Commerce Details|
+|**[!UICONTROL Relationship]**||*[!DNL productListItems.SKU]*:<br> Reference schema *[!DNL Luma Products]* <br>[!DNL Reference identiy namespace] *[!DNL Luma Product]* schema 
+|   **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(Luma CRM Id)| |
+|   **[!UICONTROL Secondary Identity][!UICONTROL namespace]** | personalEmail.address (Email)<br>mobilePhone.number (Phone)| |
 |   **[!UICONTROL Enable for profile]**| yes | yes |
+
+## Next...
+
+2. [Create data sets and ingest data.](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
+3. [Configure events](/help/tutorial-configure-a-training-sandbox/configure-events.md)

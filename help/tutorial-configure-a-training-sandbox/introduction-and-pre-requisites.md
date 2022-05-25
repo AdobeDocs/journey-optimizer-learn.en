@@ -53,6 +53,10 @@ During the data set-up you will need to configure the required identity namespac
 
 The event set up section will walk you trough setting up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md).
 
+## Let's get started
+
+1. [Manual data set up](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
+
 ## Additional resources
 
 * [Map identities](/help/set-up-data/map-identities.md)
