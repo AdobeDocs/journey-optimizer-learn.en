@@ -203,16 +203,17 @@ The schema should look like this:
 1. From the dropdown menu, select **[!UICONTROL Browse all schema types]**,
 1. Select **[!UICONTROLCreate new class]
 1. Add the display name: `Business Event` 
-1. Assign class
-1. Create a new [!UICONTROL field group]
+2. Select type: *[!UICONTROL Time-series]*
+3. Assign class
+4. Create a new [!UICONTROL field group]
    * Display name: `Product Inventory Event Details`
-1. Add the **[!UICONTROL Display name]** `Luma Product Inventory Event Schema` to the schema
-2. Add the following field to the Luma Product Info field group
+5. Add the **[!UICONTROL Display name]** `Luma Product Inventory Event Schema` to the schema
+6. Add the following field to the Luma Product Info field group
    * Field name: `inventoryEvent`
    * Display name: `Inventory Event` 
    * Type: [!UICONTROL Object] 
    * Field group: [!DNL Product Inventory Event Details]
-3. Add the following fields to the **[!DNL Product Inventory Event Details]** object:
+7. Add the following fields to the **[!DNL Product Inventory Event Details]** object:
      [!UICONTROL Fieldname] |[!UICONTROL Display Name]|[!UICONTROL Type]|
    |-------------|-----------|----------|
    | `productId`| `Product ID`|[!UICONTROL String]|
@@ -229,18 +230,18 @@ The schema should look like this:
 
    ![enum](assets/enum.png)
 
-4. Set `productId` field as **[UICONTROL primary identity]** using **[!DNL Luma Product namespace]**
-5. Select the `sku` field and define a relationship to the `product.sku` field in the **[!DNL Luma Products]** Schema:
+8. Set `productId` field as **[UICONTROL primary identity]** using **[!DNL Luma Product namespace]**
+9. Select the `sku` field and define a relationship to the `product.sku` field in the **[!DNL Luma Products]** Schema:
    1. Scroll down to the bottom of the **[!UICONTROL Field properties]**
-   1. Check **[!UICONTROL Relationship]**
+   2. Check **[!UICONTROL Relationship]**
       1.  **[!UICONTROL Reference schema]**: [!DNL Luma Products]
       2.  **[!UICONTROL Reference identity namespace]**: [!DNL Luma Product]
-   2. Select **[!UICONTROL Apply]**
+   3. Select **[!UICONTROL Apply]**
    The schema should look like this:
 
-   ![SKU relationship](assets/sku_relationship.png)
-
-6. Select [!UICONTROL Save] to save the schema.
+   ![SKU relationship](assets/sku_relationship.png
+10. Enable for Profile
+11. Select [!UICONTROL Save] to save the schema.
 
 --------
 

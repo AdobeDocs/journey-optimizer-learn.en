@@ -29,36 +29,44 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
    | [!UICONTROL NAME]|`LumaOnlinePurchase`|
    | [!UICONTROL TYPE]| [!UICONTROL Unitary] |
   |[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]
-  | [!UICONTROL Schema] Luma Product Interactions
-| [!UICONTROL Fields]| EventType <br>priceTotal<br>purchaseOrderNumber<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]*:</b> <br> Product Name<br>Price<br> ProductImageURL<br>ProductURL<br>product.quantity|
-|[!UICONTROL Condition]| “in(@{LumaOnlinePurchase.eventType}, ["commerce.purchases"])”|
+  | [!UICONTROL Schema]| Luma Product Interactions
+| [!UICONTROL Fields]| EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br> Name<br>Price<br> ProductImageURL<br>ProductURL|
 
-## Create the Luma Wishlist Add
+5. Add the [!UICONTROL Event ID condition]: **[!DNLLumaOnlinePurchase.eventType is commerce.purchases]**
+   1. Select the pencil icon to edit the fielf
+   2. On the [!UICONTROL Add an event id condition] modal, drag and drop the `eventType` onto the canvas
+   3. Select `commerce.purchases`
+   4. Select ok on the canvas
+   5. Select ok on the modal 
 
-LumaWishlistAdd
-Unitary event, rule-based
-Schema: Luma Product Interactions
-Fields:
-EventType
-In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product
-Name
-Price
-ProductImageURL
-ProductURL
-product.quantity
-Condition: “in(@{LumaOnlinePurchase.eventType}, ["commerce.saveForLaters"])”
+![Add event condition](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-## Create the Luma Product Restock
+6. Select [!UICONTROL NAMESPACE]: `Email(Email)`
+7. Save
 
-Name: LumaProductRestock
-Business event, rule-based
-Schema: Luma Product Inventory Events
-**Fields:**
-    * productID
-    * stocktype
-    * In Product > Luma Products > _wwfovlab011 > Product
-      * Name
-      * Price
-      * ProductImageURL
-      * Description
-    * Condition: “in(@{LumaProductRestock._*[!DNL yourOrganizationID]*.stocktype}, ["restock"])”
+## Create *[!DNL Luma Wishlist Add]* Event
+
+[!UICONTROL Parameter] |[!UICONTROL Value]|
+   |-------------|-----------|
+   | [!UICONTROL NAME]|`LumaWishlistAdd`|
+   | [!UICONTROL TYPE]| [!UICONTROL Unitary] |
+  |[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]
+  | [!UICONTROL Schema]| Luma Product Interactions
+| [!UICONTROL Fields]| EventType<br>productLisrItem.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>ProductURL|
+|[!UICONTROL Condition]| [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters]|
+|[!UICONTROL Namespace]| Email(EMail)|
+
+## Create *[!DNL Luma Product Restock] Event
+
+[!UICONTROL Parameter] |[!UICONTROL Value]|
+   |-------------|-----------|
+   | [!UICONTROL NAME]|`LumaProductRestock`|
+   | [!UICONTROL TYPE]| [!UICONTROL Business] |
+  | [!UICONTROL Schema]| [!DNL Luma Product Inventory Events]|
+| [!UICONTROL Fields]| productID <br> stockEventType<br><b>In Product > Luma Products > *[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>Description|
+|[!UICONTROL Condition]| LumaProductRestock._techmarketingdemos.inventoryEvent.stockEventType is restock|
+
+
+## Congratulations
+
+**Your sandbox is now ready to use!**
