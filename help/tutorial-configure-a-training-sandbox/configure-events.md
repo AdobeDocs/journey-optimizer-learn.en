@@ -21,10 +21,10 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 
 ![Manage events](assets/create-events.png)
 
-3. Click *[!UICONTROL Create Event]
-4. Fill in the event details and parameters:
+1. Click *[!UICONTROL Create Event]
+1. Fill in the event details and parameters:
 
- [!UICONTROL Parameter] |[!UICONTROL Value]|
+ |[!UICONTROL Parameter] |[!UICONTROL Value]|
    |-------------|-----------|
    | [!UICONTROL NAME]|`LumaOnlinePurchase`|
    | [!UICONTROL TYPE]| [!UICONTROL Unitary] |
@@ -32,7 +32,7 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
   | [!UICONTROL Schema]| Luma Product Interactions
 | [!UICONTROL Fields]| EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br> Name<br>Price<br> ProductImageURL<br>ProductURL|
 
-5. Add the [!UICONTROL Event ID condition]: **[!DNLLumaOnlinePurchase.eventType is commerce.purchases]**
+1. Add the [!UICONTROL Event ID condition]: **[!DNLLumaOnlinePurchase.eventType is commerce.purchases]**
    1. Select the pencil icon to edit the fielf
    2. On the [!UICONTROL Add an event id condition] modal, drag and drop the `eventType` onto the canvas
    3. Select `commerce.purchases`
@@ -41,8 +41,8 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 
 ![Add event condition](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-6. Select [!UICONTROL NAMESPACE]: `Email(Email)`
-7. Save
+1. Select [!UICONTROL NAMESPACE]: `Email(Email)`
+1. Save
 
 ## Create *[!DNL Luma Wishlist Add]* Event
 

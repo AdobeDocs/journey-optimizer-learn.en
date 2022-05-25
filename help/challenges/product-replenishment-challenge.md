@@ -65,6 +65,7 @@ Code:
 Notify customers who had added an out-of-stock item with a call to start shopping now that the item is back in stock.
 
 ### Create the journey – Product restock notification
+
 When a previously out-of-stock item is back in stock, notify customers who had added an out-of-stock item with a call to start shopping now that the item is back in stock.
 
 1. Create a journey called “your name_Luma - Product Restock
