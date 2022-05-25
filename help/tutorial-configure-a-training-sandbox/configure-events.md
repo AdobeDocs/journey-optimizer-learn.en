@@ -10,7 +10,7 @@ level: Beginner
 
 # Configure events
 
-In this section will you will set up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md).
+In this section you will set up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md).
 
 Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guidance on how to create events.
 
@@ -33,7 +33,7 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 | [!UICONTROL Fields]| EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br> Name<br>Price<br> ProductImageURL<br>ProductURL|
 
 1. Add the [!UICONTROL Event ID condition]: **[!DNLLumaOnlinePurchase.eventType is commerce.purchases]**
-   1. Select the pencil icon to edit the fielf
+   1. Select the pencil icon to edit the field
    2. On the [!UICONTROL Add an event id condition] modal, drag and drop the `eventType` onto the canvas
    3. Select `commerce.purchases`
    4. Select ok on the canvas
