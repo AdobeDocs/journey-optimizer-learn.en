@@ -24,12 +24,12 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 1. Click *[!UICONTROL Create Event]
 1. Fill in the event details and parameters:
 
- |[!UICONTROL Parameter] |[!UICONTROL Value]|
-   |-------------|-----------|
-   | [!UICONTROL NAME]|`LumaOnlinePurchase`|
-   | [!UICONTROL TYPE]| [!UICONTROL Unitary] |
-  |[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]
-  | [!UICONTROL Schema]| Luma Product Interactions
+|[!UICONTROL Parameter] |[!UICONTROL Value]|
+|-------------|-----------|
+| [!UICONTROL NAME]|`LumaOnlinePurchase`|
+| [!UICONTROL TYPE]| [!UICONTROL Unitary] |
+|[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]
+| [!UICONTROL Schema]| Luma Product Interactions
 | [!UICONTROL Fields]| EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br> Name<br>Price<br> ProductImageURL<br>ProductURL|
 
 1. Add the [!UICONTROL Event ID condition]: **[!DNLLumaOnlinePurchase.eventType is commerce.purchases]**
@@ -37,7 +37,7 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
    2. On the [!UICONTROL Add an event id condition] modal, drag and drop the `eventType` onto the canvas
    3. Select `commerce.purchases`
    4. Select ok on the canvas
-   5. Select ok on the modal 
+   5. Select ok on the modal
 
 ![Add event condition](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
@@ -47,24 +47,24 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 ## Create *[!DNL Luma Wishlist Add]* Event
 
 [!UICONTROL Parameter] |[!UICONTROL Value]|
-   |-------------|-----------|
-   | [!UICONTROL NAME]|`LumaWishlistAdd`|
-   | [!UICONTROL TYPE]| [!UICONTROL Unitary] |
-  |[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]
-  | [!UICONTROL Schema]| Luma Product Interactions
-| [!UICONTROL Fields]| EventType<br>productLisrItem.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>ProductURL|
+|-------------|-----------|
+| [!UICONTROL NAME]|`LumaWishlistAdd`|
+| [!UICONTROL TYPE]| [!UICONTROL Unitary] |
+|[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]
+| [!UICONTROL Schema]| Luma Product Interactions
+| [!UICONTROL Fields]| EventType<br>productListItem.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>ProductURL|
 |[!UICONTROL Condition]| [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters]|
 |[!UICONTROL Namespace]| Email(EMail)|
 
 ## Create *[!DNL Luma Product Restock] Event
 
 [!UICONTROL Parameter] |[!UICONTROL Value]|
-   |-------------|-----------|
-   | [!UICONTROL NAME]|`LumaProductRestock`|
-   | [!UICONTROL TYPE]| [!UICONTROL Business] |
-  | [!UICONTROL Schema]| [!DNL Luma Product Inventory Events]|
+|-------------|-----------|
+| [!UICONTROL NAME]|`LumaProductRestock`|
+| [!UICONTROL TYPE]| [!UICONTROL Business] |
+| [!UICONTROL Schema]| [!DNL Luma Product Inventory Events]|
 | [!UICONTROL Fields]| productID <br> stockEventType<br><b>In Product > Luma Products > *[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>Description|
-|[!UICONTROL Condition]| LumaProductRestock._techmarketingdemos.inventoryEvent.stockEventType is restock|
+|[!UICONTROL Condition]| LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock|
 
 
 ## Congratulations
