@@ -9,29 +9,29 @@ level: Beginner
 ---
 # Configure a training sandbox - Introduction and pre-requisites
 
-This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe Journey Optimizer training environment. It will walk you through all the steps required to configure the schemas, ingest sample data and create events.
+This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe Journey Optimizer training environment. It walks you through all the steps required to configure the schemas, ingest sample data and create events.
 
 The provided sample data is based on a fictional athletic apparel company called Luma. Luma has stores in multiple countries, an online presence with a website, and mobile apps. Luma uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
 
-At the end of this tutorial you will have a sandbox that supports the Luma use cases covered in the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md) section.
+At the end of this tutorial, you will have a sandbox that supports the Luma use cases covered in the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md) section.
 
 ## Prerequisites
 
-Before you can begin to set up your training sandbox, you need to make sure that you have:
+Before you can begin to set up your training sandbox, you must make sure that you have:
 
 1. [Administrator rights](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/access-management.html?lang=en)
    * To your organization's Journey Optimizer instance
    * **Journey Administrator** and **Data Manager** right for the training sandbox.
 2. Dedicated Sandbox
-    Create a development [sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en) which will be used for training and exercise purposes only.
+    Create a development [sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en) which is used for training and exercise purposes only.
 3. [Email Message presets](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) for marketing and transactional messaging.
-4. You need to know your organization's ID
+4. Your organization's ID
 
    >[!TIP]
    >
    > **Where can I find my organization ID?**
    >
-   > Navigate to [Adobe Experience Cloud Home](https://experience.adobe.com/. Once you log in, your Organization's ID will be visible in your URL, it should look something like:
+   > Navigate to [Adobe Experience Cloud Home](https://experience.adobe.com/. Once you log in, your Organization's ID is visible in your URL, it should look something like:
    >
    > `https://experience.adobe.com/#/@**your_organization's_id**/home`
    >
@@ -48,11 +48,11 @@ Before you can begin to set up your training sandbox, you need to make sure that
 
 ## What to Expect
 
-This tutorial will walk you through the required [data set-up](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md) and will guide you through [setting up events](/help/tutorial-configure-a-training-sandbox/configure-events.md).
+This tutorial walks you through the required [data set-up](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md) and guides you through [setting up events](/help/tutorial-configure-a-training-sandbox/configure-events.md).
 
-During the data set-up you will need to configure the required identity namespaces, create and configure five schemas and the datasets for these schemas, as well as upload the dummy data.
+During the data set-up, you configure the required identity namespaces, create, and configure five schemas and the datasets for these schemas, as well as upload the dummy data.
 
-The event set up section will walk you trough setting up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md).
+The event set-up section walks you trough setting up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md).
 
 ## Let's get started
 

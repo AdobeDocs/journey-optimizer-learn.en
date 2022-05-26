@@ -37,7 +37,8 @@ Once the [!UICONTROL dataset] is created, on the *[!DNL Luma Loyalty Data]* scre
 2. Drag and drop the *[!DNL luma-loyalty.json]* file to upload sample data to the dataset
 3. Refresh the page and check the batch status to confirm the file ingested correctly: 375 records should have been ingested. - It might take a couple of minutes for the data to be ingested.
 
->!TIP
+>[!TIP]
+>
 >If the batch fails, make sure that you replaced the organization ID in the *[!DNL luma-loyalty.json]* file with your own organization's ID!
 
 Next, create the fours additional [!UICONTROL datasets]:
