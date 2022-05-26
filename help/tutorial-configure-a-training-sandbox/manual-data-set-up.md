@@ -83,12 +83,12 @@ Next you are prompted to add field groups to the schema. All fields must be adde
    b. **[!UICONTROL Personal Contact Details]** for basic contact details like email address and phone number
    c. **[!UICONTROL Loyalty Details]** for the loyalty details such as points, joined date, or status. The loyalty field group is far down the list, so it is easiest to search for it.
 
-2. Select **[!UICONTROL Add field group]** to add all three field groups to the schema.
+1. Select **[!UICONTROL Add field group]** to add all three field groups to the schema.
 
 ![Select standard field groups](assets/addstandardFieldGroups.png)
 
-3. Select the top node of the schema
-4. Enter `Luma Loyalty` as the [!UICONTROL Display name]
+1. Select the top node of the schema
+1. Enter `Luma Loyalty` as the [!UICONTROL Display name]
 
 ### Create a new [!UICONTROL field group]
 
@@ -152,7 +152,7 @@ From the `Luma Loyalty` schema
 ### Enable for profile and save the schema
 
 1. Select the top node of the schema
-2. In the (!UICONTROL Field properties) enable [!UICONTROL Profile]
+1. In the (!UICONTROL Field properties) enable [!UICONTROL Profile]
 
 The schema should look like this:
 
@@ -165,7 +165,7 @@ The schema should look like this:
 1. Go to [!UICONTROL DATA MANAGEMENT] -> **[!UICONTROL Schemas]** in the left navigation
 1. Select the **[!UICONTROL Create Schema]** button on the top right
 1. From the dropdown menu, select **[!UICONTROL Browse all schema types]**, which allows you to create a new class.
-1. Select **[!UICONTROLCreate new class]
+1. Select **[!UICONTROL Create new class]
 1. Add the display name: `Luma Products` 
 1. Assign class
 1. Create a new [!UICONTROL field group]
@@ -197,7 +197,7 @@ The schema should look like this:
 1. Go to [!UICONTROL DATA MANAGEMENT] -> **[!UICONTROL Schemas]** in the left navigation
 1. Select the **[!UICONTROL Create Schema]** button on the top right
 1. From the dropdown menu, select **[!UICONTROL Browse all schema types]**,
-1. Select **[!UICONTROLCreate new class]
+1. Select **[!UICONTROL Create new class]
 1. Add the display name: `Business Event` 
 1. Select type: *[!UICONTROL Time-series]*
 1. Assign class
@@ -226,7 +226,7 @@ The schema should look like this:
 
    ![enum](assets/enum.png)
 
-1. Set `productId` field as **[UICONTROL primary identity]** using **[!DNL Luma Product namespace]**
+1. Set `productId` field as **[!UICONTROL primary identity]** using **[!DNL Luma Product namespace]**
 1. Select the `sku` field and define a relationship to the `product.sku` field in the **[!DNL Luma Products]** Schema:
    1. Scroll down to the bottom of the **[!UICONTROL Field properties]**
    2. Check **[!UICONTROL Relationship]**
@@ -245,12 +245,12 @@ The schema should look like this:
 Create the following additional [!UICONTROL schemas]:
 
 |[!UICONTROL Display name|[!DNL Luma CRM]| [!DNL Luma Product Interactions] |
-|  ---| ------- | ---- | 
-|   **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|
-|   **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Identity Map<br>Commerce Details|
-|**[!UICONTROL Relationship]**||*[!DNL productListItems.SKU]*:<br> Reference schema *[!DNL Luma Products]* <br>[!DNL Reference identiy namespace] *[!DNL Luma Product]* schema 
-|   **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(Luma CRM Id)| |
-|   **[!UICONTROL Secondary Identity][!UICONTROL namespace]** | personalEmail.address (Email)<br>mobilePhone.number (Phone)| |
+|  ---| ------- | ---- |
+|  **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|
+|  **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Identity Map<br>Commerce Details|
+|  **[!UICONTROL Relationship]**||*[!DNL productListItems.SKU]*:<br> Reference schema *[!DNL Luma Products]* <br>[!DNL Reference identiy namespace] *[!DNL Luma Product]* schema|
+|  **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(Luma CRM Id)| |
+|  **[!UICONTROL Secondary Identity][!UICONTROL namespace]** | personalEmail.address (Email)<br>mobilePhone.number (Phone)| |
 |   **[!UICONTROL Enable for profile]**| yes | yes |
 
 ## Next

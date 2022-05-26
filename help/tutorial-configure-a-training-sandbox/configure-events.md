@@ -28,9 +28,9 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 |-------------|-----------|
 | [!UICONTROL NAME]|`LumaOnlinePurchase`|
 | [!UICONTROL TYPE]| [!UICONTROL Unitary] |
-|[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]
-| [!UICONTROL Schema]| Luma Product Interactions
-| [!UICONTROL Fields]| EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br> Name<br>Price<br> ProductImageURL<br>ProductURL|
+| [!UICONTROL Event ID Type]|[!UICONTROL Rule Based]|
+| [!UICONTROL Schema]| Luma Product Interactions|
+| [!UICONTROL Fields]| EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br> Name<br>Price<br>ProductImageURL<br>ProductURL|
 
 1. Add the [!UICONTROL Event ID condition]: **[!DNLLumaOnlinePurchase.eventType is commerce.purchases]**
    1. Select the pencil icon to edit the field
@@ -50,8 +50,8 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 |-------------|-----------|
 | [!UICONTROL NAME]|`LumaWishlistAdd`|
 | [!UICONTROL TYPE]| [!UICONTROL Unitary] |
-|[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]
-| [!UICONTROL Schema]| Luma Product Interactions
+|[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]|
+| [!UICONTROL Schema]| `Luma Product Interactions`|
 | [!UICONTROL Fields]| EventType<br>productListItem.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>ProductURL|
 |[!UICONTROL Condition]| [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters]|
 |[!UICONTROL Namespace]| Email(EMail)|
