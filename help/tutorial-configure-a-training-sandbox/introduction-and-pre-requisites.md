@@ -19,7 +19,7 @@ At the end of this tutorial you will have a sandbox that supports the Luma use c
 
 Before you can begin to set up your training sandbox, you need to make sure that you have:
 
-1. [Administrator rights](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/access-management.html?lang=en) 
+1. [Administrator rights](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/access-management.html?lang=en)
    * To your organization's Journey Optimizer instance
    * **Journey Administrator** and **Data Manager** right for the training sandbox.
 2. Dedicated Sandbox
@@ -28,14 +28,15 @@ Before you can begin to set up your training sandbox, you need to make sure that
 4. You need to know your organization's ID
 
    >[!TIP]
+   >
    > **Where can I find my organization ID?**
    >
    > Navigate to [Adobe Experience Cloud Home](https://experience.adobe.com/. Once you log in, your Organization's ID will be visible in your URL, it should look something like:
-   > 
-   > https://experience.adobe.com/#/@**your_organization's_id**/home.
+   >
+   > `https://experience.adobe.com/#/@**your_organization's_id**/home`
    >
 
-5. Download the required data: 
+5. Download the required data:
    1. Download the [[!DNK luma-data.zip file]](/help/challenges/assets/luma-data.zip) file, which contains all files required for this tutorial.
    2. From your downloads folder, move the `luma-data.zip` file to the desired location on your computer, and unzip it.
    3. There should be three JSON files:
