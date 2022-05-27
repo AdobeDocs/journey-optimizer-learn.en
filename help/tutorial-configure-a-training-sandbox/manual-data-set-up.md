@@ -55,7 +55,7 @@ In this step, you model Luma’s data into schemas.
 
 >[!TIP]
 >
->Watch the video tutorial: [Create a schema](help/set-up-data/create-schema.md) before you begin.
+>Watch the video tutorial: [Create a schema](/help/set-up-data/create-schema.md) before you begin.
 
 ### Create the schema
 
