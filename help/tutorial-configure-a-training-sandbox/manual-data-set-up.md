@@ -244,7 +244,7 @@ The schema should look like this:
 
 Create the following additional [!UICONTROL schemas]:
 
-|[!UICONTROL Display name|[!DNL Luma CRM]| [!DNL Luma Product Interactions] |
+|[!UICONTROL Display name]|[!DNL Luma CRM]| [!DNL Luma Product Interactions] |
 |  ---| ------- | ---- |
 |  **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|
 |  **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Identity Map<br>Commerce Details|
