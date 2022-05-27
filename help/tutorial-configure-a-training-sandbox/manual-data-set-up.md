@@ -152,7 +152,7 @@ From the `Luma Loyalty` schema
 ### Enable for profile and save the schema
 
 1. Select the top node of the schema
-1. In the (!UICONTROL Field properties) enable [!UICONTROL Profile]
+1. In the [!UICONTROL Field properties] enable [!UICONTROL Profile]
 
 The schema should look like this:
 
