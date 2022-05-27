@@ -3,7 +3,7 @@ title: Create segments
 description: Learn how to create segment rules and understand how Journey Optimizer uses rules to generate audiences.
 kt: 7553
 thumbnail: 334281.jpg
-feature: Rules, Segments, Audiences
+feature: Segments, Audiences
 doc-type: feature video
 team: PM
 role: Developer, User
