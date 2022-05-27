@@ -10,7 +10,7 @@ level: Beginner
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
-Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. Each challenge in this section addresses a unique use case that you will implement. 
+Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. Each challenge in this section addresses a unique use case that you will implement.
 
 The target audience (persona), as well as the required skills are listed at the beginning of each challenge.
 
@@ -21,10 +21,10 @@ Complete the course [Getting started with Journey Optimizer for Journey Manager
 ### System requirements
 
 * Access to a Journey Optimizer sandbox
-  * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](/help/tutorial-set-up-training-sandbox/overview.md) for instructions.
+  * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-pre-requisites.html) for instructions.
   *  You need the following access rights:
      *  *Journey Manager* or *Journey Administrator* rights
-     *  View test profiles and their attributes 
+     *  View test profiles and their attributes
 * AEM Assets Essentials must be provisioned for your instance
 
 ### Required actions

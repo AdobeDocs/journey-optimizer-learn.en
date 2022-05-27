@@ -38,7 +38,7 @@ Before you can begin to set up your training sandbox, you must make sure that yo
 
 5. Download the required data:
 
-   1. Download the [[!DNL luma-data.zip file]](/help/challenges/assets/luma-data.zip) file, which contains all files required for this tutorial.
+   1. Download the [[!DNL luma-data.zip file]](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip) file, which contains all files required for this tutorial.
    2. From your downloads folder, move the `luma-data.zip` file to the desired location on your computer, and unzip it.
    3. There should be three JSON files:
       * luma-crm.json
@@ -62,6 +62,6 @@ The event set-up section walks you trough setting up the three events that are r
 ## Additional resources
 
 * [Map identities](/help/set-up-data/map-identities.md)
-* [Create a schema](help/set-up-data/create-schema.md)
+* [Create a schema](/help/set-up-data/create-schema.md)
 * [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
 * [Create Events](/help/set-up-journeys/create-events.md)
