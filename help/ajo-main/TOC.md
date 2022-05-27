@@ -61,4 +61,5 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
 + Exercises {#exercises}
-  + [Tutorial: Create a training sandbox](/help/tutorial-configure-a-training-sandbox/introduction-and-pre-requisites.md)
+  + [Tutorial: Create a training sandbox](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-pre-requisites.html)
+  + [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-pre-requisites.html)
