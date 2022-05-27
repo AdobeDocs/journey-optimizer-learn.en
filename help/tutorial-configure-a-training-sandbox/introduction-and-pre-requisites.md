@@ -37,6 +37,7 @@ Before you can begin to set up your training sandbox, you must make sure that yo
    >
 
 5. Download the required data:
+
    1. Download the [[!DNK luma-data.zip file]](/help/challenges/assets/luma-data.zip) file, which contains all files required for this tutorial.
    2. From your downloads folder, move the `luma-data.zip` file to the desired location on your computer, and unzip it.
    3. There should be three JSON files:

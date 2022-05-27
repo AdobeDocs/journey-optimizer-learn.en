@@ -13,4 +13,4 @@ index: no
   + [Manual data set-up](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
   + [Manual data ingestion](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + Automated data configuration and ingestion with a script {#automated-configuration}
-+ Configure Events](/help/tutorial-configure-a-training-sandbox/configure-events.md)
++ [Configure Events](/help/tutorial-configure-a-training-sandbox/configure-events.md)
