@@ -16,7 +16,7 @@ This section guides you through the required steps to create data sets and inges
 >
 > Watch the video tutorial [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md) before you begin.
 
- You will create five [!UICONTROL datasets] based on the Luma [!UICONTROL schemas] you created in the [previous section](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). Once the datasets have been created you will ingest data from the JSON files you downloaded and modified (see [Introduction and pre-requisites](/help/tutorial-configure-a-training-sandbox/introduction-and-pre-requisites.md) section for instructions).
+ You will create five [!UICONTROL datasets] based on the Luma [!UICONTROL schemas] you created in the [previous section](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). Once the datasets have been created you will ingest data from the JSON files you downloaded and modified (see [Introduction and prerequisites](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) section for instructions).
 
 Follow the step by step instructions to create the first [!UICONTROL schema]:
 

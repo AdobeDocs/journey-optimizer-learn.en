@@ -21,7 +21,7 @@ Complete the course [Getting started with Journey Optimizer for Journey Manager
 ### System requirements
 
 * Access to a Journey Optimizer sandbox
-  * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-pre-requisites.html) for instructions.
+  * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) for instructions.
   *  You need the following access rights:
      *  *Journey Manager* or *Journey Administrator* rights
      *  View test profiles and their attributes

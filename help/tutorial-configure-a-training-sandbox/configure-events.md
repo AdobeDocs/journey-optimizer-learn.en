@@ -10,7 +10,7 @@ level: Beginner
 
 # Configure events
 
-In this section you will set up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md).
+In this section you will set up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md).
 
 Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guidance on how to create events.
 

@@ -1,5 +1,5 @@
 ---
-title: Introduction and pre-requisites
+title: Introduction and prerequisites
 description: Learn how to configure a sandbox for training purposes 
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
@@ -7,13 +7,13 @@ kt: 9382
 role: Admin
 level: Beginner
 ---
-# Configure a training sandbox - Introduction and pre-requisites
+# Configure a training sandbox - Introduction and prerequisites
 
 This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe Journey Optimizer training environment. It walks you through all the steps required to configure the schemas, ingest sample data and create events.
 
 The provided sample data is based on a fictional athletic apparel company called Luma. Luma has stores in multiple countries, an online presence with a website, and mobile apps. Luma uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
 
-At the end of this tutorial, you will have a sandbox that supports the Luma use cases covered in the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md) section.
+At the end of this tutorial, you will have a sandbox that supports the Luma use cases covered in the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md) section.
 
 ## Prerequisites
 
@@ -53,7 +53,7 @@ This tutorial walks you through the required [data set-up](/help/tutorial-config
 
 During the data set-up, you configure the required identity namespaces, create, and configure five schemas and the datasets for these schemas, as well as upload the dummy data.
 
-The event set-up section walks you trough setting up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md).
+The event set-up section walks you trough setting up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md).
 
 ## Let's get started
 
