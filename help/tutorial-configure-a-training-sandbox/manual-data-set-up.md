@@ -264,5 +264,4 @@ Create the following additional [!UICONTROL schemas]:
 
 ## Next
 
-1. [Create data sets and ingest data.](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
-1. [Configure events](/help/tutorial-configure-a-training-sandbox/configure-events.md)
+Now that the you have created the data structure, can [create data sets and ingest sample data.](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
