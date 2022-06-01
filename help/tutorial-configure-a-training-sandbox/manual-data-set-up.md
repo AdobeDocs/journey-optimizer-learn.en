@@ -52,11 +52,12 @@ Now create two more namespaces following the same steps:
 ## Step 2: Create Schemas
 
 In this step you define the required structure of the data by creating the five required [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
-   * [!DNL Luma Loyalty]
-   * [!DNL Luma Products]
-   * [!DNL Luma CRM]
-   * [!DNL Luma Product Interactions]
-   * [!DNL Luma Product Inventory Events]
+
+* [!DNL Luma Loyalty]
+* [!DNL Luma Products]
+* [!DNL Luma CRM]
+* [!DNL Luma Product Interactions]
+* [!DNL Luma Product Inventory Events]
 
 ### Create [!DNL Luma Loyalty] [!UICONTROL Schema]
 
