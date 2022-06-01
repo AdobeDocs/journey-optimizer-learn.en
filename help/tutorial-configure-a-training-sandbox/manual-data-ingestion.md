@@ -22,37 +22,29 @@ Follow the step by step instructions to create the first [!UICONTROL schema]:
 
 1. Create a dataset named *[!DNL Luma Loyalty Data]* from [!DNL Luma Loyalty schema]
    1. From the left navigation, under [!UICONTROL DATA MANAGEMENT], select [!UICONTROL Datasets]
-   2. Select [!UICONTROL Create dataset]
-   
+   1. Select [!UICONTROL Create dataset]
    ![Create a dataset](assets/create-dataset.png)
-
-   3. On the next page select [!UICONTROL Create dataset from schema]
-   
+   1. On the next page select [!UICONTROL Create dataset from schema]
     ![Create a dataset from schema](assets/create-dataset-from-schema.png)
-
-   4. On the next page search for the *[!DNL Luma Loyalty]* schema you created earlier
-   5. Select *[!DNL Luma Loyalty]*
-   6. Click [!UICONTROL Next]
-   
+   1. On the next page search for the *[!DNL Luma Loyalty]* schema you created earlier
+   1. Select *[!DNL Luma Loyalty]*
+   1. Click [!UICONTROL Next]
     ![Search and select schema](assets/create-dataset-select-schema.png)
-
-   7. Configure the dataset: 
+   1. Configure the dataset:
       * Name: `Luma Loyalty Data`
-   8. Click [!UICONTROL Finish]
+   1. Click [!UICONTROL Finish]
 
     ![Configure dataset](assets/create-dataset-configure.png)
   
-1. Once the [!UICONTROL dataset] is created, you can ingest data into the dataset
+2. Once the [!UICONTROL dataset] is created, you can ingest data into the dataset
    1. on the *[!DNL Luma Loyalty Data]* screen:
 
-   2. Scroll down the the bottom of the right panel to the [!UICONTROL ADD DATA] section and enable
-    * [!UICONTROL Error diagnostics] and
-    * [!UICONTROL Partial ingestion]
-
+   1. Scroll down the the bottom of the right panel to the [!UICONTROL ADD DATA] section and enable
+       * [!UICONTROL Error diagnostics] and
+       * [!UICONTROL Partial ingestion]
         ![Ingest Data](assets/ingest-data.png)
-
-   3. Drag and drop the *[!DNL luma-loyalty.json]* file to upload sample data to the dataset
-   4. Refresh the page and check the batch status to confirm the file ingested correctly: 375 records should have been ingested. - It might take a couple of minutes for the data to be ingested.
+   1. Drag and drop the *[!DNL luma-loyalty.json]* file to upload sample data to the dataset
+   1. Refresh the page and check the batch status to confirm the file ingested correctly: 375 records should have been ingested. - It might take a couple of minutes for the data to be ingested.
 
 >[!TIP]
 >
