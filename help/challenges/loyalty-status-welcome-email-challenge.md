@@ -20,7 +20,7 @@ Your challenge is to create journeys to implement the following use cases:
 3. Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits
 4. When a previously out-of-stock item is back in stock, notify customers who had favorited the out-of-stock item with a call to start shopping now that the item is back in stock
 
-## YOUR CHALLENGE
+## Your Challenge
 
 ### **Journey #3 – Diamond status upgrade welcome email**
 
@@ -32,5 +32,3 @@ Send an email when a loyalty customer moves to a new tier to congratulate and 
 SUCCESS CRITERIA
 
 You should receive the personalized “Luma – New Status- Diamond-Transactional” email.
-
-

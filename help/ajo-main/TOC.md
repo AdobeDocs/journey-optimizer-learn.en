@@ -1,12 +1,12 @@
 ---
-user-guide-title: Journey Optimizer Learn Tutorials
+user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Here are Journey Optimizer Learn Tutorials.
+user-guide-description: Here are Journey Optimizer Tutorials.
 ---
 
-# Journey Optimizer Learn Tutorials {#tutorials}
+# Journey Optimizer Tutorials {#tutorials}
 
-+ [Journey Optimizer Learn Tutorials](/help/overview.md)
++ [Journey Optimizer Tutorials](/help/overview.md)
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
   + [Journey Optimizer Overview Part 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -63,4 +63,4 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
 + Exercises {#exercises}
   + [Tutorial: Create a training sandbox](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
-  + [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-pre-requisites.html)
+  + [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
