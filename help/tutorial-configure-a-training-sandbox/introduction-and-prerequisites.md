@@ -10,6 +10,8 @@ level: Beginner
 
 # Configure a training sandbox - Introduction and prerequisites
 
+![Banner Tutorial- Configure a training sandbox](./assets/ajo-banner-configure-training-sandbox.png)
+
 This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe Journey Optimizer training environment. It walks you through all the steps required to configure the schemas, ingest sample data, and create events.
 
 The provided sample data is based on a fictional athletic apparel company called Luma. Luma has stores in multiple countries, an online presence with a website, and mobile apps. Luma uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
