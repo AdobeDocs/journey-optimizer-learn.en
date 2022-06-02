@@ -6,7 +6,7 @@ breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/intro
 index: no
 ---
 
-# Tutorial - Configure a training sandbox {#challenges}
+# Tutorial - Configure a training sandbox {#configure-a-training-sandbox}
 
 + [Configure a training sandbox](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
 + [Manual data set-up](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
