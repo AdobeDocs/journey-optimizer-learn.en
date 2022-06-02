@@ -6,6 +6,7 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+recommendations: noDisplay, noCatalog
 ---
 
 # Manual data ingestion

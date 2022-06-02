@@ -8,7 +8,7 @@ index: no
 
 # Journey Optimizer - Challenges {#journey-optimizer-challenges}
 
-+ [Journey Optimizer - Challenges](/help/challenges/introduction-and-pre-requisites.md)
++ [Journey Optimizer - Challenges](/help/challenges/introduction-and-prerequisites.md)
 + [Challenge - Create a summer collection announcement](/help/challenges/summer-collection-announcement-challenge.md)
 + [Challenge - Create an order confirmation email](/help/challenges/order-confirmation-challenge.md)
 + [Challenge - Create a loyalty status welcome email](/help/challenges/loyalty-status-welcome-email-challenge.md)

@@ -32,5 +32,3 @@ Send an email when a loyalty customer moves to a new tier to congratulate and 
 SUCCESS CRITERIA
 
 You should receive the personalized “Luma – New Status- Diamond-Transactional” email.
-
-

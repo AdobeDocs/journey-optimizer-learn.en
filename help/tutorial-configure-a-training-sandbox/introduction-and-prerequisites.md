@@ -13,7 +13,7 @@ This tutorial is designed for administrators and data engineers who are tasked w
 
 The provided sample data is based on a fictional athletic apparel company called Luma. Luma has stores in multiple countries, an online presence with a website, and mobile apps. Luma uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
 
-At the end of this tutorial, you will have a sandbox that supports the Luma use cases covered in the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-pre-requisites.md) section.
+At the end of this tutorial, you will have a sandbox that supports the Luma use cases covered in the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md) section.
 
 ## Prerequisites
 
