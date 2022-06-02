@@ -1,12 +1,12 @@
 ---
-title: Journey Optimizer Challenges - Introduction
+title: Journey Optimizer Challenges - Introduction and prerequisites
 description: Understand the basics of building a journey in the journey canvas.
 feature: Journeys
 role: Admin
 level: Beginner
 ---
 
-# Journey Optimizer Challenges - Introduction
+# Journey Optimizer Challenges - Introduction and prerequisites
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
@@ -22,9 +22,9 @@ Complete the course [Getting started with Journey Optimizer for Journey Manager
 
 * Access to a Journey Optimizer sandbox
   * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) for instructions.
-  *  You need the following access rights:
-     *  *Journey Manager* or *Journey Administrator* rights
-     *  View test profiles and their attributes
+  * You need the following access rights:
+    * *Journey Manager* or *Journey Administrator* rights
+    * View test profiles and their attributes
 * AEM Assets Essentials must be provisioned for your instance
 
 ### Required actions

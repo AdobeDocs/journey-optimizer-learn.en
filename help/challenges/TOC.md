@@ -6,7 +6,7 @@ breadcrumb-url: /docs/journey-optimizer-learn/challenges/introduction-and-prereq
 index: no
 ---
 
-# Journey Optimizer - Challenges {#journey-optimizer-challenges}
+# Journey Optimizer - Challenges {#challenges}
 
 + [Journey Optimizer - Challenges](/help/challenges/introduction-and-prerequisites.md)
 + [Challenge - Create a summer collection announcement](/help/challenges/summer-collection-announcement-challenge.md)
