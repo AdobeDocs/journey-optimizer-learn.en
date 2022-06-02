@@ -17,7 +17,7 @@ level: Beginner
 
 ## The story
 
-When browsing the Luma website, customers can add products they are interested to a wishlist. This allows Luma to send the customers targeted marketing messages and information on the products.
+When browsing the Luma website, customers can add products they are interested to a wishlist. Which allows Luma to send the customers targeted marketing messages and information on the products.
 
 ## Your Challenge
 
@@ -27,8 +27,8 @@ Luma asks you to implement a journey in Journey Optimizer that notifies customer
 
 To target potential interested customers when products are restocked, create a segment that consists of customers
 
-* Who have added at least one item to their wish list (Use event type: Commerce Save For Laters)
-* That was **out of stock** in the last 3 months (use stock quantity = 0)
+* Who have added at least one item to their wish list (Use event type: [!UICONTROL Commerce Save For Laters])
+* Which was **out of stock** in the last 3 months (use stock quantity = 0)
 * And have not since purchased the item.
 
 Name this segment: *your name – Out-of-stock-Wishlist*
