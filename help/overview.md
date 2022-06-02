@@ -54,7 +54,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
     </a>
     </div>
     <p>
-    <em>This video shows how brands can use Adobe Journey Optimization's offer decisioning, real-time segment qualification, and business event management to take their consumer journeys to new heights.</em>
+    <em>This video shows how brands can use Adobe Journey Optimizer's decision management capabilities, real-time segment qualification, and business event management to take their consumer journeys to new heights.</em>
     <p>
   </td>
 </table>

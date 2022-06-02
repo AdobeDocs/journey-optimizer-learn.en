@@ -14,4 +14,4 @@ Learn how brands can use the decision management capabilities to define and mana
 
 >[!INFO]
 >
-> This video is part of a course, [Getting Started with Offer Decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), available for free on Experience League!
+> This video is part of a course, [Getting Started with Decision Management for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), available for free on Experience League!

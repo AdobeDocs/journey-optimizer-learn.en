@@ -1,6 +1,6 @@
 ---
 title: Deliver offers with the Decisions Hub API
-description: Learn how to deliver Offer Decisioning offers with the Decisions API. 
+description: Learn how to deliver Decision Management offers with the Decisions API. 
 role: Developer
 feature: Offers
 kt: 6819
@@ -16,7 +16,7 @@ Learn how to deliver offers [with the Decisions Hub API](https://experienceleagu
 
 >[!INFO]
 >
-> This video is part of a course, [Getting Started with Offer Decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), available for free on Experience League!
+> This video is part of a course, [Getting Started with Decision Management for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), available for free on Experience League!
 
 ## Additional Resources
 
