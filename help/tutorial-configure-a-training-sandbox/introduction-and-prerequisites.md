@@ -7,6 +7,7 @@ kt: 9382
 role: Admin
 level: Beginner
 ---
+
 # Configure a training sandbox - Introduction and prerequisites
 
 This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe Journey Optimizer training environment. It walks you through all the steps required to configure the schemas, ingest sample data, and create events.
@@ -46,7 +47,6 @@ Before you can begin to set up your training sandbox, you must make sure that yo
       * luma-products.json
       These files hold the sample data that you will use to populate your sandbox with.
    4. Open each of the files and find and replace `yourOrganizationID` with your organization’s ID and save the files.
-
 
 ## Let's get started
 
