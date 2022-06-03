@@ -25,15 +25,15 @@ Create a dataset named *[!DNL Luma Loyalty Data]* from [!DNL Luma Loyalty schema
 1. From the left navigation, under [!UICONTROL DATA MANAGEMENT], select [!UICONTROL Datasets]
 2. Select [!UICONTROL Create dataset]
    ![Create a dataset](assets/create-dataset.png)
-1. On the next page select [!UICONTROL Create dataset from schema]
+3. On the next page select [!UICONTROL Create dataset from schema]
    ![Create a dataset from schema](assets/create-dataset-from-schema.png)
-2. On the next page search for the *[!DNL Luma Loyalty]* schema you created earlier
-3. Select *[!DNL Luma Loyalty]*
-4. Click [!UICONTROL Next]
+4. On the next page search for the *[!DNL Luma Loyalty]* schema you created earlier
+5. Select *[!DNL Luma Loyalty]*
+6. Click [!UICONTROL Next]
    ![Search and select schema](assets/create-dataset-select-schema.png)
-5. Configure the dataset:
+7. Configure the dataset:
    * Name: `Luma Loyalty Data`
-6. Click [!UICONTROL Finish]
+8. Click [!UICONTROL Finish]
    ![Configure dataset](assets/create-dataset-configure.png)
 
 ## Ingest sample data
