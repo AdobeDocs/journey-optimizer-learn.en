@@ -11,10 +11,7 @@ recommendations: noDisplay, noCatalog
 
 # Manual Data set-up
 
-This section guides you through the manual data management configuration.
-
-* Create namespaces
-* Define the required structure of the data by creating the five required [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
+This section guides you through the manual data management configuration. This includes creating the required identity namespaces and defining the Luma sample data structure by creating five [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
    1. [!DNL Luma Loyalty]
    2. [!DNL Luma Products]
    3. [!DNL Luma CRM]
@@ -22,7 +19,7 @@ This section guides you through the manual data management configuration.
    5. [!DNL Luma Product Inventory Events]
 
 >[!TIP]
->
+>:bulb: **TIP:**
 >Watch the video tutorial [Map identities](/help/set-up-data/map-identities.md) before you begin.
 
 ## Step 1: Create identity namespaces
