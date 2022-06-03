@@ -41,21 +41,21 @@ Now create two more namespaces following the same steps:
 | `Luma CRM ID` | `lumaCRM` | [!UICONTROL Cross-device ID] |
 | `Luma Product` | `lumaProduct` |[!UICONTROL Non-people identifier]|
 
-## Step 2: Create Schemas {#create-schemas}
+## Step 2: Create Schemas
 
 In this step you define the required structure of the data by creating the five required [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
 
-* [!DNL Luma Loyalty](#create-luma-loyalty-schema)
-* [!DNL Luma Products](h#create-luma-products-schema)
-* [!DNL Luma Product Inventory Events](#create-luma-product-inventory-event-schema)
-* [!DNL Luma CRM](#create-luma-crm-and-luma-product-interactions-schemas)
-* [!DNL Luma Product Interactions](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Loyalty]](#create-luma-loyalty-schema)
+* [[!DNL Luma Products]](#create-luma-products-schema)
+* [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
+* [[!DNL Luma CRM]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
 >Watch the video tutorial: [Create a schema](/help/set-up-data/create-schema.md) before you begin.
 
-### Create [!DNL Luma Loyalty] [!UICONTROL Schema]{#create-luma-loyalty-schema}
+### Create [!DNL Luma Loyalty] [!UICONTROL Schema] {#create-luma-loyalty-schema}
 
 #### Create the schema
 
