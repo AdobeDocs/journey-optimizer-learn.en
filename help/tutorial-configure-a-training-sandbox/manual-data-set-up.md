@@ -11,15 +11,9 @@ recommendations: noDisplay, noCatalog
 
 # Manual Data set-up
 
-This section guides you through the manual data management configuration. This includes creating the required identity namespaces and defining the Luma sample data structure by creating five [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
-   1. [!DNL Luma Loyalty]
-   2. [!DNL Luma Products]
-   3. [!DNL Luma CRM]
-   4. [!DNL Luma Product Interactions]
-   5. [!DNL Luma Product Inventory Events]
+This section guides you through the manual data management configuration. You will create the required identity namespaces and define the Luma sample data structure by creating the [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
 
 >[!TIP]
->:bulb: **TIP:**
 >Watch the video tutorial [Map identities](/help/set-up-data/map-identities.md) before you begin.
 
 ## Step 1: Create identity namespaces
@@ -47,23 +41,21 @@ Now create two more namespaces following the same steps:
 | `Luma CRM ID` | `lumaCRM` | [!UICONTROL Cross-device ID] |
 | `Luma Product` | `lumaProduct` |[!UICONTROL Non-people identifier]|
 
-## Step 2: Create Schemas
+## Step 2: Create Schemas {#create-schemas}
 
 In this step you define the required structure of the data by creating the five required [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
 
-* [!DNL Luma Loyalty]
-* [!DNL Luma Products]
-* [!DNL Luma CRM]
-* [!DNL Luma Product Interactions]
-* [!DNL Luma Product Inventory Events]
-
-### Create [!DNL Luma Loyalty] [!UICONTROL Schema]
-
-In this step, you model Luma’s data into schemas.
+* [!DNL Luma Loyalty](#create-luma-loyalty-schema)
+* [!DNL Luma Products](h#create-luma-products-schema)
+* [!DNL Luma Product Inventory Events](#create-luma-product-inventory-event-schema)
+* [!DNL Luma CRM](#create-luma-crm-and-luma-product-interactions-schemas)
+* [!DNL Luma Product Interactions](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
 >Watch the video tutorial: [Create a schema](/help/set-up-data/create-schema.md) before you begin.
+
+### Create [!DNL Luma Loyalty] [!UICONTROL Schema]{#create-luma-loyalty-schema}
 
 #### Create the schema
 
@@ -73,15 +65,15 @@ Let's start by creating the [!DNL Luma Loyalty] schema:
 1. Select the **[!UICONTROL Create Schema]** button on the top right
 1. From the dropdown menu, select **[!UICONTROL XDM Individual Profile]**, since you are modeling attributes of an individual customer (points, status, and so on).
 
-![Create schema](assets/loyaltyCreateSchema.png)
+   ![Create schema](assets/loyaltyCreateSchema.png)
 
 #### Add existing field groups
 
 Next you are prompted to add field groups to the schema. All fields must be added to schemas using groups. You are adding existing field groups and must create a new field group.
 
->![NOTE]
+>[!NOTE]
 >
->If you aren't prompted before the schema's detail page opens, select **[!UICONTROL Add]** under the **[!UICONTROL Schema Field Groups]** heading.
+>If the [!UICONTROL field group modal] doesn't automatically open, on schema's detail page, in the left **[!UICONTROL Composition]** section, select **[!UICONTROL Add]** under the **[!UICONTROL Schema Field Groups]** heading.
 >
 >![Add field group](assets/add_field_group.png)
 
@@ -91,7 +83,7 @@ Next you are prompted to add field groups to the schema. All fields must be adde
    b. **[!UICONTROL Personal Contact Details]** for basic contact details like email address and phone number
    c. **[!UICONTROL Loyalty Details]** for the loyalty details such as points, joined date, or status. The loyalty field group is far down the list, so it is easiest to search for it.
 
-1. Select **[!UICONTROL Add field group]** to add all three field groups to the schema.
+2. Select **[!UICONTROL Add field group]** to add all three field groups to the schema.
 
 ![Select standard field groups](assets/addstandardFieldGroups.png)
 
@@ -100,12 +92,12 @@ Next you are prompted to add field groups to the schema. All fields must be adde
 
 #### Create a new [!UICONTROL field group]
 
-To help ensure consistency across the schemas, you will manage all system identifiers in a single group:
+To help ensure consistency across the schemas, it is recommended to manage all system identifiers in a single group:
 
-1. From the middle [!UICONTROL Composition] section, under [!UICONTROL Field groups], select **[!UICONTROL Add]**
+1. From the **[!UICONTROL Composition]** section under [!UICONTROL Field groups], select **[!UICONTROL Add]**
 2. Select **[!UICONTROL Create new field group]**
-3. Use `Luma Identifiers` as the **[!UICONTROL Display name]**
-4. Use `system identifiers for XDM Individual Profile class` as the **[!UICONTROL Description]**
+3. Add `Luma Identifiers` as the **[!UICONTROL Display name]**
+4. Add `system identifiers for XDM Individual Profile class` as the **[!UICONTROL Description]**
 5. Select **[!UICONTROL Add field groups]**
 
 ![Create new field group](assets/addnewfieldgroup.png)
@@ -114,7 +106,7 @@ To help ensure consistency across the schemas, you will manage all system identi
 
 The new, empty field group is added to your schema. With the + buttons, you can add new fields to any location in the hierarchy. In this case you must add fields at the root level:
 
-1. Select **[!UICONTROL +]** next to the name of the schema. Which adds a field under your tenant id namespace to manage conflicts between your custom fields and any standard fields
+1. Select **[!UICONTROL +]** next to the name of the schema. Which adds a field under **your tenant id** namespace, to manage conflicts between your custom fields and any standard fields
 2. In the **[!UICONTROL Field properties]** sidebar, add the details of the new field
 
       * Field name: `systemIdentifier`
@@ -136,7 +128,7 @@ Now add two fields under the `systemIdentifier` object:
 
 #### Set identities
 
-You now have the namespace and the Luma Loyalty schema configured. Before you can ingest data, you must label the identity fields. Each schema used with Real-time Customer Profile is required to have a primary identity specified. And each record ingested must have a value for that field.
+You now have the namespace and the Luma Loyalty schema configured. Before you can ingest data, you must label the identity fields. Each schema used with Real-time Customer Profile is required to have a primary identity specified and each record ingested must have a value for that field.
 
 1. Set the **primary Identity:**
 From the `Luma Loyalty` schema
@@ -162,13 +154,13 @@ From the `Luma Loyalty` schema
 1. Select the top node of the schema
 1. In the [!UICONTROL Field properties] enable [!UICONTROL Profile]
 
-The schema should look like this:
+   The schema should look like this:
 
-![Luma Loyalty schema](assets/lumaloyaltyschema.png)
+   ![Luma Loyalty schema](assets/lumaloyaltyschema.png)
 
 1. Select **[!UICONTROL Save]**
 
-### Create [!DNL Luma Products] [!UICONTROL Schema]
+### Create [!DNL Luma Products] [!UICONTROL Schema] {#create-luma-products-schema}
 
 1. Go to [!UICONTROL DATA MANAGEMENT] -> **[!UICONTROL Schemas]** in the left navigation
 1. Select the **[!UICONTROL Create Schema]** button on the top right
@@ -200,7 +192,7 @@ The schema should look like this:
 1. Add the **[!UICONTROL Display name]** `Luma Products` to the schema
 1. Select [!UICONTROL Save] 
 
-### Create [!DNL Luma Product Inventory Event] [!UICONTROL Schema]
+### Create [!DNL Luma Product Inventory Event] [!UICONTROL Schema] {#create-luma-product-inventory-event-schema}
 
 1. Go to [!UICONTROL DATA MANAGEMENT] -> **[!UICONTROL Schemas]** in the left navigation
 1. Select the **[!UICONTROL Create Schema]** button on the top right
@@ -248,7 +240,7 @@ The schema should look like this:
 1. Enable for Profile
 1. Select [!UICONTROL Save] to save the schema.
 
-### Create the two additional schemas
+### Create the [!DNL Luma CRM] and [!DNL Luma Product Interactions] schemas {#create-luma-crm-and-luma-product-interactions-schemas}
 
 Create the following additional [!UICONTROL schemas]:
 
@@ -256,11 +248,11 @@ Create the following additional [!UICONTROL schemas]:
 |  ---| ------- | ---- |
 |  **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|
 |  **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Identity Map<br>Commerce Details|
-|  **[!UICONTROL Relationship]**||*[!DNL productListItems.SKU]*:<br> Reference schema *[!DNL Luma Products]* <br>[!DNL Reference identiy namespace] *[!DNL Luma Product]* schema|
+|  **[!UICONTROL Relationship]**||*[!DNL productListItems.SKU]*:<br> Reference schema *[!DNL Luma Products]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* schema|
 |  **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(Luma CRM Id)| |
 |  **[!UICONTROL Secondary Identity][!UICONTROL namespace]** | personalEmail.address (Email)<br>mobilePhone.number (Phone)| |
 |   **[!UICONTROL Enable for profile]**| yes | yes |
 
 ## Next
 
-Now that the you have created the data structure, can [create data sets and ingest sample data.](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Now that you have created the data structure, you must  [create data sets and ingest sample data](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
