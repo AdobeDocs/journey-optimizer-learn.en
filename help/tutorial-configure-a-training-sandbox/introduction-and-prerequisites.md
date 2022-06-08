@@ -22,10 +22,10 @@ At the end of this tutorial, you will have a sandbox that supports the Luma use 
 
 Before you can begin to set up your training sandbox, you must make sure that you have:
 
-1. A dedicated development [sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en)
+1. A dedicated development [sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en).
 2. [Email Message presets](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en configured for marketing and transactional messaging.
 3. **Journey Administrator** and **Data Manager** rights for the training sandbox.
-4. Your organization's ID
+4. Your organization's ID.
 
    >[!TIP]
    >
@@ -36,13 +36,13 @@ Before you can begin to set up your training sandbox, you must make sure that yo
    > `https://experience.adobe.com/#/@your_organization's_id/home`
    >
 
-5. The Jason files with the sample data, configured to your Journey Optimizer instance:
+5. The JSON files with the sample data, configured to your Journey Optimizer instance:
 
-   1. Download the [[!DNL luma-data.zip file]](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip) file, which contains all Jason files required for this tutorial.
+   1. Download the [[!DNL luma-data.zip file]](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip), which contains all Jason files required for this tutorial.
    1. From your downloads folder, move the `luma-data.zip` file to the desired location on your computer, and unzip it.
-   1. There should be three JSON files: luma-crm.json, luma-loyalty.json, luma-products.json
+   1. There should be three JSON files: luma-crm.json, luma-loyalty.json, luma-products.json.
       These files hold the sample data that you will ingest into your sandbox.
-   1. Open each of the files and find **`yourOrganizationID`** and replace it with your **organization’s ID** 
+   1. Open each of the files and find **`yourOrganizationID`** and replace it with your **organization’s ID**.
    1. Save the files.
 
 ## Let's get started
