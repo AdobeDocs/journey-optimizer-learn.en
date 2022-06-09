@@ -15,6 +15,8 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ## What's New
 
+### Tutorials
+
 * **[Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)**
   
   *Learn how to configure subscriptions and create landing pages.*
@@ -26,6 +28,13 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 * **[Delegate CName subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)**
   
   *Learn how to create a subdomain using CNAME to point to Adobe-specific records.*
+
+### Experience League Live Events
+
+* **[Push notifications with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+
+  *In this Experience League Live episode, we talk about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.*
+
 
 ## Staff Picks
 
@@ -57,4 +66,65 @@ This user guide contains videos and tutorials on features and capabilities of Ad
     <em>This video shows how brands can use Adobe Journey Optimizer's decision management capabilities, real-time segment qualification, and business event management to take their consumer journeys to new heights.</em>
     <p>
   </td>
+  </td>
+    <td>
+    <a href="./decision-management/create-decisions.md">
+      <img alt="Introduction to the decision management capabilities" src="./assets/326961.jpg"/>
+    </a>
+    <div>
+      <a href="./decision-management/create-decisions.md">
+    <strong>Introduction to the decision management capabilities </strong>
+    </a>
+    </div>
+    <p>
+    <em>The video covers the business challenges decision management capabilities solves, its key capabilities, the basic architecture, and its main use cases.
+
+</em>
+    <p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="./create-journeys/use-case-transactional-journey.md">
+      <img alt="Use Case - Transactional Journey " src="./assets/334202.jpeg"/>
+    </a>
+    <div>
+      <a href="./create-journeys/use-case-transactional-journey.md">
+    <strong>Use Case - Transactional Journey </strong>
+    </a>
+    </div>
+    <p>
+    <em>Understand the applicable use cases for transactional journeys. Learn how to build transactional journeys and which best practices to apply.</em>
+    <p>
+  </td>
+    <td>
+    <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
+      <img alt="Use contextual event information for personalization" src="./assets/334165.jpg"/>
+    </a>
+    <div>
+      <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
+    <strong>Use contextual event information for personalization </strong>
+    </a>
+    </div>
+    <p>
+    <em>Learn how to use contextual event information from a journey to personalize a message.</em>
+    <p>
+  </td>
+  </td>
+    <td>
+    <a href="./report-and-monitor/live-and-global-reports.md">
+      <img alt="Live and global reports" src="./assets/334108.jpg"/>
+    </a>
+    <div>
+      <a href="./report-and-monitor/live-and-global-reports.md">
+    <strong>Live and global reports </strong>
+    </a>
+    </div>
+    <p>
+    <em>Learn the difference between live and global reports, how to access and analyze the Journey and the Message specific reports, and how to modify the report dashboards.
+
+</em>
+    <p>
+  </td>
+</tr>
 </table>
