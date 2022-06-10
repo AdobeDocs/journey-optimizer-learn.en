@@ -25,13 +25,14 @@ Luma, a fictional athletic apparel company, is looking to promote its latest ap
 The Luma marketing team asks you to implement a summer collection marketing campaign in Journey Optimizer.
 Your challenge is to create a journey in Journey Optimizer. Specifically, you must create the required segment, create four messages, and build the journey.
 
+>![NOTE]
+> If you are working in a shared training sandbox, it is best practice to add your name or initials as a pre-fix to the name of any element you create. That allows you to identify your work and 
+
 ### Define the Segment – Active Customers
 
-Create a segment in Journey Optimizer target with the new summer collection announcement:
-
-* Name this segment **your name – Active Customers**.
-* The segment must include only active Luma customers.
-* Active customers are defined as customers who have a tier in Luma’s loyalty program (silver, gold, platinum, or diamond).
+Create a segment in Journey Optimizer called **your name – Active Customers**.
+  * The segment must include only active Luma customers.
+  * Active customers are defined as customers who have a tier in Luma’s loyalty program (silver, gold, platinum, or diamond).
 
 +++**Success Criteria**
 
