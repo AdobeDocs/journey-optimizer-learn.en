@@ -1,6 +1,6 @@
 ---
-title: Set up data manually
-description: Learn how to manually manage and configure data. Create the required identity namespaces and define the Luma sample data structure.
+title: Set up data structure manually
+description: Create the required identity namespaces and define the Luma sample data structure.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 kt: 9382
