@@ -11,7 +11,7 @@ recommendations: noDisplay, noCatalog
 
 # Configure events
 
-In this section you will set up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md).
+In this section, you set up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md).
 
 Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guidance on how to create events.
 
@@ -44,7 +44,8 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 ![Add event condition](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
 1. Select [!UICONTROL NAMESPACE]: `Email(Email)`
-1. Save
+
+1. Select **[!UICONTROL Save]**.
 
 ## Create *[!DNL Luma Wishlist Add]* Event
 
@@ -68,7 +69,6 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 |[!UICONTROL Fields]|productID <br> stockEventType<br><b>In Product > Luma Products > *[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>Description|
 |[!UICONTROL Condition]|LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock|
 
-
 ## Congratulations
 
-**Your sandbox is now ready to use!**
+Your sandbox is now ready to use!

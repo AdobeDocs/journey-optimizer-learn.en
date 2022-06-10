@@ -16,7 +16,7 @@ This tutorial is designed for administrators and data engineers who are tasked w
 
 The provided sample data is based on a fictional athletic apparel company called _[!DNL Luma]_. [!DNL Luma] has stores in multiple countries, an online presence with a website, and mobile apps. [!DNL Luma] uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
 
-At the end of this tutorial, you will have a sandbox that supports the [!DNL Luma] use cases covered in the hands-on exercises in the [Journey Optimizer Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html) section.
+At the end of this tutorial, you will have a sandbox that supports the [!DNL Luma] use cases covered in the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md) section.
 
 ## Prerequisites
 
