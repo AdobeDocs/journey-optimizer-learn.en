@@ -222,3 +222,4 @@ This is what your journey should look like:
 ![Condition - Gender](/help/challenges/assets/c3-j1-condition-gender.png)
 
 +++
+ 
