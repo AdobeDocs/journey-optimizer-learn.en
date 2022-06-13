@@ -37,16 +37,24 @@ Create a segment in Journey Optimizer called **your name – Active Customers**.
 +++**Success Criteria**
 
 * In the segment builder, you can see the estimated number of qualified profiles. If you are working in a training sandbox that is using the Luma sample data, the [!UICONTROL estimated qualified profiles] should be about 292 profiles of 500.
-* A qualifying profile has been added to the segment:
-  * You can check the profiles that have been added to the segment qualify by navigating to one of in the profiles listed on your Segment’s Detail view.
-  * On the profile page, check the [!UICONTROL Attributes] tab to confirm that they qualify: The tier should be silver, gold, platinum, or diamond.
-  * You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed, but it can take up to 24 hours for it to appear, as the existing profiles need to be backfilled.
+* **A qualifying profile has been added to the segment:**
+You can check the profiles that have been added to the segment qualify by navigating to one of in the profiles listed on your Segment’s Detail view.
+1. On the profile page, check the [!UICONTROL Attributes] tab to confirm that they qualify: The tier should be silver, gold, platinum, or diamond.
+
+   ![Profile attributes](assets/C1-S1-profile-attributes.png)
+
+2. You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed.
+
+   >![NOTE]
+   >It can take up to 24 hours for the segment membership to appear for existing profiles, as the existing profiles need to be backfilled.
+
+   ![Segment membership](assets/C1-S1-profile-segment-membership.png)
 
 +++
 
 +++**Check Your Work**
 
-Select the Tier (CDM individual Profile >Loyalty> Tier)
+Segment fields: [!UICONTROL Attributes] > [!UICONTROL XDM individual Profile] > [!UICONTROL Loyalty] > [!UICONTROL Tier]
 
 This is what your segment should look like:
 
