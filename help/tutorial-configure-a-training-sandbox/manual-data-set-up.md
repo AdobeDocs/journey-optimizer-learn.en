@@ -121,7 +121,7 @@ To help ensure consistency across the schemas, Adobe recommends managing all sys
 
 The new, empty field group is added to your schema. Using the + buttons, you can add new fields to any location in the hierarchy. In this case, you must add fields at the root level:
 
-1. Select **[!UICONTROL +]** next to the name of the schema. 
+1. Select **[!UICONTROL +]** next to the name of the schema.
 
    This step adds a field under **your tenant id** namespace, to manage conflicts between your custom fields and any standard fields.
 
