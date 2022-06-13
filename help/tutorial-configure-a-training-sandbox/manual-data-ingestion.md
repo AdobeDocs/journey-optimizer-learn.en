@@ -1,6 +1,6 @@
 ---
 title: Ingest data manually
-description: Learn how to create data sets and ingest sample data manually.
+description: Create data sets and ingest sample data manually.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 kt: 9382

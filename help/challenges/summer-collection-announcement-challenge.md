@@ -25,20 +25,22 @@ Luma, a fictional athletic apparel company, is looking to promote its latest ap
 The Luma marketing team asks you to implement a summer collection marketing campaign in Journey Optimizer.
 Your challenge is to create a journey in Journey Optimizer. Specifically, you must create the required segment, create four messages, and build the journey.
 
+>![NOTE]
+> If you are working in a shared training sandbox, it is best practice to add your name or initials as a pre-fix to the name of any element you create.
+
 ### Define the Segment – Active Customers
 
-Create a segment in Journey Optimizer target with the new summer collection announcement:
-
-* Name this segment **your name – Active Customers**.
+Create a segment in Journey Optimizer called **your name – Active Customers**.
 * The segment must include only active Luma customers.
 * Active customers are defined as customers who have a tier in Luma’s loyalty program (silver, gold, platinum, or diamond).
 
 +++**Success Criteria**
 
-* In the segment builder, you can see the estimated number of qualified profiles. If you are working in a training sandbox, this number should be greater than 0. It might take some time for the estimates to appear.
-* A qualifying profile has been added to the segment: 
-* You can check the profiles that have been added to the segment qualify by navigating to one of in the profiles listed on your Segment’s Detail view.
-* On the profile page, check the Basic attributes to confirm that they qualify (check the tier that they are in) and then check the segment membership on the profile’s Segment Membership. Your segment should be listed.
+* In the segment builder, you can see the estimated number of qualified profiles. If you are working in a training sandbox that is using the Luma sample data, the [!UICONTROL estimated qualified profiles] should be about 292 profiles of 500.
+* A qualifying profile has been added to the segment:
+  * You can check the profiles that have been added to the segment qualify by navigating to one of in the profiles listed on your Segment’s Detail view.
+  * On the profile page, check the [!UICONTROL Attributes] tab to confirm that they qualify: The tier should be silver, gold, platinum, or diamond.
+  * You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed, but it can take up to 24 hours for it to appear, as the existing profiles need to be backfilled.
 
 +++
 
