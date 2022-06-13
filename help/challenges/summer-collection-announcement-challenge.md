@@ -80,10 +80,10 @@ Create the emails you need for the Summer collection announcement journey. You h
 
 #### Email Message #1– New Seasonal collection announcement
 
-Create an email which announces the arrival of the new summer collection to active Luma customers.
+Create an email message which announces the arrival of the new summer collection to active Luma customers.
 
-1. Create an email message titled **(your name)_Luma New Seasonal Collection Announcement**.
-2. Give the email a subject line **(recipient’s first name), the new Luma collection is here!**
+1. Create a marketing email message titled `(your name)_Luma New Seasonal Collection Announcement`.
+2. Give the email a subject line `(recipient’s first name), the new Luma collection is here!`.
 3. Use the provided HTML file *SeasonalCollectionEmail.html* for the email body.
 
 +++**Success Criteria**
