@@ -25,7 +25,7 @@ Luma, a fictional athletic apparel company, is looking to promote its latest ap
 The Luma marketing team asks you to implement a summer collection marketing campaign in Journey Optimizer.
 Your challenge is to create a journey in Journey Optimizer. Specifically, you must create the required segment, create four messages, and build the journey.
 
->![NOTE]
+>[!NOTE]
 > If you are working in a shared training sandbox, it is best practice to add your name or initials as a pre-fix to the name of any element you create.
 
 ### Define the Segment – Active Customers
@@ -39,13 +39,14 @@ Create a segment in Journey Optimizer called **your name – Active Customers**.
 * In the segment builder, you can see the estimated number of qualified profiles. If you are working in a training sandbox that is using the Luma sample data, the [!UICONTROL estimated qualified profiles] should be about 292 profiles of 500.
 * **A qualifying profile has been added to the segment:**
 You can check the profiles that have been added to the segment qualify by navigating to one of in the profiles listed on your Segment’s Detail view.
-1. On the profile page, check the [!UICONTROL Attributes] tab to confirm that they qualify: The tier should be silver, gold, platinum, or diamond.
+
+  1. On the profile page, check the [!UICONTROL Attributes] tab to confirm that they qualify: The tier should be silver, gold, platinum, or diamond.
 
    ![Profile attributes](assets/C1-S1-profile-attributes.png)
 
-2. You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed.
+  1. You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed.
 
-   >![NOTE]
+   >[!NOTE]
    >It can take up to 24 hours for the segment membership to appear for existing profiles, as the existing profiles need to be backfilled.
 
    ![Segment membership](assets/C1-S1-profile-segment-membership.png)
