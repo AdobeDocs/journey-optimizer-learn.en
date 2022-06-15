@@ -11,7 +11,7 @@ recommendations: noDisplay, noCatalog
 
 # Set up data manually
 
-Learn about manual data management and configuration. You can create the required identity namespaces and define the [!DNL Luma] sample data structure by creating the [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
+ In this section, you create the required identity namespaces and define the [!DNL Luma] sample data structure by creating the [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
 
 >[!TIP]
 >Watch the video tutorial [Map identities](/help/set-up-data/map-identities.md) before you begin.
