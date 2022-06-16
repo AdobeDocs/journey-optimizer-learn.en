@@ -16,8 +16,6 @@ The target audience (persona), as well as the required skills are listed at the 
 
 ## Prerequisites
 
-Complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) 
-
 ### System requirements
 
 * Access to a Journey Optimizer sandbox
@@ -27,7 +25,12 @@ Complete the course [Getting started with Journey Optimizer for Journey Manager
     * View test profiles and their attributes
 * AEM Assets Essentials must be provisioned for your instance
 
+>[!NOTE]
+> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial (Configure a training sandbox)[/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md] for detailed instructions.
+
 ### Required actions
+
+* If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
 
 * Before you can get started, download the [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) file. It contains all assets required for to complete the challenges
 

@@ -16,6 +16,9 @@ level: Beginner
 |Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en)</li><li> [Import and author HTML email content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en)</li><li>[Use Case - Read segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li>|
 |Assets to download|[Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)|
 
+>[!NOTE]
+> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial (Configure a training sandbox)[/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md] for detailed instructions.
+
 ## The Story
 
 Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. Luma is launching the new summer collection and would like to specifically target different customer segments.  
@@ -148,6 +151,8 @@ Preview the email using the Identity namespace: *Email* and the Identity value: 
 
 +++
 
+**Don't forget to publish your emails!**
+
 ### Create the Journey – Summer collection announcement**
 
 Send a summer collection announcement to a segment of existing customers' email promoting the new Luma summer collection.
@@ -206,7 +211,7 @@ You should receive the following emails:
 
 +++
 
-+++**Check your work+++
++++**Check your work
 
 **Journey**
 

@@ -45,7 +45,7 @@ Begin by creating a namespace for the [!DNL Luma] loyalty schema:
 
 ## Step 2: Create schemas
 
-In this step, you define the required structure of the data by creating the six required [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+In this step, you define the structure of the sample data by creating six [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
 
 * [[!DNL Luma Loyalty]](#create-luma-loyalty-schema)
 
