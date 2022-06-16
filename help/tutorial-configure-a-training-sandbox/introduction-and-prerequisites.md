@@ -12,7 +12,7 @@ level: Beginner
 
 ![Banner Tutorial- Configure a training sandbox](./assets/ajo-banner-configure-training-sandbox.png)
 
-This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe Journey Optimizer training environment. Learn the steps required to configure the schemas, ingest sample data, and create events.
+This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe Journey Optimizer training environment. Learn the steps required to configure the schemas, ingest sample data, and create events. You will also create three test profiles that allow the learners to check their work.
 
 The provided sample data is based on a fictional athletic apparel company called _[!DNL Luma]_. [!DNL Luma] has stores in multiple countries, an online presence with a website, and mobile apps. [!DNL Luma] uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
 
@@ -34,7 +34,7 @@ Before you can begin to set up your training sandbox, ensure that you have:
    1. From your downloads folder, move the `luma-data.zip` file to the desired location on your computer, and unzip it.
 
       There should be three JSON files: `luma-crm.json`, `luma-loyalty.json`, `luma-products.json`.
-      
+
       These files hold the sample data that you ingest into your sandbox.
 
    1. Open each file and find **`yourOrganizationID`** and replace it with your [organization ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).

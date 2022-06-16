@@ -45,7 +45,7 @@ Begin by creating a namespace for the [!DNL Luma] loyalty schema:
 
 ## Step 2: Create schemas
 
-In this step, you define the required structure of the data by creating the five required [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+In this step, you define the required structure of the data by creating the six required [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
 
 * [[!DNL Luma Loyalty]](#create-luma-loyalty-schema)
 
@@ -56,6 +56,8 @@ In this step, you define the required structure of the data by creating the five
 * [[!DNL Luma CRM]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 * [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
+
+* [[DNL! Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
@@ -327,14 +329,14 @@ You now have the namespace and the [!DNL Luma] Loyalty schema configured. Before
 
 Create the following additional [!UICONTROL schemas]:
 
-|[!UICONTROL Display name]|[!DNL Luma CRM]| [!DNL Luma Product Interactions] |
-|  ---| ------- | ---- |
-|  **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|
-|  **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details | Identity Map<br>Commerce Details|
+|[!UICONTROL Display name]|[!DNL Luma CRM]| [!DNL Luma Product Interactions]| [DNL! Luma Test Profiles]|
+|  ---| ------- | ---- |----|
+|  **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|[!UICONTROL XDM Individual Profile]|
+|  **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details| Identity Map<br>Commerce Details| Luma Identifiers<br>Demographic Details<br>Personal Contact Details<br>Profile test details|
 |  **[!UICONTROL Relationship]**||*[!DNL productListItems.SKU]*:<br> Reference schema *[!DNL Luma Products]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* schema|
-|  **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(Luma CRM Id)| |
-|  **[!UICONTROL Secondary Identity][!UICONTROL namespace]** | personalEmail.address (Email)<br>mobilePhone.number (Phone)| |
-|   **[!UICONTROL Enable for profile]**| yes | yes |
+|  **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(Luma CRM Id)| | personalEmail.address<br>(Email)|
+|  **[!UICONTROL Secondary Identity] [!UICONTROL namespace]** | personalEmail.address (Email)<br>mobilePhone.number (Phone)| |
+|   **[!UICONTROL Enable for profile]**| yes | yes |yes|
 
 ## Next steps
 

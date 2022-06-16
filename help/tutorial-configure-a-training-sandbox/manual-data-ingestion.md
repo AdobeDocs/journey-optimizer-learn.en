@@ -71,9 +71,9 @@ After creating a dataset, you can ingest data into the dataset.
 >
 >If the batch fails, make sure that you replaced the organization ID in the `luma-loyalty.json` file with your [organization ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
 
-## Create fours additional [!UICONTROL datasets]
+## Create five additional [!UICONTROL datasets]
 
-Next, create the following fours additional [!UICONTROL datasets] and ingest the data into the `Luma CRM Data` and the `Luma Products Data` data sets.
+Next, create the following five additional [!UICONTROL datasets] and ingest the data into the `Luma CRM Data`, the `Luma Products Data`, and the `Luma Test Profiles` data sets.
 
 | Dataset Name | From Schema| File to ingest| Records |
 | -----| ------ | -------| ------- |
@@ -81,6 +81,7 @@ Next, create the following fours additional [!UICONTROL datasets] and ingest the
 | `Luma Products Data`| `Luma Products`| `luma-products.json`| 92|
 | `Luma Product Interactions Data`|`Luma Product Interactions` |none|0|
 |`Luma Product Inventory Events`|`Luma Product Inventory Events`|none| 0 |
+|`Luma Test Profiles`|`Luma Test Profiles`|`luma-test-profiles.json`|3|
 
 ## Next steps
 
