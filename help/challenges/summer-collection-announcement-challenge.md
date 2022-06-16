@@ -17,7 +17,7 @@ level: Beginner
 |Assets to download|[Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)|
 
 >[!NOTE]
-> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial (Configure a training sandbox)[/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md] for detailed instructions.
+> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial [Configure a training sandbox](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) for detailed instructions.
 
 ## The Story
 
