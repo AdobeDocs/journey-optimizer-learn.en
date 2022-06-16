@@ -57,7 +57,7 @@ In this step, you define the required structure of the data by creating the six 
 
 * [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[DNL! Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
@@ -329,7 +329,7 @@ You now have the namespace and the [!DNL Luma] Loyalty schema configured. Before
 
 Create the following additional [!UICONTROL schemas]:
 
-|[!UICONTROL Display name]|[!DNL Luma CRM]| [!DNL Luma Product Interactions]| [DNL! Luma Test Profiles]|
+|[!UICONTROL Display name]|[!DNL Luma CRM]| [!DNL Luma Product Interactions]| [!DNL Luma Test Profiles]|
 |  ---| ------- | ---- |----|
 |  **[!UICONTROL Type]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|[!UICONTROL XDM Individual Profile]|
 |  **[!UICONTROL Add existing field group]**| Luma Identifiers<br>Demographic Details<br>Personal Contact Details| Identity Map<br>Commerce Details| Luma Identifiers<br>Demographic Details<br>Personal Contact Details<br>Profile test details|

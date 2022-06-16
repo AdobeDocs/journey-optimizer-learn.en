@@ -44,7 +44,7 @@ You can check the profiles that have been added to the segment qualify by naviga
 
    ![Profile attributes](assets/C1-S1-profile-attributes.png)
 
-  2. You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed.
+  1. You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed.
 
    >[!NOTE]
    >It can take up to 24 hours for the segment membership to appear for existing profiles, as the existing profiles need to be backfilled.
