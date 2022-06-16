@@ -153,7 +153,7 @@ Preview the email using the Identity namespace: *Email* and the Identity value: 
 
 **Don't forget to publish your emails!**
 
-### Create the Journey – Summer collection announcement**
+### Create the Journey – Summer collection announcement
 
 Send a summer collection announcement to a segment of existing customers' email promoting the new Luma summer collection.
 
