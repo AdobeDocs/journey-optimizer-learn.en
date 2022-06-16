@@ -26,7 +26,7 @@ The target audience (persona), as well as the required skills are listed at the 
 * AEM Assets Essentials must be provisioned for your instance
 
 >[!NOTE]
-> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial (Configure a training sandbox)[/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md] for detailed instructions.
+> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial [Configure a training sandbox](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) for detailed instructions.
 
 ### Required actions
 
