@@ -38,13 +38,13 @@ Create a segment in Journey Optimizer called **your name – Active Customers**.
 
 * In the segment builder, you can see the estimated number of qualified profiles. If you are working in a training sandbox that is using the Luma sample data, the [!UICONTROL estimated qualified profiles] should be about 292 profiles of 500.
 * **A qualifying profile has been added to the segment:**
-You can check the profiles that have been added to the segment qualify by navigating to one of in the profiles listed on your Segment’s Detail view.
+You can check the profiles that have been added to the segment qualify by navigating to one of in the profiles listed on your Segment’s Detail view. 
 
   1. On the profile page, check the [!UICONTROL Attributes] tab to confirm that they qualify: The tier should be silver, gold, platinum, or diamond.
 
    ![Profile attributes](assets/C1-S1-profile-attributes.png)
 
-  1. You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed.
+  2. You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed.
 
    >[!NOTE]
    >It can take up to 24 hours for the segment membership to appear for existing profiles, as the existing profiles need to be backfilled.
@@ -75,7 +75,7 @@ loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or l
 
 ### Create Emails - From HTML
 
-Create the emails you need for the Summer collection announcement journey. You have received for HTML filed from an agency with the design for the email bodies:
+Create the emails you need for the Summer collection announcement journey. You have received four HTML files from an agency with the design for the email bodies:
 
 [Download the Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)
 

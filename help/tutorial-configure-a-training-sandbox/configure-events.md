@@ -1,6 +1,6 @@
 ---
 title: Configure events
-description: Learn how to configure a sandbox for training purposes 
+description: Configure three events required for the hands on Journey Optimizer Challenges
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 kt: 9382
