@@ -211,7 +211,7 @@ You should receive the following emails:
 
 +++
 
-+++**Check your work
++++**Check your work**
 
 **Journey**
 
