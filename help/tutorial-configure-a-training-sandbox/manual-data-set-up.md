@@ -57,7 +57,7 @@ In this step, you define the required structure of the data by creating the six 
 
 * [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
