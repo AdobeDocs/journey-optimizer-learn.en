@@ -29,7 +29,7 @@ Before you can begin to set up your training sandbox, ensure that you have:
 
 1. The JSON files with the sample data, configured to your Journey Optimizer instance:
 
-   1. Download the `luma-data.zip` file [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip), which contains all Jason files required for this tutorial.
+   1. Download the `luma-data.zip` file [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip), which contains all JSON files required for this tutorial.
 
    1. From your downloads folder, move the `luma-data.zip` file to the desired location on your computer, and unzip it.
 
