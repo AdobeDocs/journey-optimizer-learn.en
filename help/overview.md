@@ -17,7 +17,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ### Tutorials
 
-* **[Configure message frequency rules](help/administration/configure-frequency-rules.md)**
+* **[Configure message frequency rules](/help/administration/configure-frequency-rules.md)**
   
   *Learn how to create, activate, test and report on frequency rules. Understand how to determine which frequency rules will be inherited for a message*
 
