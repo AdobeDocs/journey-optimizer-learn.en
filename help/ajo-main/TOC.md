@@ -54,6 +54,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Mobile capabilities for marketers](/help/create-messages/mobile-capabilities.md)
   + [Mobile capabilities for designers](/help/create-messages/mobile-capabilities-for-developers.md)
   + [Configure, author, and deliver SMS messages](/help/create-messages/configure-author-and-deliver-sms-messages.md)
+  + [Inbound keyword support for SMS](/help/create-messages/inbound-keyword-support-for-SMS.md)
 + Personalize content {#personalize-content}
   + [Profile and segment membership-based personalization](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
