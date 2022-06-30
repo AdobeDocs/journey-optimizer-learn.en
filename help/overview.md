@@ -29,10 +29,6 @@ This user guide contains videos and tutorials on features and capabilities of Ad
   
   *Learn how to create, activate, test, and report on frequency rules. Understand how to determine which frequency rules will be inherited for a message.*
 
-* **[Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)**
-  
-  *Learn how to configure subscriptions and create landing pages.*
-
 ### Experience League Live Events
 
 * **[Push notifications with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
