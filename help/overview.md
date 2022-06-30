@@ -17,6 +17,10 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ### Tutorials
 
+* **[Configure, author, and deliver SMS messages](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+  *Learn how to configure, author, and include SMS messaging into your customer journeys.*
+
 * **[Configure message frequency rules](/help/administration/configure-frequency-rules.md)**
   
   *Learn how to create, activate, test, and report on frequency rules. Understand how to determine which frequency rules will be inherited for a message.*
@@ -24,10 +28,6 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 * **[Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)**
   
   *Learn how to configure subscriptions and create landing pages.*
-
-* **[Use and manage saved expressions in the personalization library](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-  
-  *Learn how to use saved personalization library items in a message and how to create and manage personalization library items.*
 
 ### Experience League Live Events
 
