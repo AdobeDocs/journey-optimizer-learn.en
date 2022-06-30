@@ -21,6 +21,10 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
   *Learn how to configure, author, and include SMS messaging into your customer journeys.*
 
+* **[Inbound keyword support for SMS](/help/create-messages/inbound-keyword-support-for-SMS.md)**
+
+  *Understand how native inbound keyword support (start,stop,unstop) for SMS works.*
+
 * **[Configure message frequency rules](/help/administration/configure-frequency-rules.md)**
   
   *Learn how to create, activate, test, and report on frequency rules. Understand how to determine which frequency rules will be inherited for a message.*
