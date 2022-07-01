@@ -6,6 +6,7 @@ role: User, Admin
 level: Beginner
 kt: 10616
 thumbnail: 344026.jpg
+exl-id: b7233ee0-6450-467d-b41f-f81e3b870005
 ---
 # Inbound keyword support for SMS
 
