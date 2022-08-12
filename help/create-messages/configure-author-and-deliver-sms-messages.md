@@ -2,7 +2,7 @@
 title: Configure, author, and deliver SMS messages
 description: Learn how to configure, author, and include SMS messaging into your customer journeys.
 feature: SMS
-role: User, Administrator
+role: User, Admin
 level: Beginner
 kt: 10576
 thumbnail: 344460.jpg
