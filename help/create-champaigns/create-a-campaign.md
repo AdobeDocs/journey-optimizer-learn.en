@@ -8,6 +8,7 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 ---
 # Create a campaign
 
