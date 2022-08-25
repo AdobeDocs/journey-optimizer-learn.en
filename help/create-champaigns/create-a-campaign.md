@@ -1,6 +1,6 @@
 ---
 title: Create a campaign
-description: Learn how to deliver one-time content to a specific user segment by executing actions immediately, or on a specified schedule.
+description: Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.
 kt: 10590
 thumbnail: 346680.jpg
 feature: Journeys
@@ -15,7 +15,7 @@ level: Beginner
 >
 >This feature is only available to users with access to a Campaign related Product Profile such as Campaign administrator, Campaign approver, Campaign manager and/or Campaign viewer. For more information on how to assign product profiles, refer to [this video](/help/set-up-access/access-management.md).
 
-Learn how to deliver one-time content to a specific user segment by executing actions immediately, or on a specified schedule.
+Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12)
 

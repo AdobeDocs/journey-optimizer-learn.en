@@ -19,7 +19,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 * **[Create a campaign](/help/create-champaigns/create-a-campaign.md)**
   
-  *Learn how to deliver one-time content to a specific user segment by executing actions immediately, or on a specified schedule.*
+  *Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.*
 
   
 * **[Configure, author, and deliver SMS messages](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
