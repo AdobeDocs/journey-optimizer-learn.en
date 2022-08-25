@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer Videos and Tutorials
-description: We’ve got a range of video tutorials to show you how to reap the benefits of Journey Optimizer.
+description: We've got a range of video tutorials to show you how to reap the benefits of Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 ---
@@ -9,7 +9,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer helps companies deliver connected, contextual, and personalized experiences to their customers. The customer journey is the entire process of a customer’s interactions with the brand, from the first moments of contact until the customer exits the site. 
+Journey Optimizer helps companies deliver connected, contextual, and personalized experiences to their customers. The customer journey is the entire process of a customer's interactions with the brand, from the first moments of contact until the customer exits the site. 
 
 This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer.
 
@@ -17,6 +17,11 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ### Tutorials
 
+* **[Create a campaign](/help/create-champaigns/create-a-campaign.md)**
+  
+  *Learn how to deliver one-time content to a specific user segment by executing actions immediately, or on a specified schedule.*
+
+  
 * **[Configure, author, and deliver SMS messages](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
   *Learn how to configure, author, and include SMS messaging into your customer journeys.*
@@ -24,10 +29,6 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 * **[Inbound keyword support for SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
   *Understand how native inbound keyword support (start, stop, unstop) for SMS works.*
-
-* **[Configure message frequency rules](/help/administration/configure-frequency-rules.md)**
-  
-  *Learn how to create, activate, test, and report on frequency rules. Understand how to determine which frequency rules will be inherited for a message.*
 
 ### Experience League Live Events
 
