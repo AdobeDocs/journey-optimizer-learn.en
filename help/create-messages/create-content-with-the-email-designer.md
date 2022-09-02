@@ -1,5 +1,5 @@
 ---
-title: Create email content with the message editor
+title: Create content with the Email Designer
 description: Learn how to create emails from scratch. Understand how to use assets from the AEM Assets Essentials library, edit the responsive email design, and create emails from templates with our Journey Optimizer support video.
 kt: 8057
 thumbnail: 334150.jpg
@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
 ---
-# Create email content with the message editor 
+# Create content with the Email Designer
 
 Learn how to create emails from scratch. Understand how to use assets from the AEM Assets Essentials library, edit the responsive email design, and create emails from templates. 
 

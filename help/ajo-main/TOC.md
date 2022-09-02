@@ -48,7 +48,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Create messages {#create-messages}
   + [Message designer overview](/help/create-messages/message-designer-overview.md)
-  + [Create email content with the message editor](/help/create-messages/create-email-content-with-the-message-editor.md)
+  + [Create content with the Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
   + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
   + [Preview, proof, and publish](/help/create-messages/preview-proof-and-publish.md)
   + [Mobile capabilities for marketers](/help/create-messages/mobile-capabilities.md)
