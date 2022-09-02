@@ -52,7 +52,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
   + [Preview, proof, and publish](/help/create-messages/preview-proof-and-publish.md)
   + [Mobile capabilities for marketers](/help/create-messages/mobile-capabilities.md)
-  + [Mobile capabilities for designers](/help/create-messages/mobile-capabilities-for-developers.md)
+  + [Mobile capabilities for developers](/help/create-messages/mobile-capabilities-for-developers.md)
   + [Configure, author, and deliver SMS messages](/help/create-messages/configure-author-and-deliver-sms-messages.md)
   + [Inbound keyword support for SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Personalize content {#personalize-content}
