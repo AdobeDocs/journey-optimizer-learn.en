@@ -62,5 +62,6 @@ user-guide-description: Here are Journey Optimizer Tutorials.
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
 + Exercises {#exercises}
+  + [Tutorial: Import sample data to Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en)
   + [Tutorial: Create a training sandbox](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
   + [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
