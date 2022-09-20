@@ -41,13 +41,13 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
   + [Create events](/help/set-up-journeys/create-events.md)
   + [Create actions](/help/set-up-journeys/create-actions.md)
-+ Customer profiles, segments and subscriptions {#profiles-segments-subscriptions}
++ Customer profiles, segments, and subscriptions {#profiles-segments-subscriptions}
   + [Unified profile and segmentation - overview](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
   + [Create segments](/help/set-up-resources/create-segments.md)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Create messages {#create-messages}
-  + [Message designer overview](/help/create-messages/message-designer-overview.md)
+  + [Message Designer overview](/help/create-messages/message-designer-overview.md)
   + [Create content with the Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
   + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
   + [Preview, proof, and publish](/help/create-messages/preview-proof-and-publish.md)
