@@ -75,3 +75,5 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
++ Privacy {#privacy}
+  + [Mask data in messages](/help/privacy/mask-data-in-messages.md)

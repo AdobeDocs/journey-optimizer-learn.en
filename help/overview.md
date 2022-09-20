@@ -17,18 +17,17 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ### Tutorials
 
+* **[Mask data in messages](/help/privacy/mask-data-in-messages.md)**
+
+  *Understand what data masking is and why mask data. Learn how to mask data in Journey Optimizer messages.*
+
 * **[Create a campaign](/help/create-champaigns/create-a-campaign.md)**
   
   *Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.*
-
   
 * **[Configure, author, and deliver SMS messages](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
   *Learn how to configure, author, and include SMS messaging into your customer journeys.*
-
-* **[Inbound keyword support for SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-  *Understand how native inbound keyword support (start, stop, unstop) for SMS works.*
 
 ### Experience League Live Events
 
