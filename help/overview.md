@@ -120,7 +120,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
     </a>
     </div>
     <p>
-    <em>Learn the difference between live and global reports, how to access and analyze the Journey and the Message specific reports, and how to modify the report dashboards.
+    <em>Learn the difference between live and global reports, how to access and analyze the journey- and the message-specific reports, and how to modify the report dashboards.
 
 </em>
     <p>
