@@ -4,6 +4,7 @@ description: Learn how to create decisions for decision management. A decision c
 feature: Offers
 kt: 6791
 thumbnail: 329606.jpg
+last-update-author: 20220422
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 ---
 # Create decisions
