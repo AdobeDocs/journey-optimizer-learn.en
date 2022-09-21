@@ -2,6 +2,7 @@
 title: Journey Optimizer Tutorials - Overview
 description: We've got a range of video tutorials to show you how to reap the benefits of Journey Optimizer.
 recommendations: noDisplay, noCatalog
+doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 ---
 
