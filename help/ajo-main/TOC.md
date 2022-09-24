@@ -73,6 +73,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Use case - Burst message](/help/create-journeys/use-case-burst-message.md)
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
+  + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
 + Privacy {#privacy}

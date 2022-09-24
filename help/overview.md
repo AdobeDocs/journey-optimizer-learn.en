@@ -18,6 +18,10 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ### Tutorials
 
+* **[Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)**
+
+  *Learn how to copy a journey and its dependent objects from one sandbox to another.*
+  
 * **[Mask data in messages](/help/privacy/mask-data-in-messages.md)**
 
   *Understand what data masking is and why mask data. Learn how to mask data in Journey Optimizer messages.*
