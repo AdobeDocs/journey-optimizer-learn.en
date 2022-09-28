@@ -6,7 +6,7 @@ thumbnail: 336218.jpg
 feature: Reporting
 doc-type: feature video
 team: PM
-role: Admini
+role: Admin
 last-update-author: 20220928
 ---
 
