@@ -3,7 +3,7 @@ title: Use alerts
 description: Learn how to subscribe to pre-defined alerts for unexpected journey behaviors and get notified via Email, within Journey Optimizer or using an API.
 kt: 11081
 thumbnail: 336218.jpg
-feature: Reporting
+feature: Alerts
 doc-type: feature video
 team: PM
 role: Admin
