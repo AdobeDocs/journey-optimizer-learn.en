@@ -16,8 +16,9 @@ Learn how to subscribe to pre-defined alerts for unexpected journey behaviors an
 
 >[!NOTE]
 >
->The video shows the alerts feature from the Adobe Experience Platform user interface. The feature is accessible in Journey Optimizer from the left navigation ADMINISTRATION > Alerts.
-> 
->When accessing alerts from Journey Optimizer, by default only alters specific to your Journey Optimizer instance are displayed.
+>The video shows the alerts feature in the Adobe Experience Platform user interface. The feature is accessible in Journey Optimizer from the left navigation ADMINISTRATION > Alerts.
+>
+>
+>When accessing alerts from Journey Optimizer, by default only alerts specific to your Journey Optimizer instance are displayed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)
