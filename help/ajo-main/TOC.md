@@ -76,5 +76,6 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
+  + [Use alerts](/help/administration/alerts.md)
 + Privacy {#privacy}
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
