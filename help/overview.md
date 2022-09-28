@@ -18,6 +18,10 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ### Tutorials
 
+* **[Use alerts](/help/administration/alerts.md)**
+  
+  *Learn how to subscribe to pre-defined alerts for unexpected journey behaviors and get notified via Email, within Journey Optimizer or using an API.* 
+  
 * **[Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)**
 
   *Learn how to copy a journey and its dependent objects from one sandbox to another.*
@@ -26,15 +30,12 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
   *Understand what data masking is and why mask data. Learn how to mask data in Journey Optimizer messages.*
 
-* **[Create a campaign](/help/create-champaigns/create-a-campaign.md)**
-  
-  *Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.*
-  
-* **[Configure, author, and deliver SMS messages](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
-
-  *Learn how to configure, author, and include SMS messaging into your customer journeys.*
 
 ### Experience League Live Events
+
+* **[Execute your campaigns in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
+
+  *In this Experience League Live episode, originally held on September 22, 2022, see host Sandra Hausmann and product experts Bridgette Darling and Frederic Mary as they discuss the use cases this new feature covers and demonstrate how to easily set up and execute a Campaign in Journey Optimizer.*
 
 * **[Push notifications with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
 
