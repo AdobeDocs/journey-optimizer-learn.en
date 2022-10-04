@@ -7,7 +7,7 @@ feature: Alerts
 doc-type: feature video
 team: PM
 role: Admin
-last-update-author: 20220928
+last-substantial-update: 2022-09-28
 ---
 
 # Use alerts

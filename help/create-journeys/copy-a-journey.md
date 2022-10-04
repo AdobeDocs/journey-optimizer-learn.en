@@ -8,7 +8,7 @@ doc-type: feature video
 team: TM
 role: User
 level: Beginner
-last-update-author: 20220923
+last-substantial-update: 2022-09-23
 ---
 
 # Copy a journey to another sandbox

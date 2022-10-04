@@ -7,8 +7,7 @@ feature: Privacy
 doc-type: feature video
 team: TM
 role: User
-level: Beginner
-last-update-author: 20220921
+last-substantial-update: 2022-09-21
 ---
 
 # Mask data in messages

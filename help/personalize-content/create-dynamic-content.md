@@ -8,7 +8,7 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-last-update-author: 20221003
+last-substantial-update: 2022-10-03
 ---
 # Create dynamic content with the condition rule builder
 

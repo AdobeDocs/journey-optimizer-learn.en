@@ -14,6 +14,8 @@ Journey Optimizer helps companies deliver connected, contextual, and personalize
 
 This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer.
 
+<div id="whats-new-section">
+
 ## What's New
 
 ### Tutorials
@@ -30,6 +32,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 * **[Mask data in messages](/help/privacy/mask-data-in-messages.md)**
   *Understand what data masking is and why mask data. Learn how to mask data in Journey Optimizer messages.*
 
+</div>
 
 ### Experience League Live Events
 
@@ -38,6 +41,8 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 * **[Push notifications with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
   *In this Experience League Live episode, we talk about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.*
+
+<div id="staff-picks-section">
 
 ## Staff Picks
 
@@ -131,3 +136,5 @@ This user guide contains videos and tutorials on features and capabilities of Ad
   </td>
 </tr>
 </table>
+
+</div>
