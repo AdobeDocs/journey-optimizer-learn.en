@@ -18,6 +18,9 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ### Tutorials
 
+* **[Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)**
+  *Learn how to create and save condition rules and how to apply these condition rules to content across all channels.*
+
 * **[Use alerts](/help/administration/alerts.md)**
   *Learn how to subscribe to pre-defined alerts for unexpected journey behaviors and get notified via Email, within Journey Optimizer or using an API.* 
   

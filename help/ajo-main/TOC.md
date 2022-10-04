@@ -61,6 +61,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Use contextual event information for personalization](/help/personalize-content/use-contextual-event-information-for-personalization.md)
   + [Use helper functions for personalization](/help/personalize-content/use-helper-functions-for-personalization.md)
   + [Use and manage saved expressions in the personalization library](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
+  + [Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)
 + Create Campaigns {#create-campaigns}
   + [Create a Campaign](/help/create-champaigns/create-a-campaign.md)
 + Create journeys {#create-journeys}
