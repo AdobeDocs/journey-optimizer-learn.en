@@ -9,6 +9,8 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 33b8ee09-4cd8-475c-bf8e-a7934eff19a1
+hide: yes
+hidefromtoc: yes
 ---
 # Adobe Journey Optimizer Architecture 
 
