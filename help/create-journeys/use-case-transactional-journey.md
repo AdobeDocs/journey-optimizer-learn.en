@@ -9,6 +9,8 @@ team: PM
 role: User
 level: Beginner
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
+hidefromtoc: yes
+hide: yes
 ---
 # Use Case - Transactional Journey 
 

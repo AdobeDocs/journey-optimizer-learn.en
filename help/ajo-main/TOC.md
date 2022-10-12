@@ -47,7 +47,6 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Create messages {#create-messages}
-  + [Message Designer overview](/help/create-messages/message-designer-overview.md)
   + [Create content with the Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
   + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
   + [Preview, proof, and publish](/help/create-messages/preview-proof-and-publish.md)
@@ -71,7 +70,6 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Use case - Read segment](/help/create-journeys/use-case-read-segment.md)
   + [Use case - Business event](/help/create-journeys/use-case-business-event.md)
   + [Use case - Segment qualification](/help/create-journeys/use-case-read-segment-qualification.md)
-  + [Use case - Burst message](/help/create-journeys/use-case-burst-message.md)
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
