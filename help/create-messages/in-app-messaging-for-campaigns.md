@@ -1,7 +1,7 @@
 ---
 title: In-App messaging for Campaigns
 description: Understand what an in-app message is. Learn how to create, configure and publish in-app messages in Campaigns.
-feature: In-App
+feature: In App
 role: User
 level: Beginner
 kt: 9499
