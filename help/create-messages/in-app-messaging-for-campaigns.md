@@ -1,5 +1,5 @@
 ---
-title: In-App messaging for Campaigns
+title: In-app messaging for campaigns
 description: Understand what an in-app message is. Learn how to create, configure, and publish in-app messages in Campaigns.
 feature: In App
 role: User
@@ -10,7 +10,7 @@ last-update-author: 20221018
 hidefromtoc: yes
 hide: yes
 ---
-# In-App messaging for Campaigns
+# In-app messaging for campaigns
 
 Understand what an in-app message is. Learn how to create, configure, and publish in-app messages in Campaigns.
 
