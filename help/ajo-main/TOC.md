@@ -32,11 +32,11 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Create segments](/help/set-up-resources/create-segments.md)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Create messages {#create-messages}
-  + [Create emails] {#create-emails}
+  + Create emails {#create-emails}
     + [Create content with the Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/create-messages/preview-proof-and-publish.md)
-  + Create SMS messages {#create-sms}
+  + Create SMS text messages {#create-sms}
     + [Configure, author, and deliver SMS messages](/help/create-messages/configure-author-and-deliver-sms-messages.md)
     + [Inbound keyword support for SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
   + Create in-app messages {#create-in-app}
