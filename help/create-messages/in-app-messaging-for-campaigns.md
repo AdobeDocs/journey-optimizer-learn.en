@@ -12,6 +12,11 @@ hide: yes
 ---
 # In-app messaging for campaigns
 
+>[!NOTE]
+> 
+> Please note that in-app messaging is in beta and is not available to all customers yet.
+>  
+
 Understand what an in-app message is. Learn how to create, configure, and publish in-app messages in Campaigns.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on)
