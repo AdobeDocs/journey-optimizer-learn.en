@@ -6,7 +6,7 @@ doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 ---
 
-# Journey Optimizer Tutorials - Overview
+# Journey Optimizer tutorials
 
 ![](./assets/ajo-banner.png)
 
@@ -16,9 +16,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 <div id="whats-new-section">
 
-## What's New
-
-### Tutorials
+## What's new
 
 * **[Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)**
   *Learn how to create and save condition rules and how to apply these condition rules to content across all channels.*
@@ -34,7 +32,10 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 </div>
 
-### Experience League Live Events
+
+<div id="events-section">
+ 
+## Experience League Live events
 
 * **[Execute your campaigns in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
   *In this Experience League Live episode, originally held on September 22, 2022, see host Sandra Hausmann and product experts Bridgette Darling and Frederic Mary as they discuss the use cases this new feature covers and demonstrate how to easily set up and execute a Campaign in Journey Optimizer.*
@@ -42,9 +43,18 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 * **[Push notifications with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
   *In this Experience League Live episode, we talk about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.*
 
+ </div>
+ 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+ 
 <div id="staff-picks-section">
 
-## Staff Picks
+## Staff picks
 
 <table>
 <tr>
