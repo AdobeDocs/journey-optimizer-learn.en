@@ -9,6 +9,7 @@ team: PM
 role: User
 level: Beginner
 last-substantial-update: 2022-10-03
+exl-id: 882c25c2-c990-4d20-9afe-fc5d4030bf0b
 ---
 # Create dynamic content with the condition rule builder
 

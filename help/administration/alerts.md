@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Admin
 last-substantial-update: 2022-09-28
+exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
 ---
-
 # Use alerts
 
 Learn how to subscribe to pre-defined alerts for unexpected journey behaviors and get notified via Email, within Journey Optimizer or using an API.
