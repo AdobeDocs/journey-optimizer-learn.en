@@ -4,15 +4,16 @@ description: Understand the basics of building a journey in the journey canvas.
 feature: Journeys
 role: Admin
 level: Beginner
+hide: yes
 ---
 
 # Journey Optimizer Challenges - Introduction and prerequisites
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
-Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. Each challenge in this section addresses a unique use case that you will implement.
+Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. 
 
-The target audience (persona), as well as the required skills are listed at the beginning of each challenge.
+Each challenge in this section addresses a unique use case that you will implement. The target audience (persona), as well as the required skills are listed at the beginning of each challenge.
 
 ## Prerequisites
 
@@ -24,9 +25,10 @@ The target audience (persona), as well as the required skills are listed at the 
     * *Journey Manager* or *Journey Administrator* rights
     * View test profiles and their attributes
 * AEM Assets Essentials must be provisioned for your instance
+* The email channel must be configured for transactional and marketing messages
 
 >[!NOTE]
-> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial [Configure a training sandbox](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) for detailed instructions.
+> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial [Import sample data to Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) for detailed instructions.
 
 ### Required actions
 
@@ -60,7 +62,11 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
       <p>
       <em>Promote the new Luma summer collection. </em>
       <p>
-    </td>
+      <b>Required skills:</b>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html> Create segments</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html>Import and author HTML email content</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html>Use Case - Read segment</li>
+  </td>
   </tr>
   <tr>
   <td>
