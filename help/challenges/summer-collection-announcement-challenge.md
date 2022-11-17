@@ -25,7 +25,7 @@ hide: yes
 
 Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. Luma is launching the new summer collection and would like to specifically target different customer segments.  
 
-## YOUR CHALLENGE
+## Your Challenge
 
 The Luma marketing team asks you to implement a summer collection marketing campaign in Journey Optimizer.
 
@@ -48,8 +48,9 @@ Create a segment in Journey Optimizer called **your name – Active Customers**.
 
 >[!TAB Success Criteria]
 
-* In the segment builder, you can see the estimated number of qualified profiles. If you are working in a training sandbox that is using the Luma sample data, the [!UICONTROL estimated qualified profiles] should be about 292 profiles of 500.
-* **A qualifying profile has been added to the segment:**
+In the segment builder, you can see the estimated number of qualified profiles. If you are working in a training sandbox that is using the Luma sample data, the [!UICONTROL estimated qualified profiles] should be about 292 profiles of 500.
+
+**A qualifying profile has been added to the segment:**
 
 You can check the profiles that have been added to the segment qualify by navigating to one of in the profiles listed on your Segment's Detail view. 
 
