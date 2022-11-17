@@ -19,23 +19,21 @@ Each challenge in this section addresses a unique use case that you will impleme
 
 ### System requirements
 
-* Access to a Journey Optimizer sandbox
-  * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) for instructions.
-  * You need the following access rights:
+*   Access to a Journey Optimizer sandbox
+*   It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) for instructions.
+*   You need the following access rights:
     * *Journey Manager* or *Journey Administrator* rights
     * View test profiles and their attributes
-* AEM Assets Essentials must be provisioned for your instance
-* The email channel must be configured for transactional and marketing messages
+*   AEM Assets Essentials must be provisioned for your instance
+*   The email channel must be configured for transactional and marketing messages
 
 >[!NOTE]
 > The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial [Import sample data to Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) for detailed instructions.
 
 ### Required actions
 
-* If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
-
+*   If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
 * Before you can get started, download the [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) file. It contains all assets required for to complete the challenges
-
 * From your downloads folder, move the `luma-assets.zip` file to the desired location on your computer, and unzip it.
 
 ## The Story
