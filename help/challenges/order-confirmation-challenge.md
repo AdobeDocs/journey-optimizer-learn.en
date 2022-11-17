@@ -5,6 +5,7 @@ kt: 7531
 feature: Journeys
 role: User
 level: Beginner
+hide: yes
 ---
 
 # Create an order confirmation transactional email
@@ -31,7 +32,7 @@ Create an order confirmation email that is triggered when a Luma customer comple
 
 ### Create the order confirmation email
 
-Create a new email message titled “(your name)_Luma – Order confirmation”. The subject line must be personalized with the recipients’ first name and must include the phrase “thank you for your purchase”
+Create a new email message titled "(your name)_Luma – Order confirmation". The subject line must be personalized with the recipients' first name and must include the phrase "thank you for your purchase"
 
 Following the Luma brand guideline the email should be structured as follows:
 
@@ -136,7 +137,7 @@ Following the Luma brand guideline the email should be structured as follows:
 
 ### Create the journey
 
-1. Call the journey “your name _Luma-Order Confirmation”
+1. Call the journey "your name _Luma-Order Confirmation"
 1. Use the event: LumaOnlinePurchase
 1. Action: Add the message you created in step 1
 1. Go back to the message and add the contextual attributes
@@ -150,27 +151,27 @@ Following the Luma brand guideline the email should be structured as follows:
 
 Trigger the Journey you created in test mode and send the email to yourself:
 
-1. Show the hidden values by clicking the eye symbol:
-   1. In the Email parameters click on the T symbol (enable parameter override
+1.  Show the hidden values by clicking the eye symbol:
+    1.  In the Email parameters click on the T symbol (enable parameter override
       ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
-   1. Click into the Address field
-   1. On the next screen add your email address in parentheses: *yourname@yourdomain* in the expression editor and click ok.  
-1. Put the journey into test mode
-1. Trigger the event with the following parameters:
-   * Set the profile identifier to: Jenna_Palmer9530@emailsim.io
-   * Event Type: commerce.purchases
-   * Name: Sprite Yoga Companion Kit
-   * Quantity: 1
-   * Price Total: 61
-   * Order number: 6253728
-   * SKU: 24-WG080
-   * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+    2.  Click into the Address field
+    3.  On the next screen add your email address in parentheses: *yourname@yourdomain* in the expression editor and click ok.  
+2.  Put the journey into test mode
+3.  Trigger the event with the following parameters:
+    * Set the profile identifier to: Jenna_Palmer9530@emailsim.io
+    * Event Type: commerce.purchases
+    * Name: Sprite Yoga Companion Kit
+    * Quantity: 1
+    * Price Total: 61
+    * Order number: 6253728
+    * SKU: 24-WG080
+    * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
 
 You should receive the personalized purchase confirmation email, with the specified product.
 
-* The subject line should start with your test profile’s first name: Jenna
-* The order detail section should be populated with the order details you entered while testing
-* The customer information should have your test profile’s city and postal code:
+*   The subject line should start with your test profile's first name: Jenna
+*   The order detail section should be populated with the order details you entered while testing
+*   The customer information should have your test profile's city and postal code:
 
     43913 Thierer Terrace,
     Washington DC 20099
@@ -201,7 +202,7 @@ Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 
 List of products:
 
-Use the helper function “each” to create the list of products. This is what your code should look like:
+Use the helper function "each" to create the list of products. This is what your code should look like:
 
 ```javascript
 {{#each context.journey.events.1911672547.productListItems as|product|}}

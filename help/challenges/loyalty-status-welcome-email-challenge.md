@@ -5,6 +5,7 @@ kt: 8109
 feature: Journeys
 role: User
 level: Beginner
+hide: yes
 ---
 
 # Create a loyalty status welcome email - Challenge
@@ -49,9 +50,9 @@ Create a welcome email message
 
 Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits.
 
-1. Create a journey triggered when a customer moves into Diamond new loyalty tier (specifically when the customer enters the segment defined for a new Diamond level member) to send the “Luma – New Status – Diamond – Transactional” email
+1. Create a journey triggered when a customer moves into Diamond new loyalty tier (specifically when the customer enters the segment defined for a new Diamond level member) to send the "Luma – New Status – Diamond – Transactional" email
 2. Once completed, put the journey in test mode and trigger the journey to send to yourself  
 
 SUCCESS CRITERIA
 
-You should receive the personalized “Luma – New Status- Diamond-Transactional” email.
+You should receive the personalized "Luma – New Status- Diamond-Transactional" email.

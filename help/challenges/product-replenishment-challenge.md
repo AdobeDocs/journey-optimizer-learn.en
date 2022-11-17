@@ -5,6 +5,7 @@ kt: 8417
 feature: Segments
 role: User
 level: Beginner
+hide: yes
 ---
 
 # Product Replenishment Challenge
@@ -68,7 +69,7 @@ Notify customers who had added an out-of-stock item with a call to start shoppin
 
 When a previously out-of-stock item is back in stock, notify customers who had added an out-of-stock item with a call to start shopping now that the item is back in stock.
 
-1. Create a journey called “your name_Luma - Product Restock
+1. Create a journey called "your name_Luma - Product Restock
 1. The journey should be triggered when a product is back in stock
 1. Send the *Luma-Product Replenishment* email to
 1. Users who had added this item to their wishlist while it was out of stock
@@ -95,7 +96,7 @@ Test your journey:
    * Stock Event Type: restock
    * Profile Identifier: Jenna_Palmer9530@emailsim.io
 
-You should receive the “Luma Email Product Replenishment” email with the product details and the personalization for Jenna.
+You should receive the "Luma Email Product Replenishment" email with the product details and the personalization for Jenna.
 
 +++
 
