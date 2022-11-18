@@ -13,7 +13,7 @@ hide: yes
 
 Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. 
 
-Each challenge in this section addresses a unique use case that you will implement. The target audience (persona), as well as the required skills are listed at the beginning of each challenge.
+Each challenge in this section addresses a unique use case that you will implement. The target audience (persona), and the required skills are listed at the beginning of each challenge.
 
 ## Prerequisites
 
@@ -61,8 +61,8 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
       <em>Promote the new Luma summer collection. </em>
       <p>
       <b>Required skills:</b>
-      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html> Create segments</li>
-      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html>Import and author HTML email content</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html> Create segments</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html>Import and author HTML email content</li>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html>Use Case - Read segment</li>
   </td>
   </tr>
@@ -88,7 +88,7 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
     <td>
     <div>
     <a href="product-replenishment-challenge.md">
-      <img alt="Luma website" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
+      <img alt="Luma website" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>

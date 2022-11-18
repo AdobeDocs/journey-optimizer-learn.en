@@ -128,7 +128,7 @@ Create a journey called `(your name) - Summer collection announcement` based on 
 Preview the email using the Identity namespace: *Email* and the Identity value: *Jenna_Palmer9530@emailsim.io*
 
 * The subject line should read: Jenna, the new Luma collection is here!
-* The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/SeasonalCollectionEmail.html)
+* The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **Email Message #2 - Luma Men's Collection**
