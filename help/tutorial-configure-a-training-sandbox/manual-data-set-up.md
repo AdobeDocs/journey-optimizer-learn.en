@@ -7,8 +7,8 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 ---
-
 # Set up data manually
 
  In this section, you create the required identity namespaces and define the [!DNL Luma] sample data structure by creating the [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html).
