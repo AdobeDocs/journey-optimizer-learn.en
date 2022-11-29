@@ -6,8 +6,8 @@ feature: Journeys
 role: User
 level: Beginner
 hide: yes
+exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 ---
-
 # Create a loyalty status welcome email - Challenge
 
 ![AJO Loyalty status welcome email - Challenge Banner](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)

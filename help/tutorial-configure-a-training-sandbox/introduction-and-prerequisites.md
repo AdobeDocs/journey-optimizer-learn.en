@@ -6,8 +6,8 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 ---
-
 # Configure a training sandbox - Introduction and prerequisites
 
 ![Banner Tutorial- Configure a training sandbox](./assets/ajo-banner-configure-training-sandbox.png)

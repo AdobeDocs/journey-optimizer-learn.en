@@ -1,13 +1,13 @@
 ---
-title: Create an order confirmation 
+title: Create an order confirmation
 description: Test your knowledge on how to create and personalize transactional messages
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: yes
+exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 ---
-
 # Create an order confirmation transactional email
 
 ![Order confirmation](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
@@ -233,4 +233,3 @@ The personalization should look like this:
 ![Journey](/help/challenges/assets/c2-journey.png)
 
 +++
-

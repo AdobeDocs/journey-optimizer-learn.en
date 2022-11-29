@@ -7,8 +7,8 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
 ---
-
 # Ingest data manually
 
 This section guides you through the required steps to create data sets and ingest sample data.

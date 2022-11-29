@@ -7,8 +7,8 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 ---
-
 # Configure events
 
 In this section, you set up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md).

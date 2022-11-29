@@ -6,8 +6,8 @@ feature: Segments
 role: User
 level: Beginner
 hide: yes
+exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 ---
-
 # Product Replenishment Challenge
 
 |Challenge|Product Replenishment|

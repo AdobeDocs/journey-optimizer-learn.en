@@ -5,8 +5,8 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: yes
+exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 ---
-
 # Journey Optimizer Challenges - Introduction and prerequisites
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
