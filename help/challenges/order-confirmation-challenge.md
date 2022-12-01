@@ -8,6 +8,7 @@ level: Beginner
 hide: yes
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 ---
+
 # Create an order confirmation transactional email
 
 ![Order confirmation](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
@@ -20,21 +21,27 @@ exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 
 ## The Story
 
-Luma, is launching their online store and want to ensure a good customer experience, by providing an order confirmation email once a customer has placed an order.
+Luma, is launching their online store and want to ensure a good customer experience by providing an order confirmation email once a customer has placed an order.
 
-Create and personalize a transactional order confirmation message.
 
-## Have everything you need?
 
 ## Your Challenge
 
-Create an order confirmation email that is triggered when a Luma customer completes an online order.
+Create a journey that sends an order confirmation email when a Luma customer completes an online order.
 
-### Create the order confirmation email
+>[!BEGINTABS]
 
-Create a new email message titled "(your name)_Luma – Order confirmation". The subject line must be personalized with the recipients' first name and must include the phrase "thank you for your purchase"
+>[!TAB Task]
 
-Following the Luma brand guideline the email should be structured as follows:
+1. Create a journey called "your name _Order Confirmation" 
+2. Use the event: LumaOnlinePurchase as a trigger
+   
+3. Create the order confirmation email:
+  
+* Category transactional - make sure to select the transactional email surface
+* The subject line must be personalized with the recipients' first name and must include the phrase "thank you for your purchase"
+
+Following the Luma brand guideline the email should be structured as follows - you can use the **Luma - Order summary** template and modify it:
 
 <table>
 <tr>
@@ -46,11 +53,10 @@ Following the Luma brand guideline the email should be structured as follows:
   <td>
     <strong>Luma logo</strong>
       <p>
-    <li>luma_logo.png</li>
+     <li>luma_logo.png</li>
     <li>Size 35%, centered white background </li>
     <li>It should have a link to the luma website: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    Tip: You will find all images in the assets folder called messages images. <p>
     </td>
   </tr>
   <tr>
@@ -65,9 +71,9 @@ Following the Luma brand guideline the email should be structured as follows:
     <li>Margin: Top, bottom (10)<div>
     <p>
     <strong>Text</strong><p>
-    <em>Thanks for the purchase!</em><p>
+    <em>Hey {first name}</em><p>
     <li>Alignment: left  </li>
-    <li>Text color: rgb(101, 106, 119); font-size:14px</li>
+   <li>Text color: rgb(101, 106, 119); font-size:14px</li>
     <li>Padding: left (95), right (95)</li><div>
     <p>
      <em>Your order has been placed.
@@ -76,10 +82,13 @@ Following the Luma brand guideline the email should be structured as follows:
     <li>Alignment: left  </li>
     <li>Text color: rgb(101, 106, 119); font-size:14px </li>
     <li>Padding: left (95), right (95)</li><div>
-    </a>
-    <p>
-    <strong>Button:</strong>
-   <p><em>View your order</em></p>
+    </a><p>
+    <em>Ship to:<p>
+    <p>First Name Last Name</p>
+    Street<p>
+    City, State, Postalcode</p></em>
+    <strong>Button:</strong></p>
+   <p><em>View order</em></p>
       <li>Background color: rgb(25, 121, 195)</li>
       <li>Text color: White</li>
       <li>No border</li>
@@ -93,9 +102,10 @@ Following the Luma brand guideline the email should be structured as follows:
      <strong>Order Details Section</strong>
       </div>
       <p>Tips:
-      <li>This is contextual event information. You will only be able to add in the context once you add the message to your journey (see step 2). Do not publish your email before you have added it to the Journey and modified it with the contextual event information!</li>
+      <li>This is contextual event information.</li>
       <li>Use the helper function: Each</li>
-      <li>Use the HTML editor format the contextual data.Put the information into containers using DIV tags.</li>
+      <li>Switch to the code editor format to add the contextual data. <li>
+      <li>Put the information into containers using DIV tags.</li>
   </td>
   <td>
     <strong>Header</strong>
@@ -135,19 +145,13 @@ Following the Luma brand guideline the email should be structured as follows:
   </tr>
 </table>
 
-### Create the journey
-
-1. Call the journey "your name _Luma-Order Confirmation"
-1. Use the event: LumaOnlinePurchase
-1. Action: Add the message you created in step 1
-1. Go back to the message and add the contextual attributes
-1. Publish the email
 
 >[!TIP]
 >
 >To allow you to troubleshoot your journeys, best practice is to add an alternative path to all message actions in case of timeout or error.
 
-+++Success Criteria
+
+>[!TAB Check your work]
 
 Trigger the Journey you created in test mode and send the email to yourself:
 
@@ -176,17 +180,20 @@ You should receive the personalized purchase confirmation email, with the specif
     43913 Thierer Terrace,
     Washington DC 20099
 
-+++
 
-+++Check your work
+>[!TAB Success Criteria]
+
+** Journey
+
+![Journey](/help/challenges/assets/c2-journey.png)
+
+
+** Email
 
 **Subject line:**
 
 {{ profile.person.name.firstName }}, thank you for your purchase!
 
-**Header and confirmation section:**
-
-![Header and Order confirmation](/help/challenges/assets/c2-header.png)
 
 **Oder detail section:**
 
@@ -225,11 +232,4 @@ The personalization should look like this:
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**Footer:**
-![footer](/help/challenges/assets/c2-footer.png)
-
-**Journey**
-
-![Journey](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]
