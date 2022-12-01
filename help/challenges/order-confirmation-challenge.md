@@ -46,7 +46,7 @@ Following the Luma brand guideline the email should be structured as follows:
   <td>
     <strong>Luma logo</strong>
       <p>
-     <li>luma_logo.png</li>
+    <li>luma_logo.png</li>
     <li>Size 35%, centered white background </li>
     <li>It should have a link to the luma website: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
@@ -67,7 +67,7 @@ Following the Luma brand guideline the email should be structured as follows:
     <strong>Text</strong><p>
     <em>Thanks for the purchase!</em><p>
     <li>Alignment: left  </li>
-   <li>Text color: rgb(101, 106, 119); font-size:14px</li>
+    <li>Text color: rgb(101, 106, 119); font-size:14px</li>
     <li>Padding: left (95), right (95)</li><div>
     <p>
      <em>Your order has been placed.
