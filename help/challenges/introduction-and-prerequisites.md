@@ -55,11 +55,10 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>Create a summer collection announcement </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">Create a summer collection announcement </strong>
     </a>
       <p>
-      <em>Promote the new Luma summer collection. </em>
+      <em>Create a journey that sends a summer collection announcement email to a segment of existing customers. </em>
       <p>
       <b>Required skills:</b>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html> Create segments</li>
@@ -76,26 +75,29 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>Create an order confirmation</strong>
+    <strong><a href="order-confirmation-challenge.md">Create an order confirmation</strong>
     </a>
     <div>
     <p>
-    <em>Send an order confirmation email when someone completes an online purchase
+    <em>Test your knowledge on how to create and personalize transactional messages
     </em>
     <p>
+    <b>Required skills:</b>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html> Create email content with the message editor</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html>Use contextual event information for personalization</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en>Use helper functions for personalization</li>
   </td>
   </tr>
   <tr>
     <td>
     <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Luma website" src="./assets/email-assets/luma-ProductReplenishment.png"/>
+    <a>
+      <img alt="Luma product replenishment" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>Create a product replenishment notification </strong>
+      <strong>Create a product replenishment notification (coming soon)</strong>
     </a>
     </div>
     <p>
@@ -106,14 +108,14 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
   <tr>
     <td>
     <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
+    <a>
       <img alt="Welcome" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>Create a loyalty status welcome email </strong>
+      <a>
+    <strong>Create a loyalty status welcome email (coming soon) </strong>
     </a>
     </div>
     <p>
