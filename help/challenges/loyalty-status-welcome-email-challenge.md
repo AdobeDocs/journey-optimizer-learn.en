@@ -39,13 +39,18 @@ You have been tasked to set up a journey that automatically sends a welcome emai
 
 Send an email when a loyalty customer moves to a the Diamond tier to congratulate and inform them of their new benefits. The 
 
-1.   Create a segment in Journey Optimizer called **your name – Luma – Diamond Status**
+1.   Create a segment in Journey Optimizer called **Luma – Diamond Status**
 2.   Create a journey triggered when a customer moves into Diamond new loyalty tier (specifically when the customer enters the segment defined for a new Diamond level member) to send the "Luma – New Status – Diamond – Transactional" email
      1. Create a transactional email message titled `(your name)_Luma – New Status – Diamond – Transactional email message`.
      2. Give the email a subject line `Welcome to Diamond Status, (recipient's first name)!`.
      3. Use the provided HTML file **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** for the email body.
 3.  Once completed, put the journey in test mode and trigger the journey to send to yourself  
 
+    1. Create a transactional email message titled `(your name)_Luma – New Status – Diamond – Transactional email message`.
+    1. Give the email a subject line `Welcome to Diamond Status, (recipient's first name)!`.
+    1. Use the provided HTML file **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** for the email body.
+
+1. Once completed, put the journey in test mode and trigger the journey to send to yourself  
 
 ### Create the Luma – New Status – Diamond – Transactional email message
 
@@ -59,10 +64,10 @@ Create a welcome email message
 Test your journey: 
 
 1. Make sure the segment qualification event has the  Namespace  = Email 
-2. Override the default email parameters and set it to your own email address 
-3. Set the journey to test mode 
-4. Trigger an event 
-5. Add the following email address into the Profile Identifier field: Jenna_Palmer9530@emailsim.io 
+1. Override the default email parameters and set it to your own email address 
+1. Set the journey to test mode 
+1. Trigger an event 
+1. Add the following email address into the Profile Identifier field: Jenna_Palmer9530@emailsim.io 
 
 You should receive the personalized "Luma – New Status- Diamond-Transactional" email. 
 
