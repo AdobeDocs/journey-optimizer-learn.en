@@ -49,8 +49,7 @@ Send an email when a loyalty customer moves to a the Diamond tier to congratul
     1. Create a transactional email message titled `(your name)_Luma – New Status – Diamond – Transactional email message`.
     1. Give the email a subject line `Welcome to Diamond Status, (recipient's first name)!`.
     1. Use the provided HTML file **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** for the email body.
-
-1. Once completed, put the journey in test mode and trigger the journey to send to yourself  
+4. Once completed, put the journey in test mode and trigger the journey to send to yourself  
 
 ### Create the Luma – New Status – Diamond – Transactional email message
 
