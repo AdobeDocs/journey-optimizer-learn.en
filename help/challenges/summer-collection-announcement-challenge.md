@@ -24,8 +24,10 @@ Luma, a fictional athletic apparel company, is looking to promote its latest ap
 
 ## Your Challenge
 
-The Luma marketing team asks you to implement a summer collection marketing campaign in Journey Optimizer. Your challenge is to create a journey in Journey Optimizer. Specifically, you must create the required segment, create four messages, and build the journey.
+The Luma marketing team asks you to implement a summer collection marketing campaign in Journey Optimizer. Your challenge is to:
 
+* Create a segment defining which profiles qualify to receive the promotion.
+* Build the journey 
 
 ### Step 1: Define the Segment – Active Customers
 
@@ -33,15 +35,16 @@ The Luma marketing team asks you to implement a summer collection marketing ca
 
 >[!TAB Task]
 
-Create a segment in Journey Optimizer called **Active Customers**.
+#### Create a segment in Journey Optimizer
 
+* Create a segment in Journey Optimizer called `Active Customers`.
 * The segment must include only active Luma customers.
 * Active customers are defined as customers who have a tier in Luma's loyalty program (silver, gold, platinum, or diamond).
 
 
 >[!TAB Success Criteria]
 
-In the segment builder, you can see the estimated number of qualified profiles.
+In the segment builder, you can see the estimated number of qualified profiles. If you are working with the training sandbox data, you will have around 753 qualified profiles out of 1.29 K.
 
 >[!NOTE]
 >It can take up to 24 hours for the segment membership to appear for existing profiles, as the existing profiles need to be backfilled.
@@ -83,31 +86,38 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 >[!TAB Task]
 
-Send a summer collection announcement to a segment of existing customers' email promoting the new Luma summer collection.'  
+#### Send a summer collection announcement 
 
-An agency provided you with four HTML files with the design for the emails: [Download the Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)
+An agency provided you with four HTML files with the design for the emails: 
 
-Create a journey called `(your name) - Summer collection announcement` based on the following guidelines:
+* SeasonalCollectionEmail.html
+* Luma Men's Collection email
+* Luma Women's Collection email
+* Luma - 20 % off Collection email
 
-1.  Send Luma – New Seasonal Collection Announcement email to the Luma-Active Customers segment, holding out 10% of the audience as a control group 
-       * Message title `(your name)_Luma New Seasonal Collection Announcement`.
+1. [Download the Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip). 
+
+2. Create a journey called `Luma - Summer collection announcement` based on the following guidelines:
+
+   1.  Send *Luma - New Seasonal Collection Announcement* email to the *Active Customers* segment, holding out 10% of the audience as a control group 
+       * Message title `Luma New Seasonal Collection Announcement`.
        * Subject line `(recipient's first name), the new Luma collection is here!`.
        * Use the provided HTML file *SeasonalCollectionEmail.html* for the email body.
-2.  Wait two days then send a follow-up email message with more targeted content:
-      *   Male customers should receive the **Luma Men's Collection email**
-           * Message title: **(your name)_Luma Men's Collection**
-           * Subject line: **(recipient's first name), explore Men's New athletic gear!**
-           * Email body: *MensCollectionEmail.html* for the email body.
-      *   Female customers should receive the **Luma Women's Collection email**
-           * Message title: **(your name)_Luma Women's Collection**
-           * Subject line: **(recipient's first name), explore Luma's Women Collection!**
-           * Email body: *WomensCollectionEmail.html*
-      *   Other customers should receive the **Luma - 20 % off Collection email**
-           * Message title: **(your name)_Luma - 20 % off Collection**
-           * Subject line:**(recipient's first name), enjoy 20% off sales!**
-           * Email body: *20OOffCollectionEmail.html* 
-3.  After sending the targeted emails above, wait two days for the email to be opened
-4.  If the targeted email is not opened within 2 days, send the **Luma - 20 %off Collection email** as a final retargeting attempt
+   2.  Wait two days then send a follow-up email message with more targeted content:
+          *   Male customers should receive the **Luma Men's Collection email**
+               * Message title: `Luma Men's Collection`
+               * Subject line: `(recipient's first name), explore Men's New athletic gear!`
+               * Email body: *MensCollectionEmail.html* for the email body.
+          *   Female customers should receive the **Luma Women's Collection email**
+               * Message title: `Luma Women's Collection`
+               * Subject line: `(recipient's first name), explore Luma's Women Collection!`
+               * Email body: *WomensCollectionEmail.html*
+          *   Other customers should receive the **Luma - 20 % off Collection email**
+               * Message title: `Luma - 20 % off Collection`
+               * Subject line: `(recipient's first name), enjoy 20% off sales!`
+               * Email body: *20OOffCollectionEmail.html* 
+   3.  After sending the targeted emails above, wait two days for the email to be opened
+   4.  If the targeted email is not opened within 2 days, send the **Luma - 20 %off Collection email** as a final retargeting attempt
 
 
 >[!TAB Success Criteria]
