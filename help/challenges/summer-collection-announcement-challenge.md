@@ -18,21 +18,14 @@ exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 |Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Import and author HTML email content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Use Case - Read segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li>|
 |Assets to download|[Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)|
 
->[!NOTE]
-> The exercises were developed based on the Luma sample data. We recommended setting up a training sandbox, configured with the sample data. Please visit the tutorial [Import sample data to Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) for detailed instructions.
-
 ## The Story
 
 Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. Luma is launching the new summer collection and would like to specifically target different customer segments.  
 
 ## Your Challenge
 
-The Luma marketing team asks you to implement a summer collection marketing campaign in Journey Optimizer.
+The Luma marketing team asks you to implement a summer collection marketing campaign in Journey Optimizer. Your challenge is to create a journey in Journey Optimizer. Specifically, you must create the required segment, create four messages, and build the journey.
 
-Your challenge is to create a journey in Journey Optimizer. Specifically, you must create the required segment, create four messages, and build the journey.
-
->[!NOTE]
-> If you are working in a shared training sandbox, it is best practice to add your name or initials as a prefix to the name of any element you create.
 
 ### Step 1: Define the Segment – Active Customers
 
@@ -40,7 +33,7 @@ Your challenge is to create a journey in Journey Optimizer. Specifically, you m
 
 >[!TAB Task]
 
-Create a segment in Journey Optimizer called **your name – Active Customers**.
+Create a segment in Journey Optimizer called **Active Customers**.
 
 * The segment must include only active Luma customers.
 * Active customers are defined as customers who have a tier in Luma's loyalty program (silver, gold, platinum, or diamond).
@@ -48,7 +41,10 @@ Create a segment in Journey Optimizer called **your name – Active Customers**.
 
 >[!TAB Success Criteria]
 
-In the segment builder, you can see the estimated number of qualified profiles. If you are working in a training sandbox that is using the Luma sample data, the [!UICONTROL estimated qualified profiles] should be about 292 profiles of 500.
+In the segment builder, you can see the estimated number of qualified profiles.
+
+>[!NOTE]
+>It can take up to 24 hours for the segment membership to appear for existing profiles, as the existing profiles need to be backfilled.
 
 **A qualifying profile has been added to the segment:**
 
@@ -60,9 +56,6 @@ On the profile page, check the [!UICONTROL Attributes] tab to confirm that they 
 
 You can also check the [!UICONTROL Segment membership] tab: Your segment should be listed.
 
-   >[!NOTE]
-   >It can take up to 24 hours for the segment membership to appear for existing profiles, as the existing profiles need to be backfilled.
-
    ![Segment membership](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB Check Your Work]
@@ -73,13 +66,11 @@ This is what your segment should look like:
 
 ![Segment – Active Customers](/help/challenges/assets/C1-S1.png)
 
-Check the code on the bottom-right corner of the Edit segment screen, under Events. 
-
 The code should look like this:
 
 ```javascript
 
-loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"], false)
 
 ```
 
@@ -123,7 +114,7 @@ Create a journey called `(your name) - Summer collection announcement` based on 
 
 #### Preview the emails
 
-**Email Message #1– New Seasonal collection announcement**
+**Email Message #1 – New Seasonal collection announcement**
 
 Preview the email using the Identity namespace: *Email* and the Identity value: *Jenna_Palmer9530@emailsim.io*
 
