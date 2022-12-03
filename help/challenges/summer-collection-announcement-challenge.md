@@ -99,20 +99,20 @@ An agency provided you with four HTML files with the design for the emails:
 
 2. Create a journey called `Luma - Summer collection announcement` based on the following guidelines:
 
-   1.  Send *Luma - New Seasonal Collection Announcement* email to the *Active Customers* segment, holding out 10% of the audience as a control group 
-       * Message title `Luma New Seasonal Collection Announcement`.
-       * Subject line `(recipient's first name), the new Luma collection is here!`.
+   1.  Send *Luma - New Summer Collection Announcement* email to the *Active Customers* segment, holding out 10% of the audience as a control group 
+       * Message title `Luma - Summer Collection Announcement`.
+       * Subject line `(recipient's first name), the new Luma summer collection is here!`.
        * Use the provided HTML file *SeasonalCollectionEmail.html* for the email body.
    2.  Wait two days then send a follow-up email message with more targeted content:
-          *   Male customers should receive the **Luma Men's Collection email**
+          *   Male customers should receive the **Luma Men's Collection** email.
                * Message title: `Luma Men's Collection`
                * Subject line: `(recipient's first name), explore Men's New athletic gear!`
                * Email body: *MensCollectionEmail.html* for the email body.
-          *   Female customers should receive the **Luma Women's Collection email**
+          *   Female customers should receive the **Luma Women's Collection** email.
                * Message title: `Luma Women's Collection`
                * Subject line: `(recipient's first name), explore Luma's Women Collection!`
                * Email body: *WomensCollectionEmail.html*
-          *   Other customers should receive the **Luma - 20 % off Collection email**
+          *   Other customers should receive the **Luma - 20 % off Collection** email.
                * Message title: `Luma - 20 % off Collection`
                * Subject line: `(recipient's first name), enjoy 20% off sales!`
                * Email body: *20OOffCollectionEmail.html* 
@@ -124,36 +124,48 @@ An agency provided you with four HTML files with the design for the emails:
 
 #### Preview the emails
 
-**Email Message #1 – New Seasonal collection announcement**
+**Email Message #1 – Luma -  Summer collection announcement**
 
-Preview the email using the Identity namespace: *Email* and the Identity value: *Jenna_Palmer9530@emailsim.io*
+Preview the email:
 
-* The subject line should read: Jenna, the new Luma collection is here!
+1. Add a test profile: Louise Petti:
+   1. Identity namespace: *Luma CRM ID* 
+   2. Identity value: *d1f132f9f9502bba047a6ec86c4b61f9*
+
+Result:
+* The subject line should read: Louise, the new Luma collection is here!
 * The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **Email Message #2 - Luma Men's Collection**
 
-Send a proof to yourself
+Send a proof to yourself:
 
-* Enter your email address
-* Select the test profile: Chris_Scott1244@emailsim.io
-  
-You should receive an email. The subject line should read "Chris, explore Men's New athletic gear!" and the email body should match what you have seen in the preview: [Luma Men's Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+1. Add a test profile: Stanleigh Stooke:
+   1. Identity namespace: *Luma CRM ID* 
+   2. Identity value: `4f34057d9d9e792c28ba18ecae378e98`
+1. Select the test profile: Stanleigh Stooke
+2. Send a proof to yourself
+
+Result:  
+You should receive an email. The subject line should read "Stanleigh, explore Men's New athletic gear!" and the email body should match what you have seen in the preview: [Luma Men's Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>It can take a couple of minutes for you to receive the proof.
 
 **Email Message #3 - Luma Women's Collection**
 
-Preview the email using the Identity namespace: *Email* and the Identity value: *Jenna_Palmer9530@emailsim.io*
+Preview the email with the test profile 'Louise Petti'.
 
-* The subject line should read: *Jenna, explore Luma's Women Collection!*
+* The subject line should read: *Louise, explore Luma's Women Collection!*
 * The email body should match what you have seen in the preview: [Luma Women's Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **Email Message #4 - Luma 20 % off Collection**
 
-Preview the email using the Identity namespace: *Email* and the Identity value: *Benny_Steer4909@emailsim.io*
+Preview the email with the test profile 'Louise Petti'.
 
-* The subject line should read: *Benny, enjoy 20% off sales!*
+* The subject line should read: *Louise, enjoy 20% off sales!*
 * The email body should match what you have seen in the preview: [Luma 20 % off Collection](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **Don't forget to publish your emails!** 
@@ -164,15 +176,15 @@ Preview the email using the Identity namespace: *Email* and the Identity value: 
 >
 >Before you set the journey into test mode:
 >
->1.  Make sure that the Read Segment Activity has the namespace  set to Email
->1.  For each email, override the default Email parameters for the emails so that they are sent to your email address:
->1.  Show the hidden values by clicking the eye symbol.
->1.  In the Email parameters, click on the T symbol (enable parameter override
+>1. Make sure that the Read Segment Activity has the namespace set to **Luma CRM id(lumaCrmId)**
+>1. For each email, override the default Email parameters for the emails so that they are sent to your email address:
+>    * Show the hidden values by clicking the eye symbol.
+>    * In the Email parameters, click on the T symbol (enable parameter override
 >
 >      ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
 > 
->1.  Click into the Address field
->1.  On the next screen add your email address in parentheses: *yourname@yourdomain* in the expression editor and click ok.
+>    *   Click into the Address field
+>    *   On the next screen add your email address in parentheses: `"yourname@yourdomain"` in the expression editor and click ok.
 >
 
 Test the journey and have the emails sent to your own account:
@@ -182,9 +194,9 @@ Test the journey and have the emails sent to your own account:
 3.  Wait time: Set the timer to 120 seconds (type it into the field).
 4.  Trigger profile entrance
 5.  You can test each branch by using one of the following email addresses as profile identifiers:
-       * Female: Jenna Palmer: Jenna_Palmer9530@emailsim.io
-       * Male: Chris Scott: Chris_Scott1244@emailsim.io
-       * Gender not specified: Benny Steer: Benny_Steer4909@emailsim.io
+       * Female: Louise Petti, Identity value: *d1f132f9f9502bba047a6ec86c4b61f9*
+       * Male: Stanleigh Stooke,  Identity value: `4f34057d9d9e792c28ba18ecae378e98`
+       * Gender not specified: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
 
 6.  Once you trigger the profile entrance, you should receive the first email, the header should be personalized according to the profile you chose.
 7.  The journey should continue into the respective branch and you should receive the related email (for example, if you chose Jenna, you should receive the "Luma Women's Collection" email).
