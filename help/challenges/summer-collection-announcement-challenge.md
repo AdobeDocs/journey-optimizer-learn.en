@@ -143,9 +143,9 @@ Send a proof to yourself:
 
 1. Add a test profile: Stanleigh Stooke:
    1. Identity namespace: *Luma CRM ID* 
-   2. Identity value: `4f34057d9d9e792c28ba18ecae378e98`
+   1. Identity value: `4f34057d9d9e792c28ba18ecae378e98`
 1. Select the test profile: Stanleigh Stooke
-2. Send a proof to yourself
+1. Send a proof to yourself
 
 Result:  
 You should receive an email. The subject line should read "Stanleigh, explore Men's New athletic gear!" and the email body should match what you have seen in the preview: [Luma Men's Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
