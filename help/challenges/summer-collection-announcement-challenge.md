@@ -14,7 +14,7 @@ exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 
 |Challenge|Create a Summer Collection Announcement|
 |---|---|
-|Persona|Journey Manager
+|Persona|Journey Manager|
 |Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Import and author HTML email content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Use Case - Read segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li>|
 |Assets to download|[Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)|
 
@@ -195,7 +195,7 @@ Test the journey and have the emails sent to your own account:
 5.  You can test each branch by using one of the following *Luma CRM Ids* as profile identifiers:
        * Female: Leora Dietsche, Identity value:`a8f14eab3b483c2b96171b575ecd90b1`
        * Male: Stanleigh Stooke,  Identity value: `4f34057d9d9e792c28ba18ecae378e98`
-       * Gender not specified: Louise Petti, Identity value: `d1f132f9f9502bba047a6ec86c4b61f9'
+       * Gender not specified: Louise Petti, Identity value: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 6.  Once you trigger the profile entrance, you should receive the first email, the header should be personalized according to the profile you chose.
 7.  The journey should continue into the respective branch and you should receive the related email (for example, if you chose Jenna, you should receive the "Luma Women's Collection" email).
