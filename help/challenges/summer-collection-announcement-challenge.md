@@ -44,7 +44,7 @@ The Luma marketing team asks you to implement a summer collection marketing ca
 
 >[!TAB Success Criteria]
 
-In the segment builder, you can see the estimated number of qualified profiles. If you are working with the training sandbox data, you will have around 753 qualified profiles out of 1.29 K.
+In the segment builder, you can see the estimated number of qualified profiles. If you are working with the training sandbox data, you have around 753 qualified profiles out of 1.29 K.
 
 >[!NOTE]
 >It can take up to 24 hours for the segment membership to appear for existing profiles, as the existing profiles need to be backfilled.
