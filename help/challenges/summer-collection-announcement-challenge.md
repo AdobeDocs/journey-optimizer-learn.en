@@ -39,7 +39,7 @@ The Luma marketing team asks you to implement a summer collection marketing ca
 
 * Create a segment in Journey Optimizer called `Active Customers`.
 * The segment must include only active Luma customers.
-* Active customers are defined as customers who have a tier in Luma's loyalty program (silver, gold, platinum, or diamond).
+* Active customers are defined as customers who have a tier in Luma's loyalty program (bronze, silver, gold, or platinum).
 
 
 >[!TAB Success Criteria]

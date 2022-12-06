@@ -66,6 +66,24 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html>Use Case - Read segment</li>
   </td>
   </tr>
+   <tr>
+    <td>
+    <div>
+    <a>
+      <img alt="Welcome" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+    </a>
+    </div>
+    <td>
+    <div >
+      <a>
+    <strong>Create a loyalty status welcome email (coming soon) </strong>
+    </a>
+    </div>
+    <p>
+    <em>Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits</em>
+    <p>
+  </td>
+  </tr>
   <tr>
   <td>
   <div>
@@ -87,40 +105,4 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html>Use contextual event information for personalization</li>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en>Use helper functions for personalization</li>
   </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Luma product replenishment" src="./assets/email-assets/luma-ProductReplenishment.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <strong>Create a product replenishment notification (coming soon)</strong>
-    </a>
-    </div>
-    <p>
-    <em>Notify customers, when a previously out-of-stock item is back in stock</em>
-    <p>
-  </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Welcome" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <a>
-    <strong>Create a loyalty status welcome email (coming soon) </strong>
-    </a>
-    </div>
-    <p>
-    <em>Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits</em>
-    <p>
-  </td>
-  </tr>
 </table>

@@ -13,5 +13,4 @@ hide: yes
 + [Challenge - Create a summer collection announcement](/help/challenges/summer-collection-announcement-challenge.md)
 + [Challenge - Create an order confirmation email](/help/challenges/order-confirmation-challenge.md)
 + [Challenge - Create a loyalty status welcome email](/help/challenges/loyalty-status-welcome-email-challenge.md)
-+ [Challenge - Create a product replenishment notification](/help/challenges/product-replenishment-challenge.md)
   

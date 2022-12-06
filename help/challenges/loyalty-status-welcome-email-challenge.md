@@ -16,65 +16,67 @@ exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 |Challenge|Create a loyalty status welcome email|
 |---|---|
 |Persona|Journey Manager|
-|Required skills|<ul><li>[Create email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en)</li> <li>[Use contextual event information for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Use helper functions for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul>|
-|Assets to download|[Order confirmation assets](/help/challenges/assets/email-assets/order-confirmation-assets.zip)|
+|Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segment qualification](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Import HTML content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul>|
+|Assets to download|[platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip)|
 
 ## The Story
 
-Luma offers a loyalty program as a way to attract and retain their customers. The program offers four different levels: Silver, gold, platinum, and diamond.
+Luma offers a loyalty program as a way to attract and retain their customers. The program offers four different levels: Bronze, silver, gold, and platinum. Each loyalty tier receives different levels or rewards, discounts, and other special incentives as a reward for their repeat business.
 
-Each loyalty tier receives different levels or rewards, discounts, and other special incentives as a reward for their repeat business.
-
-To underline the special diamond status. Luma wants to send a welcome email to customers, when they reach the diamond tier.
+To underline the special platinum status. Luma wants to send a welcome email to customers, when they reach the platinum tier.
 
 ## Your Challenge
 
-You have been tasked to set up a journey that automatically sends a welcome email to customers when they reach the diamond loyalty tier.
-
->[!NOTE]
-> If you are working in a shared training sandbox, it is best practice to add your name or initials as a pre-fix to the name of any element you create.
+You have been asked to set up a journey that automatically sends a welcome email to customers when they reach the platinum loyalty tier.
 
 >[!BEGINTABS]
 
 >[!TAB Task]
 
-Send an email when a loyalty customer moves to a the Diamond tier to congratulate and inform them of their new benefits. The 
+When a loyalty customer qualifies for the platinum tier, they should receive and email to congratulate and inform them of their new benefits. The creative team has provided an HTML file **[Luma – status upgrade - welcome eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** with the email body.
 
-1.   Create a segment in Journey Optimizer called **Luma – Diamond Status**
-2.   Create a journey triggered when a customer moves into Diamond new loyalty tier (specifically when the customer enters the segment defined for a new Diamond level member) to send the "Luma – New Status – Diamond – Transactional" email
-     1. Create a transactional email message titled `(your name)_Luma – New Status – Diamond – Transactional email message`.
-     2. Give the email a subject line `Welcome to Diamond Status, (recipient's first name)!`.
-     3. Use the provided HTML file **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** for the email body.
-3.  Once completed, put the journey in test mode and trigger the journey to send to yourself  
+1.   Create a segment in Journey Optimizer called `Luma – status upgrade`.
+2.   Create a journey called 'Luma – New Status – platinum'. 
+     1. A customer moves into the journey, when they qualify for the the platinum loyalty tier. 
+     2. The customer should receive an email message labeled `Luma – Platinum Status - Welcome`, with the subject line `Welcome to Platinum Status, (recipient's first name)!` with the body provided by the creative team.
+     3. When uploading the HTML file, you notice that the email is referring to "diamond" status, rather than "platinum". Rather than requesting a new file from the creative team, update the email in the email designer.
 
-    1. Create a transactional email message titled `(your name)_Luma – New Status – Diamond – Transactional email message`.
-    1. Give the email a subject line `Welcome to Diamond Status, (recipient's first name)!`.
-    1. Use the provided HTML file **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** for the email body.
-4. Once completed, put the journey in test mode and trigger the journey to send to yourself  
-
-### Create the Luma – New Status – Diamond – Transactional email message
-
-Create a welcome email message 
-
-### **Journey #3 – Diamond status upgrade welcome email**
+>[TIP!]
+> Make sure the Luma – Platinum Status - Welcome eMail is transactional.
 
 
 >[!TAB Success criteria]
 
 Test your journey: 
 
-1. Make sure the segment qualification event has the  Namespace  = Email 
-1. Override the default email parameters and set it to your own email address 
-1. Set the journey to test mode 
-1. Trigger an event 
-1. Add the following email address into the Profile Identifier field: Jenna_Palmer9530@emailsim.io 
+1. Make sure that the Read Segment Activity has the namespace set to **Luma CRM id(lumaCrmId)**
+2. Override the default email parameters and set it to your own email address 
 
-You should receive the personalized "Luma – New Status- Diamond-Transactional" email. 
+    +++ Click here for more information on how to override
+    * Show the hidden values by clicking the eye symbol.
+    * In the Email parameters, click on the T symbol (enable parameter override
+
+    ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
+    
+    *   Click into the Address field
+    *   On the next screen add your email address in parentheses: `"yourname@yourdomain"` in the expression editor and click ok.
+    +++
+    
+3. Set the journey to test mode 
+4. Trigger an event 
+5. Add the following CRM ID for Stanleigh Stooke into the Profile Identifier field: `4f34057d9d9e792c28ba18ecae378e98`
+
+You should receive the personalized *Luma – platinum Status - Welcome* email. 
 
 >[!TAB Check your work]
 
 This is what your journey should look like: 
 
-![Diamond-status-upgrade-journey](/help/challenges/assets/journey-luma-diamond-status-upgrade.png)
+![platinum-status-upgrade-journey](/help/challenges/assets/journey-luma-status-upgrade.png)
+
+
+This is what the email should look like:
+
+![Luma – status upgrade - welcome eMail](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]
