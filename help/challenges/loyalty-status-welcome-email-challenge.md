@@ -49,23 +49,19 @@ When a loyalty customer qualifies for the platinum tier, they should receive a
 
 Test your journey: 
 
-1. Make sure that the [!UICONTROL Read Segment Activity] has the [!UICONTROL namespace] set to **[!DNL Luma CRM id(lumaCrmId)]**
-2. Override the default [!UICONTROL email parameters] and set it to your own email address 
+1.  Make sure that the [!UICONTROL Read Segment Activity] has the [!UICONTROL namespace] set to **[!DNL Luma CRM id(lumaCrmId)]**
+2.  Override the default [!UICONTROL email parameters] and set it to your own email address 
+       * Show the hidden values by clicking the eye symbol.
+       * In the [!UICONTROL Email parameters], click on the T symbol (enable parameter override
 
-+++Click here for more information on how to override the [!!UICONTROL email parameters].
-
-* Show the hidden values by clicking the eye symbol.
-* In the [!UICONTROL Email parameters], click on the T symbol (enable parameter override
-
-![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
+        ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
     
-*   Click into the [!UICONTROL Address field]
-*   On the next screen add your email address in parentheses: `"yourname@yourdomain"` in the expression editor and click ok.
-+++
+       * Click into the [!UICONTROL Address field]
+       * On the next screen add your email address in parentheses: `"yourname@yourdomain"` in the expression editor and click ok.
     
-1. Set the journey to test mode 
-2. Trigger an event 
-3. Add the following [!DNL CRM ID] for [!DNL Stanleigh Stooke] into the [!UICONTROL Profile Identifier] field: `4f34057d9d9e792c28ba18ecae378e98`
+3.  Set the journey to test mode 
+4.  Trigger an event 
+5.  Add the following [!DNL CRM ID] for [!DNL Stanleigh Stooke] into the [!UICONTROL Profile Identifier] field: `4f34057d9d9e792c28ba18ecae378e98`
 
 You should receive the personalized *Luma – platinum Status - Welcome* email. 
 

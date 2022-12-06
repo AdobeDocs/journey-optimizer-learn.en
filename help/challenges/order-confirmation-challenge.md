@@ -34,7 +34,7 @@ Create a journey that sends an order confirmation email when a Luma customer com
 >[!TAB Task]
 
 1. Create a journey called "your name _Order Confirmation" 
-2. Use the event: LumaOnlinePurchase as a trigger
+2. Use the event: [!DNL LumaOnlinePurchase] as a trigger
    
 3. Create the order confirmation email:
   
