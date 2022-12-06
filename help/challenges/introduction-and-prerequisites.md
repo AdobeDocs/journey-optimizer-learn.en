@@ -84,7 +84,7 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
     <p>
     <b>Required skills:</b>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html> Create segments</li>
-      <li><a [href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html>Segment qualification</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html>Segment qualification</li>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html>Import and author HTML email content</li>
   </td>
   </tr>

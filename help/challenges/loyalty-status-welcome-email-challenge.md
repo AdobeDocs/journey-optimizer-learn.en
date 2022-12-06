@@ -52,7 +52,8 @@ Test your journey:
 1. Make sure that the [!UICONTROL Read Segment Activity] has the [!UICONTROL namespace] set to **[!DNL Luma CRM id(lumaCrmId)]**
 2. Override the default [!UICONTROL email parameters] and set it to your own email address 
 
-    +++ Click here for more information on how to override the [!!UICONTROL email parameters].
++++ Click here for more information on how to override the [!!UICONTROL email parameters].
+
     * Show the hidden values by clicking the eye symbol.
     * In the [!UICONTROL Email parameters], click on the T symbol (enable parameter override
 
@@ -60,7 +61,7 @@ Test your journey:
     
     *   Click into the [!UICONTROL Address field]
     *   On the next screen add your email address in parentheses: `"yourname@yourdomain"` in the expression editor and click ok.
-    +++
++++
     
 3. Set the journey to test mode 
 4. Trigger an event 
