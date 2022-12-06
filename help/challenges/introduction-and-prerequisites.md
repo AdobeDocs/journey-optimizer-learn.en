@@ -13,13 +13,13 @@ exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 
 Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. 
 
-Each challenge in this section addresses a unique use case that you will implement. The target audience (persona), and the required skills are listed at the beginning of each challenge.
+Each challenge in this section addresses a unique use case that you implement. The target audience (persona), and the required skills are listed at the beginning of each challenge.
 
 ## Prerequisites
 
 ### System requirements
 
-* Access to a Journey Optimizer sandbox - we recommended to complete the challenge in a dedicated training sandbox. 
+* Access to a Journey Optimizer sandbox - we recommended completing the challenge in a dedicated training sandbox. 
 * AEM Assets Essentials must be provisioned for your instance
 * The email channel must be configured for transactional and marketing messages
 
@@ -34,7 +34,7 @@ You need the following access rights:
 
 ### Required actions
 
-*   If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
+*  If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
 
 
 ## The Story
@@ -105,7 +105,7 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
     </em>
     <p>
     <b>Required skills:</b>
-      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html> Create email content with the message editor</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html> Create email content with the message editor</li>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html>Use contextual event information for personalization</li>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en>Use helper functions for personalization</li>
   </td>
