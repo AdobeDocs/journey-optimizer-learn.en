@@ -54,11 +54,11 @@ In this step, you define the structure of the sample data by creating six [[!UIC
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
-* [[!DNL Luma CRM]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
@@ -218,7 +218,7 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
    * Display name: `Luma Product Catalog Field Group`
 
-2. Add the following field to the **[!DNL Luma Product Catalog Field Group]**.
+1. Add the following field to the **[!DNL Luma Product Catalog Field Group]**.
 
    * Field name: `product`
 
@@ -228,9 +228,9 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
    * Field group: [!DNL Luma Product Catalog Field Group]
 
-3. Select **[!UICONTROL Apply]**.
+1. Select **[!UICONTROL Apply]**.
 
-4. Add the following fields to the **[!DNL Product]** object: 
+1. Add the following fields to the **[!DNL Product]** object: 
 
    | [!UICONTROL Fieldname] |[!UICONTROL Display Name]|[!UICONTROL Type]|
    |-------------|-----------|----------|
@@ -244,9 +244,9 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
    |`ImageURL`|`Image URL`|[!UICONTROL String]|
    |`stockQuantity`|`Stock Quantity`| [!UICONTROL String]|
 
-5. Add the **[!UICONTROL Display name]** `Luma Product Catalog Field Group` to the [!UICONTROL field group].
+1. Add the **[!UICONTROL Display name]** `Luma Product Catalog Field Group` to the [!UICONTROL field group].
 
-6. Select **[!UICONTROL Save]**.
+1. Select **[!UICONTROL Save]**.
 
 
 ### Create [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
