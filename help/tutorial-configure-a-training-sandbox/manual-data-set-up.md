@@ -50,7 +50,7 @@ In this step, you define the structure of the sample data by creating six [[!UIC
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
-* [[!DNL Luma Product catalog Schema]](-catalog)
+* [[!DNL Luma Product catalog Schema]](#create-luma-product-catalog-schema)
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
