@@ -189,7 +189,7 @@ Preview the email with the test profile *Louise Petti.*
 Test the journey and have the emails sent to your own account:
 
 1.  Put the journey into test mode.
-1.  Select a single profile at a time.
+1.  Select **[!UICONTROL Single profile at a time]**.
 1.  Wait time: Set the timer to 120 seconds (type it into the field).
 1.  Trigger profile entrance
 1.  You can test each branch by using one of the following *Luma CRM Ids* as profile identifiers:
