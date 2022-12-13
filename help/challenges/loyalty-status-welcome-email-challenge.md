@@ -38,12 +38,8 @@ When a loyalty customer qualifies for the platinum tier, they should receive a
 1.   Create a [!UICONTROL segment] in Journey Optimizer called `Luma – status upgrade`.
 2.   Create a journey called `Luma – New Status – platinum`. 
      1. A customer moves into the journey, when they qualify for the platinum loyalty tier. 
-     2. The customer should receive an email message labeled `Luma – Platinum Status - Welcome`, with the subject line `Welcome to Platinum Status, (recipient's first name)!` with the email body provided by the creative team.
+     2. The customer should receive an email message labeled `Luma – Platinum Status - Welcome`, with the subject line `Welcome to Platinum Status, (recipient's first name)!` with the email body provided by the creative team. This is a [!UICONTROL transactional] eMail.
      3. When uploading the HTML file, you notice that the email is referring to "diamond" status, rather than "platinum". Rather than requesting a new file from the creative team, update the email in the Email Designer.
-
->[TIP!]
-> Make sure the Luma – Platinum Status - Welcome eMail is[!UICONTROL transactional].
-
 
 >[!TAB Success criteria]
 
@@ -63,7 +59,7 @@ Test your journey:
 4.  Trigger an event 
 5.  Add the following [!DNL CRM ID] for [!DNL Stanleigh Stooke] into the [!UICONTROL Profile Identifier] field: `4f34057d9d9e792c28ba18ecae378e98`
 
-You should receive the personalized *Luma – platinum Status - Welcome* email. 
+**Result:** You should receive the personalized *Luma – platinum Status - Welcome* email. 
 
 >[!TAB Check your work]
 
