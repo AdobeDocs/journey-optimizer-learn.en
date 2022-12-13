@@ -35,13 +35,13 @@ Create a journey that sends an order confirmation email when a Luma customer com
 
 1.  Create a journey called `Luma - Order Confirmation` 
 1.  Use the event: [!DNL LumaOnlinePurchase] as a trigger
-1.  Create the order confirmation email called `Luma - Order Confirmation`
+1.  Create the order confirmation email called `Luma - Order Confirmation`:
   
-   * Category transactional - make sure to select the transactional email surface
-   * The subject line must be personalized with the recipients' first name and must include the phrase "thank you for your purchase"
-   * Use the **Luma - Order summary** template and modify it:
+  * Category transactional - make sure to select the transactional email surface
+  * The subject line must be personalized with the recipients' first name and must include the phrase "thank you for your purchase"
+  * Use the **Luma - Order summary** template and modify it:
 
-Following the Luma brand guideline the email should be structured as follows:
+The email should be structured as follows:
 <table>
 <tr>
 <td>
@@ -112,7 +112,7 @@ Following the Luma brand guideline the email should be structured as follows:
       </p><br>
       <p><b>Tips:</b>
       <li>This is contextual event information.
-      <li>Use the !UICONTROL helper function]: [!UICONTROL Each]
+      <li>Use the [!UICONTROL helper function]: [!UICONTROL Each]
       <li>Switch to the code editor format to add the contextual data.
       <li>Put the information into containers using DIV tags.
   </td>

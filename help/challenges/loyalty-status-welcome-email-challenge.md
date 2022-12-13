@@ -21,7 +21,7 @@ exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 
 ## The Story
 
-Luma offers a loyalty program as a way to attract and retain their customers. The program offers four different levels: Bronze, silver, gold, and platinum. Each loyalty tier receives different levels or rewards, discounts, and other special incentives as a reward for their repeat business.
+Luma offers a loyalty program as a way to attract and retain their customers. The program offers four different tiers: Bronze, silver, gold, and platinum. Each loyalty tier receives different rewards, discounts, and other special incentives as a reward for their repeat business.
 
 To underline the special platinum status. Luma wants to send a welcome email to customers, when they reach the platinum tier.
 
