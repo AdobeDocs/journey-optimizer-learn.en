@@ -201,7 +201,6 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
 ### Create [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
 
-
 1. Go to [!UICONTROL DATA MANAGEMENT] -> **[!UICONTROL Schemas]** in the left navigation.
 
 1. Select the **[!UICONTROL Create Schema]** button on the top right.
@@ -244,9 +243,10 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
    |`ImageURL`|`Image URL`|[!UICONTROL String]|
    |`stockQuantity`|`Stock Quantity`| [!UICONTROL String]|
 
-1. Add the **[!UICONTROL Display name]** `Luma Product Catalog Field Group` to the [!UICONTROL field group].
+1. Set the **[!DNL SKU]** as primary identity
+2. Add the **[!UICONTROL Display name]** `Luma Product Catalog Field Group` to the [!UICONTROL field group].
 
-1. Select **[!UICONTROL Save]**.
+3. Select **[!UICONTROL Save]**.
 
 
 ### Create [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
@@ -260,7 +260,7 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
 1. Select **[!UICONTROL Create new class]**.
 
-1. Add the display name: `Luma Business Event`.
+1. Add the display name: `Luma Business Event Class`.
 
 1. Select type: *[!UICONTROL Time-series]*.
 
@@ -268,11 +268,11 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
 1. Create a [!UICONTROL field group]:
 
-   * Display name: `Product Inventory Event Details`
+   * Display name: `Luma Product Inventory Event Details Field Group`
 
 1. Add the **[!UICONTROL Display name]** `Luma Product Inventory Event Schema` to the schema.
 
-1. Add the following field to the Luma Product Info field group:
+1. Add the following field to the **[!DNL Luma Product Inventory Event Details Field Group]**:
 
    * Field name: `inventoryEvent`
 
@@ -280,53 +280,52 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
    * Type: [!UICONTROL Object] 
 
-   * Field group: [!DNL Product Inventory Event Details]
+   * Field group: [!DNLLuma Product Inventory Event Details Field Group]
 
 1. Add the following fields to the **[!DNL Product Inventory Event Details]** object:
 
    | [!UICONTROL Fieldname] |[!UICONTROL Display Name]|[!UICONTROL Type]|
    |-------------|-----------|----------|
-   | `productId`| `Product ID`|[!UICONTROL String]|
    | `sku`|`SKU`|[!UICONTROL String]|
-   | `stockEventType`| `Stock Event Type`|**[!UICONTROL Enum]** with `restock` and `outOfStock` as values |
+   | `stockEventType`| `Stock Event Type`| [!UICONTROL String] |
 
    1. to set the `stockEventType` to Enum, select type: `string`.
 
-   1. Scroll down to the bottom of the **[!UICONTROL Field properties]**.
+   2. Scroll down to the bottom of the **[!UICONTROL Field properties]**.
 
-   1. Enable **[!UICONTROL Enum]**.
+   3. Enable **[!UICONTROL Enum]**.
 
-   1. Enter **[!UICONTROL values] ([!UICONTROL label)]**: `restock` (`restock`).
+   4. Enter **[!UICONTROL values] ([!UICONTROL label)]**: `restock` (`restock`).
 
-   1. Select **[!UICONTROL Add row]**.
+   5. Select **[!UICONTROL Add row]**.
 
-   1. Enter **[!UICONTROL values] ([!UICONTROL label)]**: `outOfStock` (`out of stock`).
+   6. Enter **[!UICONTROL values] ([!UICONTROL label)]**: `outOfStock` (`out of stock`).
 
-   1. Select **[!UICONTROL Apply]**.
+   7. Select **[!UICONTROL Apply]**.
 
       ![enum](assets/enum.png)
 
-1. Set `productId` field as **[!UICONTROL primary identity]** using **[!DNL Luma Product namespace]**.
+2. Set `productId` field as **[!UICONTROL primary identity]** using **[!DNL Luma Product namespace]**.
 
-1. Select the `sku` field and define a relationship to the `product.sku` field in the **[!DNL Luma Product catalog Schema]** Schema:
+3. Select the `sku` field and define a relationship to the `product.sku` field in the **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Scroll down to the bottom of the **[!UICONTROL Field properties]**.
 
-   1. Enable **[!UICONTROL Relationship]**.
+   2. Enable **[!UICONTROL Relationship]**.
 
       1. **[!UICONTROL Reference schema]**: [!DNL Luma Product catalog Schema].
 
-      1. **[!UICONTROL Reference identity namespace]**: [!DNL Luma Product].
+      2. **[!UICONTROL Reference identity namespace]**: [!DNL Luma Product].
 
-   1. Select **[!UICONTROL Apply]**.
+   3. Select **[!UICONTROL Apply]**.
 
       The schema should look like this:
 
       ![SKU relationship](assets/sku_relationship.png)
 
-1. Enable for **Profile**.
+4. Enable for **Profile**.
 
-1. Select [!UICONTROL Save] to save the schema.
+5. Select [!UICONTROL Save] to save the schema.
 
 ### Create the [!DNL Luma CRM] and [!DNL Luma Product Interactions] schemas {#create-luma-crm-and-luma-product-interactions-schemas}
 

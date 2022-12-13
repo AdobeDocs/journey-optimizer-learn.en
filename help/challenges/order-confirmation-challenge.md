@@ -33,16 +33,15 @@ Create a journey that sends an order confirmation email when a Luma customer com
 
 >[!TAB Task]
 
-1. Create a journey called "your name _Order Confirmation" 
-2. Use the event: [!DNL LumaOnlinePurchase] as a trigger
-   
-3. Create the order confirmation email:
+1.  Create a journey called `Luma - Order Confirmation` 
+1.  Use the event: [!DNL LumaOnlinePurchase] as a trigger
+1.  Create the order confirmation email called `Luma - Order Confirmation`
   
-* Category transactional - make sure to select the transactional email surface
-* The subject line must be personalized with the recipients' first name and must include the phrase "thank you for your purchase"
+   * Category transactional - make sure to select the transactional email surface
+   * The subject line must be personalized with the recipients' first name and must include the phrase "thank you for your purchase"
+   * Use the **Luma - Order summary** template and modify it:
 
-Following the Luma brand guideline the email should be structured as follows - you can use the **Luma - Order summary** template and modify it:
-
+Following the Luma brand guideline the email should be structured as follows:
 <table>
 <tr>
 <td>
@@ -73,20 +72,28 @@ Following the Luma brand guideline the email should be structured as follows - y
     <strong>Text</strong><p>
     <em>Hey {first name}</em><p>
     <li>Alignment: left  </li>
-   <li>Text color: rgb(101, 106, 119); font-size:14px</li>
-    <li>Padding: left (95), right (95)</li><div>
+   <li>Text color: rgb(69, 97, 162) #4461a2; 
+   <li>font-size: 20px</li>
+   <div>
     <p>
      <em>Your order has been placed.
     <p>Once your package ships, we will send you an email with a tracking number so you can track your order.</p></em>
-    </strong><p>
-    <li>Alignment: left  </li>
-    <li>Text color: rgb(101, 106, 119); font-size:14px </li>
-    <li>Padding: left (95), right (95)</li><div>
-    </a><p>
-    <em>Ship to:<p>
-    <p>First Name Last Name</p>
-    Street<p>
-    City, State, Postalcode</p></em>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> Ship to section</strong>
+      </div>
+      <p><li>Replace the hard coded address in the template with the address payload from the profile
+      <li> Remove the Discount, Total, Arriving</p>
+  </td>
+  <td>
+  <p> Ship to:</p>
+      <em>First Name Last Name<br>
+      Street<br>
+      City, State, Postalcode</em></p>
+    
     <strong>Button:</strong></p>
    <p><em>View order</em></p>
       <li>Background color: rgb(25, 121, 195)</li>
@@ -101,11 +108,13 @@ Following the Luma brand guideline the email should be structured as follows - y
   <div>
      <strong>Order Details Section</strong>
       </div>
-      <p>Tips:
-      <li>This is contextual event information.</li>
-      <li>Use the helper function: Each</li>
-      <li>Switch to the code editor format to add the contextual data. <li>
-      <li>Put the information into containers using DIV tags.</li>
+       <p><li>Add this section between the <b>Ship to</b> section and the <b>View Order</b> button
+      </p><br>
+      <p><b>Tips:</b>
+      <li>This is contextual event information.
+      <li>Use the !UICONTROL helper function]: [!UICONTROL Each]
+      <li>Switch to the code editor format to add the contextual data.
+      <li>Put the information into containers using DIV tags.
   </td>
   <td>
     <strong>Header</strong>
@@ -150,8 +159,7 @@ Following the Luma brand guideline the email should be structured as follows - y
 >
 >To allow you to troubleshoot your journeys, best practice is to add an alternative path to all message actions in case of timeout or error.
 
-
->[!TAB Check your work]
+>[!TAB Success Criteria]
 
 Trigger the Journey you created in test mode and send the email to yourself:
 
@@ -181,7 +189,8 @@ You should receive the personalized purchase confirmation email, with the specif
     Washington DC 20099
 
 
->[!TAB Success Criteria]
+
+>[!TAB Check your work]
 
 ** Journey
 

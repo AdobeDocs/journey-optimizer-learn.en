@@ -31,7 +31,7 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
    | [!UICONTROL TYPE]| [!UICONTROL Unitary] |
    | [!UICONTROL Event ID Type]|[!UICONTROL Rule Based]|
    | [!UICONTROL Schema]| Luma Product Interactions|
-   | [!UICONTROL Fields]| EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br> Name<br>Price<br>ProductImageURL<br>ProductURL|
+   | [!UICONTROL Fields]| EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Product List Items > Luma Product Catalog Schema > _*[!DNL yourOrganizationID]* > Product:</b> <br> Name<br>Price<br>ProductImageURL<br>ProductURL|
 
 1. Add the [!UICONTROL Event ID condition]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
 
@@ -43,9 +43,9 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 
 ![Add event condition](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. Select [!UICONTROL NAMESPACE]: `Email(Email)`
+1. Select [!UICONTROL NAMESPACE]: `Luma CRM ID (lumaCrmId)`
 
-1. Select **[!UICONTROL Save]**.
+2. Select **[!UICONTROL Save]**.
 
 ## Create *[!DNL Luma Wishlist Add]* Event
 
