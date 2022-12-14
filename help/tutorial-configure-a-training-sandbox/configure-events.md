@@ -30,10 +30,10 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
    | [!UICONTROL NAME]|`LumaOnlinePurchase`|
    | [!UICONTROL TYPE]| [!UICONTROL Unitary] |
    | [!UICONTROL Event ID Type]|[!UICONTROL Rule Based]|
-   | [!UICONTROL Schema]| Luma Product Interactions|
-   | [!UICONTROL Fields]| EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Product List Items > Luma Product Catalog Schema > _*[!DNL yourOrganizationID]* > Product:</b> <br> Name<br>Price<br>ProductImageURL<br>ProductURL|
+   | [!UICONTROL Schema]| `Luma Web Events Schema`|
+   | [!UICONTROL Fields]| `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url`|
 
-1. Add the [!UICONTROL Event ID condition]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
+2. Add the [!UICONTROL Event ID condition]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Select the pencil icon to edit the field
    2. On the [!UICONTROL Add an event id condition] modal, drag and drop the `eventType` onto the canvas

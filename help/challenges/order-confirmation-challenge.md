@@ -27,19 +27,19 @@ Luma, is launching their online store and want to ensure a good customer experie
 
 ## Your Challenge
 
-Create a journey that sends an order confirmation email when a Luma customer completes an online order.
+Create a journey that sends an order confirmation email when a Luma customer completes an online order. The Luma 
 
 >[!BEGINTABS]
 
 >[!TAB Task]
 
 1.  Create a journey called `Luma - Order Confirmation` 
-1.  Use the event: [!DNL LumaOnlinePurchase] as a trigger
-1.  Create the order confirmation email called `Luma - Order Confirmation`:
+2.  Use the event: `LumaOnlinePurchase` as a trigger
+3.  Create the order confirmation email called `Luma - Order Confirmation`:
   
   * Category transactional - make sure to select the transactional email surface
   * The subject line must be personalized with the recipients' first name and must include the phrase "thank you for your purchase"
-  * Use the **Luma - Order summary** template and modify it:
+  * Use the `Luma - Order summary` template and modify it:
 
 The email should be structured as follows:
 <table>
@@ -53,7 +53,6 @@ The email should be structured as follows:
     <strong>Luma logo</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>Size 35%, centered white background </li>
     <li>It should have a link to the luma website: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -65,9 +64,6 @@ The email should be structured as follows:
     </strong>
   </td>
   <td>
-    <strong>Image</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>Margin: Top, bottom (10)<div>
     <p>
     <strong>Text</strong><p>
     <em>Hey {first name}</em><p>
@@ -85,23 +81,15 @@ The email should be structured as follows:
   <div>
      <strong> Ship to section</strong>
       </div>
-      <p><li>Replace the hard coded address in the template with the address payload from the profile
+      <p><li>Replace the hard coded address in the template with the shipping address 
+      <li>The details are contextual attributes from the event (street, city, postal code, state)
+      <li>First name and last name are from the profile
       <li> Remove the Discount, Total, Arriving</p>
   </td>
   <td>
   <p> Ship to:</p>
       <em>First Name Last Name<br>
-      Street<br>
-      City, State, Postalcode</em></p>
-    
-    <strong>Button:</strong></p>
-   <p><em>View order</em></p>
-      <li>Background color: rgb(25, 121, 195)</li>
-      <li>Text color: White</li>
-      <li>No border</li>
-      <li>Height: 40</li>
-      <li>Add a link to a website of your choice </li>
-      <li>Left align with the text above (tip: use the container margin)</li>
+      Address<br></em></p>
   </td>
  <tr>
 <td>
