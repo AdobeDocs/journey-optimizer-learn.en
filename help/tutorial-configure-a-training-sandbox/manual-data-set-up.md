@@ -280,9 +280,9 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
    * Type: [!UICONTROL Object] 
 
-   * Field group: [!DNLLuma Product Inventory Event Details Field Group]
+   * Field group: `Luma Product Inventory Event Details Field Group`
 
-1. Add the following fields to the **[!DNL Product Inventory Event Details]** object:
+1. Add the following fields to the `Product Inventory Event Details` object:
 
    | [!UICONTROL Fieldname] |[!UICONTROL Display Name]|[!UICONTROL Type]|
    |-------------|-----------|----------|
@@ -305,9 +305,9 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
       ![enum](assets/enum.png)
 
-2. Set `productId` field as **[!UICONTROL primary identity]** using **[!DNL Luma Product namespace]**.
+1. Set `productId` field as **[!UICONTROL primary identity]** using **[!DNL Luma Product namespace]**.
 
-3. Select the `sku` field and define a relationship to the `product.sku` field in the **[!DNL Luma Product catalog Schema]** Schema:
+1. Select the `sku` field and define a relationship to the `product.sku` field in the **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Scroll down to the bottom of the **[!UICONTROL Field properties]**.
 
@@ -323,9 +323,9 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
       ![SKU relationship](assets/sku_relationship.png)
 
-4. Enable for **Profile**.
+1. Enable for **Profile**.
 
-5. Select [!UICONTROL Save] to save the schema.
+1. Select [!UICONTROL Save] to save the schema.
 
 ### Create the [!DNL Luma CRM] and [!DNL Luma Product Interactions] schemas {#create-luma-crm-and-luma-product-interactions-schemas}
 
