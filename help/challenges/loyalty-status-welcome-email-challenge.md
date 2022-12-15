@@ -57,7 +57,7 @@ Test your journey:
     
 3.  Set the journey to test mode 
 4.  Trigger an event 
-5.  Add the following [!DNL CRM ID] for [!DNL Stanleigh Stooke] into the [!UICONTROL Profile Identifier] field: `4f34057d9d9e792c28ba18ecae378e98`
+5.  Add the following [!DNL CRM ID] for `Stanleigh Stooke` into the [!UICONTROL Profile Identifier] field: `4f34057d9d9e792c28ba18ecae378e98`
 
 **Result:** You should receive the personalized *Luma – platinum Status - Welcome* email. 
 

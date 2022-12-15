@@ -107,7 +107,7 @@ The email should be structured as follows:
   <td>
     <strong>Header</strong>
     <p>
-    <em>Order {Purchase Order Number}</em>
+    <em>Order: `purchaseOrderNumber`</em>
     </p>
     <strong>List of products that were ordered:
   </strong>
@@ -158,7 +158,7 @@ Trigger the Journey you created in test mode and send the email to yourself:
     3.  On the next screen add your email address in parentheses: *yourname@yourdomain* in the expression editor and click ok.  
 2.  Put the journey into test mode
 3.  Trigger the event with the following parameters:
-    * Set the profile identifier to: Jenna_Palmer9530@emailsim.io
+    * Set the profile identifier to: Identity value:`a8f14eab3b483c2b96171b575ecd90b1`
     * Event Type: commerce.purchases
     * Name: Sprite Yoga Companion Kit
     * Quantity: 1
@@ -166,12 +166,13 @@ Trigger the Journey you created in test mode and send the email to yourself:
     * Order number: 6253728
     * SKU: 24-WG080
     * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+    * 
 
 You should receive the personalized purchase confirmation email, with the specified product.
 
-*   The subject line should start with your test profile's first name: Jenna
+*   The subject line should have the test profile's first name: Leora
 *   The order detail section should be populated with the order details you entered while testing
-*   The customer information should have your test profile's city and postal code:
+*   The *Ship to* section should have your test profile's city and postal code:
 
     43913 Thierer Terrace,
     Washington DC 20099
@@ -180,17 +181,30 @@ You should receive the personalized purchase confirmation email, with the specif
 
 >[!TAB Check your work]
 
-** Journey
+**Journey**
 
 ![Journey](/help/challenges/assets/c2-journey.png)
 
 
-** Email
+**Email**
 
 **Subject line:**
 
 {{ profile.person.name.firstName }}, thank you for your purchase!
 
+**Ship to section:**
+
+This is what your code should look like:
+
+```javascript
+{{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
+{{context.journey.events.454181416.commerce.shipping.address.street1}}
+{{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
+```
+
+*event.45481416* will be a different number for you. 
+
+TIP: Personalize each line separately
 
 **Oder detail section:**
 
