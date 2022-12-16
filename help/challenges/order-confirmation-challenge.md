@@ -82,21 +82,21 @@ The email should be structured as follows:
      <strong> Ship to section</strong>
       </div>
       <p><li>Replace the hard coded address in the template with the shipping address 
-      <li>The details are contextual attributes from the event (street, city, postal code, state)
+      <li>The address details are contextual attributes from the event (street, city, postal code, state)
       <li>First name and last name are from the profile
       <li> Remove the Discount, Total, Arriving</p>
   </td>
   <td>
   <p> Ship to:</p>
       <em>First Name Last Name<br>
-      Address<br></em></p>
+     Address</em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>Order Details Section</strong>
       </div>
-       <p><li>Add this section between the <b>Ship to</b> section and the <b>View Order</b> button
+       <p><li>Add this section after the <b>Ship to</b> section and the <b>View Order</b> button.
       </p><br>
       <p><b>Tips:</b>
       <li>This is contextual event information.
@@ -162,11 +162,14 @@ Trigger the Journey you created in test mode and send the email to yourself:
     * Event Type: commerce.purchases
     * Name: Sprite Yoga Companion Kit
     * Quantity: 1
-    * Price Total: 61
-    * Order number: 6253728
-    * SKU: 24-WG080
-    * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-    * 
+    * `Price Total:` 61
+    * `Purchase Order Number:` 6253728
+    * `SKU:` 24-WG080
+    * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+    * `City:` San Jose
+    * `Postal Code:` 95110
+    * `State`: CA 
+    * `Street:` 345 Park Ave 
 
 You should receive the personalized purchase confirmation email, with the specified product.
 
@@ -218,19 +221,21 @@ Header:
 Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
-List of products:
+**List of products:**
 
 Use the helper function "each" to create the list of products. This is what your code should look like:
 
 ```javascript
-{{#each context.journey.events.1911672547.productListItems as|product|}}
-<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product._wwfovlab065.productImageURL}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.priceTotal}}.00</h5>
-<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
+{{#each context.journey.events.454181416.productListItems as |product|}}
+<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.productImageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
+<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}.00</h5>
+<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
 {{/each}}
-
-Total: ${{context.journey.events.1627840522.commerce.order.priceTotal}} 
 ```
+
+**Price total:**
+
+Total:`${{context.journey.events.1627840522.commerce.order.priceTotal}}` 
 
 **Customer information Section**
 
