@@ -15,9 +15,9 @@ user-guide-description: Here are Journey Optimizer Tutorials.
   + [Architecture](/help/introduction/architecture.md)
   + [Mobile capabilities for marketers](/help/create-messages/mobile-capabilities.md)
   + [Mobile capabilities for developers](/help/create-messages/mobile-capabilities-for-developers.md)
-+ Create campaigns {#create-campaigns}
++ Campaigns {#create-campaigns}
   + [Create a campaign](/help/create-champaigns/create-a-campaign.md)
-+ Create journeys {#create-journeys}
++ Journeys {#create-journeys}
   + [Overview over the journey canvas](/help/create-journeys/overview-over-the-journey-canvas.md)
   + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
   + [Use case - Transactional journey](/help/create-journeys/use-case-transactional-journey.md)
@@ -27,6 +27,10 @@ user-guide-description: Here are Journey Optimizer Tutorials.
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
++ SMS Channel{#sms-channel}
+  + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
+  + [Author and deliver SMS messages](/help/channels/author-and-deliver-sms-messages.md)
+  + [Inbound keyword support for SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Customer profiles, segments, and subscriptions {#profiles-segments-subscriptions}
   + [Unified profile and segmentation - overview](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
   + [Create segments](/help/set-up-resources/create-segments.md)
@@ -36,9 +40,6 @@ user-guide-description: Here are Journey Optimizer Tutorials.
     + [Create content with the Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/create-messages/preview-proof-and-publish.md)
-  + Create SMS text messages {#create-sms}
-    + [Configure, author, and deliver SMS messages](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-    + [Inbound keyword support for SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
   + Create in-app messages {#create-in-app}
     + [In-App messaging for Campaigns](/help/create-messages/in-app-messaging-for-campaigns.md)
     + [Author an in-app message](/help/create-messages/author-in-app-messages.md)
@@ -72,8 +73,8 @@ user-guide-description: Here are Journey Optimizer Tutorials.
     + [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
     + [Configure source connectors](/help/set-up-data/configure-source-connectors.md)
   + Configure channels {#channel-configuration}
-    + [Set up email channel](/help/set-up-email-channel/set-up-email-channel.md)
-    + [Delegate CName subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
+    + [Set up email channel](/help/set-up-channels/set-up-email-channel.md)
+    + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
     + [Configure message frequency rules](/help/administration/configure-frequency-rules.md)
   +  Configure journeys {#journey-configuration}
      + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
