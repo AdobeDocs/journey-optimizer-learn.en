@@ -8,8 +8,6 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-hide: yes
-hidefromtoc: yes
 ---
 
 # Configure SMS API credentials and channel surfaces
