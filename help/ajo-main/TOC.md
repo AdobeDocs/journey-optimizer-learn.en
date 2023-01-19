@@ -72,13 +72,13 @@ user-guide-description: Here are Journey Optimizer Tutorials.
     + [Configure source connectors](/help/set-up-data/configure-source-connectors.md)
   + Configure channels {#channel-configuration}
     + [Set up email channel](/help/set-up-channels/set-up-email-channel.md)
-    + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
     + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
+    + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
     + [Configure message frequency rules](/help/administration/configure-frequency-rules.md)
   +  Configure journeys {#journey-configuration}
-     + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
-     + [Create events](/help/set-up-journeys/create-events.md)
-     + [Create actions](/help/set-up-journeys/create-actions.md)
+    + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
+    + [Create events](/help/set-up-journeys/create-events.md)
+    + [Create actions](/help/set-up-journeys/create-actions.md)
 + Access Control {#access-control}
   + [Access management](/help/set-up-access/access-management.md)
   + [Create and manage sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
