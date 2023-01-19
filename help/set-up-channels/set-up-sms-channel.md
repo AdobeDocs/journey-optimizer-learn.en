@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-exl-id: 8b96e3b0-84f4-4aa8-b2f5-1bf30e3e4106
 hide: yes
 hidefromtoc: yes
 ---
+
 # Configure SMS API credentials and channel surfaces
 
 Learn how to connect Journey Optimizer to an SMS service provider and how to create an SMS channel surface.

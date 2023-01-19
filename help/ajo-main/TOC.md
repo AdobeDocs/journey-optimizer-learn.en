@@ -13,10 +13,10 @@ user-guide-description: Here are Journey Optimizer Tutorials.
   + [Journey Optimizer Overview Part 2](/help/introduction/journey-optimizer-overview-part-2.md)
   + [Key capabilities and the user interface](/help/introduction/key-capabilities-and-user-interface.md)
   + [Architecture](/help/introduction/architecture.md)
-  + [Mobile capabilities for marketers](/help/create-messages/mobile-capabilities.md)
-  + [Mobile capabilities for developers](/help/create-messages/mobile-capabilities-for-developers.md)
+  + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
+  + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
 + Campaigns {#create-campaigns}
-  + [Create a campaign](/help/create-champaigns/create-a-campaign.md)
+  + [Create a campaign](/help/create-campaigns/create-a-campaign.md)
 + Journeys {#create-journeys}
   + [Overview over the journey canvas](/help/create-journeys/overview-over-the-journey-canvas.md)
   + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -27,22 +27,20 @@ user-guide-description: Here are Journey Optimizer Tutorials.
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
-+ SMS Channel{#sms-channel}
-  + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
++ Email channel{#email-channel}
+  + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
+  + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
+  + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
++ In App channel{#in-app-channel}
+  + [In-App messaging for Campaigns](/help/channels/in-app-messaging-for-campaigns.md)
+  + [Author an in-app message](/help/channels/author-in-app-messages.md)
++ SMS channel{#sms-channel}
   + [Author and deliver SMS messages](/help/channels/author-and-deliver-sms-messages.md)
   + [Inbound keyword support for SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Customer profiles, segments, and subscriptions {#profiles-segments-subscriptions}
   + [Unified profile and segmentation - overview](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
   + [Create segments](/help/set-up-resources/create-segments.md)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
-+ Create messages {#create-messages}
-  + Create emails {#create-emails}
-    + [Create content with the Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
-    + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
-    + [Preview, proof, and publish](/help/create-messages/preview-proof-and-publish.md)
-  + Create in-app messages {#create-in-app}
-    + [In-App messaging for Campaigns](/help/create-messages/in-app-messaging-for-campaigns.md)
-    + [Author an in-app message](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalize content {#personalize-content}
   + [Profile and segment membership-based personalization](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
@@ -74,6 +72,7 @@ user-guide-description: Here are Journey Optimizer Tutorials.
     + [Configure source connectors](/help/set-up-data/configure-source-connectors.md)
   + Configure channels {#channel-configuration}
     + [Set up email channel](/help/set-up-channels/set-up-email-channel.md)
+    + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
     + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
     + [Configure message frequency rules](/help/administration/configure-frequency-rules.md)
   +  Configure journeys {#journey-configuration}
