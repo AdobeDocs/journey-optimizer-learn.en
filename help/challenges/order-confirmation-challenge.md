@@ -66,7 +66,7 @@ The email should be structured as follows:
   <td>
     <p>
     <strong>Text</strong><p>
-    <em>Hey {first name}</em><p>
+    <em>Hey {firstName}</em><p>
     <li>Alignment: left  </li>
    <li>Text color: rgb(69, 97, 162) #4461a2; 
    <li>font-size: 20px</li>
@@ -82,14 +82,15 @@ The email should be structured as follows:
      <strong> Ship to section</strong>
       </div>
       <p><li>Replace the hard coded address in the template with the shipping address 
-      <li>The address details are contextual attributes from the event (street, city, postal code, state)
+      <li>The address details are contextual attributes from the event (street 1, city, postal code, state)
       <li>First name and last name are from the profile
       <li> Remove the Discount, Total, Arriving</p>
   </td>
   <td>
   <p> Ship to:</p>
-      <em>First Name Last Name<br>
-     Address</em></p>
+      <em>{firstName} {lastName}<br>
+     {Street 1}<br>
+     {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
@@ -217,18 +218,20 @@ Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 
 **List of products:**
 
-Use the helper function "each" to create the list of products. Display them in a table. This is what your code should look like:
+Use the helper function "each" to create the list of products. Display them in a table. This is what your code should look like (with your specific variables such as your event ID - instead of `454181416` and the your Organization I instead of `techmarketingdemos` ):
 
 ```javascript
 <div class="text-container" contenteditable="true">
   <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
-    </span></p>
-  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
+   </span></p>
+   <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{context.journey.events.454181416.productListItems.productImageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
+    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
+    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}
+    </div>
+    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{context.journey.events.454181416.productListItems.quantity}}
+    </div>
   </div>
-  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
+  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);">
   {{/each}}<p></p>
   <p></p>
 </div>
