@@ -1,7 +1,7 @@
 ---
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Here are Journey Optimizer Tutorials.
+user-guide-description: These are Journey Optimizer Tutorials.
 ---
 
 # Journey Optimizer Tutorials {#tutorials}
