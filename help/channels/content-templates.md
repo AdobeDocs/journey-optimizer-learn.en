@@ -6,9 +6,7 @@ role: User
 level: Beginner
 kt: 10846
 thumbnail: 3413743.jpg
-last-update-author: 20230130
-hide: yes
-hidefromtoc: yes
+last-substantial-update: 20230131
 ---
 # Content templates
 
