@@ -16,7 +16,7 @@ exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 |Challenge|Create an order confirmation transactional email|
 |---|---|
 |Persona|Journey Manager|
-|Required skills|<ul><li>[Create email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en)</li> <li>[Use contextual event information for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Use helper functions for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul>|
+|Required skills|<ul><li>[Create email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Use contextual event information for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Use helper functions for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul>|
 |Assets to download|[Order confirmation assets](/help/challenges/assets/email-assets/order-confirmation-assets.zip)|
 
 ## The Story
@@ -80,7 +80,7 @@ The email should be structured as follows:
       </div>
       <p>
       <li>First name and last name are from the profile
-      <li>Replace the hard coded address in the template with the <b>shipping address</b>
+      <li>Replace the hard-coded address in the template with the <b>shipping address</b>
       <li>The address details are contextual attributes from the event (street 1, city, postal code, state)
       <li> Remove <i>Discount, Total, Arriving</i></p>
   </td>
@@ -110,8 +110,8 @@ The email should be structured as follows:
     </p>
     <strong>List of products that were ordered:
   </strong>
-  <p>List each product in the order with an image, the price and the name.
-  <p>The layout of each items should should look like this:
+  <p>List each product in the order with an image, the price, and the name.
+  <p>The layout of each item should look like this:
    <img alt="order" src="./assets/c2-order.png"> 
 <p><b>Add the link to the cart</b>
 <p>Replace the order ID in the URL  with the purchase order number:
@@ -123,15 +123,15 @@ The email should be structured as follows:
 
 >[!TIP]
 >
->To allow you to troubleshoot your journeys, best practice is to add an alternative path to all message actions in case of timeout or error.
+>To allow you to troubleshoot your journeys, best practice is to add an alternative path to all message actions if there is a timeout or error.
 
 >[!TAB Success Criteria]
 
-Trigger the Journey you created in test mode and send the email to yourself:
+Trigger the Journey that you created in test mode and send the email to yourself:
 
 1.  Before you switch to test mode, override the email parameters to send to the test email to your email address:
     1.  Open the email details view.
-    2.  In the Email parameters click on the T symbol (enable parameter override
+    2.  In the Email parameters section, click on the T symbol (enable parameter override
     3.  Click into the Address field
     4.  On the next screen add your email address in parentheses: *"yourname@yourdomain"* in the expression editor and click ok.  
 2.  Put the journey into test mode
@@ -178,11 +178,11 @@ This is what your code should look like:
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* will be a different number for you. 
+*event.45481416* is a different number for you. 
 
 TIP: Personalize each line separately
 
-**Oder detail section:**
+**Order detail section:**
 
 This is what your code should look like:
 
@@ -194,7 +194,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **List of products:**
 
-Use the helper function "each" to create the list of products. Display them in a table. This is what your code should look like (with your specific variables such as your event ID - instead of `454181416` and the your Organization I instead of `techmarketingdemos` ):
+Use the helper function "each" to create the list of products. Display them in a table. This is what your code should look like (with your specific variables such as your event ID - instead of `454181416` and your Organization I instead of `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
