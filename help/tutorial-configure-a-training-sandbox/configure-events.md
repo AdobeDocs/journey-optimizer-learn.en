@@ -17,13 +17,9 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
 
 ## Create the Luma Online Purchase Event
 
-1. From the left navigation, navigate to [!UICONTROL ADMINISTRATION] and select *[!UICONTROL Configuration]*
-1. From the [!UICONTROL Dashboard], select *[!UICONTROL Manage*]* Events
+When using this event, Journey Optimizer receives information when a person purchases luma products online.
 
-![Manage events](assets/create-events.png)
-
-1. Click *[!UICONTROL Create Event]*
-1. Fill in the event details and parameters:
+1. Create an event with the following parameters:
 
    |[!UICONTROL Parameter] |[!UICONTROL Value]|
    |-------------|-----------|
@@ -33,7 +29,7 @@ Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guid
    | [!UICONTROL Schema]| `Luma Web Events Schema`|
    | [!UICONTROL Fields]| `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url`|
 
-1. Add the [!UICONTROL Event ID condition]: `LumaOnlinePurchase.eventType is commerce.purchases`
+2. Add the [!UICONTROL Event ID condition]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Select the pencil icon to edit the field
    2. On the [!UICONTROL Add an event id condition] modal, drag and drop the `eventType` onto the canvas
