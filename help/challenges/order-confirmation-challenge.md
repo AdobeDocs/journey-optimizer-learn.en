@@ -27,19 +27,21 @@ Luma, is launching their online store and want to ensure a good customer experie
 
 ## Your Challenge
 
-Create a journey that sends an order confirmation email when a Luma customer completes an online order. The Luma 
+Create a journey that sends an order confirmation email when a Luma customer completes an online order.
 
 >[!BEGINTABS]
 
 >[!TAB Task]
 
 1.  Create a journey called `Luma - Order Confirmation` 
-2.  Use the event: `LumaOnlinePurchase` as a trigger
+2.  Use the event: `LumaOnlinePurchase`
 3.  Create the order confirmation email called `Luma - Order Confirmation`:
   
   * Category transactional - make sure to select the transactional email surface
   * The subject line must be personalized with the recipients' first name and must include the phrase "thank you for your purchase"
   * Use the `Luma - Order summary` template and modify it:
+    * Remove the `You may also like` sections
+    * Add the unsubscribe link at the bottom of the email 
 
 The email should be structured as follows:
 <table>
@@ -50,7 +52,6 @@ The email should be structured as follows:
       </div>
   </td>
   <td>
-    <strong>Luma logo</strong>
       <p>
      <li>luma_logo.png</li>
     <li>It should have a link to the luma website: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
@@ -66,10 +67,7 @@ The email should be structured as follows:
   <td>
     <p>
     <strong>Text</strong><p>
-    <em>Hey {first name}</em><p>
-    <li>Alignment: left  </li>
-   <li>Text color: rgb(69, 97, 162) #4461a2; 
-   <li>font-size: 20px</li>
+    <em>Hey {firstName}</em><p>
    <div>
     <p>
      <em>Your order has been placed.
@@ -81,28 +79,30 @@ The email should be structured as follows:
   <div>
      <strong> Ship to section</strong>
       </div>
-      <p><li>Replace the hard coded address in the template with the shipping address 
-      <li>The address details are contextual attributes from the event (street, city, postal code, state)
+      <p>
       <li>First name and last name are from the profile
+      <li>Replace the hard coded address in the template with the <b>shipping address</b>
+      <li>The address details are contextual attributes from the event (street 1, city, postal code, state)
       <li> Remove the Discount, Total, Arriving</p>
   </td>
   <td>
   <p> Ship to:</p>
-      <em>First Name Last Name<br>
-     Address</em></p>
+      <em>{firstName} {lastName}<br>
+     {Street 1}<br>
+     {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>Order Details Section</strong>
       </div>
-       <p><li>Add this section after the <b>Ship to</b> section and the <b>View Order</b> button.
+       <p><li>Add this section below the <b>Ship to</b> section.
       </p><br>
       <p><b>Tips:</b>
+      <li>Use the structure component `1:2 column left` for this section
       <li>This is contextual event information.
       <li>Use the [!UICONTROL helper function]: [!UICONTROL Each]
       <li>Switch to the code editor format to add the contextual data.
-      <li>Put the information into containers using DIV tags.
   </td>
   <td>
     <strong>Header</strong>
@@ -114,30 +114,6 @@ The email should be structured as follows:
   <p>Each of the items should be formatted like this:
    <img alt="order" src="./assets/c2-order.png"> 
 </p>
-<strong>Product Image:</strong>
-<li>class: cart-item-chair
-<li>style: border-box: min-height:40px</li>
-<li>padding top and bottom:20px</li>
-<li>padding-left:80px</li>
-<li>border-radius:0px</li>
-<li>Use as background image for the container</li>
-<li>background-position: 0% 50%</li>
-<li>background-size: 60px</li>
-<li>background-repeat: no-repeat</li>
-<p>
-<strong>Price:</strong>
-<li>Format = H5</li>
-<li>style = box-sizing:border-box</li>
-<li>margin-bottom:5px</li>
-<li>margin-top:0px;</li>
-<p>
-<strong>Name and Quantity:</strong>
-<li>class=text-small</li>
-<li>style=box-sizing: border-box</li>
-<li>padding-top: 5px</li>
-<li>color: rgb(101, 106, 119)</li>
-<li>font-size:14px</li>
-<p>
 </td>
   </tr>
 </table>
@@ -160,16 +136,14 @@ Trigger the Journey you created in test mode and send the email to yourself:
 3.  Trigger the event with the following parameters:
     * Set the profile identifier to: Identity value:`a8f14eab3b483c2b96171b575ecd90b1`
     * Event Type: commerce.purchases
-    * Name: Sprite Yoga Companion Kit
-    * Quantity: 1
-    * `Price Total:` 61
+    * `Quantity`: 1
+    * `Price Total:` 69
     * `Purchase Order Number:` 6253728
-    * `SKU:` 24-WG080
-    * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-    * `City:` San Jose
-    * `Postal Code:` 95110
-    * `State`: CA 
-    * `Street:` 345 Park Ave 
+    * `SKU:` LLMH09
+    * `City:` Washington
+    * `Postal Code:` 20099
+    * `State`: DC
+    * `Street:` Thierer Terrace
 
 You should receive the personalized purchase confirmation email, with the specified product.
 
@@ -187,7 +161,11 @@ You should receive the personalized purchase confirmation email, with the specif
 
 **Subject line:**
 
-{{ profile.person.name.firstName }}, thank you for your purchase!
+Thank you for your purchase, {{ profile.person.name.firstName }}!
+
+This is what your email body should look like:
+
+![Email](//help/challenges/assets/c2-email.png)
 
 **Ship to section:**
 
@@ -205,48 +183,25 @@ TIP: Personalize each line separately
 
 **Oder detail section:**
 
-![Order detail section](/help/challenges/assets/c2-order-detail-section.png)
-
 This is what your code should look like:
 
 Header:
 
 ```javascript
-Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
+Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
 **List of products:**
 
-Use the helper function "each" to create the list of products. Display them in a table. This is what your code should look like:
+Use the helper function "each" to create the list of products. Display them in a table. This is what your code should look like (with your specific variables such as your event ID - instead of `454181416` and the your Organization I instead of `techmarketingdemos` ):
 
 ```javascript
-<div class="text-container" contenteditable="true">
-  <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
-    </span></p>
-  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
-  </div>
-  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
-  {{/each}}<p></p>
-  <p></p>
-</div>
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
 ```
 
 **Price total:**
 
-Total:`${{context.journey.events.1627840522.commerce.order.priceTotal}}` 
+Total:`${{context.journey.events.1627840522.commerce.order.priceTotal}}.00` 
 
-**Customer information Section**
-
-![Customer address](assets/c2-customer-information.png)
-
-The personalization should look like this:
-
-```javascript
-{{profile.homeAddress.street1}}
-{{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
-```
 
 >[!ENDTABS]
