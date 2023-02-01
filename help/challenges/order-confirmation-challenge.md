@@ -153,7 +153,7 @@ You should receive the personalized purchase confirmation email.
 
 * This is what your email body should look like:
 
-![Email](//help/challenges/assets/c2-email.png)
+![Email](/help/challenges/assets/c2-email.png)
 
 >[!TAB Check your work]
 
