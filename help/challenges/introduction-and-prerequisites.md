@@ -21,7 +21,7 @@ Each challenge in this section addresses a unique use case that you implement. T
 
 * Access to a Journey Optimizer sandbox - we recommended completing the challenge in a dedicated training sandbox. 
 * AEM Assets Essentials must be provisioned for your instance
-* The email channel must be configured for transactional and marketing messages
+* The email channels must be configured for transactional and marketing messages
 
 ### Access rights
 
