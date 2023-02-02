@@ -33,13 +33,13 @@ You have been asked to set up a journey that automatically sends a welcome email
 
 >[!TAB Task]
 
-When a loyalty customer qualifies for the platinum tier, they should receive and email to congratulate and inform them of their new benefits. The creative team has provided an HTML file **[Luma – status upgrade - welcome eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** with the email body.
+When a loyalty customer qualifies for the platinum tier, they should receive an email to congratulate and inform them of their new benefits. The creative team has provided an HTML file **[Luma – status upgrade - welcome eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** with the email body.
 
-1.   Create a [!UICONTROL segment] in Journey Optimizer called `Luma – status upgrade`.
+1.   Create a [!UICONTROL segment] in Journey Optimizer called `Luma – platinum status`.
 2.   Create a journey called `Luma – New Status – platinum`. 
      1. A customer moves into the journey, when they qualify for the platinum loyalty tier. 
-     2. The customer should receive an email message labeled `Luma – Platinum Status - Welcome`, with the subject line `Welcome to Platinum Status, (recipient's first name)!` with the email body provided by the creative team. This is a [!UICONTROL transactional] eMail.
-     3. When uploading the HTML file, you notice that the email is referring to "diamond" status, rather than "platinum". Rather than requesting a new file from the creative team, update the email in the Email Designer.
+     2. The customer should receive an email message labeled `Luma – Platinum Status - Welcome`, with the subject line `Welcome to Platinum Status, {firstName}!` with the email body provided by the creative team. This is a [!UICONTROL transactional] eMail.
+     3. When uploading the HTML file, you notice that the email is referring to "diamond" status, rather than "platinum". Rather than requesting a new file from the creative team, update the email in the [!UICONTROL email designer].
 
 >[!TAB Success criteria]
 
@@ -47,29 +47,27 @@ Test your journey:
 
 1.  Make sure that the [!UICONTROL Read Segment Activity] has the [!UICONTROL namespace] set to **[!DNL Luma CRM id(lumaCrmId)]**
 2.  Override the default [!UICONTROL email parameters] and set it to your own email address 
-       * Show the hidden values by clicking the eye symbol.
        * In the [!UICONTROL Email parameters], click on the T symbol (enable parameter override
-
-        ![Override email parameters](/help/challenges/assets/c3-override-email-paramters.jpg)
-    
        * Click into the [!UICONTROL Address field]
-       * On the next screen add your email address in parentheses: `"yourname@yourdomain"` in the expression editor and click ok.
-    
+       * On the next screen, add your email address in parentheses: `"yourname@yourdomain"` in the expression editor and click ok.
 3.  Set the journey to test mode 
-4.  Trigger an event 
+4.  Select **Trigger an event** 
 5.  Add the following [!DNL CRM ID] for `Stanleigh Stooke` into the [!UICONTROL Profile Identifier] field: `4f34057d9d9e792c28ba18ecae378e98`
 
 **Result:** You should receive the personalized *Luma – platinum Status - Welcome* email. 
 
+This is what the email should look like:
+
+![Luma – status upgrade - welcome eMail](/help/challenges/assets/status-upgrade-welcome-email.png)
+
 >[!TAB Check your work]
+
+This is what the segment should look like: 
+
+![Luma - platinum status- segment](/help/challenges/assets/c3-segment.png)
 
 This is what your journey should look like: 
 
 ![platinum-status-upgrade-journey](/help/challenges/assets/journey-luma-status-upgrade.png)
-
-
-This is what the email should look like:
-
-![Luma – status upgrade - welcome eMail](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]
