@@ -25,62 +25,34 @@ When browsing the Luma website, customers can add products they are interested t
 
 Luma asks you to implement a journey in Journey Optimizer that notifies customers, who have an item on their wishlist that was previously out-of-stock, when this item is back in stock.
 
-## Define the segment – Out-of-stock Wishlist Items
+>[!BEGINTABS]
 
-To target potential interested customers when products are restocked, create a segment that consists of customers
+>[!TAB Task] 
 
-* Who have added at least one item to their wish list (Use event type: [!UICONTROL Commerce Save For Laters])
-* Which was **out of stock** in the last 3 months (use stock quantity = 0)
+## 1. Define the segment – Out-of-stock Wishlist Items
+
+To target potential interested customers when products are restocked, create a segment that consists of customers:
+
+* Who have added at least one item to their wish list (Use theevent type: [!UICONTROL Commerce Save For Laters])
+* Which was out of stock in the last 3 months (use stock quantity = 0)
 * And have not since purchased the item.
 
-Name this segment: *your name – Out-of-stock-Wishlist*
+>[!TIP] 
+>Exclude all the Purchases event types where the SKU matches the SKU from the *Save For Later event*. You can find the field in the *Browse Variables* section.
 
-+++**CHECK YOUR WORK**
+Name this segment: `Out-of-stock-Wishlist`
 
-This is what your segment should look like:
 
-![Segment - Out-of-stock Wishlist Items](/help/challenges/assets/C1-S2.png)
-
-Customers who have added an item to their wish list that was out of stock in the last 3 months:
-
-* Event: Save for Laters
-  * Include at least 1
-  * Where the Stock quantity is 0
-
-and have not since purchased the item:
-
-* Exclude all the Purchases event types where the SKU matches the SKU from the **Save For Later event**.
-
->[!TIP]
-> * Select the SKU under the Save for Laters in the *Browse Variables* section 
-> * Use the compare option when dropping the SKU under Save for later into the event field
-
-Check the code on the bottom right corner of the Edit segment screen, under Events. The code should look like this:
-
-Code:
-```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
-
-+++
-
-### Create Email - Luma-Product Replenishment
-
-Notify customers who had added an out-of-stock item with a call to start shopping now that the item is back in stock.
-
-### Create the journey – Product restock notification
+### 2. Create the journey – Product restock notification
 
 When a previously out-of-stock item is back in stock, notify customers who had added an out-of-stock item with a call to start shopping now that the item is back in stock.
 
-1. Create a journey called "your name_Luma - Product Restock
-1. The journey should be triggered when a product is back in stock
-1. Send the *Luma-Product Replenishment* email to
-1. Users who had added this item to their wishlist while it was out of stock
+1. Call the journey: `Product Restock`
+2. The journey should be triggered when a product is back in stock
+3. Send the *Luma-Product Replenishment* email to
+4. Users who had added this item to their wishlist while it was out of stock
 
->[!TIP]
->
-> Use the existing business event. You need to add a condition that checks that the restock SKU is included in (any) event type save for laters.
->
-
-+++**SUCCESS CRITERIA**
+>[!TAB Success criteria]
 
 Test your journey:
 
@@ -99,9 +71,14 @@ Test your journey:
 
 You should receive the "Luma Email Product Replenishment" email with the product details and the personalization for Jenna.
 
-+++
+>[!TAB Check your work]
 
-+++**CHECK YOUR WORK**
+This is what your segment should look like:
+
+![Segment - Out-of-stock Wishlist Items](/help/challenges/assets/C1-S2.png)
+
+
+
 
 This is what your journey should look like:
 
@@ -115,4 +92,29 @@ Condition code:
 
 ```in(@{LumaProductRestock._wwfovlab065.sku},#{ExperiencePlatform.ExperienceEvents.experienceevent.all(currentDataPackField.eventType=="commerce.saveForLaters").productListItems.all().SKU})```
 
-+++
+
+>[!TIP]
+> * Select the SKU under the Save for Laters in the *Browse Variables* section 
+> * Use the compare option when dropping the SKU under Save for later into the event field
+
+Check the code on the bottom right corner of the Edit segment screen, under Events. The code should look like this:
+
+Code:
+```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
+
+>[!ENDTABS]
+
+### Create Email - Luma-Product Replenishment
+
+Notify customers who had added an out-of-stock item with a call to start shopping now that the item is back in stock.
+
+
+
+>[!TIP]
+>
+> Use the existing business event. You need to add a condition that checks that the restock SKU is included in (any) event type save for laters.
+>
+
+
+
+

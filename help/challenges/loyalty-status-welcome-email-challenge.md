@@ -64,7 +64,7 @@ This is what the email should look like:
 
 This is what the segment should look like: 
 
-![Luma - platinum status- segment](/help/challenges/assets/c3-segment.png)
+![Luma - platinum status- segment](/)
 
 This is what your journey should look like: 
 
