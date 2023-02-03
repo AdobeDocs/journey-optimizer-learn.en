@@ -62,7 +62,7 @@ When using this event, Journey Optimizer receives information when a person purc
 |[!UICONTROL NAME]|`LumaProductRestock`|
 |[!UICONTROL TYPE]|[!UICONTROL Business]|
 |[!UICONTROL Schema]|[!DNL Luma Product Inventory Events]|
-|[!UICONTROL Fields]|productID <br> stockEventType<br><b>In Product > Luma Products > *[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>Description|
+|[!UICONTROL Fields]|SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>name<br>price<br> ImageURL<br>description|
 |[!UICONTROL Condition]|LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock|
 
 ## Congratulations
