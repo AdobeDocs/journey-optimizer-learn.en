@@ -13,7 +13,9 @@ exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 
 In this section, you set up the three events that are required for the hands-on exercises in the [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md).
 
-Watch the video [Create Events](/help/set-up-journeys/create-events.md) for guidance on how to create events.
+The following video explains how to create events:
+
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
 ## Create the Luma Online Purchase Event
 
@@ -55,7 +57,7 @@ When using this event, Journey Optimizer receives information when a person purc
 |[!UICONTROL Condition]| [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters]|
 |[!UICONTROL Namespace]| Email(EMail)|
 
-## Create *[!DNL Luma Product Restock] Event
+## Create *[!DNL Luma Product Restock]* Event
 
 |[!UICONTROL Parameter]|[!UICONTROL Value]|
 |-------------|-----------|
