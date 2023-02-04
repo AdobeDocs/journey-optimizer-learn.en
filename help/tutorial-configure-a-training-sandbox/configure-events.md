@@ -7,6 +7,7 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+hide: yes
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 ---
 # Configure events
