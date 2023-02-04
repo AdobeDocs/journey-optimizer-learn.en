@@ -36,7 +36,6 @@ Create a journey that sends an order confirmation email when a Luma customer com
 1.  Create a journey called `Luma - Order Confirmation` 
 2.  Use the event: `LumaOnlinePurchase`
 3.  Create a **transactional**  email called `Luma - Order Confirmation`
-  
   * The subject line "Thank you for your purchase, `FirstName`"
   * Use the `Luma - Order summary` template and modify it:
     * Remove the `You may also like` sections

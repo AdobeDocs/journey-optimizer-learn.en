@@ -27,18 +27,11 @@ Before you can begin to set up your training sandbox, ensure that you have:
 1. [Email Message presets](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) configured for marketing and transactional messaging.
 1. **[!UICONTROL Journey Administrator]** and **[!UICONTROL Data Manager]** rights for the training sandbox.
 1. Your [organization ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
-
 1. The JSON files with the sample data, configured to your Journey Optimizer instance:
-
    1. Download the `luma-sample-data.zip` file [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), which contains all JSON files required for this tutorial.
-
-   1. From your downloads folder, move the `luma-data.zip` file to the desired location on your computer, and unzip it.
-
-      These files hold the sample data for your  training sandbox.
-
-   2. Open each file and find **`yourOrganizationID`** and replace it with your [organization ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
-
-   3. Save the files.
+   1. From your downloads folder, move the `luma-data.zip` file to the desired location on your computer, and unzip it.These files hold the sample data for your  training sandbox.
+   1. Open each file and find **`yourOrganizationID`** and replace it with your [organization ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. Save the files.
 
 ## Let's get started
 
