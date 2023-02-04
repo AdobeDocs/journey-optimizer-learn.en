@@ -15,7 +15,7 @@ exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 |---|---|
 |Persona|Journey Manager|
 |Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en)</li><li> [Import and author HTML email content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en)</li><li>[Use Case - Read segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li>|
-|Assets to download|[Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)|
+|Assets to download|[Product restock email file](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip)|
 
 ## The story
 
@@ -23,7 +23,7 @@ When browsing the Luma website, customers can add products they are interested t
 
 ## Your Challenge
 
-Luma asks you to implement a journey in Journey Optimizer that notifies customers, who have an item on their wishlist that was previously out-of-stock, when this item is back in stock.
+Luma asks you to implement a journey in Journey Optimizer that notifies customers, who have an item on their wishlist that was previously out-of-stock, when this item is back in stock. The creative team provides you with the [Product restock email file](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
 
 >[!BEGINTABS]
 
@@ -49,14 +49,14 @@ When a previously out-of-stock item is back in stock, notify customers who had a
 
 1. Call the journey: `Product Restock`
 2. The journey should be triggered when a product is back in stock
-3. Send the *Luma-Product Replenishment* email to
+3. Send the *Product restock email* email to
 4. Users who had added this item to their wishlist while it was out of stock
 
 >[!TAB Success criteria]
 
 Test your journey:
 
-1. Make sure the segment qualification event has the Namespace  = Email
+1. Make sure the read segment event has the Namespace  = `Luma CRM ID`
 1. Override the default email parameters and set it to your own email address (see email #1 for instructions)
 1. Set the journey to test mode
 1. Trigger an event - enter the following data:
@@ -76,8 +76,6 @@ You should receive the "Luma Email Product Replenishment" email with the product
 This is what your segment should look like:
 
 ![Segment - Out-of-stock Wishlist Items](/help/challenges/assets/C1-S2.png)
-
-
 
 
 This is what your journey should look like:
