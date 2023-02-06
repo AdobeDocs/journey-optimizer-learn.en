@@ -19,7 +19,7 @@ Each challenge in this section addresses a unique use case that you implement. T
 
 ### System requirements
 
-* Access to a Journey Optimizer sandbox - we recommended completing the challenge in a dedicated training sandbox. 
+* Access to a Journey Optimizer sandbox - it is recommended completing the challenge in a dedicated training sandbox. 
 * AEM Assets Essentials must be provisioned for your instance
 * The email channels must be configured for transactional and marketing messages
 
@@ -34,7 +34,7 @@ You need the following access rights:
 
 ### Required actions
 
-*  If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
+*  If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
 
 ## The Story
@@ -63,7 +63,7 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
       <b>Required skills:</b>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html> Create segments</li>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html>Read segment</li>
-       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html>Import HTML email content</li>
+       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html>Import HTML email content</li>
   </td>
   </tr>
    <tr>
@@ -85,7 +85,7 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
     <b>Required skills:</b>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html> Create segments</li>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html>Segment qualification</li>
-      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html>Import and author HTML email content</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html>Import and author HTML email content</li>
   </td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
     </em>
     <p>
     <b>Required skills:</b>
-      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html> Create email content with the message editor</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html> Create email content with the message editor</li>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html>Use contextual event information for personalization</li>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en>Use helper functions for personalization</li>
   </td>

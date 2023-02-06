@@ -16,7 +16,7 @@ exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 |Challenge|Create a loyalty status welcome email|
 |---|---|
 |Persona|Journey Manager|
-|Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segment qualification](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Import HTML content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul>|
+|Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segment qualification](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Import HTML content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul>|
 |Assets to download|[StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)|
 
 ## The Story
@@ -39,7 +39,7 @@ When a loyalty customer qualifies for the platinum tier, they should receive a
 2.   Create a journey called `Luma – New Status – platinum`. 
      1. A customer moves into the journey, when they qualify for the platinum loyalty tier. 
      2. The customer should receive an email message labeled `Luma – Platinum Status - Welcome`, with the subject line `Welcome to Platinum Status, {firstName}!` with the email body provided by the creative team. This is a [!UICONTROL transactional] eMail.
-     3. When uploading the HTML file, you notice that the email is referring to "diamond" status, rather than "platinum". Rather than requesting a new file from the creative team, update the email in the [!UICONTROL email designer].
+     3. When uploading the HTML file, you notice that the email is referring to "diamond" status, rather than "platinum". Rather than requesting a new file from the creative team, update the email in the [!UICONTROL Email Designer].
 
 >[!TAB Success criteria]
 
