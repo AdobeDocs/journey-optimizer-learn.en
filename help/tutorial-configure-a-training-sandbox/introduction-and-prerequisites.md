@@ -35,4 +35,6 @@ Before you can begin to set up your training sandbox, ensure that you have:
 
 ## Let's get started
 
-Start with the [Manual data set up](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). In this step, you define the require data structure. After you complete the data set up, you can ingest data into your sandbox, then set up events.
+Start with the [Manual data set up](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). 
+
+In this step, you define the require data structure. After you complete the data set up, you can ingest data into your sandbox, then set up events.
