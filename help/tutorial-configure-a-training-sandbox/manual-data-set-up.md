@@ -81,7 +81,7 @@ Begin by creating the [!DNL Luma Loyalty] schema:
 
 #### Add existing field groups
 
-Next you are prompted to add field groups to the schema. You must add all fields to schemas using groups. You are adding existing field groups and must create a field group.
+Next you are prompted to add field groups to the schema. Add all fields to schemas using groups. You are adding existing field groups and must create a field group.
 
 >[!NOTE]
 >
@@ -105,7 +105,7 @@ Next you are prompted to add field groups to the schema. You must add all fields
 
 1. Enter `Luma Loyalty Schema` as the [!UICONTROL Display name].
 
-#### Create a new [!UICONTROL field group]
+#### Create a [!UICONTROL field group]
 
 To help ensure consistency across the schemas, Adobe recommends managing all system identifiers in a single group:
 
@@ -178,7 +178,7 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
    From the **[!DNL Luma Loyalty Schema]**:
    
-    1. Select the **[!DNL Luma Identity Profile Field Group]**..
+    1. Select the **[!DNL Luma Identity Profile Field Group]**.
    
     2. Select the `crmId` field.
    
@@ -192,7 +192,7 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
 1. Select the top node of the schema.
 
-1. In the [!UICONTROL Field properties] enable **[!UICONTROL Profile]**.
+1. In the [!UICONTROL Field properties], enable **[!UICONTROL Profile]**.
 
    The schema should look like this:
 
@@ -336,7 +336,7 @@ Create the following additional [!UICONTROL schemas]:
 |[!UICONTROL Display name]|[!DNL Luma CRM Schema]| [!DNL Luma Web Events Schema]| [!DNL Luma Test Profiles schema]|[!DNL Luma Offline Purchase Events Schema]|
 |  ---| ------- | ---- |----|----|
 |  **[!UICONTROL Class]**| [!UICONTROL XDM Individual Profile]| [!UICONTROL XDM Experience Event]|[!UICONTROL XDM Individual Profile]|[IUICONTROL XDM ExperienceEvent]|
-|  **[!UICONTROL Add existing field group]**| `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`| `Orchestration eventID`<br>`Consumer Experience Event`,br>`AEP Web SDK ExperienceEvent`| `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details`|`Luma Identity Profile Field Group` <br>`Commerce Details`|
+|  **[!UICONTROL Add existing field group]**| `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`| `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent`| `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details`|`Luma Identity Profile Field Group` <br>`Commerce Details`|
 |  **[!UICONTROL Relationship]**||`productListItems.SKU`:<br> Reference schema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU`||`productListItems.SKU`:<br> Reference schema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU`|
 |  **[!UICONTROL Primary Identity] [!UICONTROL namespace])** | `systemIdentifier.crmId`| | `systemIdentifier.crmId`|`systemIdentifier.LoyaltyId`|
 |   **[!UICONTROL Enable for profile]**| yes | yes |yes|yes|

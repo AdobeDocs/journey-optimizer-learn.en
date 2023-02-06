@@ -1,6 +1,6 @@
 ---
 title: Configure events
-description: Configure three events required for the hands on Journey Optimizer Challenges
+description: Configure three events required for the hands-on Journey Optimizer Challenges
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 kt: 9382
