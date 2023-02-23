@@ -36,5 +36,3 @@ http://ajolab.s3-website-us-east-1.amazonaws.com/index.html
 |----|----|----|
 |SMS| Welcome to Vegas Stay. Skip the line and check-in with the mobile app: lab://checkin||
 |Push|Welcome to Vegas Stay. Skip the line and check-in with the mobile app| lab://checkin|
-
-
