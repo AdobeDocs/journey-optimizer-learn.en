@@ -7,7 +7,7 @@ role: User
 level: Beginner
 recommendations: noDisplay, noCatalog
 hide: yes
-hide from TOC: yes
+hidefromtoc: yes
 ---
 
 # Summit Lab L731
