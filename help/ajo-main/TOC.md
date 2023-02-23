@@ -85,3 +85,4 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Create and manage sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Privacy {#privacy}
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
++ [Summit Lab 2023 - Assets](/help/summit-lab-731/l731-assets.md)
