@@ -16,7 +16,7 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 ## Lesson 1 - Download and install the app
 
-http://ajolab.s3-website-us-east-1.amazonaws.com/index.html
+[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
 
 ## Lesson 2 - Create Mobile Campaigns
 
