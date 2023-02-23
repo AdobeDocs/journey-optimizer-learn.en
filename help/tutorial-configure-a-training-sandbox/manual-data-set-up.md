@@ -66,28 +66,27 @@ In this step, you define the structure of the sample data by creating six [[!UIC
 >
 >Watch the video tutorial: [Create a schema](/help/set-up-data/create-schema.md) before you begin.
 
-### Create [!DNL Luma Loyalty] [!UICONTROL Schema] {#create-luma-loyalty-schema}
+### Create [!DNL Luma Loyalty] schema {#create-luma-loyalty-schema}
+
+This section describes how to create the [!DNL Luma Loyalty] schema and configure field groups.
 
 #### Create the schema
-
-Begin by creating the [!DNL Luma Loyalty] schema:
 
 1. Go to **[!UICONTROL DATA MANAGEMENT]** > **[!UICONTROL Schemas]** in the left navigation.
 
 1. Select **[!UICONTROL Create Schema]** on the top right.
 
-1. From the dropdown menu, select **[!UICONTROL XDM Individual Profile]**, since you are modeling attributes of an individual customer (points, status, and so on).
+1. From the drop-down menu, select **[!UICONTROL XDM Individual Profile]**. 
 
+   You select this option because you are modeling attributes of an individual customer (points, status, and so on).
 
 #### Add existing field groups
 
-Next you are prompted to add field groups to the schema. Add all fields to schemas using groups. You are adding existing field groups and must create a field group.
+Next, you are prompted to add field groups to the schema, using groups. You must add existing field groups and create a field group.
 
->[!NOTE]
->
->If the [!UICONTROL Field groups] modal doesn't automatically open on the [!UICONTROL Schemas] page, select **[!UICONTROL Add]** (as shown in the following image).
+1. On the [!UICONTROL Schema] page, if the Field groups modal did not automatically open, select **[!UICONTROL Add]**.
 
-![Add field group](assets/add_field_group.png)
+   ![Add field group](assets/add_field_group.png)
 
 1. On the **[!UICONTROL Add Field groups]** page, enable the following field groups:
 
@@ -105,7 +104,7 @@ Next you are prompted to add field groups to the schema. Add all fields to schem
 
 1. Enter `Luma Loyalty Schema` as the [!UICONTROL Display name].
 
-#### Create a [!UICONTROL field group]
+#### Create a [!UICONTROL field group] {#create-field-group}
 
 To help ensure consistency across the schemas, Adobe recommends managing all system identifiers in a single group:
 
