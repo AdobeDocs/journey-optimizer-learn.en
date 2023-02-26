@@ -1,6 +1,6 @@
 ---
 title: L731 Assets
-description: This page has text and links that are being used in the L731 Summit Lab. 
+description: This page has text and links that are being used in the L731 Summit Lab.
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -8,8 +8,8 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: yes
 hidefromtoc: yes
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 ---
-
 # Summit Lab L731
 
 This page has text and links that are being used in the L731 Summit Lab. It allows you to copy and paste the content into your Journey Optimizer messages.
