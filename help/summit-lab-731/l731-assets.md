@@ -32,7 +32,12 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 ## Lesson 3 Create an Omni-Channel Journey
 
-|Message|Text|Links|
+|Message|Text|Links|Image|
 |----|----|----|
 |SMS| Welcome to Vegas Stay. Skip the line and check-in with the mobile app: lab://checkin||
-|Push|Welcome to Vegas Stay. Skip the line and check-in with the mobile app| lab://checkin|
+|Push|Welcome to Vegas Stay. Skip the line and check-in with the mobile app| lab://checkin||
+
+
+This is the image we are using for the SMS and the Push notification:
+
+![Online Check In](/help/assets/vegas_online_check_in.jpeg)
