@@ -102,7 +102,7 @@ Next, you are prompted to add field groups to the schema, using groups. You must
 
 1. Select the top node of the schema.
 
-1. Enter `Luma Loyalty Schema` as the [!UICONTROL Display name].
+1. Enter `Luma Loyalty Schema` as the **[!UICONTROL Display name]**.
 
 #### Create a [!UICONTROL field group] {#create-field-group}
 
@@ -201,19 +201,19 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
 ### Create [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
 
-1. Go to [!UICONTROL DATA MANAGEMENT] -> **[!UICONTROL Schemas]** in the left navigation.
+1. Go to **[!UICONTROL DATA MANAGEMENT]** > **[!UICONTROL Schemas]** in the left navigation.
 
-1. Select the **[!UICONTROL Create Schema]** button on the top right.
+1. Select **[!UICONTROL Create Schema]** (top right).
 
-1. From the dropdown menu, select **[!UICONTROL Browse all schema types]**, which allows you to create a class.
+1. To create a class, select **[!UICONTROL Browse all schema types]** from the drop-down menu.
 
-1. Select **[!UICONTROL Create new class].
+1. Select **[!UICONTROL Create new class]**.
 
 1. Add the display name: `Luma Product Catalog Class`.
 
 1. Assign class.
 
-1. Create a [!UICONTROL field group]:
+1. Create a [!UICONTROL Field group]:
 
    * Display name: `Luma Product Catalog Field Group`
 
