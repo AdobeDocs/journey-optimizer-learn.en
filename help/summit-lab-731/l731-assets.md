@@ -18,6 +18,20 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 [http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
 
+### Only for iOS: Trust the developer
+
+When you try to open the iOS app for the first time, you will see the following prompt:
+
+![iOS pop up](/help/assets/lab731_1.1-1.png)
+
+Steps to trust the developer:
+
+|Step 1|Step 2|Step 3|Step 4|
+|----|----|----|----|
+|On your phone tap: **Settings>General>VPN & Device Management**| Under **Enterprise App**, select *Adobe Systems Inc.*.| Click **Trust "Adobe Systems Inc."**| On the pop up, click **Trust**.|
+||![VPN & Device Management](/help/assets/lab731_1.1-2.png)|![Trust developer](/help/assets/lab731_1.1-3.png)||
+
+
 ## Lesson 2 - Create Mobile Campaigns
 
 ### Exercise 2.1 Create an In-App Campaign
