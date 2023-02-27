@@ -23,7 +23,7 @@ In this step, you create identity namespaces for the [!DNL Luma] custom identity
 
 Begin by creating a [!UICONTROL namespace] for the [!DNL Luma Loyalty ID] schema:
 
-1. In the Journey Optimizer user interface, go to ***[!UICONTROL Customer]** > **[!UICONTROL Identities]** in the left navigation.
+1. In the Journey Optimizer user interface, go to **[!UICONTROL Customer]** > **[!UICONTROL Identities]** in the left navigation.
 
 1. Select **[!UICONTROL Create identity namespace]**.
 
@@ -167,7 +167,7 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
    
    4. Enable the **[!UICONTROL Primary Identity]** box.
    
-   5. Select the `Luma Loyalty Id` namespace from **[!UICONTROL Identity namespaces]** dropdown.
+   5. Select the `Luma Loyalty Id` namespace from **[!UICONTROL Identity namespaces]** dropdown menu.
    
    6. Select **[!UICONTROL Apply]**.
 
