@@ -14,27 +14,23 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 
 This page has text and links that are being used in the L731 Summit Lab. It allows you to copy and paste the content into your Journey Optimizer messages.
 
-## Lesson 1 - Download and install the app
+## Exercise 1.1 - Download and install the app
 
-[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
+[Click here to install the app](https://testflight.apple.com/join/H0N5iWvW)
 
-### Only for iOS: Trust the developer
+## Exercise 1.3: Log in to Adobe Journey Optimizer
 
-When you try to open the iOS app for the first time, you will see the following prompt:
+[Click here to log in to Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
-![iOS pop up](/help/assets/lab731_1.1-1.png)
+**Login Details:**
 
-Steps to trust the developer:
-
-|Step 1|Step 2|Step 3|Step 4|
-|----|----|----|----|
-|On your phone tap: **Settings>General>VPN & Device Management**| Under **Enterprise App**, select *Adobe Systems Inc.*.| Click **Trust "Adobe Systems Inc."**| On the pop up, click **Trust**.|
-||![VPN & Device Management](/help/assets/lab731_1.1-2.png)|![Trust developer](/help/assets/lab731_1.1-3.png)||
+* Username: L731+<your seat number>@summitlab.us
+* Password: Adobe2023!
 
 
-## Lesson 2 - Create Mobile Campaigns
+## Exercise 2.1 Create an In-App Campaign
 
-### Exercise 2.1 Create an In-App Campaign
+
 
 |Field|Text|Links|
 |----|----|----|
@@ -42,6 +38,7 @@ Steps to trust the developer:
 |Title|It's Happening & It's Live!||
 |Body|Adobe Summit returns to Las Vegas March 21-23, 2023. Get ready for inspiring speakers, skill-expanding sessions, and new connections.||
 |Button|Book hotel now and save 10% |lab://booking?suite=presidential&discount=10|
+
 
 
 ## Lesson 3 Create an Omni-Channel Journey
