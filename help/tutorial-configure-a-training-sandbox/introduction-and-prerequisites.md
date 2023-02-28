@@ -13,7 +13,7 @@ exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 
 ![Banner Tutorial- Configure a training sandbox](./assets/ajo-banner-configure-training-sandbox.png)
 
-This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe Journey Optimizer training environment. Learn the steps required to configure the schemas, ingest sample data, and create events. You also create three test profiles that allow the learners to check their work.
+This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe [!DNL Journey Optimizer] training environment. Learn the steps required to configure the schemas, ingest sample data, and create events. You also create three test profiles that allow the learners to check their work.
 
 The provided sample data is based on a fictional athletic apparel company called _[!DNL Luma]_. [!DNL Luma] has stores in multiple countries, an online presence with a website, and mobile apps. [!DNL Luma] uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
 

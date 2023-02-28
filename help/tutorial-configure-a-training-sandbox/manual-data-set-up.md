@@ -244,16 +244,14 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
    |`stockQuantity`|`Product Stock Quantity`| [!UICONTROL String]|
    |`url`|`Product URL`| [!UICONTROL String]|
 
-1. Set the **[!DNL SKU]** as primary identity
+1. Set the **[!DNL SKU]** as primary identity.
 1. Add the **[!UICONTROL Display name]** `Luma Product Catalog Field Group` to the [!UICONTROL field group].
 
 1. Select **[!UICONTROL Save]**.
 
-
 ### Create [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
 
-
-1. Go to **[!UICONTROL DATA MANAGEMENT]** -> **[!UICONTROL Schemas]** in the left navigation.
+1. Go to **[!UICONTROL DATA MANAGEMENT]** > **[!UICONTROL Schemas]** in the left navigation.
 
 1. Select the **[!UICONTROL Create Schema]** button on the top right.
 
