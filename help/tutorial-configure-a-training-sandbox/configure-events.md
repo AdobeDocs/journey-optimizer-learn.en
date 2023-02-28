@@ -18,7 +18,7 @@ The following video explains how to create events:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
-## Create the Luma Online Purchase Event
+## Create the Luma online purchase event
 
 When using this event, Journey Optimizer receives information when a person purchases luma products online.
 
@@ -35,6 +35,7 @@ When using this event, Journey Optimizer receives information when a person purc
 1. Add the [!UICONTROL Event ID condition]: `LumaOnlinePurchase.eventType is commerce.purchases`:
 
    1. Select the pencil icon to edit the field.
+
    1. On the **[!UICONTROL Add an event id condition]** modal, drag and drop the `eventType` onto the canvas.
    1. Select `commerce.purchases`.
    1. Select **[!UICONTROL Ok]** on the canvas.
@@ -46,7 +47,7 @@ When using this event, Journey Optimizer receives information when a person purc
 
 1. Select **[!UICONTROL Save]**.
 
-## Create *[!DNL Luma Wishlist Add]* Event
+## Create *[!DNL Luma Wishlist Add]* event
 
 |[!UICONTROL Parameter]|[!UICONTROL Value]|
 |-------------|-----------|
@@ -58,7 +59,7 @@ When using this event, Journey Optimizer receives information when a person purc
 |[!UICONTROL Condition]| [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters]|
 |[!UICONTROL Namespace]| Email(EMail)|
 
-## Create *[!DNL Luma Product Restock]* Event
+## Create *[!DNL Luma Product Restock]* event
 
 |[!UICONTROL Parameter]|[!UICONTROL Value]|
 |-------------|-----------|
@@ -68,6 +69,4 @@ When using this event, Journey Optimizer receives information when a person purc
 |[!UICONTROL Fields]|SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>name<br>price<br> ImageURL<br>description|
 |[!UICONTROL Condition]|LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock|
 
-## Congratulations
-
-Your sandbox is now ready to use!
+Congratulations! Your sandbox is now ready to use.

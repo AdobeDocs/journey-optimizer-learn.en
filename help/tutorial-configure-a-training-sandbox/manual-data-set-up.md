@@ -66,7 +66,7 @@ In this step, you define the structure of the sample data by creating six [[!UIC
 >
 >Watch the video tutorial: [Create a schema](/help/set-up-data/create-schema.md) before you begin.
 
-### Create [!DNL Luma Loyalty] schema {#create-luma-loyalty-schema}
+### Create [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
 
 This section describes how to create the [!DNL Luma Loyalty] schema and configure field groups.
 
@@ -199,7 +199,7 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
 
 1. Select **[!UICONTROL Save]**.
 
-### Create [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
+### Create [!DNL Luma Product Catalog Schema] {#create-luma-product-catalog-schema}
 
 1. Go to **[!UICONTROL DATA MANAGEMENT]** > **[!UICONTROL Schemas]** in the left navigation.
 
