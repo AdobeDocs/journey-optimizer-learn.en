@@ -32,10 +32,12 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 |Field|Text|Links|
 |----|----|----|
+|Campaign Name| `<your seat number> March Vegas Campaign`||
 |Media URL option|| https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png| 
 |Title|It's Happening & It's Live!||
 |Body|Adobe Summit returns to Las Vegas March 21-23, 2023. Get ready for inspiring speakers, skill-expanding sessions, and new connections.||
 |Button|Book hotel now and save 10% |lab://booking?suite=presidential&discount=10|
+|Base URL||lab://|
 
 
 
