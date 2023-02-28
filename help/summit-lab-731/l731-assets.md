@@ -24,13 +24,11 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 **Login Details:**
 
-* Username: L731+<your seat number>@summitlab.us
+* Username: `L731+<your seat number>@summitlab.us`
 * Password: Adobe2023!
 
 
 ## Exercise 2.1 Create an In-App Campaign
-
-
 
 |Field|Text|Links|
 |----|----|----|
