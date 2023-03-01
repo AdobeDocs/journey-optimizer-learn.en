@@ -18,7 +18,7 @@ The following video explains how to create events:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
-## Create the Luma Online Purchase Event
+## Create the Luma online purchase event
 
 When using this event, Journey Optimizer receives information when a person purchases luma products online.
 
@@ -32,21 +32,22 @@ When using this event, Journey Optimizer receives information when a person purc
    | [!UICONTROL Schema]| `Luma Web Events Schema`|
    | [!UICONTROL Fields]| `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url`|
 
-2. Add the [!UICONTROL Event ID condition]: `LumaOnlinePurchase.eventType is commerce.purchases`
+1. Add the [!UICONTROL Event ID condition]: `LumaOnlinePurchase.eventType is commerce.purchases`:
 
-   1. Select the pencil icon to edit the field
-   2. On the [!UICONTROL Add an event id condition] modal, drag and drop the `eventType` onto the canvas
-   3. Select `commerce.purchases`
-   4. Select ok on the canvas
-   5. Select ok on the modal
+   1. Select the pencil icon to edit the field.
 
-![Add event condition](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
+   1. On the **[!UICONTROL Add an event id condition]** modal, drag and drop the `eventType` onto the canvas.
+   1. Select `commerce.purchases`.
+   1. Select **[!UICONTROL Ok]** on the canvas.
+   1. Select **[!UICONTROL Ok]** on the modal.
+
+   ![Add event condition](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
 1. Select [!UICONTROL NAMESPACE]: `Luma CRM ID (lumaCrmId)`
 
-2. Select **[!UICONTROL Save]**.
+1. Select **[!UICONTROL Save]**.
 
-## Create *[!DNL Luma Wishlist Add]* Event
+## Create *[!DNL Luma Wishlist Add]* event
 
 |[!UICONTROL Parameter]|[!UICONTROL Value]|
 |-------------|-----------|
@@ -58,7 +59,7 @@ When using this event, Journey Optimizer receives information when a person purc
 |[!UICONTROL Condition]| [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters]|
 |[!UICONTROL Namespace]| Email(EMail)|
 
-## Create *[!DNL Luma Product Restock]* Event
+## Create *[!DNL Luma Product Restock]* event
 
 |[!UICONTROL Parameter]|[!UICONTROL Value]|
 |-------------|-----------|
@@ -68,6 +69,4 @@ When using this event, Journey Optimizer receives information when a person purc
 |[!UICONTROL Fields]|SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>name<br>price<br> ImageURL<br>description|
 |[!UICONTROL Condition]|LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock|
 
-## Congratulations
-
-Your sandbox is now ready to use!
+Congratulations! Your sandbox is now ready to use.
