@@ -1,6 +1,6 @@
 ---
 title: Create an order confirmation email
-description: Test your knowledge on how to create and personalize transactional messages
+description: Test your knowledge on how to create and personalize transactional messages.
 kt: 7531
 feature: Journeys
 role: User
@@ -19,13 +19,13 @@ exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 |Required skills|<ul><li>[Create email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Use contextual event information for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Use helper functions for personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul>|
 |Assets to download|[Order confirmation assets](/help/challenges/assets/email-assets/order-confirmation-assets.zip)|
 
-## The Story
+{style="table-layout:auto"}
 
-Luma, is launching their online store and want to ensure a good customer experience by providing an order confirmation email once a customer has placed an order.
+## The story
 
+Luma is launching their online store and want to ensure a good customer experience. They are providing an order confirmation email once a customer has placed an order.
 
-
-## Your Challenge
+## Your challenge
 
 Create a journey that sends an order confirmation email when a Luma customer completes an online order.
 
@@ -33,20 +33,26 @@ Create a journey that sends an order confirmation email when a Luma customer com
 
 >[!TAB Task]
 
-1.  Create a journey called `Luma - Order Confirmation` 
-2.  Use the event: `LumaOnlinePurchase`
-3.  Create a **transactional**  email called `Luma - Order Confirmation`
-  * The subject line "Thank you for your purchase, `FirstName`"
-  * Use the `Luma - Order summary` template and modify it:
-    * Remove the `You may also like` sections
-    * Add the unsubscribe link at the bottom of the email 
+1. Create a journey called `Luma - Order Confirmation`.
+
+1. Use the event: `LumaOnlinePurchase`.
+
+1. Create a **transactional**  email called `Luma - Order Confirmation`.
+
+   * The subject line "Thank you for your purchase, `FirstName`"
+
+   * Use the `Luma - Order summary` template and modify it:
+
+     * Remove the `You may also like` sections
+
+     * Add the unsubscribe link at the bottom of the email 
 
 The email should be structured as follows:
 <table>
 <tr>
 <td>
   <div>
-     <strong> Header Section</strong>
+     <strong> Header section</strong>
       </div>
   </td>
   <td>
@@ -59,7 +65,7 @@ The email should be structured as follows:
   <tr>
   <td>
   <div>
-    <strong>Order Confirmation Section
+    <strong>Order confirmation section
     </strong>
   </td>
   <td>
@@ -92,7 +98,7 @@ The email should be structured as follows:
  <tr>
 <td>
   <div>
-     <strong>Order Details Section</strong>
+     <strong>Order details section</strong>
       </div>
        <p><li>Add this section below the <b>Ship to</b> section.
       </p><br>
@@ -119,7 +125,6 @@ The email should be structured as follows:
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >To allow you to troubleshoot your journeys, best practice is to add an alternative path to all message actions if there is a timeout or error.
@@ -128,13 +133,13 @@ The email should be structured as follows:
 
 Trigger the Journey that you created in test mode and send the email to yourself:
 
-1.  Before you switch to test mode, override the email parameters to send to the test email to your email address:
-    1.  Open the email details view.
-    2.  In the Email parameters section, click on the T symbol (enable parameter override
-    3.  Click into the Address field
-    4.  On the next screen add your email address in parentheses: *"yourname@yourdomain"* in the expression editor and click ok.  
-2.  Put the journey into test mode
-3.  Trigger the event with the following parameters:
+1. Before you switch to test mode, override the email parameters to send to the test email to your email address:
+    1. Open the email details view.
+    1. In the Email parameters section, click on the T symbol (enable parameter override
+    1. Click into the Address field
+    1. On the next screen add your email address in parentheses: *"yourname@yourdomain"* in the expression editor and click ok.  
+1. Put the journey into test mode
+1. Trigger the event with the following parameters:
     * Set the profile identifier to: Identity value:`a8f14eab3b483c2b96171b575ecd90b1`
     * Event Type: commerce.purchases
     * `Quantity`: 1
