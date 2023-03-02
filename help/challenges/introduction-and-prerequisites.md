@@ -17,15 +17,18 @@ Each challenge in this section addresses a unique use case that you implement. T
 
 ## Prerequisites
 
+Verify that the following prerequisites are met.
+
 ### System requirements
 
-* Access to a Journey Optimizer sandbox - it is recommended completing the challenge in a dedicated training sandbox. 
-* AEM Assets Essentials must be provisioned for your instance
-* The email channels must be configured for transactional and marketing messages
+* Access to a Journey Optimizer sandbox - it is recommended completing the challenge in a dedicated training sandbox. 
+* AEM Assets Essentials must be provisioned for your instance.
+* The email channels must be configured for transactional and marketing messages.
 
 ### Access rights
 
 You need the following access rights:
+
 * *Journey Manager* or *Journey Administrator*
 * View test profiles and their attributes
 
@@ -34,10 +37,9 @@ You need the following access rights:
 
 ### Required actions
 
-*  If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
+*  If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
-
-## The Story
+## The story
 
 Luma is a fictional athletic apparel company, with stores in multiple countries, an online presence with a website, and mobile apps. Luma uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
 
@@ -80,7 +82,7 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
     </a>
     </div>
     <p>
-    <em>Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits.</em>
+    <em>Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits.</em>
     <p>
     <b>Required skills:</b>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html> Create segments</li>
