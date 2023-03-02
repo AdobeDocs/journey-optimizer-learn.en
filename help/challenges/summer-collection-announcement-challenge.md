@@ -18,6 +18,8 @@ exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 |Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Import and author HTML email content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Use Case - Read segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li>|
 |Assets to download|[Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)|
 
+{style="table-layout:auto"}
+
 ## The story
 
 Luma, a fictional athletic apparel company, is promoting its latest apparel and gear collection and to drive sales for existing customers. Luma is launching the new Summer Collection and would like to specifically target different customer segments.  
@@ -63,7 +65,7 @@ You can also check the [!UICONTROL Segment membership] tab: Your segment should 
 
 >[!TAB Check your work]
 
-Segment fields: [!UICONTROL Attributes] > [!UICONTROL XDM individual Profile] > [!UICONTROL Loyalty] > [!UICONTROL Tier]
+Segment fields: **[!UICONTROL Attributes]** > **[!UICONTROL XDM individual Profile]** > **[!UICONTROL Loyalty]** > **[!UICONTROL Tier]**
 
 This is what your segment should look like:
 
@@ -97,27 +99,27 @@ An agency provided you with four HTML files with the design for the emails:
 
 1. [Download the Seasonal Collection email files](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip). 
 
-2. Create a journey called *Luma - Summer Collection announcement* based on the following guidelines:
+1. Create a journey called *Luma - Summer Collection announcement* based on the following guidelines:
 
-   1.  Send *Luma - New Summer Collection Announcement* email to the *Active Customers* segment, holding out 10% of the audience as a control group 
+   1. Send *Luma - New Summer Collection Announcement* email to the *Active Customers* segment, holding out 10% of the audience as a control group 
        * Message title *Luma - Summer Collection Announcement*
        * Subject line *(recipient's first name), the new Luma summer collection is here!*
        * Use the provided HTML file `SeasonalCollectionEmail.html` for the email body.
-   2.  Wait two days then send a follow-up email message with more targeted content:
-          *   Male customers should receive the **Luma Men's Collection** email.
-               * Message title: *Luma Men's Collection*
-               * Subject line: *(recipient's first name), explore Men's New athletic gear!*
-               * Email body: `MensCollectionEmail.html` for the email body.
-          *   Female customers should receive the **Luma Women's Collection** email.
-               * Message title: *Luma Women's Collection*
-               * Subject line: *(recipient's first name), explore Luma's Women Collection!*
-               * Email body: `WomensCollectionEmail.html`
-          *   Other customers should receive the **Luma - 20 % off Collection** email.
-               * Message title: *Luma - 20 % off Collection*
-               * Subject line: *(recipient's first name), enjoy 20% off sales!*
-               * Email body: `20OOffCollectionEmail.html`
-   3.  After sending the targeted emails above, wait two days for the email to be opened
-   4.  If the targeted email is not opened within 2 days, send the **Luma - 20 %off Collection email** as a final retargeting attempt
+   1. Wait two days then send a follow-up email message with more targeted content:
+      * Male customers should receive the **Luma Men's Collection** email.
+         * Message title: *Luma Men's Collection*
+         * Subject line: *(recipient's first name), explore Men's New athletic gear!*
+         * Email body: `MensCollectionEmail.html` for the email body.
+      * Female customers should receive the **Luma Women's Collection** email.
+         * Message title: *Luma Women's Collection*
+         * Subject line: *(recipient's first name), explore Luma's Women Collection!*
+         * Email body: `WomensCollectionEmail.html`
+      *   Other customers should receive the **Luma - 20 % off Collection** email.
+         * Message title: *Luma - 20 % off Collection*
+         * Subject line: *(recipient's first name), enjoy 20% off sales!*
+         * Email body: `20OOffCollectionEmail.html`
+   1. After sending the targeted emails above, wait two days for the email to be opened
+   1. If the targeted email is not opened within 2 days, send the **Luma - 20 %off Collection email** as a final retargeting attempt
 
 
 >[!TAB Success criteria]
@@ -129,21 +131,21 @@ An agency provided you with four HTML files with the design for the emails:
 Preview the email:
 
 1. Add a test profile: Louise Petti:
-   1. Identity namespace: *Luma CRM ID* 
-   2. Identity value: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Identity namespace: *Luma CRM ID* 
+   * Identity value: *d1f132f9f9502bba047a6ec86c4b61f9*
 
 Result:
+
 * The subject line should read: Louise, the new Luma collection is here!
 * The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
-
 
 **Email Message #2 - Luma Men's Collection**
 
 Send a proof to yourself:
 
 1. Add a test profile: Stanleigh Stooke:
-   1. Identity namespace: *Luma CRM ID* 
-   1. Identity value: `4f34057d9d9e792c28ba18ecae378e98`
+   * Identity namespace: *Luma CRM ID* 
+   * Identity value: `4f34057d9d9e792c28ba18ecae378e98`
 1. Select the test profile: Stanleigh Stooke.
 1. Send a proof to yourself.
 
@@ -160,14 +162,12 @@ Preview the email with the test profile *Louise Petti.*
 * The subject line should read: *Louise, explore Luma's Women Collection!*
 * The email body should match what you have seen in the preview: [Luma Women's Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
-
 **Email message #4 - Luma 20 % off Collection**
 
 Preview the email with the test profile *Louise Petti.*
 
 * The subject line should read: *Louise, enjoy 20% off sales!*
 * The email body should match what you have seen in the preview: [Luma 20 % off Collection](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
-
 
 #### Test your journey
 
@@ -193,9 +193,9 @@ Test the journey and have the emails sent to your own account:
 1.  Wait time: Set the timer to 120 seconds (type it into the field).
 1.  Trigger profile entrance
 1.  You can test each branch by using one of the following *Luma CRM Ids* as profile identifiers:
-       * Female: Leora Dietsche, Identity value:`a8f14eab3b483c2b96171b575ecd90b1`
-       * Male: Stanleigh Stooke,  Identity value: `4f34057d9d9e792c28ba18ecae378e98`
-       * Gender not specified: Louise Petti, Identity value: `d1f132f9f9502bba047a6ec86c4b61f9`
+    * Female: Leora Dietsche, Identity value:`a8f14eab3b483c2b96171b575ecd90b1`
+    * Male: Stanleigh Stooke,  Identity value: `4f34057d9d9e792c28ba18ecae378e98`
+    * Gender not specified: Louise Petti, Identity value: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 1.  After you trigger the profile entrance, you should receive the first email. The header should be personalized according to the profile you chose.
 1.  The journey should continue into the respective branch, and you should receive the related email (for example, if you chose *Jenna*, you should receive the *Luma Women's Collection* email).
