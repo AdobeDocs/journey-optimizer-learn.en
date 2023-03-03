@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer Challenges - Introduction and prerequisites
+title: Journey Optimizer challenges - Introduction and prerequisites
 description: Understand the basics of building a journey in the journey canvas.
 feature: Journeys
 role: Admin
@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2023-02-01
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 ---
-# Journey Optimizer Challenges - Introduction and prerequisites
+# Journey Optimizer challenges - Introduction and prerequisites
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
@@ -45,7 +45,7 @@ Luma is a fictional athletic apparel company, with stores in multiple countries,
 
 Luma is looking to promote its latest apparel and gear collection and to drive sales for existing customers. You have been hired to implement the Luma marketing and retention campaigns in Journey Optimizer.
 
-## Your Challenges
+## Your challenges
 
 <table>
 <tr>
