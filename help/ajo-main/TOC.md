@@ -86,6 +86,6 @@ user-guide-description: These are Journey Optimizer Tutorials.
 + Privacy {#privacy}
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
 + Exercises and challenges {#exercises-and-challenges}
-  + [Configure a training sandbox](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
-  + [Challenges](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
+  + [Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+  + [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)

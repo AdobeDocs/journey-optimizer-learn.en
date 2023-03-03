@@ -13,4 +13,4 @@ index: no
   + [Set up data structure (manually)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
   + [Ingest data (manually)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [Step 2: Configure Events](/help/tutorial-configure-a-training-sandbox/configure-events.md)
-+ [Tutorials](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
++ [Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
