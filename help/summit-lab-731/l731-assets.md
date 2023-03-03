@@ -16,7 +16,10 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 ## Exercise 1.1 - Download and install the app
 
-[Click here to install the app](https://testflight.apple.com/join/H0N5iWvW)
+### iOS
+
+![QR code for iOS](/help/assets/lab731-ios-qr-code.png)
+
 
 ## Exercise 1.3: Log in to Adobe Journey Optimizer
 
