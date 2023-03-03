@@ -4,8 +4,7 @@ description: Send a Summer Collection announcement to a segment of existing cust
 kt: 8109
 role: User
 level: Beginner
-last-substantial-update: 2022-11-16
-hide: yes
+last-substantial-update: 2023-02-01
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 ---
 # Create a Summer Collection announcement - challenge

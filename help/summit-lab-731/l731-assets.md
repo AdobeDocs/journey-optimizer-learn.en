@@ -1,5 +1,5 @@
 ---
-title: L731 Assets
+title: L731 Cheat Sheet
 description: This page has text and links that are being used in the L731 Summit Lab.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -10,7 +10,7 @@ hide: yes
 hidefromtoc: yes
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 ---
-# Summit Lab L731
+# Summit Lab L731 - Cheat Sheet
 
 This page has text and links that are being used in the L731 Summit Lab. It allows you to copy and paste the content into your Journey Optimizer messages.
 

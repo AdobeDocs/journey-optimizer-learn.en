@@ -6,7 +6,6 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
-hide: yes
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 ---

@@ -5,7 +5,7 @@ kt: 7531
 feature: Journeys
 role: User
 level: Beginner
-hide: yes
+last-substantial-update: 2023-02-01
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 ---
 

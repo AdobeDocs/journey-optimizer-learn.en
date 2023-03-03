@@ -4,7 +4,7 @@ description: Understand the basics of building a journey in the journey canvas.
 feature: Journeys
 role: Admin
 level: Beginner
-hide: yes
+last-substantial-update: 2023-02-01
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 ---
 # Journey Optimizer Challenges - Introduction and prerequisites

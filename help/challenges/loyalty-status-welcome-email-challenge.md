@@ -5,8 +5,7 @@ kt: 8109
 feature: Journeys
 role: User
 level: Beginner
-hide: yes
-hide from toc: yes
+last-substantial-update: 2023-02-01
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 ---
 # Create a loyalty status welcome email - Challenge
