@@ -27,29 +27,34 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 **Login Details:**
 
-* Username: `L731+<your seat number>@summitlab.us`
+* Username: `L731+<your seat number>@summitlab.us` (example: L731+001@summitlab.us)
 * Password: Adobe2023!
 
 
 ## Exercise 2.1 Create an In-App Campaign
 
+
+
 |Field|Text|Links|
 |----|----|----|
 |Campaign Name| `<your seat number> March Vegas Campaign`||
+|Matcher|booknow||
 |Media URL option|| https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png| 
 |Title|It's Happening & It's Live!||
 |Body|Adobe Summit returns to Las Vegas March 21-23, 2023. Get ready for inspiring speakers, skill-expanding sessions, and new connections.||
 |Button|Book hotel now and save 10% |lab://booking?suite=presidential&discount=10|
+|Button: Interactive event|In-app CTA||
 |Base URL||lab://|
 
 
 
 ## Lesson 3 Create an Omni-Channel Journey
 
-|Message|Text|Deep link |Media|
-|----|----|----|----|
-|Push|Welcome to Vegas Stay. Skip the line and check-in with the mobile app| lab://checkin| https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg|
-|SMS| Welcome to Vegas Stay. Skip the line and check-in with the mobile app: lab://checkin||
+|Message|Title/Subject line|Text|Link|
+|----|----|----|----|----|
+|Push|Welcome to Vegas Stay!|Skip the line and check-in with the mobile app|lab://checkin| |
+|SMS| |Welcome to Vegas Stay. Skip the line and check-in with the mobile app: lab://checkin||
+|email|{{profile.person.name.firstName}}, you're checked in, now check out our offers for your stay!|||
 
 
 This is the image we are using for the SMS and the Push notification:
