@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer challenges - Introduction and prerequisites
-description: Understand the basics of building a journey in the journey canvas.
+description: Challenges provide a scenario and the requirements needed to practice what you learned. Each challenge addresses a unique use case that you implement.
 feature: Journeys
 role: Admin
 level: Beginner

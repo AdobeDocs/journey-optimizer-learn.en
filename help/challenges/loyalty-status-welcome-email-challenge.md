@@ -1,6 +1,6 @@
 ---
 title: Create a loyalty status welcome email - Challenge
-description: Understand the basics of building a journey in the journey canvas.
+description: Build a journey that automatically sends a welcome email to customers when they reach loyalty tier.
 kt: 8109
 feature: Journeys
 role: User
