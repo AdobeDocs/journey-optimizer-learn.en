@@ -20,6 +20,10 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 ![QR code for iOS](/help/assets/lab731-ios-qr-code.png)
 
+### Android - Placeholder
+
+![QR code for Android](/help/assets/lab731-ios-qr-code.png)
+
 
 ## Exercise 1.3: Log in to Adobe Journey Optimizer
 
@@ -27,8 +31,8 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 **Login Details:**
 
-* Username: `L731+<your seat number>@summitlab.us` (example: L731+001@summitlab.us)
-* Password: Adobe2023!
+* **Username:** `L731+<your seat number>@summitlab.us` (example: L731+001@summitlab.us)
+* **Password:** Adobe2023!
 
 
 ## Exercise 2.1 Create an In-App Campaign
@@ -44,7 +48,7 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 |Body|Adobe Summit returns to Las Vegas March 21-23, 2023. Get ready for inspiring speakers, skill-expanding sessions, and new connections.||
 |Button|Book hotel now and save 10% |lab://booking?suite=presidential&discount=10|
 |Button: Interactive event|In-app CTA||
-|Base URL||lab://|
+|Base URL||iOS: lab:// <br>Android: https://lab|
 
 
 
