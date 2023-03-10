@@ -26,7 +26,7 @@ Scan the QR code to download the app
 
 >[!TAB Android]
 
-![QR code for Android](/help/assets/lab731-ios-qr-code.png)
+![QR code for Android](/help/assets/lab731-android-qr-code.png)
 
 >[!ENDTABS]
 
