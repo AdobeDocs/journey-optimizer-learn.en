@@ -24,7 +24,7 @@ Scan the QR code to download the app
 
 ![QR code for iOS](/help/assets/lab731-ios-qr-code.png)
 
->[!TAB Android]
+>[!TAB Android&trade;]
 
 ![QR code for Android](/help/assets/lab731-android-qr-code.png)
 
@@ -51,7 +51,7 @@ Scan the QR code to download the app
 |Body|Adobe Summit returns to Las Vegas March 21-23, 2023. Get ready for inspiring speakers, skill-expanding sessions, and new connections.||
 |Button|Book hotel now and save 10% |lab://booking?suite=presidential&discount=10|
 |Button: Interactive event|In-app CTA||
-|Base URL||iOS: lab:// <br>Android: https://lab|
+|Base URL||iOS: lab:// <br>Android&trade;: https://lab|
 
 
 ## Lesson 3 Create an Omni-Channel Journey
@@ -73,7 +73,7 @@ Skip the line and check-in with the mobile app
 https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-This is the image we are using for the Push notification:
+This is the image that we are using for the push notification:
 
 ![Online Check In](/help/assets/vegas_online_check_in.jpg)
 
