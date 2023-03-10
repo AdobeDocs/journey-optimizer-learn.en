@@ -16,14 +16,19 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 ## Exercise 1.1 - Download and install the app
 
-### iOS
+Scan the QR code to download the app
+
+>[!BEGINTABS]
+
+>[!TAB iOS]
 
 ![QR code for iOS](/help/assets/lab731-ios-qr-code.png)
 
-### Android - Placeholder
+>[!TAB Android]
 
 ![QR code for Android](/help/assets/lab731-ios-qr-code.png)
 
+>[!ENDTABS]
 
 ## Exercise 1.3: Log in to Adobe Journey Optimizer
 
@@ -37,8 +42,6 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 
 ## Exercise 2.1 Create an In-App Campaign
 
-
-
 |Field|Text|Links|
 |----|----|----|
 |Campaign Name| `<your seat number> March Vegas Campaign`||
@@ -51,16 +54,40 @@ This page has text and links that are being used in the L731 Summit Lab. It allo
 |Base URL||iOS: lab:// <br>Android: https://lab|
 
 
-
 ## Lesson 3 Create an Omni-Channel Journey
 
-|Message|Title/Subject line|Text|Link|
-|----|----|----|----|----|
-|Push|Welcome to Vegas Stay!|Skip the line and check-in with the mobile app|lab://checkin| |
-|SMS| |Welcome to Vegas Stay. Skip the line and check-in with the mobile app: lab://checkin||
-|email|{{profile.person.name.firstName}}, you're checked in, now check out our offers for your stay!|||
+>[!BEGINTABS]
+
+>[!TAB Push Message]
+
+**Title:**  
+Welcome to Vegas Stay!
+
+**Body:**   
+Skip the line and check-in with the mobile app
+
+**Deeplink:** lab://checkin
+
+**Media:**
+
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-This is the image we are using for the SMS and the Push notification:
+This is the image we are using for the Push notification:
 
 ![Online Check In](/help/assets/vegas_online_check_in.jpg)
+
+|SMS| |||
+|email|{{profile.person.name.firstName}}, you're checked in, now check out our offers for your stay!|||
+
+>[!TAB SMS Message]
+
+**Message:**
+Welcome to Vegas Stay. Skip the line and check-in with the mobile app: lab://checkin
+
+>[!TAB Email Message]
+
+**Subject Line:**
+{{profile.person.name.firstName}}, you're checked in, now check out our offers for your stay!
+
+>[!ENDTABS]
