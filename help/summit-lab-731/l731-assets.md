@@ -77,9 +77,6 @@ This is the image we are using for the Push notification:
 
 ![Online Check In](/help/assets/vegas_online_check_in.jpg)
 
-|SMS| |||
-|email|{{profile.person.name.firstName}}, you're checked in, now check out our offers for your stay!|||
-
 >[!TAB SMS Message]
 
 **Message:**
