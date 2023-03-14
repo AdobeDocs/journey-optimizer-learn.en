@@ -12,11 +12,11 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 ---
 # Summit Lab L731 - Cheat Sheet
 
-This page has text and links that are being used in the L731 Summit Lab. It allows you to copy and paste the content into your Journey Optimizer messages.
+This page has text and links that are being used in the L731 Summit Lab. It allows you to copy and paste the content into your Journey Optimizer messages. 
 
 ## Exercise 1.1 - Download and install the app
 
-Scan the QR code to download the app
+Scan the QR code to download the app 
 
 >[!BEGINTABS]
 
@@ -24,9 +24,21 @@ Scan the QR code to download the app
 
 ![QR code for iOS](/help/assets/lab731-ios-qr-code.png)
 
+You will be asked to install Testflight. Once you have installed Testflight follow the steps to install the Vegas Stay App:
+
+![steps to install iOS](/help/assets/lab731-install-ios.png)
+
 >[!TAB Android&trade;]
 
 ![QR code for Android](/help/assets/lab731-android-qr-code.png)
+
+If you are using the Android simulator, use this link: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+
+As the app is not registered with the Google Play Store, you will receive a warning message:
+
+![Android warning screen](/help/assets/lab731-install-android.png)
+
+Click **Install anyway**
 
 >[!ENDTABS]
 
