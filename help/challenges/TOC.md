@@ -3,8 +3,6 @@ user-guide-title: Journey Optimizer - Challenges
 user-guide-description: Test your Journey Optimizer knowledge, by applying what you have learned to solving real life use cases.
 breadcrumb-title: Journey Optimizer - Challenges
 breadcrumb-url: /docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html
-index: no
-hide: yes
 ---
 
 # Journey Optimizer - Challenges {#challenges}
