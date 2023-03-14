@@ -68,9 +68,15 @@ Click **Install anyway**
 
 ## Lesson 3 Create an Omni-Channel Journey
 
+**Journey Label:**
+<your seat number> - Welcome Journey
+
 >[!BEGINTABS]
 
 >[!TAB Push Message]
+
+**Label:**
+Welcome Message
 
 **Title:**  
 Welcome to Vegas Stay!
@@ -91,10 +97,16 @@ This is the image that we are using for the push notification:
 
 >[!TAB SMS Message]
 
+**Label:**
+Welcome Message
+
 **Message:**
 Welcome to Vegas Stay. Skip the line and check-in with the mobile app: lab://checkin
 
 >[!TAB Email Message]
+
+**Label:**
+Confirmation Message
 
 **Subject Line:**
 {{profile.person.name.firstName}}, you're checked in, now check out our offers for your stay!
