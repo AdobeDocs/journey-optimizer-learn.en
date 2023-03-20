@@ -24,10 +24,96 @@ Scan the QR code to download the app
 
 ![QR code for iOS](/help/assets/lab731-ios-qr-code.png)
 
-You will be asked to install Testflight. Once you have installed Testflight follow the steps to install the Vegas Stay App:
+You will be asked to install Testflight (steps 1 to 4). Once you have installed Testflight follow steps 5 to 8 to install the Vegas Stay App:
 
-![steps to install iOS](/help/assets/lab731-install-ios.png)
-
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+ <div>
+      <p>
+      <b>Step 1 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Step 2 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Step 3 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Step 4 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+  <tr>
+<td>
+ <div>
+      <p>
+      <b>Step 5 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Step 6 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Step 7 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Step 8 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+</table>
 >[!TAB Android&trade;]
 
 ![QR code for Android](/help/assets/lab731-android-qr-code.png)
