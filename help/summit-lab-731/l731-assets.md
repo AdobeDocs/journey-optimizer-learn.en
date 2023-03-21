@@ -114,7 +114,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
   </td>
   </tr>
 </table>
->[!TAB Android&trade;]
+>[!TAB Android]
 
 ![QR code for Android](/help/assets/lab731-android-qr-code.png)
 
@@ -149,13 +149,13 @@ Click **Install anyway**
 |Body|Adobe Summit returns to Las Vegas March 21-23, 2023. Get ready for inspiring speakers, skill-expanding sessions, and new connections.||
 |Button|Book hotel now and save 10% |lab://booking?suite=presidential&discount=10|
 |Button: Interactive event|In-app CTA||
-|Base URL||iOS: lab:// <br>Android&trade;: https://lab|
+|Base URL||iOS: lab:// <br>Android&: https://lab|
 
 
 ## Lesson 3 Create an Omni-Channel Journey
 
 **Journey Label:**
-<your seat number> - Welcome Journey
+`<your seat number>` - Welcome Journey
 
 >[!BEGINTABS]
 

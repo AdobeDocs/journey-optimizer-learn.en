@@ -13,6 +13,7 @@ hidefromtoc: yes
 # L731- Build Personalized Mobile Moments with Journey Optimizer
 
 ## Lab Overview
+
 In this hands-on lab, you learn how to implement a multi-channel marketing strategy that includes in-app, push notifications, SMS, and email messaging campaigns and journeys in Adobe Journey Optimizer.
 
 ## Key Takeaways

@@ -25,7 +25,7 @@ You will be asked to install Testflight. Once you have installed Testflight foll
 
 ![steps to install iOS](/help/assets/lab731-install-ios.png)
 
->[!TAB Android&trade;]
+>[!TAB Android;]
 
 ![QR code for Android](/help/assets/lab731-android-qr-code.png)
 
