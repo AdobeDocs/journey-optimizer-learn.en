@@ -4,7 +4,6 @@ description: Learning objectives and the workshop use case
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
-level: Advanced
 recommendations: noDisplay, noCatalog
 hide: yes
 hidefromtoc: yes
