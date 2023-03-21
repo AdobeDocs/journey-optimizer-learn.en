@@ -24,7 +24,7 @@ Scan the QR code to download the app
 
 ![QR code for iOS](/help/assets/lab731-ios-qr-code.png)
 
-You will be asked to install Testflight (steps 1 to 4). Once you have installed Testflight follow steps 5 to 8 to install the Vegas Stay App:
+You will be asked to install Testflight, steps 1 to 4. Once you have installed Testflight follow steps 5 to 8 to install the Vegas Stay App:
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
       <p>
       <b>Step 1 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 1">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.png"/>
       </a>
       </div>
@@ -45,7 +45,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
       <p>
       <b>Step 2 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 2">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
       </a>
       </div>
@@ -55,7 +55,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
       <p>
       <b>Step 3 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 3">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
       </a>
       </div>
@@ -65,7 +65,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
       <p>
       <b>Step 4 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 4"3>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
       </a>
       </div>
@@ -77,7 +77,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
       <p>
       <b>Step 5 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 5">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
       </a>
       </div>
@@ -87,7 +87,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
       <p>
       <b>Step 6 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 6">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
       </div>
@@ -97,7 +97,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
       <p>
       <b>Step 7 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 7">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
       </div>
@@ -107,7 +107,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
       <p>
       <b>Step 8 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 8">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
       </div>

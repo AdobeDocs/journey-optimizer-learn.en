@@ -1,5 +1,5 @@
 ---
-title: Exercise 1.1
+title: Exercise 1.2
 description: Download and Install the Mobile App
 feature: In App, SMS, Push, Email
 doc-type: article
