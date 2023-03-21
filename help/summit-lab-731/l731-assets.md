@@ -35,7 +35,7 @@ You will be asked to install Testflight, steps 1 to 4. Once you have installed T
       <p>
       <b>Step 1 </b>
       <p>
-      <a href="Step 1">
+      <a>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.png"/>
       </a>
       </div>
@@ -45,7 +45,7 @@ You will be asked to install Testflight, steps 1 to 4. Once you have installed T
       <p>
       <b>Step 2 </b>
       <p>
-      <a href="Step 2">
+      <a>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
       </a>
       </div>
@@ -55,7 +55,7 @@ You will be asked to install Testflight, steps 1 to 4. Once you have installed T
       <p>
       <b>Step 3 </b>
       <p>
-      <a href="Step 3">
+      <a>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
       </a>
       </div>
@@ -65,7 +65,7 @@ You will be asked to install Testflight, steps 1 to 4. Once you have installed T
       <p>
       <b>Step 4 </b>
       <p>
-      <a href="Step 4"3>
+      <a>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
       </a>
       </div>
@@ -77,7 +77,7 @@ You will be asked to install Testflight, steps 1 to 4. Once you have installed T
       <p>
       <b>Step 5 </b>
       <p>
-      <a href="Step 5">
+      <a>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
       </a>
       </div>
@@ -85,9 +85,9 @@ You will be asked to install Testflight, steps 1 to 4. Once you have installed T
   <td>
  <div>
       <p>
+      <a>
       <b>Step 6 </b>
       <p>
-      <a href="Step 6">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
       </div>
@@ -95,9 +95,9 @@ You will be asked to install Testflight, steps 1 to 4. Once you have installed T
   <td>
  <div>
       <p>
+      <a>
       <b>Step 7 </b>
       <p>
-      <a href="Step 7">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
       </div>
@@ -105,9 +105,9 @@ You will be asked to install Testflight, steps 1 to 4. Once you have installed T
   <td>
  <div>
       <p>
+      <a>
       <b>Step 8 </b>
       <p>
-      <a href="Step 8">
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
       </div>
