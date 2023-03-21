@@ -9,7 +9,7 @@ hide: yes
 
 # Summit Lab L731: Build Personalized Mobile Moments with Journey Optimizer {#workbook}
 
-+ [Lab Overview]
++ [Lab Overview]{#overview}
 + [Introduction]{#introduction}
   + [Introduction](/help/l731-lab-workbook/Introduction/introduction.md)
   + [Exercise 1.1](/help/l731-lab-workbook/Introduction/exercise-1-1.md)
