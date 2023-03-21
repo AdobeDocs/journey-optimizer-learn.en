@@ -1,6 +1,6 @@
 ---
 title: Exercise 1.4
-description: Exercise 1.4: Know your Profile
+description: Exercise 1.4 - Know your Profile
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
