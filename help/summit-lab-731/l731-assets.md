@@ -36,7 +36,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
       <b>Step 1 </b>
       <p>
       <a href="Step 1:">
-        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.png"/>
       </a>
       </div>
   </td>
