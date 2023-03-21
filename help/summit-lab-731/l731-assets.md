@@ -114,6 +114,7 @@ You will be asked to install Testflight (steps 1 to 4). Once you have installed 
   </td>
   </tr>
 </table>
+
 >[!TAB Android]
 
 ![QR code for Android](/help/assets/lab731-android-qr-code.png)
