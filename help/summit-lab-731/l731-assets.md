@@ -171,7 +171,7 @@ Welcome to Vegas Stay!
 **Body:**   
 Skip the line and check-in with the mobile app
 
-**Deeplink:** lab://checkin
+**Deeplink:** iOS: lab://, Android&: https://lab
 
 **Media:**
 
