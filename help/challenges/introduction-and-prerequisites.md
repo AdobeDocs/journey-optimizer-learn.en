@@ -23,7 +23,7 @@ Verify that the following prerequisites are met.
 
 * Access to a Journey Optimizer sandbox - it is recommended completing the challenge in a dedicated training sandbox. 
 * AEM Assets Essentials must be provisioned for your instance.
-* The email channels must be configured for transactional and marketing messages.
+* The [email channels must be configured](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) for transactional and marketing messages.
 
 ### Access rights
 
@@ -37,7 +37,7 @@ You need the following access rights:
 
 ### Required actions
 
-*  If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
+* If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
 ## The story
 

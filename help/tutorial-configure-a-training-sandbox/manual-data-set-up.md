@@ -239,7 +239,7 @@ You now have the [!UICONTROL namespace] and the [!DNL Luma Loyalty schema] confi
    |`size`|`Product Size`| [!UICONTROL String]|
    |`price`|`Product Price`| [!UICONTROL Double]|
    |`description`|`Product Description`|[!UICONTROL String]|
-   |`imageURL`|`Product Image URL`|[!UICONTROL String]|
+   |`imageUrl`|`Product Image URL`|[!UICONTROL String]|
    |`stockQuantity`|`Product Stock Quantity`| [!UICONTROL String]|
    |`url`|`Product URL`| [!UICONTROL String]|
 
@@ -339,4 +339,4 @@ Create the following additional [!UICONTROL schemas]:
 
 ## Next steps
 
-Now that you have created the data structure, you [create data sets and ingest sample data](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Now that you have created the data structure, you can [create data sets and ingest sample data](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).

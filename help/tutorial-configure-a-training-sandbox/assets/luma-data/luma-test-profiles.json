@@ -1,0 +1,35 @@
+[
+    {
+        "_yourOrganizationID": {
+            "systemIdentifier": {
+                "crmId": "4f34057d9d9e792c28ba18ecae378e98"
+            }
+        },
+        "personalEmail": {
+            "address": "stanleigh.stooke@emailsim.io"
+        },
+        "testProfile": "True"
+    },
+    {
+        "_yourOrganizationID": {
+            "systemIdentifier": {
+                "crmId": "a8f14eab3b483c2b96171b575ecd90b1"
+            }
+        },
+        "personalEmail": {
+            "address": "leora.dietsche@emailsim.io"
+        },
+        "testProfile": "True"
+    },
+    {
+        "_yourOrganizationID": {
+            "systemIdentifier": {
+                "crmId": "d1f132f9f9502bba047a6ec86c4b61f9"
+            }
+        },
+        "personalEmail": {
+            "address": "louise.petti@emailsim.io"
+        },
+        "testProfile": "True"
+    }
+] 

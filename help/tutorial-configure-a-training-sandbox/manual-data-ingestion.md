@@ -19,12 +19,16 @@ Create the following datasets:
 
 ![Create datasets](/help/tutorial-configure-a-training-sandbox/assets/datasets.png)
 
-If you haven't already done so, download the following JSON files with the sample data and ingest the  data into the respective data sets:
+If you haven't already done so, download the following JSON files with the sample data and ingest the data into the respective data sets:
 
-* [luma-crm-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm-data.json)
-* [luma-loyalty-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty-data.json)
-* [luma-product-catalog-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog-data.json)
-* [luma-test-profile-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles-data.json)
+* [luma-web-events](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-web-events.json)
+* [luma-test-profiles](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles.json)
+* [luma-inventory-event](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-inventory-events.json)
+* [luma-offline-purchases](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-offline-purchases.json)
+* [luma-product-catalog](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog.json)
+* [luma-crm](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm.json)
+* [luma-loyalty](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty.json)
+
 
 ## Next step
 
