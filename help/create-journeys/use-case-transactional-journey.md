@@ -16,4 +16,4 @@ hide: yes
 
 Understand the applicable use cases for transactional journeys. Learn how to build transactional journeys and which best practices to apply.
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on)

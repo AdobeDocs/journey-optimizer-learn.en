@@ -14,4 +14,4 @@ exl-id: a2aa7853-b014-48aa-ab0f-46d57561288e
 
 Learn how to create segment rules and understand how Journey Optimizer uses rules to generate audiences.
 
->[!VIDEO](https://video.tv.adobe.com/v/334281?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334281?quality=12&learn=on)

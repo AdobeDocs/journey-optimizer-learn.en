@@ -21,6 +21,6 @@ Learn how to subscribe to pre-defined alerts for unexpected journey behaviors an
 >
 >When accessing alerts from Journey Optimizer, by default only alerts specific to your live Journeys are displayed.
 
->[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on)
 
 See the [product documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=en) for more information.

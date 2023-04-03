@@ -14,4 +14,4 @@ exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
 
 Learn how to create a schema, add field groups, create, and configure custom field groups.
 
->[!VIDEO](https://video.tv.adobe.com/v/334461?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334461?quality=12&learn=on)

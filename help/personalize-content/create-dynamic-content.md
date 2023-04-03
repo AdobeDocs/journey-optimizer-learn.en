@@ -15,4 +15,4 @@ exl-id: 882c25c2-c990-4d20-9afe-fc5d4030bf0b
 
 Learn how to create and save condition rules and how to apply these condition rules to content across all channels.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409815?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3409815?quality=12&learn=on)

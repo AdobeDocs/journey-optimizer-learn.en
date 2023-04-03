@@ -15,4 +15,4 @@ exl-id: ae6dcd75-582c-47fd-9971-50a198df1fe9
 
 Learn how to copy a journey and its dependent objects from one sandbox to another.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12&learn=on)
