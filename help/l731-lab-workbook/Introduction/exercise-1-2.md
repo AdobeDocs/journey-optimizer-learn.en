@@ -10,7 +10,7 @@ hide: yes
 
 # Exercise 1.2: Register as a User with the App
 
->[!IMPORTANT]   
+>[!IMPORTANT]
 >Please sign up with an **email address that you can access during the lab session**, and **your mobile phone number**. 
 >
 > This information is required for you to receive the messages you will be sending. It also allows you to access your information in Journey Optimizer. It will not be used for any purpose other than for this lab.
@@ -18,9 +18,9 @@ hide: yes
 1.  Open the app.
 1.  In the pop up, click Allow.
 1.  Sign up: 
-   
+
     When opening the app for the first time, you will be asked to sign up. Please enter the following detailS:
-   
+
     <table>
     <tr>
     <td>
