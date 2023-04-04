@@ -61,6 +61,7 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Create collections](/help/decision-management/create-collections.md)
   + [Create decisions](/help/decision-management/create-decisions.md)
   + [Deliver offers with the Decisions API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+  + [Frequency capping](/help/decision-management/frequency-capping.md)
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
   + [Use alerts](/help/administration/alerts.md)
