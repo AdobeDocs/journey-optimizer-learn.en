@@ -33,7 +33,7 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
   + [Content templates](/help/channels/content-templates.md)
 + In App channel{#in-app-channel}
-  + [In-App messaging for Campaigns](/help/channels/in-app-messaging-for-campaigns.md)
+  + [Create and in-app campaigns](/help/channels/create-an-in-app-campaign.md)
   + [Author an in-app message](/help/channels/author-in-app-messages.md)
 + SMS channel{#sms-channel}
   + [Author and deliver SMS messages](/help/channels/author-and-deliver-sms-messages.md)
