@@ -6,8 +6,8 @@ doc-type: article
 role: User
 recommendations: noDisplay, noCatalog
 hide: yes
+exl-id: 5c44c908-e7be-4513-bccd-b3273b214008
 ---
-
 # Exercise 1.1: Download and Install the Mobile App
 
 We created a mobile Hotel booking app for this lab. It allows you to interact and experience the user journey as a customer.
