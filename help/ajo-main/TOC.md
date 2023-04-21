@@ -62,6 +62,12 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Create decisions](/help/decision-management/create-decisions.md)
   + [Deliver offers with the Decisions API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
   + [Frequency capping](/help/decision-management/frequency-capping.md)
++ Data Management {#data-management}
+    + [Overview](/help/set-up-data/set-up-data-overview.md)
+    + [Create a schema](/help/set-up-data/create-schema.md)
+    + [Map identities](/help/set-up-data/map-identities.md)
+    + [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
+    + [Configure source connectors](/help/set-up-data/configure-source-connectors.md)
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
   + [Use alerts](/help/administration/alerts.md)
