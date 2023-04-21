@@ -6,8 +6,8 @@ doc-type: article
 role: User
 recommendations: noDisplay, noCatalog
 hide: yes
+exl-id: 7da59dc1-c888-4e3c-806b-f333471fd2f2
 ---
-
 # Exercise 1.2: Register as a User with the App
 
 >[!IMPORTANT]
