@@ -68,16 +68,11 @@ user-guide-description: These are Journey Optimizer Tutorials.
     + [Map identities](/help/set-up-data/map-identities.md)
     + [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
     + [Configure source connectors](/help/set-up-data/configure-source-connectors.md)
+    + [Export datasets to cloud storage locations](/help/set-up-data/export-datasets.md)
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
   + [Use alerts](/help/administration/alerts.md)
 + Configuration {#configuration}
-  + Configure data {#data-configuration}
-    + [Overview](/help/set-up-data/set-up-data-overview.md)
-    + [Create a schema](/help/set-up-data/create-schema.md)
-    + [Map identities](/help/set-up-data/map-identities.md)
-    + [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
-    + [Configure source connectors](/help/set-up-data/configure-source-connectors.md)
   + Configure channels {#channel-configuration}
     + [Set up email channel](/help/set-up-channels/set-up-email-channel.md)
     + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
