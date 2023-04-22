@@ -38,6 +38,9 @@ user-guide-description: These are Journey Optimizer Tutorials.
 + SMS channel{#sms-channel}
   + [Author and deliver SMS messages](/help/channels/author-and-deliver-sms-messages.md)
   + [Inbound keyword support for SMS](/help/channels/inbound-keyword-support-for-sms.md)
++ Web Channel {#web-channel}
+  + [Create a web campaign](/help/channels/create-a-web-campaign.md)
+  + [Author a web campaign](/help/channels/author-a-web-campaign.md)
 + Customer profiles, segments, and subscriptions {#profiles-segments-subscriptions}
   + [Unified profile and segmentation - overview](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
   + [Create segments](/help/set-up-resources/create-segments.md)
