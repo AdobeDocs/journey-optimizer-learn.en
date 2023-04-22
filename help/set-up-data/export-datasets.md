@@ -9,8 +9,8 @@ last-substantial-update: 2023-04-21
 jira: KT-13113
 thumbnail: 3418688.jpeg
 badge: label="Beta" type="Informative"
+exl-id: 17e1d65c-2548-4d50-bc9f-4e30d729fb5b
 ---
-
 # Export datasets to cloud storage locations
 
 Learn how to export a dataset from Journey Optimizer to an Amazon S3 destination.
