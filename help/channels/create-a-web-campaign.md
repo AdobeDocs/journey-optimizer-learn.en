@@ -10,8 +10,8 @@ jira: KT-10283
 thumbnail: 3418800.jpeg
 hide: yes
 hidefromtoc: yes
+exl-id: 5b625240-5f55-457c-8ea6-2a3f61af7047
 ---
-
 # Create a web campaign
 
 Understand what a web campaign is. Learn how to configure the web campaign properties, review, and publish it.

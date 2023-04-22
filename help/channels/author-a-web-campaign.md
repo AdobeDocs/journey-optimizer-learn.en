@@ -10,8 +10,8 @@ jira: KT-13111
 thumbnail: 3418803.jpeg
 hide: yes
 hidefromtoc: yes
+exl-id: 7d623f14-505f-4f8d-a84a-6acd6c773d01
 ---
-
 # Author a web campaign
 
 Learn how to author a web experience using the web visual editor in Journey Optimizer campaigns.
