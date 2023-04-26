@@ -8,8 +8,6 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-22
 jira: KT-13111
 thumbnail: 3418803.jpeg
-hide: yes
-hidefromtoc: yes
 exl-id: 7d623f14-505f-4f8d-a84a-6acd6c773d01
 ---
 # Author a web campaign
