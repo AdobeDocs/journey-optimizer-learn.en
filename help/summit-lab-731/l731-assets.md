@@ -196,6 +196,6 @@ Welcome to Vegas Stay. Skip the line and check-in with the mobile app: lab://che
 Confirmation Message
 
 **Subject Line:**
-{{profile.person.name.firstName}}, you're checked in, now check out our offers for your stay!
+`{{profile.person.name.firstName}},` you're checked in, now check out our offers for your stay!
 
 >[!ENDTABS]
