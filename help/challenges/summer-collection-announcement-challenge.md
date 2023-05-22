@@ -136,7 +136,6 @@ Preview the email:
 Result:
 
 * The subject line should read: Louise, the new Luma collection is here!
-* The email body should match what you have seen in the preview: [New Seasonal collection announcement](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **Email Message #2 - Luma Men's Collection**
 
@@ -145,8 +144,8 @@ Send a proof to yourself:
 1. Add a test profile: Stanleigh Stooke:
    * Identity namespace: *Luma CRM ID* 
    * Identity value: `4f34057d9d9e792c28ba18ecae378e98`
-1. Select the test profile: Stanleigh Stooke.
-1. Send a proof to yourself.
+2. Select the test profile: Stanleigh Stooke.
+3. Send a proof to yourself.
 
 Result:  
 You should receive an email. The subject line should read *Stanleigh, explore Men's New athletic gear!* and the email body should match what you have seen in the preview.
@@ -159,14 +158,12 @@ You should receive an email. The subject line should read *Stanleigh, explore Me
 Preview the email with the test profile *Louise Petti.*
 
 * The subject line should read: *Louise, explore Luma's Women Collection!*
-* The email body should match what you have seen in the preview. 
 
 **Email message #4 - Luma 20 % off Collection**
 
 Preview the email with the test profile *Louise Petti.*
 
 * The subject line should read: *Louise, enjoy 20% off sales!*
-* The email body should match what you have seen in the preview.
 
 #### Test your journey
 
