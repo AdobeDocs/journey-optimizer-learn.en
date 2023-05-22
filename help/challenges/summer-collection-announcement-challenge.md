@@ -149,7 +149,7 @@ Send a proof to yourself:
 1. Send a proof to yourself.
 
 Result:  
-You should receive an email. The subject line should read *Stanleigh, explore Men's New athletic gear!* and the email body should match what you have seen in the preview: [Luma Men's Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+You should receive an email. The subject line should read *Stanleigh, explore Men's New athletic gear!* and the email body should match what you have seen in the preview.
 
 >[!NOTE]
 >It can take a couple of minutes for you to receive the proof.
@@ -159,14 +159,14 @@ You should receive an email. The subject line should read *Stanleigh, explore Me
 Preview the email with the test profile *Louise Petti.*
 
 * The subject line should read: *Louise, explore Luma's Women Collection!*
-* The email body should match what you have seen in the preview: [Luma Women's Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
+* The email body should match what you have seen in the preview. 
 
 **Email message #4 - Luma 20 % off Collection**
 
 Preview the email with the test profile *Louise Petti.*
 
 * The subject line should read: *Louise, enjoy 20% off sales!*
-* The email body should match what you have seen in the preview: [Luma 20 % off Collection](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
+* The email body should match what you have seen in the preview.
 
 #### Test your journey
 
