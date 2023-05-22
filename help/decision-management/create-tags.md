@@ -14,6 +14,4 @@ Learn how to [create tags](https://experienceleague.adobe.com/docs/journey-optim
 
 To learn more on how to create tags with an API, see the [product guide](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html)
 
->[!INFO]
->
-> This video is part of a course, [Getting Started with Decision Management for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), available for free on Experience League!
+{{experienceplatform-u-1-2020-1-offerdecisioning}}
