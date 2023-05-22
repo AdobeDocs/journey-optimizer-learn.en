@@ -15,3 +15,5 @@ exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
 Learn what an action is in Journey Optimizer and how to configure a custom action.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334257?quality=12&learn=on)
+
+{{journeyoptimizer-a-1-2021-1}}
