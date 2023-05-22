@@ -14,3 +14,4 @@ Get an overview over Journey Optimizer's decision management capabilities. The v
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
 
 {{experienceplatform-u-1-2020-1-offerdecisioning}}
+
