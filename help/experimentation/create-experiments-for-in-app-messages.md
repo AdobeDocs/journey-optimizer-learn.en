@@ -1,7 +1,7 @@
 ---
 title: Create experiments for in-app messages
 description: Learn how to configure experiments to A/B test in-app messages.
-feature: In-App, Experimentation
+feature: In App, Experimentation
 role: User
 level: Beginner
 doc-type: Feature Video
