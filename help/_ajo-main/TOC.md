@@ -32,6 +32,7 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
   + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
   + [Content templates](/help/channels/content-templates.md)
+  + [Configure content experiments for emails](/help/experimentation/content_experiments_for_emails.md)
 + In App channel{#in-app-channel}
   + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
   + [Author an in-app message](/help/channels/author-in-app-messages.md)
