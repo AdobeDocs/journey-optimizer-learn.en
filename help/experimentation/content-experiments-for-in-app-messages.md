@@ -1,6 +1,6 @@
 ---
 title: Configure content experiments for in-app messages
-description: Learn how to configure experiments to A/B test in-app messages.
+description: Learn how to configure and analyze content experiments to A/B test in-app messages.
 feature: In App, Experimentation
 role: User
 level: Beginner
