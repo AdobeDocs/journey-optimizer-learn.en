@@ -5,7 +5,6 @@ feature: Email, Experimentation
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-05-25
 jira: KT-11129
 thumbnail: 3419893.jpeg
 ---

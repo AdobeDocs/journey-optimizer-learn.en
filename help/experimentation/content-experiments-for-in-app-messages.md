@@ -5,7 +5,7 @@ feature: In App, Experimentation
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-05-25
+last-substantial-update: 2023-05-26
 jira: KT-13341
 thumbnail: 3419898.jpeg
 ---
