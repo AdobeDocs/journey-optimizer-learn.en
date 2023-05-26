@@ -1,5 +1,5 @@
 ---
-title: Create experiments for in-app messages
+title: Create content experiments for in-app messages
 description: Learn how to configure experiments to A/B test in-app messages.
 feature: In App, Experimentation
 role: User
@@ -10,7 +10,7 @@ jira: KT-13341
 thumbnail: 3419898.jpeg
 ---
 
-# Create experiments for in-app messages
+# Create content experiments for in-app messages
 
 Learn how to configure experiments to A/B test in-app messages.
 
