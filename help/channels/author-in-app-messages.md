@@ -17,4 +17,4 @@ Learn how to author and test an in-app message.
 
 ## Additional resources
 
-{{#exl-live-in-app}}
+{{exl-live-in-app}}

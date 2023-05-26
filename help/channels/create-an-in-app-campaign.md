@@ -17,4 +17,4 @@ Understand what an in-app message is. Learn how to create, configure, and publis
 
 ## Additional resources
 
-{{#exl-live-in-app}}
+{{exl-live-in-app}}
