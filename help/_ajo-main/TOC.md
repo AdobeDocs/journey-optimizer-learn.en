@@ -66,7 +66,7 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Create rules](/help/decision-management/create-rules.md)
   + [Create tags](/help/decision-management/create-tags.md)
   + [Create personalized offers](/help/decision-management/create-personalized-offers.md)
-  + [Create a personalized ranking model](/help/decision-management/create-a-personalized-ranking-model.md)
+  + [Create AI models](/help/decision-management/create-ai-models.md)
   + [Create fallback offers](/help/decision-management/create-fallback-offers.md)
   + [Create collections](/help/decision-management/create-collections.md)
   + [Create decisions](/help/decision-management/create-decisions.md)
