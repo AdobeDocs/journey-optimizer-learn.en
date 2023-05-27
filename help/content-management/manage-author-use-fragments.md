@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-26
 jira: KT-13222
 thumbnail: 3419932.jpeg
+exl-id: d63ed027-087e-4a34-8b29-5d63576107e9
 ---
-
 # Manage, author, and use fragments
 
 Learn how to manage, author, and use fragments in Adobe Journey Optimizer.
