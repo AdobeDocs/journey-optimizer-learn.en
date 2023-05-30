@@ -17,7 +17,7 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
 + Campaigns {#create-campaigns}
   + [Create a campaign](/help/create-campaigns/create-a-campaign.md)
-  + [Create an in-app campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html)
+  + [Create an in-app campaign](/help/create-campaigns/in-app.md)
   + [Create a web campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
   + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
