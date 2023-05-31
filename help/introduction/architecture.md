@@ -17,5 +17,3 @@ hidefromtoc: yes
 Understand the basic architecture of Adobe Journey Optimizer, the points of integration, and the relationship of Journey Optimizer with other Adobe applications.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on)
-
-{{journeyoptimizer-a-1-2021-1}}

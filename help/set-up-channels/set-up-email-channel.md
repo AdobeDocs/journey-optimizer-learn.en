@@ -18,5 +18,3 @@ hidefromtoc: no
 Learn how to create message presets, how to use them and how to delegate a sub domain and create an IP pool.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on)
-
-{{journeyoptimizer-a-1-2021-1}}
