@@ -94,6 +94,7 @@ user-guide-description: These are Journey Optimizer Tutorials.
     + [Create actions](/help/set-up-journeys/create-actions.md)
 + Access Control {#access-control}
   + [Access management](/help/set-up-access/access-management.md)
+  + [Configure attribute-based access control](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
   + [Create and manage sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Privacy {#privacy}
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
