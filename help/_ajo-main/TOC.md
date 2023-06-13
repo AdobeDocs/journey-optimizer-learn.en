@@ -42,7 +42,7 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Author an in-app message](/help/channels/author-in-app-messages.md)
   + [Configure content experiments for in-app messages](/help/experimentation/content-experiments-for-in-app-messages.md)
 + SMS channel{#sms-channel}
-  + [Author and deliver SMS messages](/help/channels/author-and-deliver-sms-messages.md)
+  + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
   + [Inbound keyword support for SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Web Channel {#web-channel}
   + [Create a web campaign](/help/channels/create-a-web-campaign.md)
