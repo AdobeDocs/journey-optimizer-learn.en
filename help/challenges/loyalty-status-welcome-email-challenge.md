@@ -1,7 +1,7 @@
 ---
 title: Create a loyalty status welcome email - Challenge
 description: Build a journey that automatically sends a welcome email to customers when they reach loyalty tier.
-kt: 8109
+jira: KT-8109
 feature: Journeys
 role: User
 level: Beginner

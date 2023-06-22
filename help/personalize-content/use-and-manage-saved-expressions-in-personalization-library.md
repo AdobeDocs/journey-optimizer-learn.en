@@ -4,7 +4,7 @@ description: Learn how to use saved personalization library items in a message a
 feature: Personalization, Email Design
 role: User
 level: Beginner
-kt: 9806
+jira: KT-9806
 thumbnail: 340941.jpg
 exl-id: 9ae24064-11a7-4fa0-8eb8-125f7764cfc4
 ---

@@ -4,7 +4,7 @@ description: Understand how native inbound keyword support (start, stop,unstop) 
 feature: SMS
 role: User, Admin
 level: Beginner
-kt: 10616
+jira: KT-10616
 thumbnail: 344026.jpg
 exl-id: b7233ee0-6450-467d-b41f-f81e3b870005
 ---

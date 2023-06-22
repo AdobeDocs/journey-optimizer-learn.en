@@ -1,7 +1,7 @@
 ---
 title: Set up email channel
 description: Learn how to create message presets, how to use them and how to delegate a sub domain and create an IP pool.
-kt: 7854
+jira: KT-7854
 thumbnail: 334343.jpg
 feature: Channel Configuration, Email
 doc-type: feature video

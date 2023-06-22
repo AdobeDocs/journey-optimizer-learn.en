@@ -1,7 +1,7 @@
 ---
 title: Use helper functions for personalization
 description: Learn how to transform personalization values using personalization helper functions and understand different use cases for helper functions.
-kt: 8079
+jira: KT-8079
 thumbnail: 334244.jpg
 feature: Personalization
 doc-type: feature video

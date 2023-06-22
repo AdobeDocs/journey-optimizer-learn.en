@@ -2,7 +2,7 @@
 title: Create fallback offers
 description: Learn how to create fallback offers for decision management. Fallback offers have eligibility rules associated with them to help you show them only to relevant customers.
 feature: Offers
-kt: 6780
+jira: KT-6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
 ---

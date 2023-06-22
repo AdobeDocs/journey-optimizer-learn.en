@@ -2,7 +2,7 @@
 title: Create decision rules
 description: Learn how to create decision rules for decision management. Rules are one of the required building block components of personalized offers.
 feature: Offers
-kt: 6738
+jira: KT-6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
 ---

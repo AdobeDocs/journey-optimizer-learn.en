@@ -4,7 +4,7 @@ description: Learn how to configure, author, and deliver SMS messages in Journey
 feature: SMS
 role: User
 level: Beginner
-kt: 10576
+jira: KT-10576
 thumbnail: 3420509.jpeg
 hide: no
 hidefromtoc: no 

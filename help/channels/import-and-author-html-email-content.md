@@ -1,7 +1,7 @@
 ---
 title: Import and author HTML email content with the message editor
 description: Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.
-kt: 7535
+jira: KT-7535
 thumbnail: 334102.jpg
 feature: Email Design
 doc-type: feature video

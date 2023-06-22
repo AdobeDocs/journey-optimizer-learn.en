@@ -4,7 +4,7 @@ description: Understand which mobile capabilities Adobe Journey Optimizer offers
 feature: SMS, In App, Push
 role: Leader, User
 level: Beginner
-kt: 10169
+jira: KT-10169
 thumbnail: 342102.jpeg
 exl-id: d5e04656-c99e-490e-872e-ea153a81dd98
 ---

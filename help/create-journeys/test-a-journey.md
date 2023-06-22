@@ -1,7 +1,7 @@
 ---
 title: Create a test profile
 description: Learn how to create a test profile.
-kt: 7529
+jira: KT-7529
 thumbnail: 334236.jpg
 feature: Journeys
 doc-type: feature video

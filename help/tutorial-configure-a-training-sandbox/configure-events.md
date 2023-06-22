@@ -3,7 +3,7 @@ title: Configure events
 description: Configure three events required for the hands-on Journey Optimizer Challenges
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog

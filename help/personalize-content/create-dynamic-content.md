@@ -1,7 +1,7 @@
 ---
 title: Create dynamic content with the condition rule builder
 description: Learn how to create and save condition rules and how to apply these condition rules to content across all channels.
-kt: 10589
+jira: KT-10589
 thumbnail: 3409815.jpg
 feature: Personalization
 doc-type: feature video

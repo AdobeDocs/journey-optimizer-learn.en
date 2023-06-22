@@ -2,7 +2,7 @@
 title: Create decisions
 description: Learn how to create decisions for decision management. A decision combines your placements and collections into a single entity, so that a decision can be made to deliver the most relevant offer to the customer.
 feature: Offers
-kt: 6791
+jira: KT-6791
 thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196

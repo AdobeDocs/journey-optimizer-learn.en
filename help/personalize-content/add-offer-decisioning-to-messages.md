@@ -1,7 +1,7 @@
 ---
 title: Add offers as personalization to a message
 description: Learn how to add an decision management component to messages in Journey Optimizer.
-kt: 8033
+jira: KT-8033
 thumbnail: 334088.jpg
 feature: Personalization, Offers
 doc-type: feature video

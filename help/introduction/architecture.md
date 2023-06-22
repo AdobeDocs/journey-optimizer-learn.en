@@ -1,7 +1,7 @@
 ---
 title: Adobe Journey Optimizer Architecture
 description: Understand the basic architecture of Adobe Journey Optimizer, the points of integration, and the relationship of Journey Optimizer with other Adobe applications.
-kt: 7607
+jira: KT-7607
 thumbnail: 334205.jpg
 feature: Overview
 doc-type: feature video

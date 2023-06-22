@@ -1,7 +1,7 @@
 ---
 title: Product Replenishment Challenge
 description: Apply what you learned about creating segments and test your skills.
-kt: 8417
+jira: KT-8417
 feature: Segments
 role: User
 level: Beginner

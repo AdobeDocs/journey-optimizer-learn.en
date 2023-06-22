@@ -1,7 +1,7 @@
 ---
 title: Create schemas
 description: Learn how to create schemas in Adobe Experience Platform using the XDM Individual Profile class and various field groups. 
-kt: 7565
+jira: KT-7565
 thumbnail: 27012.jpg
 feature: Schemas
 doc-type: feature video

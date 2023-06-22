@@ -1,7 +1,7 @@
 ---
 title: Configure SMS API credentials and channel surfaces
 description: Learn how to connect Journey Optimizer to an SMS service provider and how to create an SMS channel surface.
-kt: 11734
+jira: KT-11734
 thumbnail: 3413355.jpg
 feature: Channel Configuration, SMS
 doc-type: feature video

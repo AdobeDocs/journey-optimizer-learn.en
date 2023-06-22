@@ -1,7 +1,7 @@
 ---
 title: Access management
 description: Learn how to manage product profiles and permissions and how to add and manage users.
-kt: 7677
+jira: KT-7677
 thumbnail: 333998.jpg
 feature: Access Management
 doc-type: feature video

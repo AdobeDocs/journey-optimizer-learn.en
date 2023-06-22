@@ -3,7 +3,7 @@ title: Configure a training sandbox - introduction
 description: Learn how to configure a sandbox for training purposes. Go through the steps required to configure the schemas, ingest sample data, and create events.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01

@@ -1,7 +1,7 @@
 ---
 title: Map identities
 description: Learn how and when to label a schema field as an identity and how to create a namespace. Learn when to make an identity primary and how to ingest and verify identity data.
-kt: 7564
+jira: KT-7564
 thumbnail: 335918.jpg
 feature: Identities, Data Ingestion
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: Publish a journey
 description: Understand the different states of a journey and the impact of publishing.
-kt: 7528
+jira: KT-7528
 thumbnail: 334238.jpg
 feature: Journeys
 doc-type: feature video

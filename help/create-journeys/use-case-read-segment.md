@@ -1,7 +1,7 @@
 ---
 title: Use Case - Read segment
 description: Understand the applicable use cases for read segment journeys. Learn how to build batch-based journeys and which best practices to apply.
-kt: 7964
+jira: KT-7964
 thumbnail: 334206.jpg
 feature: Journeys
 doc-type: feature video

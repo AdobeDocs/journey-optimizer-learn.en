@@ -1,7 +1,7 @@
 ---
 title: Use Case - Segment qualification
 description: Understand the applicable use cases for segment qualification journeys. Learn how to build a journey with segment qualification and which best practices to apply.
-kt: 7704
+jira: KT-7704
 thumbnail: 334231.jpg
 feature: Journeys
 doc-type: feature video

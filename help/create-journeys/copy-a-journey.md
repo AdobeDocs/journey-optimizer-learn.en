@@ -1,7 +1,7 @@
 ---
 title: Copy a journey to another sandbox
 description: Learn how to copy a journey and its dependent objects from one sandbox to another.
-kt: 10438
+jira: KT-10438
 thumbnail: 3409593.jpg
 feature: Journeys
 doc-type: feature video

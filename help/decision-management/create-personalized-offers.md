@@ -3,7 +3,7 @@ title: Create personalized offers
 seo-title: Create personalized offers for decision management
 description: Learn how to create personalized offers for decision management. Personalized offers have eligibility rules associated with them to help you show them only to relevant customers.
 feature: Offers, Personalization
-kt: 6781
+jira: KT-6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 ---

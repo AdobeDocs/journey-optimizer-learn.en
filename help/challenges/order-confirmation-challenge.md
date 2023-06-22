@@ -1,7 +1,7 @@
 ---
 title: Create an order confirmation email
 description: Test your knowledge on how to create and personalize transactional messages.
-kt: 7531
+jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner

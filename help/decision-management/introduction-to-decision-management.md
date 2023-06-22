@@ -2,7 +2,7 @@
 title: Introduction to decision management capabilities
 description: Get an overview over Journey Optimizer's decision management capabilities.
 feature: Offers
-kt: 6417
+jira: KT-6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 ---

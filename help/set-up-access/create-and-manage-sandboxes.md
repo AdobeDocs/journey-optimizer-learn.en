@@ -1,7 +1,7 @@
 ---
 title: Create and manage sandboxes
 description: Understand what sandboxes are and how to distinguish between development and production sandboxes. Learn how to create, reset, and delete sandboxes.
-kt: 7568
+jira: KT-7568
 thumbnail: 334355.jpg
 feature: Access Management
 doc-type: feature video

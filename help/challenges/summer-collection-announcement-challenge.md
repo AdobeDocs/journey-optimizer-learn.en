@@ -1,7 +1,7 @@
 ---
 title: Create a Summer Collection announcement - challenge
 description: Send a Summer Collection announcement to a segment of existing customers to promote the new Luma Summer Collection.
-kt: 8109
+jira: KT-8109
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01

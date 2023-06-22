@@ -1,7 +1,7 @@
 ---
 title: Mask data in messages
 description: Understand what data masking is and when and why you might need to mask data. Learn how to mask data in Journey Optimizer messages.
-kt: 10341
+jira: KT-10341
 thumbnail: 3409395.jpg
 feature: Privacy
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: Journey Optimizer Overview Part 1 - Deliver omni-channel journeys
 description: This video shows how brands can use Adobe Journey Optimizer to deliver personalized omni-channel journeys to their consumers.
-kt: 8071
+jira: KT-8071
 thumbnail: 334174.jpg
 feature: Overview
 doc-type: value video

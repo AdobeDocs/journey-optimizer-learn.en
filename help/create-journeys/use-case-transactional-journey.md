@@ -1,7 +1,7 @@
 ---
 title: Use Case - Transactional Journey
 description: Understand the applicable use cases for transactional journeys and learn how to build transactional journeys.
-kt: 8030
+jira: KT-8030
 thumbnail: 334202.jpg
 feature: Journeys
 doc-type: feature video

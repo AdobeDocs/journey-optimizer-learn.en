@@ -3,7 +3,7 @@ title: Work with profile and segment membership for personalization
 description: Learn how to add profile-based personalization to a message and how to use segment membership as a pre-condition to a personalization block.
 landing-page-description: Learn how to add profile-based personalization to a message and how to use segment membership as a pre-condition to a personalization block.
 short-description: Learn how to add profile-based personalization to a message and how to use segment membership as a pre-condition to a personalization block.
-kt: 8034
+jira: KT-8034
 thumbnail: 334078.jpg
 feature: Personalization
 doc-type: feature video

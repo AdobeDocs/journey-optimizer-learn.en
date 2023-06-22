@@ -1,7 +1,7 @@
 ---
 title: Set up data - Overview
 description: Learn about real-time customer profile data and which steps are required to set up customer profile data for Journey Optimizer.
-kt: 7855
+jira: KT-7855
 thumbnail: 335878.jpg
 feature: Schemas, Identities, Data Ingestion, Data Sources
 doc-type: feature video

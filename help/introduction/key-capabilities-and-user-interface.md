@@ -1,7 +1,7 @@
 ---
 title: Key capabilities and the user interface
 description: Understand the Journey Optimizer's key capabilities and personas. Learn how to navigate the user interface.
-kt: 7606
+jira: KT-7606
 thumbnail: 334201.jpg
 feature: Overview
 doc-type: Feature Video

@@ -3,7 +3,7 @@ title: Create data sets and ingest data
 description: Create data sets and manually ingest sample data.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog

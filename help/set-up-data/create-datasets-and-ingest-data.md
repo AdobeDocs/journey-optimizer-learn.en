@@ -1,7 +1,7 @@
 ---
 title: Create datasets and ingest data
 description: Learn how to create a dataset, map it to a schema, add data to it, and confirm that the data has been ingested.
-kt: 7563
+jira: KT-7563
 thumbnail: 334293.jpg
 feature: Data Sources
 doc-type: feature video

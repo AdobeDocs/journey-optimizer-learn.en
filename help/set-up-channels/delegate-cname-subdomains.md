@@ -1,7 +1,7 @@
 ---
 title: Delegate CName subdomains
 description: Learn how to create a subdomain using CNAME to point to Adobe-specific records.
-kt: 9524
+jira: KT-9524
 thumbnail: 339484.jpg
 feature: Application Settings
 doc-type: feature video

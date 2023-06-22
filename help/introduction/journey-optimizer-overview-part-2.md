@@ -1,7 +1,7 @@
 ---
 title: Journey Optimizer Overview Part 2 - Advanced functionality
 description: This video shows how brands can use Adobe Journey Optimizer's decision management capabilities, real time segment qualification, and business event management to take their consumer journeys to new heights.
-kt: 8072
+jira: KT-8072
 thumbnail: 334175.jpg
 feature: Overview
 doc-type: value video

@@ -1,7 +1,7 @@
 ---
 title: Use contextual event information for personalization
 description: Learn how to use contextual event information from a journey to personalize a message.
-kt: 8032
+jira: KT-8032
 thumbnail: 334165.jpg
 feature: Personalization, Events
 doc-type: feature video

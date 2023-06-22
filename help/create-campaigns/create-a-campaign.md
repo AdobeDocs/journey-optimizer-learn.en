@@ -1,7 +1,7 @@
 ---
 title: Create a campaign
 description: Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.
-kt: 10590
+jira: KT-10590
 thumbnail: 346680.jpg
 feature: Journeys
 doc-type: feature video
