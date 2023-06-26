@@ -12,7 +12,7 @@ exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
 ---
 # Create content with the Email Designer
 
-Learn how to create emails from scratch. Understand how to use assets from the AEM Assets Essentials library, edit the responsive email design, and create emails from templates. 
+Learn how to create emails from scratch. Understand how to use assets from the Adobe Experience Manager Assets Essentials library, edit the responsive email design, and create emails from templates. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on)
  
