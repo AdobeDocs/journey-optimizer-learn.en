@@ -1,7 +1,6 @@
 ---
 title: Deliver offers with the Decisions Hub API
 description: Learn how to deliver Decision Management offers with the Decisions API. 
-role: Developer
 feature: Offers
 role: Developer
 level: Beginner
