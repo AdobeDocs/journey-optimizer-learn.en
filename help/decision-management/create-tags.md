@@ -4,6 +4,8 @@ description: Learn how to create tags in Decision Management. Tags are optional 
 feature: Offers
 jira: KT-6753
 thumbnail: 329374.jpg
+role: User
+level: Beginner
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 ---
 # Create tags

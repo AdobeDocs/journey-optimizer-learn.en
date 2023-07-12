@@ -5,6 +5,8 @@ description: Learn how to create personalized offers for decision management. Pe
 feature: Offers, Personalization
 jira: KT-6781
 thumbnail: 329375.jpg
+role: User
+level: Beginner
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 ---
 # Create personalized offers

@@ -2,6 +2,8 @@
 title: Create placements
 description: Learn how to create placements for decision management. Placements are one of the required building block components of offers.
 feature: Offers
+role: User
+level: Beginner
 jira: KT-6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0

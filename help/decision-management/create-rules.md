@@ -4,6 +4,8 @@ description: Learn how to create decision rules for decision management. Rules a
 feature: Offers
 jira: KT-6738
 thumbnail: 329373.jpg
+role: User
+level: Beginner
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
 ---
 # Create decision rules

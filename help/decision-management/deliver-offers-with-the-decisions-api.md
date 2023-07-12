@@ -3,6 +3,8 @@ title: Deliver offers with the Decisions Hub API
 description: Learn how to deliver Decision Management offers with the Decisions API. 
 role: Developer
 feature: Offers
+role: Developer
+level: Beginner
 jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef

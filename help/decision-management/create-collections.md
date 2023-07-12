@@ -2,6 +2,8 @@
 title: Create collections
 description: Learn how to create collections for decision management. Collections have eligibility rules associated with them to help you show them only to relevant customers.
 feature: Offers
+role: User
+level: Beginner
 jira: KT-6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4

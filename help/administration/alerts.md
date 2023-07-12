@@ -7,6 +7,7 @@ feature: Alerts
 doc-type: feature video
 team: PM
 role: Admin
+level: Beginner
 last-substantial-update: 2022-09-28
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
 ---

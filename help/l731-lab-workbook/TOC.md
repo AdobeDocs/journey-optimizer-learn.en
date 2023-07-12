@@ -1,6 +1,8 @@
 ---
 user-guide-title: Summit Lab 731 - Workbook
 user-guide-description: In this hands-on lab, you learn how to implement a multi-channel marketing strategy that includes in-app, push notifications, SMS, and email messaging campaigns and journeys in Adobe Journey Optimizer.
+role: User
+level: Beginner
 breadcrumb-title: Journey Optimizer - L731 Workbook
 breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: no
