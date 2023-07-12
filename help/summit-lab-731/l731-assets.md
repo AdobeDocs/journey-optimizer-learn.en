@@ -119,8 +119,6 @@ You will be asked to install Testflight, steps 1 to 4. Once you have installed T
 
 ![QR code for Android](/help/assets/lab731-android-qr-code.png)
 
-If you are using the Android simulator, use this link: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 As the app is not registered with the Google Play Store, you will receive a warning message:
 
 ![Android warning screen](/help/assets/lab731-install-android.png)
@@ -143,14 +141,14 @@ Click **Install anyway**
 
 |Field|Text|Links|
 |----|----|----|
-|Campaign Name| `<your seat number> March Vegas Campaign`||
+|Campaign Name| `<your seat number> Vegas Stay Campaign`||
 |Matcher|booknow||
 |Media URL option|| https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png| 
-|Title|It is Happening & It is Live!||
-|Body|Adobe Summit returns to Las Vegas March 21-23, 2023. Get ready for inspiring speakers, skill-expanding sessions, and new connections.||
-|Button|Book hotel now and save 10% |lab://booking?suite=presidential&discount=10|
+|Title|Get your early bird discount!||
+|Body|Adobe Summit returns to Las Vegas in 2024. Get ready for inspiring speakers, skill-expanding sessions, and new connections. Book your suite now and get 10% off.||
+|Button|Book now|lab://booking?suite=presidential&discount=10|
 |Button: Interactive event|In-app CTA||
-|Base URL||iOS: lab:// <br>Android&: https://lab|
+|Base URL||**iOS:** lab:// <br>**Android**: https://lab|
 
 
 ## Lesson 3 Create an Omni-Channel Journey
