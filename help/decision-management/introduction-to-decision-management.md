@@ -3,7 +3,7 @@ title: Introduction to decision management capabilities
 description: Get an overview over Journey Optimizer's decision management capabilities.
 feature: Offers
 jira: KT-6417
-role: Administrator, Developer, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
