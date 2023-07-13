@@ -143,7 +143,7 @@ Click **Install anyway**
 |----|----|----|
 |Campaign Name| `<your seat number> Vegas Stay Campaign`||
 |Matcher|booknow||
-|Media URL option||https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg 
+|Media URL option||https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg|
 |Title|Get your early bird discount!||
 |Body|Adobe Max returns to Las Vegas. Get ready for inspiring speakers, skill-expanding sessions, and new connections. Book your suite now and get 10% off.||
 |Button|Get your 10% discount!|lab://booking?suite=presidential&discount=10|
