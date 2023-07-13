@@ -127,7 +127,7 @@ Click **Install anyway**
 
 >[!ENDTABS]
 
-## Exercise 1.3: Log in to Adobe Journey Optimizer
+## Exercise 1: Log in to Adobe Journey Optimizer
 
 [Click here to log in to Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
@@ -137,63 +137,25 @@ Click **Install anyway**
 * **Password:** Adobe2023!
 
 
-## Exercise 2.1 Create an In-App Campaign
+## Exercise 2 Create an In-App Campaign
 
 |Field|Text|Links|
 |----|----|----|
 |Campaign Name| `<your seat number> Vegas Stay Campaign`||
 |Matcher|booknow||
-|Media URL option|| https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png| 
+|Media URL option||https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg| 
 |Title|Get your early bird discount!||
-|Body|Adobe Summit returns to Las Vegas in 2024. Get ready for inspiring speakers, skill-expanding sessions, and new connections. Book your suite now and get 10% off.||
+|Body|Adobe Max returns to Las Vegas. Get ready for inspiring speakers, skill-expanding sessions, and new connections. Book your suite now and get 10% off.||
 |Button|Book now|lab://booking?suite=presidential&discount=10|
 |Button: Interactive event|In-app CTA||
-|Base URL||**iOS:** lab:// <br>**Android**: https://lab|
+|Base URL to be used for preview on device||**iOS:** lab:// <br>**Android**: https://lab|
 
 
-## Lesson 3 Create an Omni-Channel Journey
+## Exercise 3: Create a Push Notification
 
-**Journey Label:**
-`<your seat number>` - Welcome Journey
-
->[!BEGINTABS]
-
->[!TAB Push Message]
-
-**Label:**
-Welcome Message
-
-**Title:**  
-Welcome to Vegas Stay!
-
-**Body:**   
-Skip the line and check-in with the mobile app
-
-**Deeplink:** iOS: lab://, Android&: https://lab
-
-**Media:**
-
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
-
-
-This is the image that we are using for the push notification:
-
-![Online Check In](/help/assets/vegas_online_check_in.jpg)
-
->[!TAB SMS Message]
-
-**Label:**
-Welcome Message
-
-**Message:**
-Welcome to Vegas Stay. Skip the line and check-in with the mobile app: lab://checkin
-
->[!TAB Email Message]
-
-**Label:**
-Confirmation Message
-
-**Subject Line:**
-`{{profile.person.name.firstName}},` you're checked in, now check out our offers for your stay!
-
->[!ENDTABS]
+|Field|Text|Links|
+|----|----|----|
+|Campaign Name| `<your seat number> Max Push Campaign`||
+|Media URL option||https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg| 
+|Title|Hey!||
+|Body|Did you know Adobe Max is coming back to Vegas. Book your room now and get 10% discount.||
