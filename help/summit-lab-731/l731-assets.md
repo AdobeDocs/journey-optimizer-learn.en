@@ -146,7 +146,7 @@ Click **Install anyway**
 |Media URL option||https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg 
 |Title|Get your early bird discount!||
 |Body|Adobe Max returns to Las Vegas. Get ready for inspiring speakers, skill-expanding sessions, and new connections. Book your suite now and get 10% off.||
-|Button|Book now|lab://booking?suite=presidential&discount=10|
+|Button|Get your 10% discount!|lab://booking?suite=presidential&discount=10|
 |Button: Interactive event|In-app CTA||
 |Base URL to be used for preview on device||**iOS:** lab:// <br>**Android**: https://lab|
 
