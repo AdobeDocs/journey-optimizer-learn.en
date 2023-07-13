@@ -24,6 +24,10 @@ Scan the QR code to download the app
 
 ![QR code for iOS](/help/assets/lab731-ios-qr-code.png)
 
+>[!Tip]
+>If asked for the redeem code please close TestFlight app and scan QR code once again.
+>**Please allow 'Notifications'.**
+
 You will be asked to install Testflight, steps 1 to 4. Once you have installed Testflight follow steps 5 to 8 to install the Vegas Stay App:
 
 <table>
