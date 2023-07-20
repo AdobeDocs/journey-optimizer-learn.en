@@ -15,5 +15,3 @@ Learn how to create [fallback offers](https://experienceleague.adobe.com/docs/jo
 >[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on)
 
 To learn more on how to create fallback offers with an API, see the [product guide](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}

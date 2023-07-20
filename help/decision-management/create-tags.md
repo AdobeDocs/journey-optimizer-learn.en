@@ -15,5 +15,3 @@ Learn how to [create tags](https://experienceleague.adobe.com/docs/journey-optim
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
 
 To learn more on how to create tags with an API, see the [product guide](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}

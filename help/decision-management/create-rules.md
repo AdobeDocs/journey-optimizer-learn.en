@@ -15,5 +15,3 @@ Learn how to create [decision rules](https://experienceleague.adobe.com/docs/jou
 >[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on)
 
 To learn more on how to create decision rules with an API, see the [product guide](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/decision-rules/create.html)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}
