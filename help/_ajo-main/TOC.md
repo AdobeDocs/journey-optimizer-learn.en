@@ -24,9 +24,9 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Overview over the journey canvas](/help/create-journeys/overview-over-the-journey-canvas.md)
   + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
   + [Use case - Transactional journey](/help/create-journeys/use-case-transactional-journey.md)
-  + [Use case - Read segment](/help/create-journeys/use-case-read-segment.md)
   + [Use case - Business event](/help/create-journeys/use-case-business-event.md)
-  + [Use case - Segment qualification](/help/create-journeys/use-case-read-segment-qualification.md)
+  + [Use case - Read audience](/help/create-journeys/use-case-read-audience.md)
+  + [Use case - Audience qualification](/help/create-journeys/use-case-audience-qualification.md)
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
@@ -53,7 +53,7 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalize content {#personalize-content}
-  + [Profile and segment membership-based personalization](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+  + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
   + [Use contextual event information for personalization](/help/personalize-content/use-contextual-event-information-for-personalization.md)
   + [Use helper functions for personalization](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -88,7 +88,7 @@ user-guide-description: These are Journey Optimizer Tutorials.
     + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
     + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
     + [Configure message frequency rules](/help/administration/configure-frequency-rules.md)
-  +  Configure journeys {#journey-configuration}
+  + Configure journeys {#journey-configuration}
     + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
     + [Create events](/help/set-up-journeys/create-events.md)
     + [Create actions](/help/set-up-journeys/create-actions.md)
