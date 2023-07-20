@@ -15,5 +15,3 @@ Learn how to create [placements](https://experienceleague.adobe.com/docs/journey
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
 To learn more on how to create placements with an API, see the [product guide](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}

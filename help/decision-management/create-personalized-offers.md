@@ -16,5 +16,3 @@ Learn how to create [personalized offers](https://experienceleague.adobe.com/doc
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 
 To learn more on how to create personalized offers activities with an API, see the [product guide](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}
