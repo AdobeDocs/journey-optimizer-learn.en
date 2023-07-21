@@ -136,7 +136,7 @@ Click **Install anyway**
 
 ## Exercise 1: Log in to Adobe Journey Optimizer
 
-[Click here to log in to Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Click here to log in to Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **Login Details:**
 
@@ -146,16 +146,16 @@ Click **Install anyway**
 
 ## Exercise 2 Create an In-App Campaign
 
-|Field|Text|Links|
-|----|----|----|
-|Campaign Name| `<your seat number> Vegas Stay Campaign`||
-|Matcher|booknow||
-|Media URL option||https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg|
-|Title|Get your early bird discount!||
-|Body|Adobe Max returns to Las Vegas. Get ready for inspiring speakers, skill-expanding sessions, and new connections. Book your suite now and get 10% off.||
-|Button|Get your 10% discount!|lab://booking?suite=presidential&discount=10|
-|Button: Interactive event|In-app CTA||
-|Base URL to be used for preview on device||**iOS:** lab:// <br>**Android**: https://lab|
+|Section|Field|Text|Links|
+|----|----|----|----|
+|**Properties**||Campaign Name| `<your seat number> Vegas Stay Campaign`||
+|**Triggers**|State|booknow||
+|**Edit Content:** Media|Media URL option||https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg|
+|**Edit Content:** Content|Title|Get your early bird discount!||
+|**Edit Content:** Content|Body|Adobe Max returns to Las Vegas. Get ready for inspiring speakers, skill-expanding sessions, and new connections. Book your suite now and get 10% off.||
+|**Edit Content:** Buttons|Button|Get your 10% discount!|lab://booking?suite=presidential&discount=10|
+|**Edit Content:** Content||Button: Interact event|In-app CTA||
+|**Preview on device**||Base URL to be used for preview on device||**iOS:** lab:// <br>**Android**: https://lab|
 
 
 ## Exercise 3: Create a Push Notification
