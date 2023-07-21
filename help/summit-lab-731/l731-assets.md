@@ -148,7 +148,7 @@ Click **Install anyway**
 
 |Section|Field|Text|Links|
 |----|----|----|----|
-|**Properties**||Campaign Name| `<your seat number> Vegas Stay Campaign`||
+|**Properties**|Campaign Name| `<your seat number> Vegas Stay Campaign`||
 |**Triggers**|State|booknow||
 |**Edit Content:** Media|Media URL option||https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg|
 |**Edit Content:** Content|Title|Get your early bird discount!||
