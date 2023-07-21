@@ -162,6 +162,6 @@ Click **Install anyway**
 |Field|Text|Links|
 |----|----|----|
 |Campaign Name| `<your seat number> Max Push Campaign`||
-|Media URL option||https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg| 
 |Title|Hey!||
 |Body|Did you know Adobe Max is coming back to Vegas. Book your room now and get 10% discount.||
+|Media URL option||https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg| 
