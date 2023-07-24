@@ -155,7 +155,7 @@ Click **Install anyway**
 |**Edit Content:** Content|Body|Adobe Max returns to Las Vegas. Get ready for inspiring speakers, skill-expanding sessions, and new connections. Book your suite now and get 10% off.||
 |**Edit Content:** Buttons|Button|Get your 10% discount!|lab://booking?suite=presidential&discount=10|
 |**Edit Content:** Buttons|Interact event|In-app CTA||
-|**Preview on device**||Base URL to be used for preview on device||**iOS:** lab:// <br>**Android**: https://lab|
+|**Preview on device**|Base URL to be used for preview on device||**iOS:** lab:// <br>**Android**: https://lab|
 
 ## Exercise 3: Create a Push Notification
 
