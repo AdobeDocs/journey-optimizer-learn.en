@@ -138,7 +138,7 @@ Click **Install anyway**
 
 [Click here to log in to Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
-**Login Details:**
+**Login Details**
 
 * **Username:** `L731+<your seat number>@summitlab.us` (example: L731+001@summitlab.us)
 * **Password:** Adobe2023!
