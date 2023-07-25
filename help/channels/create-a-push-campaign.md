@@ -1,7 +1,7 @@
 ---
 title: Configure and send a push campaign
 description: Learn how to configure and send a push notification with a campaign.
-feature: Push, Campaign
+feature: Push, Campaigns
 role: User
 level: Beginner
 doc-type: Feature Video
