@@ -1,6 +1,6 @@
 ---
 title: Direct Mail Channel
-description: Learn how to setup the Direct Mail channel and how to create scheduled and recurring Direct Mail campaigns. Understand how to preview Direct Mail data prior to campaign activation and the reporting metrics for Direct Mail.
+description: Learn how to setup the Direct Mail channel and how to create and preview direct mail campaigns.
 feature: Channel Configuration
 role: User, Admin
 level: Beginner
@@ -12,6 +12,6 @@ thumbnail: 3422019.jpeg
 
 # Direct Mail Channel
 
-Learn how to setup the Direct Mail channel and how to create scheduled and recurring Direct Mail campaigns. Understand how to preview Direct Mail data prior to campaign activation and the reporting metrics for Direct Mail.
+Learn how to setup the Direct Mail channel and how to create and preview direct mail campaigns.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on)
