@@ -30,6 +30,8 @@ user-guide-description: These are Journey Optimizer Tutorials.
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
++ Direct mail channel{#direct-mail-channel}
+  + [Direct mail channel](help/channels/direct-mail.md)
 + Email channel{#email-channel}
   + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
   + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
