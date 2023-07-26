@@ -1,7 +1,7 @@
 ---
 title: Direct Mail Channel
 description: Learn how to set up the Direct Mail channel and how to create and preview direct mail campaigns.
-feature: Channel Configuration
+feature: Direct Mail
 role: User, Admin
 level: Beginner
 doc-type: Feature Video
