@@ -60,7 +60,7 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
    <strong><a href="summer-collection-announcement-challenge.md">Create a summer collection announcement </strong>
     </a>
       <p>
-      <em>Create a journey that sends a summer collection announcement email to a segment of existing customers. </em>
+      <em>Create a journey that sends a summer collection announcement email to an audience of existing customers. </em>
       <p>
       <b>Required skills:</b>
       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html> Create segments</li>
