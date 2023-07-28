@@ -1,6 +1,6 @@
 ---
 title: Create a Summer Collection announcement - challenge
-description: Send a Summer Collection announcement to a segment of existing customers to promote the new Luma Summer Collection.
+description: Send a Summer Collection announcement to an audience of existing customers to promote the new Luma Summer Collection.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
@@ -22,24 +22,24 @@ exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 
 ## The story
 
-Luma, a fictional athletic apparel company, is promoting its latest apparel and gear collection and to drive sales for existing customers. Luma is launching the new Summer Collection and would like to specifically target different customer segments.  
+Luma, a fictional athletic apparel company, is promoting its latest apparel and gear collection and to drive sales for existing customers. Luma is launching the new Summer Collection and would like to specifically target different audiences.  
 
 ## Your challenge
 
 The Luma marketing team asks you to implement a Summer Collection marketing campaign in Journey Optimizer. Your challenge is to:
 
-* Create a segment defining which profiles qualify to receive the promotion.
+* Create an audience defining which profiles qualify to receive the promotion.
 * Build the journey.
 
-### Step 1: Define the segment - Active Customers
+### Step 1: Define the audience - Active Customers
 
 >[!BEGINTABS]
 
 >[!TAB Task]
 
-#### Create a segment in [!DNL Journey Optimizer]
+#### Create an audience in [!DNL Journey Optimizer]
 
-* Create a segment in [!DNL Journey Optimizer] called *Active Customers*.
+* Create an audience in [!DNL Journey Optimizer] called *Active Customers*.
 * The segment must include only active Luma customers.
 * Active customers are defined as customers who have a tier in Luma's loyalty program (bronze, silver, gold, or platinum).
 

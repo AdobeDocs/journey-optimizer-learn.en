@@ -46,26 +46,14 @@ When using this event, Journey Optimizer receives information when a person purc
 
 1. Select **[!UICONTROL Save]**.
 
-## Create *[!DNL Luma Wishlist Add]* event
-
-|[!UICONTROL Parameter]|[!UICONTROL Value]|
-|-------------|-----------|
-|[!UICONTROL NAME]|`LumaWishlistAdd`|
-|[!UICONTROL TYPE]| [!UICONTROL Unitary] |
-|[!UICONTROL Event ID Type]|[!UICONTROL Rule Based]|
-|[!UICONTROL Schema]| `Luma Product Interactions`|
-|[!UICONTROL Fields]| EventType<br>productListItem.quantity<br><b>In Product List Items > Luma Products > _*[!DNL yourOrganizationID]* > Product:</b> <br>Name<br>Price<br> ProductImageURL<br>ProductURL|
-|[!UICONTROL Condition]| [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters]|
-|[!UICONTROL Namespace]| Email(EMail)|
-
 ## Create *[!DNL Luma Product Restock]* event
 
 |[!UICONTROL Parameter]|[!UICONTROL Value]|
 |-------------|-----------|
 |[!UICONTROL NAME]|`LumaProductRestock`|
 |[!UICONTROL TYPE]|[!UICONTROL Business]|
-|[!UICONTROL Schema]|[!DNL Luma Product Inventory Events]|
-|[!UICONTROL Fields]|SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>name<br>price<br> ImageURL<br>description|
+|[!UICONTROL Schema]|[!DNL Luma Product Inventory Event Schema]|
+|[!UICONTROL Fields]|SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>name<br>price<br> ImageURL<br>description|
 |[!UICONTROL Condition]|LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock|
 
 Congratulations! Your sandbox is now ready to use.

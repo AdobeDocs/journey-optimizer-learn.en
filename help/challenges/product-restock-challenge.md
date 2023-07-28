@@ -31,7 +31,7 @@ Luma asks you to implement a journey in Journey Optimizer that notifies customer
 
 ## 1. Define the segment – Out-of-stock Wishlist Items
 
-To target potential interested customers when products are restocked, create a segment that consists of customers:
+To target potential interested customers when products are restocked, create an audience that consists of customers:
 
 * Who have added at least one item to their wish list (Use the event type: [!UICONTROL Commerce Save For Laters])
 * Which was out of stock in the last three months (use stock quantity = 0)
