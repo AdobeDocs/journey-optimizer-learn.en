@@ -48,6 +48,7 @@ Create a journey that sends an order confirmation email when a Luma customer com
      * Add the unsubscribe link at the bottom of the email 
 
 The email should be structured as follows:
+
 <table>
 <tr>
 <td>
@@ -170,7 +171,7 @@ You should receive the personalized purchase confirmation email.
 
 **Subject line:**
 
-Thank you for your purchase, {{ profile.person.name.firstName }}!
+Thank you for your purchase, `{{ profile.person.name.firstName }}`!
 
 **Ship to section:**
 
