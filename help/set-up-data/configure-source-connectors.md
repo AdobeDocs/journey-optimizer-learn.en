@@ -1,7 +1,7 @@
 ---
 title: Configure source connectors
 description: Learn about source connectors and how to configure them in Journey Optimizer.
-kt: 7561
+jira: KT-7561
 thumbnail: 335919.jpg
 feature: Data Sources
 doc-type: feature video
@@ -14,4 +14,4 @@ exl-id: dd557040-248f-4e52-b8d7-67b684c6e18b
 
 Learn about source connectors and how to configure them in Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12&learn=on)

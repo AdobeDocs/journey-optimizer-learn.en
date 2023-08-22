@@ -1,48 +1,51 @@
 ---
-title: Journey Optimizer Challenges - Introduction and prerequisites
-description: Understand the basics of building a journey in the journey canvas.
+title: Journey Optimizer challenges - Introduction and prerequisites
+description: Challenges provide a scenario and the requirements needed to practice what you learned. Each challenge addresses a unique use case that you implement.
 feature: Journeys
 role: Admin
 level: Beginner
-hide: yes
+last-substantial-update: 2023-02-01
+exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 ---
-
-# Journey Optimizer Challenges - Introduction and prerequisites
+# Journey Optimizer challenges - Introduction and prerequisites
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
 Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. 
 
-Each challenge in this section addresses a unique use case that you will implement. The target audience (persona), as well as the required skills are listed at the beginning of each challenge.
+Each challenge in this section addresses a unique use case that you implement. The target audience (persona), and the required skills are listed at the beginning of each challenge.
 
 ## Prerequisites
 
+Verify that the following prerequisites are met.
+
 ### System requirements
 
-*   Access to a Journey Optimizer sandbox
-*   It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) for instructions.
-*   You need the following access rights:
-    * *Journey Manager* or *Journey Administrator* rights
-    * View test profiles and their attributes
-*   AEM Assets Essentials must be provisioned for your instance
-*   The email channel must be configured for transactional and marketing messages
+* Access to a Journey Optimizer sandbox - it is recommended completing the challenge in a dedicated training sandbox. 
+* AEM Assets Essentials must be provisioned for your instance.
+* The [email channels must be configured](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) for transactional and marketing messages.
+
+### Access rights
+
+You need the following access rights:
+
+* *Journey Manager* or *Journey Administrator*
+* View test profiles and their attributes
 
 >[!NOTE]
-> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial [Import sample data to Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) for detailed instructions.
+> The exercises were developed based on the Luma sample data. It is recommended to set up a training sandbox configured with the sample data. Please visit the tutorial [Configure a training sandbox](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) for instructions for detailed instructions.
 
 ### Required actions
 
-*   If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
-* Before you can get started, download the [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) file. It contains all assets required for to complete the challenges
-* From your downloads folder, move the `luma-assets.zip` file to the desired location on your computer, and unzip it.
+* If you are new to Adobe Journey Optimizer, complete the course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
-## The Story
+## The story
 
 Luma is a fictional athletic apparel company, with stores in multiple countries, an online presence with a website, and mobile apps. Luma uses Adobe Journey Optimizer to deliver connected, contextual, and personalized experiences to their customers.
 
 Luma is looking to promote its latest apparel and gear collection and to drive sales for existing customers. You have been hired to implement the Luma marketing and retention campaigns in Journey Optimizer.
 
-## Your Challenges
+## Your challenges
 
 <table>
 <tr>
@@ -54,16 +57,37 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>Create a summer collection announcement </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">Create a summer collection announcement </strong>
     </a>
       <p>
-      <em>Promote the new Luma summer collection. </em>
+      <em>Create a journey that sends a summer collection announcement email to an audience of existing customers. </em>
       <p>
       <b>Required skills:</b>
-      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html> Create segments</li>
-      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html>Import and author HTML email content</li>
-      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html>Use Case - Read segment</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html> Create segments</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html>Read segment</li>
+       <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html>Import HTML email content</li>
+  </td>
+  </tr>
+   <tr>
+    <td>
+    <div>
+    <a>
+      <img alt="Welcome" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+    </a>
+    </div>
+    <td>
+    <div >
+      <a>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">Create a loyalty status welcome email </strong>
+    </a>
+    </div>
+    <p>
+    <em>Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits.</em>
+    <p>
+    <b>Required skills:</b>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html> Create segments</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html>Segment qualification</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html>Import and author HTML email content</li>
   </td>
   </tr>
   <tr>
@@ -75,49 +99,16 @@ Luma is looking to promote its latest apparel and gear collection and to drive s
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>Create an order confirmation</strong>
+    <strong><a href="order-confirmation-challenge.md">Create an order confirmation</strong>
     </a>
     <div>
     <p>
-    <em>Send an order confirmation email when someone completes an online purchase
+    <em>Test your knowledge on how to create and personalize transactional messages
     </em>
     <p>
+    <b>Required skills:</b>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html> Create email content with the message editor</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html>Use contextual event information for personalization</li>
+      <li><a href=https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en>Use helper functions for personalization</li>
   </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Luma website" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>Create a product replenishment notification </strong>
-    </a>
-    </div>
-    <p>
-    <em>Notify customers, when a previously out-of-stock item is back in stock</em>
-    <p>
-  </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
-      <img alt="Welcome" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>Create a loyalty status welcome email </strong>
-    </a>
-    </div>
-    <p>
-    <em>Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits</em>
-    <p>
-  </td>
-  </tr>
 </table>
