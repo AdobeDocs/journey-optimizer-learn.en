@@ -5,7 +5,8 @@ feature: In App, Journeys
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-08-22
+last-substantial-update: 2023-08-24
+hidefromtoc: yes
 jira: KT-13705
 thumbnail: 3423077.jpeg
 ---
