@@ -6,7 +6,7 @@ role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-08-24
-hidefromtoc: yes
+hidefromtoc: no
 jira: KT-13705
 thumbnail: 3423077.jpeg
 ---
