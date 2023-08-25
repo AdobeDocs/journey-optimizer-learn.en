@@ -35,6 +35,13 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 </div>
 
+ 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 <div id="events-section">
  
@@ -56,14 +63,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
   *In this Experience League Live episode, we talk about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.*
 
  </div>
- 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
- 
+
 <div id="staff-picks-section">
 
 ## Staff picks
