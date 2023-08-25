@@ -40,7 +40,10 @@ This user guide contains videos and tutorials on features and capabilities of Ad
  
 ## Experience League Live events
 
-* **[Maximize your mobile app's potential with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)**
+* **[API Triggered Messaging in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en)**
+  *Learn how to use REST APIs for contextual, personalized and real time transactional and marketing communications.*
+ 
+ * **[Maximize your mobile app's potential with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)**
   *Learn the benefits of in-app messaging as a real-time engagement channel and how to configure and author personalized mobile app experiences in Adobe Journey Optimizer.*
 
 * **[Explore the future of Adobe Journey Optimizer with the web channel and content experimentation](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=en)**
