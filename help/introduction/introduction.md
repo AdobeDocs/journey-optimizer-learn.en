@@ -15,4 +15,5 @@ exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 Understand what Adobe Journey Optimizer is, which business challenges this application solves, and what the key use cases are.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on)
- 
+
+&emsp; <br>
