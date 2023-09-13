@@ -1,7 +1,7 @@
 ---
 title: Use Case - Business event
 description: Understand the applicable use cases for business events. Learn how to build a journey using a business event and which best practices to apply.
-jira: KT-7703
+jira: KT-7702
 thumbnail: 334234.jpg
 feature: Journeys
 doc-type: feature video
