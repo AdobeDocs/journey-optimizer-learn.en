@@ -12,4 +12,4 @@ exl-id: 78b7582b-76bc-4919-9e17-34966b5032f5
 
 Get an overview over the Assets Essentials features and how it can be used in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/342098?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342098?quality=12&learn=on){transcript=true}

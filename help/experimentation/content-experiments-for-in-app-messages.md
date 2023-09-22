@@ -14,4 +14,4 @@ exl-id: a157be84-3640-43d0-8cf7-d09510a45c5e
 
 Learn how to configure and analyze content experiments to A/B test in-app messages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on){transcript=true}

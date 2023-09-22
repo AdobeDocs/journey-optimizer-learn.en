@@ -14,4 +14,4 @@ exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
 
 Learn how to add an decision management component to messages in Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on){transcript=true}

@@ -17,4 +17,4 @@ exl-id: 7116a20e-f46a-4676-8b16-21699723828a
 
 Understand the applicable use cases for read audience journeys. Learn how to build batch-based journeys and which best practices to apply.
 
->[!VIDEO](https://video.tv.adobe.com/v/334206?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334206?quality=12&learn=on){transcript=true}

@@ -16,4 +16,4 @@ exl-id: dc510572-96c8-42bd-b213-e8738510bb0c
 
 Understand the basics of building a journey in the journey canvas.
 
->[!VIDEO](https://video.tv.adobe.com/v/334522?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334522?quality=12&learn=on){transcript=true}

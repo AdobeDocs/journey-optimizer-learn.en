@@ -14,4 +14,4 @@ exl-id: e1d846ed-34ed-44bb-ad69-cedbaaebe706
 
 Understand the Journey Optimizer's key capabilities and personas. Learn how to navigate the user interface.
 
->[!VIDEO](https://video.tv.adobe.com/v/334201?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334201?quality=12&learn=on){transcript=true}

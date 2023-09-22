@@ -21,6 +21,6 @@ Learn how to export a dataset from Journey Optimizer to an Amazon S3 destination
 >[!NOTE]
 >During the beta phase, all datasets are visible. Once this feature is generally available, it will be limited to only the system-generated datasets. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
 
 See the [product documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=en) for more information.

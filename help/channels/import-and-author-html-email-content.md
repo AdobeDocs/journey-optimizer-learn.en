@@ -14,4 +14,4 @@ exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
 
 Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.
 
->[!VIDEO](https://video.tv.adobe.com/v/334102?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334102?quality=12&learn=on){transcript=true}

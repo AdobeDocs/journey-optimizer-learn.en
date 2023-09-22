@@ -15,7 +15,7 @@ In this section, you set up the three events that are required for the hands-on 
 
 The following video explains how to create events:
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 
 ## Create the Luma online purchase event
 

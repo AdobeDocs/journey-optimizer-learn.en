@@ -15,4 +15,4 @@ thumbnail: 3423077.jpeg
 
 Understand what an in-app message is and how it can be applied in a journey. Learn how to create an in-app message in a journey and how to test and publish your journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423077/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423077/?learn=on){transcript=true}

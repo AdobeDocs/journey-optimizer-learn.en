@@ -13,7 +13,7 @@ exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
 
 The following video tutorial explains how to create datasets and manually ingest data:
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
 
 Create the following datasets:
 

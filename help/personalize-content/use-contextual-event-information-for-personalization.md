@@ -14,4 +14,4 @@ exl-id: 45cb2057-fc8d-4c66-9da8-0ce7ab3a4033
 
 Learn how to use contextual event information from a journey to personalize a message.
 
->[!VIDEO](https://video.tv.adobe.com/v/334165?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334165?quality=12&learn=on){transcript=true}

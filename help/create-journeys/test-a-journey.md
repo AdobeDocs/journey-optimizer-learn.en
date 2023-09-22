@@ -14,4 +14,4 @@ exl-id: b0725be6-2a3d-46cf-b78a-d53b6a88d112
 
  Learn how to create a test profile.
  
->[!VIDEO](https://video.tv.adobe.com/v/334236?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334236?quality=12&learn=on){transcript=true}
