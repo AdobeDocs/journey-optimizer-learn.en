@@ -14,4 +14,4 @@ Learn how to create collections for decision management.
 
 Collections are used to manage offers in logical groups and are required to build for decision management activities. Dynamic collections allow you to group offers based on tags, while static collections allow you to manually curate the offers.
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}

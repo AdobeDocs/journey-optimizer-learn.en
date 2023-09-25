@@ -17,4 +17,4 @@ Learn how to author a web experience using the web visual editor in Journey Opti
 >[!NOTE]
 > You must install the [Adobe Experience Cloud Visual Editing Helper Chrome extension](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca) to be able to load your website into Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}

@@ -14,4 +14,4 @@ exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
 
 Learn how to manage product profiles and permissions and how to add and manage users.
 
->[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on){transcript=true}

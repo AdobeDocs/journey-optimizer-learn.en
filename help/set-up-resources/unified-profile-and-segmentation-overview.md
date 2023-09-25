@@ -12,4 +12,4 @@ exl-id: 53c853d7-c12e-4e77-aed3-c34039a13c5c
 
 Understand how to create a unified profile and then build segments based on profile attributes in order to personalize customer journeys.
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}

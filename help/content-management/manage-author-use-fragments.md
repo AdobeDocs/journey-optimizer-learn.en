@@ -14,4 +14,4 @@ exl-id: d63ed027-087e-4a34-8b29-5d63576107e9
 
 Learn how to manage, author, and use fragments in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419932/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419932/?learn=on){transcript=true}

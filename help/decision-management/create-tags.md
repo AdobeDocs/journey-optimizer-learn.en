@@ -12,6 +12,6 @@ exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 
 Learn how to [create tags](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html) in [!DNL Decision Management]. Tags are optional building block components of offers. They can be used to organize offers and group them in dynamic collections.
 
->[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on){transcript=true}
 
 To learn more on how to create tags with an API, see the [product guide](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html)

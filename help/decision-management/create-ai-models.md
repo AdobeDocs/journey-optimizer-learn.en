@@ -15,4 +15,4 @@ exl-id: 71645f7e-3067-47c5-8fea-7d0576ebeb6e
 Learn how to create an AI model for Offer Decisioning and how to apply it to a decision.
 feature: Offers
 
->[!VIDEO](https://video.tv.adobe.com/v/3419959/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419959/?learn=on){transcript=true}

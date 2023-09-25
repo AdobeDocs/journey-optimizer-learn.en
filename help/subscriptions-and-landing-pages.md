@@ -17,4 +17,4 @@ Learn how to configure subscriptions and create landing pages:
 * Integrate the (un)subscription option in your message
 * Configure relevant journeys
 
->[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}

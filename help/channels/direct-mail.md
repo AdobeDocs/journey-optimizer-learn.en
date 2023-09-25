@@ -14,4 +14,4 @@ thumbnail: 3422019.jpeg
 
 Learn how to set up the Direct Mail channel and how to create and preview direct mail campaigns.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}

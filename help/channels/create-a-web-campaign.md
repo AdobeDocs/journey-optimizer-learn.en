@@ -14,4 +14,4 @@ exl-id: 5b625240-5f55-457c-8ea6-2a3f61af7047
 
 Understand what a web campaign is. Learn how to configure the web campaign properties, review, and publish it.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on){transcript=true}

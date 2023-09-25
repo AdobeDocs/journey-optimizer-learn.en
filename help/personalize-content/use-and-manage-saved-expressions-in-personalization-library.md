@@ -12,4 +12,4 @@ exl-id: 9ae24064-11a7-4fa0-8eb8-125f7764cfc4
 
 Learn how to use saved personalization library items in a message and how to create and manage personalization library items.
 
->[!VIDEO](https://video.tv.adobe.com/v/340941?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340941?quality=12&learn=on){transcript=true}

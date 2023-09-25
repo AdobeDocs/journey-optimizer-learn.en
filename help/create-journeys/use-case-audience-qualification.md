@@ -17,4 +17,4 @@ exl-id: e7626542-1399-4fcd-966a-cd9b3c7cd454
 
 Understand the applicable use cases for audience qualification journeys. Learn how to build a journey with audience qualification and which best practices to apply.
 
->[!VIDEO](https://video.tv.adobe.com/v/334231?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334231?quality=12&learn=on){transcript=true}

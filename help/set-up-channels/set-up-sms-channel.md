@@ -15,4 +15,4 @@ exl-id: 923c0731-b172-44db-8a57-f7ac2101adde
 
 Learn how to connect Journey Optimizer to an SMS service provider and how to create an SMS channel surface.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on){transcript=true}

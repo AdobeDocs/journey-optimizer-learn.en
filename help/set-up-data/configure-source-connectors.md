@@ -14,4 +14,4 @@ exl-id: dd557040-248f-4e52-b8d7-67b684c6e18b
 
 Learn about source connectors and how to configure them in Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12&learn=on){transcript=true}

@@ -12,4 +12,4 @@ exl-id: e01d8609-18ab-4efb-83cc-24015cee0583
 
 Understand which mobile capabilities Adobe Journey Optimizer offers developers.
 
->[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}

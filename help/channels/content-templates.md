@@ -13,4 +13,4 @@ exl-id: 6c9bfc6b-4391-433c-82b2-427662766402
 
 Learn how to create, edit, and use content templates.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413743?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413743?quality=12&learn=on){transcript=true}
