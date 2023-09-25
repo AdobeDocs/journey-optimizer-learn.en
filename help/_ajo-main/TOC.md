@@ -2,6 +2,7 @@
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: These are Journey Optimizer Tutorials.
+auto-video-transcripts: true
 ---
 
 # Journey Optimizer Tutorials {#tutorials}
