@@ -53,6 +53,7 @@ auto-video-transcripts: true
 + Web Channel {#web-channel}
   + [Create a web campaign](/help/channels/create-a-web-campaign.md)
   + [Author a web campaign](/help/channels/author-a-web-campaign.md)
+  + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Profiles, audiences, and subscriptions {#profiles-segments-subscriptions}
   + [Unified profile and segmentation - overview](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
   + [Create segments](/help/set-up-resources/create-segments.md)
