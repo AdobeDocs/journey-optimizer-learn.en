@@ -8,6 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-25
 jira: KT-14009
 thumbnail: 3424536.jpeg
+hidefromtoc: yes
 ---
 
 # Single-page application (SPA) support in the web editor
