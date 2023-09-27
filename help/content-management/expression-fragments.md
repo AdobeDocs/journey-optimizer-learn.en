@@ -8,6 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-27
 jira: KT-14043
 thumbnail: 3424587.jpeg
+hidefromtoc: Yes
 ---
 
 # Create and use expression fragments
