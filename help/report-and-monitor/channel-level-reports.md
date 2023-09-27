@@ -5,7 +5,7 @@ feature: Reporting
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-09-26
+last-substantial-update: 2023-09-28
 jira: KT-14033
 thumbnail: 3424537.jpeg
 hidefromtoc: No

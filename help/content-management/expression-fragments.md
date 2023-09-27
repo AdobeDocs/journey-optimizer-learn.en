@@ -5,7 +5,7 @@ feature: Templates, Email Design
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
-last-substantial-update: 2023-09-27
+last-substantial-update: 2023-09-28
 jira: KT-14043
 thumbnail: 3424587.jpeg
 hidefromtoc: Yes

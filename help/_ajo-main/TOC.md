@@ -90,6 +90,7 @@ auto-video-transcripts: true
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
+  + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-CSV-format.md)
   + [Use alerts](/help/administration/alerts.md)
 + Configuration {#configuration}
   + Configure channels {#channel-configuration}

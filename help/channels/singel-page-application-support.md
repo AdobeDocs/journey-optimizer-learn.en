@@ -5,7 +5,7 @@ feature: Web Channel
 role: Developer
 level: Intermediate
 doc-type: Feature Video
-last-substantial-update: 2023-09-25
+last-substantial-update: 2023-09-28
 jira: KT-14009
 thumbnail: 3424536.jpeg
 hidefromtoc: No
