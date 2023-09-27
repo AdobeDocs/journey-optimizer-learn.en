@@ -1,6 +1,6 @@
 ---
 title: Export reports in CSV format
-description: Understand how to download CSV reports for full reports and single widgets.
+description: Understand how to download a CSV report for a report and for a single widget.
 feature: Reporting
 role: User
 level: Beginner
@@ -13,6 +13,6 @@ hidefromtoc: Yes
 
 # Export reports in CSV format
 
-Understand how to download CSV reports for full reports and single widgets.
+Understand how to download a CSV report for a report and for a single widget.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
