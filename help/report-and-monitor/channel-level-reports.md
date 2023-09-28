@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-28
 jira: KT-14033
 thumbnail: 3424537.jpeg
-hidefromtoc: Yes
+hidefromtoc: No
 ---
 
 # Channel level reports
