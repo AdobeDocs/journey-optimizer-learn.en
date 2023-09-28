@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-27
 jira: KT-14038
 thumbnail: 3424603.jpeg
-hidefromtoc: Yes
+hidefromtoc: No
 ---
 
 # Export reports in CSV format
