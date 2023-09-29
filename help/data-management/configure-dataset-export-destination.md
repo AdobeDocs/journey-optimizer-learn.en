@@ -2,7 +2,7 @@
 title: Configure a dataset export destination
 description: Learn about the configuration, workflow, and use cases for exporting datasets from [!DNL Adobe Experience Platform] to a cloud storage location using a destination connection.
 solution: Real-Time Customer Data Platform, Experience Platform, Journey Optimizer
-feature: Data Management
+feature: Destinations, Data Management
 role: User, Admin
 level: Beginner
 jira: KT-13946
