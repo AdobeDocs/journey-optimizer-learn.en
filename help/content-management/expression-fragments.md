@@ -9,8 +9,8 @@ last-substantial-update: 2023-09-28
 jira: KT-14043
 thumbnail: 3424587.jpeg
 hidefromtoc: No
+exl-id: e97ad4be-0d42-4516-8c20-948c604c61a3
 ---
-
 # Create and use expression fragments
 
 Learn how to create and use expression fragments.

@@ -9,7 +9,7 @@ last-substantial-update: 2023-04-21
 jira: KT-13113
 thumbnail: 3418688.jpeg
 badge: label="Beta" type="Informative"
-exl-id: 17e1d65c-2548-4d50-bc9f-4e30d729fb5b
+exl-id: 66a616da-d917-40f6-b315-76b061e9ddfd
 ---
 # Export datasets to cloud storage locations
 

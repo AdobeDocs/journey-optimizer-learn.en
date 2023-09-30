@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-25
 jira: KT-11129
 thumbnail: 3419893.jpeg
-exl-id: e2fb7039-0eec-4dc8-8664-ab1d564af4e7
+exl-id: d5896682-b845-4991-bf64-e405bbd79ab6
 ---
 # Configure content experiments for emails
 

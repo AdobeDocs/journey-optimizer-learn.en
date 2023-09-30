@@ -8,6 +8,7 @@ level: Beginner
 jira: KT-13946
 thumbnail: 3424392.jpg
 last-substantial-update: 2023-09-27
+exl-id: 23f12d51-9841-41f5-9028-1507c4b538cf
 ---
 # Configure a dataset export destination
 

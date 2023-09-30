@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-26
 jira: KT-13341
 thumbnail: 3419898.jpeg
-exl-id: a157be84-3640-43d0-8cf7-d09510a45c5e
+exl-id: 06dd4c6c-af5e-40cc-9df0-07d1d0925e6d
 ---
 # Configure content experiments for in-app messages
 

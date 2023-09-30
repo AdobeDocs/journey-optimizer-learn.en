@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-26
 jira: KT-7541
 thumbnail: 3419959.jpeg
-exl-id: 71645f7e-3067-47c5-8fea-7d0576ebeb6e
+exl-id: dfb4466d-84f2-4727-80cd-1b92cf604151
 ---
 # Create AI models
 

@@ -9,8 +9,8 @@ last-substantial-update: 2023-09-28
 jira: KT-14009
 thumbnail: 3424536.jpeg
 hidefromtoc: No
+exl-id: 2076e22d-d633-4bd2-ad26-6d9f5e6150e2
 ---
-
 # Single-page application (SPA) support in the web editor
 
 Learn how to author single-page applications (SPA) in the Journey Optimizer web editor.

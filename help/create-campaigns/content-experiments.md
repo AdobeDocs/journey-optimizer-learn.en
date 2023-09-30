@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Feature Video
 jira: KT-11129
 thumbnail: 3419893.jpeg
-exl-id: 17251f5b-ed4e-4d5f-a68f-07059557ce75
+exl-id: 8b9a73c3-3c36-43ec-a870-a3b113689e22
 ---
 # Configure content experiments for email campaigns
 
