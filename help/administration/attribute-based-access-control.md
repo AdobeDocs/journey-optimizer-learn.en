@@ -7,6 +7,7 @@ level: Beginner
 jira: KT-10336
 thumbnail: 345641.jpeg
 last-substantial-update: 2023-09-29
+exl-id: bfb62634-5a20-4f4f-b878-c03f978bc4e4
 ---
 # Configure attribute-based access control
 
