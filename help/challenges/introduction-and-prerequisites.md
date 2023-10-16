@@ -9,8 +9,6 @@ exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 ---
 # Journey Optimizer challenges - Introduction and prerequisites
 
-![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
-
 Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. 
 
 Each challenge in this section addresses a unique use case that you implement. The target audience (persona), and the required skills are listed at the beginning of each challenge.

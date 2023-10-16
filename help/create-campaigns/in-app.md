@@ -1,7 +1,7 @@
 ---
 title: Create an in-app campaign
 description: Understand what an in-app message is. Learn how to create, configure, and publish in-app messages in Campaigns.
-feature: In App
+feature: In App, Campaigns
 role: User
 level: Beginner
 jira: KT-9499

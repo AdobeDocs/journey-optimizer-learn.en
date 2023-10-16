@@ -1,7 +1,7 @@
 ---
 title: Content templates
 description: Learn how to create, edit, and use content templates.
-feature: Email
+feature: Templates
 role: User
 level: Beginner
 jira: KT-10846

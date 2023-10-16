@@ -1,7 +1,7 @@
 ---
 title: Manage, author, and use fragments
 description: Learn how to manage, author, and use fragments in Adobe Journey Optimizer.
-feature: Email
+feature: Templates
 role: User
 level: Beginner
 doc-type: Feature Video

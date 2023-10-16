@@ -11,8 +11,6 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 
 # Journey Optimizer tutorials
 
-![](./assets/ajo-banner.png)
-
 Journey Optimizer helps companies deliver connected, contextual, and personalized experiences to their customers. The customer journey is the entire process of a customer's interactions with the brand, from the first moments of contact until the customer exits the site. 
 
 This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer.

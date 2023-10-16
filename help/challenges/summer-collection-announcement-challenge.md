@@ -10,8 +10,6 @@ exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 ---
 # Create a Summer Collection announcement - challenge
 
-![AJO Summer Collection Announcement Banner](/help/challenges/assets/email-assets/luma-transactional-onboarding-3.png)
-
 |Challenge|Create a Summer Collection announcement|
 |---|---|
 |Persona|Journey Manager|
