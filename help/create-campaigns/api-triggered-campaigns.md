@@ -3,7 +3,7 @@ title: Trigger campaigns using APIs
 description: Learn how to trigger transactional SMS and email messages from an external system.
 feature: Campaigns, API
 role: User, Developer
-level: Advanced
+level: Experienced
 doc-type: Feature Video
 last-substantial-update: 2023-10-31
 jira: KT-10658
