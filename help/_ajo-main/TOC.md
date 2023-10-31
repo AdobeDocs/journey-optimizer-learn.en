@@ -20,6 +20,7 @@ auto-video-transcripts: true
   + [Create a campaign](/help/create-campaigns/create-a-campaign.md)
   + [Create an in-app campaign](/help/create-campaigns/in-app.md)
   + [Create a web campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
+  + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
   + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
   + [Overview over the journey canvas](/help/create-journeys/overview-over-the-journey-canvas.md)
