@@ -32,8 +32,10 @@ auto-video-transcripts: true
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
-+ Direct mail channel{#direct-mail-channel}
-  + [Direct mail channel](/help/channels/direct-mail.md)
++ Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
+  + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+  + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+  + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Email channel{#email-channel}
   + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
   + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
@@ -42,6 +44,8 @@ auto-video-transcripts: true
   + [Manage, author, and use fragments](/help/content-management/manage-author-use-fragments.md)
   + [Create and use expression fragments](/help/content-management/expression-fragments.md)
   + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
++ Direct mail channel{#direct-mail-channel}
+  + [Direct mail channel](/help/channels/direct-mail.md)
 + In App channel{#in-app-channel}
   + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
   + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -52,14 +56,10 @@ auto-video-transcripts: true
 + SMS channel{#sms-channel}
   + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
   + [Inbound keyword support for SMS](/help/channels/inbound-keyword-support-for-sms.md)
-+ Web Channel {#web-channel}
++ Web channel {#web-channel}
   + [Create a web campaign](/help/channels/create-a-web-campaign.md)
   + [Author a web campaign](/help/channels/author-a-web-campaign.md)
   + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
-+ Profiles, audiences, and subscriptions {#profiles-segments-subscriptions}
-  + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-  + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-  + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalize content {#personalize-content}
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
