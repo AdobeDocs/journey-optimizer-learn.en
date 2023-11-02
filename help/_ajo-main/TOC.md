@@ -57,8 +57,8 @@ auto-video-transcripts: true
   + [Author a web campaign](/help/channels/author-a-web-campaign.md)
   + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Profiles, audiences, and subscriptions {#profiles-segments-subscriptions}
-  + [Unified profile and segmentation - overview](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
-  + [Create segments](/help/set-up-resources/create-segments.md)
+  + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+  + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalize content {#personalize-content}
