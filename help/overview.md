@@ -45,16 +45,16 @@ This user guide contains videos and tutorials on features and capabilities of Ad
  
 ## Experience League Live events
 
-* **[API Triggered Messaging in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en)**
+* **[API Triggered Messaging in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}**
   *Learn how to use REST APIs for contextual, personalized and real time transactional and marketing communications.*
  
- * **[Maximize your mobile app's potential with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)**
+* **[Maximize your mobile app's potential with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en){target="_blank"}**
   *Learn the benefits of in-app messaging as a real-time engagement channel and how to configure and author personalized mobile app experiences in Adobe Journey Optimizer.*
 
-* **[Explore the future of Adobe Journey Optimizer with the web channel and content experimentation](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=en)**
+* **[Explore the future of Adobe Journey Optimizer with the web channel and content experimentation](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=en){target="_blank"}**
   *The new web channel enables marketers to build web campaigns with a WYSIWYG visual designer. In addition, Journey Optimizer now allows you to experiment on content in any channel - email, web, push, in-app, SMS, and more.*
 
-* **[Execute your campaigns in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
+* **[Execute your campaigns in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}**
   *In this Experience League Live episode, originally held on September 22, 2022, see host Sandra Hausmann and product experts Bridgette Darling and Frederic Mary as they discuss the use cases this new feature covers and demonstrate how to easily set up and execute a Campaign in Journey Optimizer.*
 
 * **[Push notifications with Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
