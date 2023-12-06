@@ -11,6 +11,7 @@ jira: KT-14602
 thumbnail: 3425965.jpeg
 hidefromtoc: Yes
 hide: Yes
+badgeBeta: label="Beta" type="Informative" 
 ---
 
 # Create and execute an IP warmup plan
