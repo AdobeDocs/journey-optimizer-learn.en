@@ -19,3 +19,5 @@ exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
 Learn how to create and execute an IP warmup plan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
+
+Please see the product documentation [Get started with IP warmup plans](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html) for more information.
