@@ -11,9 +11,9 @@ jira: KT-14602
 thumbnail: 3425965.jpeg
 hidefromtoc: Yes
 hide: Yes
-badgeBeta: label="Beta" type="Informative" 
+badgeBeta: label="Beta" type="Informative"
+exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
 ---
-
 # Create and execute an IP warmup plan
 
 Learn how to create and execute an IP warmup plan.
