@@ -1,17 +1,17 @@
 ---
-title: SMS - Double opt-in for Sinch and Infobip
+title: Double opt-in for Sinch and Infobip
 description: Learn how to configure double opt-in for SMS.
 feature: SMS
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 0
+duration: 123
 last-substantial-update: 2024-02-01
 jira: KT-14850
 thumbnail: 3427129.jpeg
 ---
 
-# SMS - Double opt-in for Sinch and Infobip
+# Double opt-in for Sinch and Infobip
 
 Learn how to configure double opt-in for SMS.
 
