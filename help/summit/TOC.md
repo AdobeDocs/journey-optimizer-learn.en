@@ -1,10 +1,10 @@
 ---
-user-guide-title: Journey Optimizer - Summit Labs
-breadcrumb-title: Journey Optimizer - Summit Labs
-breadcrumb-url: /docs/journey-optimizer-learn/Summit Labs/overview.html
+user-guide-title: Adobe Summit - LAB WORKBOOKS
+breadcrumb-title: Adobe Summit - LAB WORKBOOKS
+breadcrumb-url: /docs/journey-optimizer-learn/adobe-summit-lab-workbooks/overview.html
 ---
 
-# Journey Optimizer - Summit Labs {#summit-labs}
+# Adobe Summit - L820 LAB WORKBOOK {#summit-labs}
 
 + [Introduction to the lab](/help/summit/l820-lab-workbook/lab-overview.md)
 + [Lesson 1 - Experience Frescopa](/help/summit/l820-lab-workbook/lesson-1-experience-frescopa.md)

@@ -33,7 +33,7 @@ In this lesson, you will review the profile and the related profile attributes t
     **Username:**   L820+**your seat number**@adobeeventlab.com
     **Password:**   Adobe2024! 
 
->[!TAB <xercise 2.2 - Review your profile]
+>[!TAB Exercise 2.2 - Review your profile]
 
 ## Exercise 2.2 - Review your profile
 
