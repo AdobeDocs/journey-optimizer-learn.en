@@ -10,9 +10,12 @@ last-substantial-update: 2024-02-17
 jira: KT-14977
 thumbnail: KT-14977.jpeg
 ---
-![Adobe Summit - alt text](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 # LAB WORKBOOK
+
+![Adobe Summit - alt text](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+
+
 ## L820 - Build Personalized Mobile Moments with Adobe Journey Optimizer 
 
 In this hands-on lab, you will explore a variety of mobile scenarios and learn how to implement personalized experiences for web and mobile with Journey Optimizer. 
