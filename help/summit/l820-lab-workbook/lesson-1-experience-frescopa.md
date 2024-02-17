@@ -28,13 +28,13 @@ In this lesson you will experience the interaction with the brand as a consumer,
 
 >[!TAB Exercise 1.1 – Create an account and download and install the Frescopa app ]
 
-## Exercise 1.1 – Create an account and download and install the Frescopa app 
+### Exercise 1.1 – Create an account and download and install the Frescopa app 
 
 
  
 >[!TAB Exercise 1.2 – Explore the website]
 
-## Exercise 1.2 – Explore the website
+### Exercise 1.2 – Explore the website
 
 Familiarize yourself with the Frescopa website:
 
