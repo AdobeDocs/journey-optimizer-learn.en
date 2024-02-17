@@ -15,7 +15,7 @@ thumbnail: KT-14980.jpeg
 
 In this lesson, you will review the profile and the related profile attributes that were created when you registered on the Frescopa website and completed the survey. You will then learn how to create a push campaign and send a message.
 
-## Key Takeaways
+## Learning Objectives
 
 * Understand profiles and profile attributes
 * Know how to create a push campaign
