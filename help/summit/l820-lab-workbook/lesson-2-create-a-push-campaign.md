@@ -38,11 +38,11 @@ In this lesson, you will review the profile and the related profile attributes t
 ## Exercise 2.2 - Review your profile
 
 1. In Adobe Journey Optimizer > left navigation: Navigate to the Profiles section.  
-2. From the **!UICONTROL identity namespace]** dropdown, select **[!UICONTROL Email]** 
+2. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** 
 3. Enter the email address you registered with in the **[!UICONTROL Identity value]** field. 
 4. Click [!UICONTROL View]
 5. Click the **[!UICONTROL Profile ID]** to access the profile data
-6. Review the information on each of the tabs: **[!UICONTROL Details] | [[!UICONTROL Attributes] | [!UICONTROL Events] | [!UICONTROL Segment Membership]**. 
+6. Review the information on each of the tabs: **[!UICONTROL Details] | [!UICONTROL Attributes] | [!UICONTROL Events] | [!UICONTROL Segment Membership]**. 
 
 All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
 
