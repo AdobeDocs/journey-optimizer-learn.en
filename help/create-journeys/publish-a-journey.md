@@ -1,17 +1,18 @@
 ---
-title: Publish a journey
+title: Publish a journey and journey statuses
 description: Understand the different states of a journey and the impact of publishing.
 jira: KT-7528
-thumbnail: 334238.jpg
+thumbnail: 3424998.jpeg
 feature: Journeys
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
+last-substantial-update: 2024-01-29
 exl-id: cf7fe165-b6eb-49f0-adb9-32d43efa43ca
 ---
-# Publish a journey
+# Publish a journey and journey statuses
 
 Understand the different states of a journey and the impact of publishing.
 
->[!VIDEO](https://video.tv.adobe.com/v/334238?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}

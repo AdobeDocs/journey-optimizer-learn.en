@@ -2,14 +2,12 @@
 title: Journey Optimizer challenges - Introduction and prerequisites
 description: Challenges provide a scenario and the requirements needed to practice what you learned. Each challenge addresses a unique use case that you implement.
 feature: Journeys
-role: Admin
+role: User
 level: Beginner
 last-substantial-update: 2023-02-01
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 ---
 # Journey Optimizer challenges - Introduction and prerequisites
-
-![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
 Challenges provide a scenario and the requirements needed to practice what you learned. Challenges help you evaluate your skill level and identify knowledge gaps. 
 

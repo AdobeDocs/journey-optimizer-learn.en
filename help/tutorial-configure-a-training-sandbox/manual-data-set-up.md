@@ -14,7 +14,7 @@ exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
  In this section, you create the required identity namespaces and define the [!DNL Luma] sample data structure by creating the [[!UICONTROL schemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html).
 
 >[!TIP]
->Watch the video tutorial [Map identities](/help/set-up-data/map-identities.md) before you begin.
+>Watch the video tutorial [Map identities](/help/data-management/map-identities.md) before you begin.
 
 ## Step 1: Create identity namespaces
 
@@ -63,7 +63,7 @@ In this step, you define the structure of the sample data by creating six [[!UIC
 
 >[!TIP]
 >
->Watch the video tutorial: [Create a schema](/help/set-up-data/create-schema.md) before you begin.
+>Watch the video tutorial: [Create a schema](/help/data-management/create-schema.md) before you begin.
 
 ### Create [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
 

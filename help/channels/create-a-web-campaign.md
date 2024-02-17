@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-21
 jira: KT-10283
 thumbnail: 3418800.jpeg
-exl-id: 5b625240-5f55-457c-8ea6-2a3f61af7047
+exl-id: ba093540-8a4a-43f2-9742-6144d0e8aa71
 ---
 # Create a web campaign
 

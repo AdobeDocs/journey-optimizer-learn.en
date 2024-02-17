@@ -11,8 +11,6 @@ exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 
 # Create an order confirmation email
 
-![Order confirmation](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
-
 |Challenge|Create an order confirmation transactional email|
 |---|---|
 |Persona|Journey Manager|
