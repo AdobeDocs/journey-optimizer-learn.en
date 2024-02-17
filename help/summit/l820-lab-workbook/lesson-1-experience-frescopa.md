@@ -22,11 +22,15 @@ In this lesson you will experience the interaction with the brand as a consumer,
 * Experience the different scenarios on the Frescopa website 
 * Experience the different scenarios on the Frescopa app
 
+>[!BEGINTABS]
+
+>[!TAB Exercise 1.1 – Create an account and download and install the Frescopa app ]
+
 ## Exercise 1.1 – Create an account and download and install the Frescopa app 
 
 
  
-
+>[!TAB Exercise 1.2 – Explore the website]
 
 ## Exercise 1.2 – Explore the website
 
@@ -40,3 +44,5 @@ Here are things you should do:
 2. 5 web In-app message triggered 
 3. Sign up for a coffee subscription 
 4. Purchased a product
+
+>[!ENDTABS]

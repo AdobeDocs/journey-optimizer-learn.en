@@ -21,9 +21,9 @@ In this lesson, you will review the profile and the related profile attributes t
 * Know how to create a push campaign
 * Understand how to design and personalize a push message
 
- >[!BEGINTABS]
+>[!BEGINTABS]
 
- >[!TAB <Excercise 2.1 - Login to Journey Optimizer>]
+>[!TAB Excercise 2.1 - Login to Journey Optimizer]
 
 ## Excercise 2.1 - Login to Journey Optimizer
 
@@ -33,7 +33,7 @@ In this lesson, you will review the profile and the related profile attributes t
     **Username:**   L820+**your seat number**@adobeeventlab.com
     **Password:**   Adobe2024! 
 
->[!TAB <Exercise 2.2 - Review your profile>]
+>[!TAB <xercise 2.2 - Review your profile]
 
 ## Exercise 2.2 - Review your profile
 
@@ -46,7 +46,7 @@ In this lesson, you will review the profile and the related profile attributes t
 
 All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
 
->[!TAB <Exercise 2.3 - Create a push campaign>]
+>[!TAB Exercise 2.3 - Create a push campaign]
 
 ## Exercise 2.3 - Create a push campaign
 
