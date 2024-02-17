@@ -21,6 +21,8 @@ In this lesson, you will review the profile and the related profile attributes t
 * Know how to create a push campaign
 * Understand how to design and personalize a push message
 
+## Exercises
+
 >[!BEGINTABS]
 
 >[!TAB Excercise 2.1 - Login to Journey Optimizer]

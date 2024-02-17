@@ -22,6 +22,8 @@ In this lesson you will experience the interaction with the brand as a consumer,
 * Experience the different scenarios on the Frescopa website 
 * Experience the different scenarios on the Frescopa app
 
+## Exercises
+
 >[!BEGINTABS]
 
 >[!TAB Exercise 1.1 – Create an account and download and install the Frescopa app ]
