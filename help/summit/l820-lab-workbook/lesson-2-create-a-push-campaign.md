@@ -27,7 +27,7 @@ In this lesson, you will review the profile and the related profile attributes t
 
 >[!TAB Excercise 2.1 - Login to Journey Optimizer]
 
-## Excercise 2.1 - Login to Journey Optimizer
+### Excercise 2.1 - Login to Journey Optimizer
 
 1. Open [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} 
 2. Login using the following details:
@@ -37,7 +37,7 @@ In this lesson, you will review the profile and the related profile attributes t
 
 >[!TAB Exercise 2.2 - Review your profile]
 
-## Exercise 2.2 - Review your profile
+### Exercise 2.2 - Review your profile
 
 1. In Adobe Journey Optimizer > left navigation: Navigate to the Profiles section.  
 2. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** 
@@ -50,7 +50,7 @@ All the data  was collected through the mobile website and the mobile app and ha
 
 >[!TAB Exercise 2.3 - Create a push campaign]
 
-## Exercise 2.3 - Create a push campaign
+### Exercise 2.3 - Create a push campaign
 
 1. In Journey Optimizer, use the left navigation and click Campaigns. 
 
