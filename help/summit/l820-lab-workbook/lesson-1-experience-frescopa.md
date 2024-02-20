@@ -33,8 +33,15 @@ In this lesson you will experience the interaction with the brand as a consumer,
 1. Navigate to the Frescopa website: 
 https://dsn.adobe.com/web/adobe-summit-2024/home
 
-2. Click on [!UICONTROL Sign In]
+2. On the Frescopa homepage click on [!UICONTROL Sign In]
+   
+   ![Frescopa homepage](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Frescopa homepage")
+
+   
 3. On the sign in page, select [!UICONTROL Create an account]
+    ![Frescopa sign-in page](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Frescopa sign in")
+
+4. 
 
 
  
