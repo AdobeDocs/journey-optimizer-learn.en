@@ -1,7 +1,7 @@
 ---
 title: Lesson 3 - Create a mobile in-app campaign
 description: Create and trigger a mobile in-app campaign.
-feature: In-App
+feature: In App
 role: User
 level: Intermediate
 doc-type: Article

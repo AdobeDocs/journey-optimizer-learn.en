@@ -1,7 +1,7 @@
 ---
 title: Lesson 4 - Create a web in-app campaign
 description: Create and trigger a web in-app campaign.
-feature: In-app
+feature: In App
 role: User
 level: Intermediate
 doc-type: Article
