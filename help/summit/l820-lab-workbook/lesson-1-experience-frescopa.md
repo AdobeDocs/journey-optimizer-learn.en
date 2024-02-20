@@ -26,9 +26,9 @@ In this lesson you will experience the interaction with the brand as a consumer,
 
 >[!BEGINTABS]
 
->[!TAB Exercise 1.1 – Create an account and download and install the Frescopa app ]
+>[!TAB Exercise 1.1 – Create an account]
 
-### Exercise 1.1 – Create an account and download and install the Frescopa app 
+### Exercise 1.1 – Create an account 
 
 1. Navigate to the Frescopa website: 
 https://dsn.adobe.com/web/adobe-summit-2024/home
@@ -41,9 +41,13 @@ https://dsn.adobe.com/web/adobe-summit-2024/home
 3. On the sign in page, select [!UICONTROL Create an account]
     ![Frescopa sign-in page](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Frescopa sign in")
 
+>[!TAB Exercise 1.2 – Download and install the Frescopa app]
+
+### Exercise 1.2 - Download and install the Frescopa app
+
 
  
->[!TAB Exercise 1.2 – Explore the website]
+>[!TAB Exercise 1.3 – Explore the website]
 
 ### Exercise 1.2 – Explore the website
 
