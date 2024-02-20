@@ -52,8 +52,7 @@ All the data  was collected through the mobile website and the mobile app and ha
 
 ### Exercise 2.3 - Create a push campaign
 
-1. In Journey Optimizer, in the left navigation, select Campaigns. 
-2. 
+1. In Journey Optimizer, in the left navigation, select Campaigns.
  
 
 >[!ENDTABS]
