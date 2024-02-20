@@ -41,8 +41,6 @@ https://dsn.adobe.com/web/adobe-summit-2024/home
 3. On the sign in page, select [!UICONTROL Create an account]
     ![Frescopa sign-in page](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Frescopa sign in")
 
-4. 
-
 
  
 >[!TAB Exercise 1.2 – Explore the website]
