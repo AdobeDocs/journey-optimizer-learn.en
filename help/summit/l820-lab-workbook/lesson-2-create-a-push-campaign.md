@@ -35,16 +35,35 @@ In this lesson, you will review the profile and the related profile attributes t
     **Username:**   L820+**your seat number**@adobeeventlab.com
     **Password:**   Adobe2024! 
 
+    ![Login screen](/help/summit/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
+
+3. you can skip the next two screens:
+
+    ![Phone number](/help/summit/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
+
+     ![Personalization pop up](/help/summit/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
+
+
+### Success criteria
+
+You should be logged in to Journey Optimizer and on the homepage:
+
+![AJO Homepage](/help/summit/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
+
 >[!TAB Exercise 2.2 - Review your profile]
 
 ### Exercise 2.2 - Review your profile
 
-1. In Adobe Journey Optimizer > left navigation: Navigate to the Profiles section.  
-2. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** 
-3. Enter the email address you registered with in the **[!UICONTROL Identity value]** field. 
-4. Click [!UICONTROL View]
-5. Click the **[!UICONTROL Profile ID]** to access the profile data
-6. Review the information on each of the tabs: **[!UICONTROL Details] | [!UICONTROL Attributes] | [!UICONTROL Events] | [!UICONTROL Segment Membership]**. 
+1. In Adobe Journey Optimizer left navigation, navigate to **[!UICONTROL CUSTOMER]** -> **[!UICONTROL Profiles]**.
+2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTORL Browse] tab
+3. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** 
+
+![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
+
+1. Enter the email address you registered with in the **[!UICONTROL Identity value]** field. 
+2. Click [!UICONTROL View]
+3. Click the **[!UICONTROL Profile ID]** to access the profile data
+4. Review the information on each of the tabs: **[!UICONTROL Details] | [!UICONTROL Attributes] | [!UICONTROL Events] | [!UICONTROL Segment Membership]**. 
 
 All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
 
