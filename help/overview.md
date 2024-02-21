@@ -14,25 +14,6 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 Journey Optimizer helps companies deliver connected, contextual, and personalized experiences to their customers. The customer journey is the entire process of a customer's interactions with the brand, from the first moments of contact until the customer exits the site. 
 
 This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer.
-
-<div id="whats-new-section">
-
-## What's new
-
-* **[Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)**
-  *Learn how to create and save condition rules and how to apply these condition rules to content across all channels.*
-
-* **[Use alerts](/help/administration/alerts.md)**
-  *Learn how to subscribe to pre-defined alerts for unexpected journey behaviors and get notified via Email, within Journey Optimizer or using an API.* 
-  
-* **[Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)**
-  *Learn how to copy a journey and its dependent objects from one sandbox to another.*
-  
-* **[Mask data in messages](/help/privacy/mask-data-in-messages.md)**
-  *Understand what data masking is and why mask data. Learn how to mask data in Journey Optimizer messages.*
-
-</div>
-
  
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
