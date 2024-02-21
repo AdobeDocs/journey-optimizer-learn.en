@@ -55,7 +55,7 @@ You should be logged in to Journey Optimizer and on the homepage:
 ### Exercise 2.2 - Review your profile
 
 1. In Adobe Journey Optimizer left navigation, navigate to **[!UICONTROL CUSTOMER]** -> **[!UICONTROL Profiles]**.
-2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTORL Browse] tab
+2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.
 3. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** 
 
 ![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
