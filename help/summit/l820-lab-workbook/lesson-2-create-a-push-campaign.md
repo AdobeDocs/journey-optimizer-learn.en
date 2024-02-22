@@ -44,11 +44,11 @@ In this lesson, you will review the profile and the related profile attributes t
      ![Personalization pop up](/help/summit/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
 
-### Success criteria
-
-You should be logged in to Journey Optimizer and on the homepage:
-
-![AJO Homepage](/help/summit/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
+>[!SUCCESS]
+>
+>You should be logged in to Journey Optimizer and on the homepage:
+>
+>![AJO Homepage](/help/summit/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
 
 >[!TAB Exercise 2.2 - Review your profile]
 
@@ -67,17 +67,20 @@ The profile you registered with on Frescops should be listed  below.
 1. Click the **[!UICONTROL Profile ID]** link to access the profile data
 ![Profile ID](/help/summit/l820-lab-workbook/assets/2-2-2-profiles.png)
 
-1. On the profile details page:
-   1. Review the information on each of the tabs: 
-   
-   |---|---|
-   |Tab|What you should see|
-      1. **[!UICONTROL Details]**: 
-      2. **[!UICONTROL Attributes]**:
-      3. **[!UICONTROL Events]**:  
-      4. **[!UICONTROL Segment Membership]** 
-
+1. On the profile details page: Review the information: 
 All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
+1.  On the **[!UICONTROL Segment Membership]** tab:
+    1. Check the audience membership 
+    2. Make sure the profile is part of an audience named:
+    
+        **Lab-Seat *your seat number*** (e.g. Lab-Seat)
+        
+        ![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
+
+>[!Note]
+>You require the lab-seat audience in the next exercises. It will guarantee that you are only sending the push messages and in-app notifications to your own device. 
+>
+>If you see that you are member of an audience with a seat number different to yours, you might receive messages from the lab attendee at that seat. 
 
 >[!TAB Exercise 2.3 - Create a push campaign]
 
