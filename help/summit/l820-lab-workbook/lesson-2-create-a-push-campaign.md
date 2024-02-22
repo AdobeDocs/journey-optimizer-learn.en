@@ -57,13 +57,25 @@ You should be logged in to Journey Optimizer and on the homepage:
 1. In Adobe Journey Optimizer left navigation, navigate to **[!UICONTROL CUSTOMER]** -> **[!UICONTROL Profiles]**.
 2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.
 3. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** 
-
 ![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
 
 1. Enter the email address you registered with in the **[!UICONTROL Identity value]** field. 
-2. Click [!UICONTROL View]
-3. Click the **[!UICONTROL Profile ID]** to access the profile data
-4. Review the information on each of the tabs: **[!UICONTROL Details] | [!UICONTROL Attributes] | [!UICONTROL Events] | [!UICONTROL Segment Membership]**. 
+2. Click the **[!UICONTROL View]** button.
+   
+The profile you registered with on Frescops should be listed  below.
+
+1. Click the **[!UICONTROL Profile ID]** link to access the profile data
+![Profile ID](/help/summit/l820-lab-workbook/assets/2-2-2-profiles.png)
+
+1. On the profile details page:
+   1. Review the information on each of the tabs: 
+   
+   |---|---|
+   |Tab|What you should see|
+      1. **[!UICONTROL Details]**: 
+      2. **[!UICONTROL Attributes]**:
+      3. **[!UICONTROL Events]**:  
+      4. **[!UICONTROL Segment Membership]** 
 
 All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
 
