@@ -60,10 +60,10 @@ You should be logged in to Journey Optimizer and on the homepage:
 
 ![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
 
-1. Enter the email address you registered with in the **[!UICONTROL Identity value]** field. 
-2. Click [!UICONTROL View]
-3. Click the **[!UICONTROL Profile ID]** to access the profile data
-4. Review the information on each of the tabs: **[!UICONTROL Details] | [!UICONTROL Attributes] | [!UICONTROL Events] | [!UICONTROL Segment Membership]**. 
+4. Enter the email address you registered with in the **[!UICONTROL Identity value]** field. 
+5. Click [!UICONTROL View]
+6. Click the **[!UICONTROL Profile ID]** to access the profile data
+7. Review the information on each of the tabs: **[!UICONTROL Details] | [!UICONTROL Attributes] | [!UICONTROL Events] | [!UICONTROL Segment Membership]**. 
 
 All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
 
