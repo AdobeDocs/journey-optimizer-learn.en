@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-02-17
+recommendations: noDisplay, noCatalog
 jira: KT-14980
 thumbnail: KT-14980.jpeg
 ---
@@ -111,8 +111,42 @@ In this section you will configure the properties, audience, actions, and schedu
 
 In this section you will design and customize the push notification. 
 
-1. Depending on the mobile device you have, select either the iOS 
+1. Depending on the mobile device you have, select either the [!DNL iOS] or [!DNL Android] tab to configure your content. 
 
+Feel free to add any text you would like, we will give you examples that you can use:
+
+1. Add the title to the title field: 
+`10% today!`
+2. Add the body text: 
+   `Today only! Get 10% off on your House Blend coffee purchase!` 
+3. Personalize your body text - add the recipeint's first name:
+   1. Click on the **personalization dialogue icon** next to the **[!UICONTROL Body]** field
+   2. On the ** personalization dialogue** screen, place the cursor where you want to add the name in the text.
+   3. Make sure the **Profile attributes** are selected in the left navigation.
+   4. In the **Search field**, search for:
+   `first name`
+   5.  In the central navigation click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text.
+
+    >[!SUCCESS]
+    >
+    >This is what your text should look like
+    >
+
+    6. Click the **[!UICONTROL Save]** button to save the personalization
+4. **[!UICONTROL On click behavior]:** 
+   1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
+   2. Copy and paste the following URL into the **URL field**: TBD
+5. **[!UICONTROL Add media]:** Click on the **[!UICONTROL Add media] button**
+   1. On the **[!UICONTROL Select Assets] screen, scroll down to the Frescopa>Products folder and select an image.
+   2. Click on the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
+
+    >[!SUCCESS]
+    >
+    > 1. On the preview screen, click on **[!UICONTROL Expand View]**
+    > 2. Preview your message.
+    >
+
+2.3.4. - Edit the content of the push notification
 
 
 
