@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 doc-type: Article
 duration: 0
-last-substantial-update: 2024-02-20
+recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 ---
