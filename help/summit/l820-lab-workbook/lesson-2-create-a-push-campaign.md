@@ -148,7 +148,7 @@ Feel free to add any text you would like, we will give you examples that you can
     >This is what your text should look like
     >
 
-    6. Click the **[!UICONTROL Save]** button to save the personalization
+   6. Click the **[!UICONTROL Save]** button to save the personalization
 4. **[!UICONTROL On click behavior]:** 
    1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
    2. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
