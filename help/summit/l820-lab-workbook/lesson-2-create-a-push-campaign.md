@@ -72,7 +72,8 @@ All the data  was collected through the mobile website and the mobile app and ha
         
         ![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
 
->[!Note]
+>[!NOTE]
+>
 >You require the lab-seat audience in the next exercises. It will guarantee that you are only sending the push messages and in-app notifications to your own device. 
 >
 >If you see that you are member of an audience with a seat number different to yours, you might receive messages from the lab attendee at that seat. 
