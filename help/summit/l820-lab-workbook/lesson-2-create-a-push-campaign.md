@@ -58,17 +58,12 @@ In this lesson, you will review the profile and the related profile attributes t
 2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.
 3. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** 
 ![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
-
-1. Enter the email address you registered with in the **[!UICONTROL Identity value]** field. 
-2. Click the **[!UICONTROL View]** button.
-   
-The profile you registered with on Frescops should be listed  below.
-
-1. Click the **[!UICONTROL Profile ID]** link to access the profile data
+4. Click the **[!UICONTROL Profile ID]** link to access the profile data
 ![Profile ID](/help/summit/l820-lab-workbook/assets/2-2-2-profiles.png)
+5. On the profile details page: Review the information: 
 
-1. On the profile details page: Review the information: 
 All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
+
 1.  On the **[!UICONTROL Segment Membership]** tab:
     1. Check the audience membership 
     2. Make sure the profile is part of an audience named:
@@ -86,7 +81,41 @@ All the data  was collected through the mobile website and the mobile app and ha
 
 ### Exercise 2.3 - Create a push campaign
 
+In this exercise, you will create a push campaign, design and customize the push notification, and send the push notification to you own device. 
+
+## 2.3.1 - Create the campaign
+
 1. In Journey Optimizer, in the left navigation, select Campaigns.
+2. Click on the **[!UICONTROL Create Campaign]** button
+3. On the **[!UICONTROL Create Campaign]** page, in the  **[!UICONTROL Action]** section, select the **[!UICONTROL Push notification] check box
+4. From the **[!UICONTROL App surface]** dropdown select *[!DNL Frecopa-Push]*
+5. Click the **[!UICONTROL Create]** button
+
+### 2.3.2 - Configure your campaign
+
+In this section you will configure the properties, audience, actions, and schedule of your campaign:
+
+1. **[!UICONTROL Properties section]**
+
+   1. Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign again. For example if your seat number is 99: `99 - 10% Discount Campaign`. 
+   2. If you like,you can add a description but it is not required for this exercise.
+2. **[!UICONTROL Audience section]**
+   1. In the audience section, click on the **[!UICONTROL Select audience]** button.
+   2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `your seat number`**. It should be the Lab audience that the profile you created on [!DNL Frescopa] is assigned to.
+   3. Select the audience and click [!UICONTROL Save]
+
+2.3.3. - Edit the content of the push notification
+
+1. In the **[!UICONTROL Action] section, click the [!UICONTROL Edit Content] button.
+
+In this section you will design and customize the push notification. 
+
+1. Depending on the mobile device you have, select either the iOS 
+
+
+
+
+   
  
 
 >[!ENDTABS]
