@@ -45,13 +45,40 @@ https://dsn.adobe.com/web/adobe-summit-2024/home
 
 ### Exercise 1.2 - Download and install the Frescopa app
 
+Install the mobile app on your iOS or Android device by scanning the QR code below:
 
- 
->[!TAB Exercise 1.3 – Explore the website]
+![Frescopa mobile app QR codes](/help/summit/l820-lab-workbook/assets/1-2-1-qr-codes.png "Frescopa mobile app QR codes")
 
-### Exercise 1.2 – Explore the website
+iOS:
 
-Familiarize yourself with the Frescopa website:
+After installing the app, you will need to trust the Adobe enterprise developer:
+
+1. Go to settings -> general -> VPN & Device Management 
+
+    ![Device management settings screen](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.png "Device management settings screen")
+
+2. Select "Adobe Systems Inc" and "Trust Adobe Systems Inc."
+
+    ![Adobe Systems selection screen](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.png "Adobe Systems selection screen")
+
+    ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.png "Trust Adobe Systems screen")
+
+You should now be able to launch the "DX Demo" app on your iPhone
+
+Android:
+
+On Android, simply download and install the APK by following the alert instructions shown here:
+
+    ![Android download screen](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.png "Android download screen")
+
+    ![Android installation screen](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.png "Android installation screen")
+
+
+>[!TAB Exercise 1.3 – Explore the website and app]
+
+### Exercise 1.3 – Explore the website and app
+
+Familiarize yourself with the Frescopa website and mobile app:
 
 Navigate to https://dsn.adobe.com/web/adobe-summit-2024/home
 
