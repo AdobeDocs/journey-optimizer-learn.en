@@ -58,17 +58,12 @@ In this lesson, you will review the profile and the related profile attributes t
 2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.
 3. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** 
 ![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
-
-1. Enter the email address you registered with in the **[!UICONTROL Identity value]** field. 
-2. Click the **[!UICONTROL View]** button.
-   
-The profile you registered with on Frescops should be listed  below.
-
-1. Click the **[!UICONTROL Profile ID]** link to access the profile data
+4. Click the **[!UICONTROL Profile ID]** link to access the profile data
 ![Profile ID](/help/summit/l820-lab-workbook/assets/2-2-2-profiles.png)
+5. On the profile details page: Review the information: 
 
-1. On the profile details page: Review the information: 
 All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
+
 1.  On the **[!UICONTROL Segment Membership]** tab:
     1. Check the audience membership 
     2. Make sure the profile is part of an audience named:
