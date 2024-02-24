@@ -69,9 +69,9 @@ Android:
 
 On Android, simply download and install the APK by following the alert instructions shown here:
 
-    ![Android download screen](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.PNG "Android download screen")
+![Android download screen](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android download screen")
 
-    ![Android installation screen](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.PNG "Android installation screen")
+![Android installation screen](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg "Android installation screen")
 
 
 >[!TAB Exercise 1.3 – Explore the website and app]
