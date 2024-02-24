@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
+last-substantial-update: 2024-02-17
 jira: KT-14977
 thumbnail: KT-14977.jpeg
 ---
@@ -23,16 +23,13 @@ In this hands-on lab, you will explore a variety of mobile scenarios and learn h
 ### Key Takeaways
 
 * Understand the variety of supported mobile experiences.
-* Configure a push campaign
 * Learn how to configure mobile in-app campaigns. 
 * Set up web in-app messages.
+* Configure push campaigns.
 * Test your own personalized scenarios.
 
 ### Prerequisites
 
-* Know your seat number: You can find your seat number on the lab machine's desk top:
-
-![Seat number](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 You require access to:
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - login details will be provided during the exercises.
