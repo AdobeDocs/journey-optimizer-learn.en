@@ -140,15 +140,15 @@ Feel free to add any text you would like, we will give you examples that you can
    2. On the ** personalization dialogue** screen, place the cursor where you want to add the name in the text.
    3. Make sure the **Profile attributes** are selected in the left navigation.
    4. In the **Search field**, search for:
-   `first name`
-   5.  In the central navigation click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text.
+      `first name`
+   5. In the central navigation click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text. 
+   6. Click the **[!UICONTROL Save]** button to save the personalization
 
     >[!SUCCESS]
     >
     >This is what your text should look like
     >
 
-   6. Click the **[!UICONTROL Save]** button to save the personalization
 4. **[!UICONTROL On click behavior]:** 
    1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
    2. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
@@ -162,7 +162,7 @@ Feel free to add any text you would like, we will give you examples that you can
     > 2. Preview your message.
     >
 
-2.3.4. - Review and activate
+#### 2.3.4. - Review and activate
 
 If you are happy with the content of your message, you can activate the message:
 
