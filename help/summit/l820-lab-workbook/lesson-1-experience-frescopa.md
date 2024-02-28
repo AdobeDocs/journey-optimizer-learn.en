@@ -62,7 +62,7 @@ Install the mobile app on your iOS or Android device by scanning the QR code bel
 
 ![Frescopa mobile app QR codes](/help/summit/l820-lab-workbook/assets/1-2-1-qr-codes.png "Frescopa mobile app QR codes")
 
-iOS:
+#### iOS:
 
 After installing the app, you will need to trust the Adobe enterprise developer:
 
@@ -78,7 +78,7 @@ After installing the app, you will need to trust the Adobe enterprise developer:
 
 You should now be able to launch the "DX Demo" app on your iPhone
 
-Android:
+#### Android:
 
 On Android, simply download and install the APK by following the alert instructions shown here:
 
@@ -100,6 +100,6 @@ Here are things you should do:
 1. Complete the coffee survey
 2. 5 web In-app message triggered 
 3. Sign up for a coffee subscription 
-4. Purchased a product
+4. Purchase a product
 
 >[!ENDTABS]
