@@ -44,7 +44,7 @@ https://dsn.adobe.com/web/adobe-summit-2024/home
 4. Fill in your details:
     <br>
    
-    > ![IMPORTANT]
+    >[!IMPORTANT]
     > * Add your **seat number**, you can find it on your lab machine's desktop. 
     > * If you your seat number is between 01 and 09, **enter the number without the leading 0**: 01 -> 1 
     > * Make sure to remember the email address you registered with. You will need this to sign into the website and the app.
