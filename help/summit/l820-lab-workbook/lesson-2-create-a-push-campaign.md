@@ -169,7 +169,7 @@ In this excercise you will design and customize the push notification.
 1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
 2. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
 
-#####**[!UICONTROL Add media] - Section:** 
+##### **[!UICONTROL Add media] - Section:** 
 
 1. Click on the **[!UICONTROL Add media] button**
 2. On the **[!UICONTROL Select Assets] screen, scroll down to the Frescopa>Products folder and select an image.
@@ -177,8 +177,8 @@ In this excercise you will design and customize the push notification.
 
 >[!SUCCESS]
 >
-> 1. On the preview screen, click on **[!UICONTROL Expand View]**
-> > 2. Preview your message.
+> 1. On the preview screen, click on **[!UICONTROL Expand View]**.
+> 2. Preview your message.
 >
 
 #### 2.3.4. - Review and activate
