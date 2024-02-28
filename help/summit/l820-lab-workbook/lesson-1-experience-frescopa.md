@@ -41,6 +41,19 @@ https://dsn.adobe.com/web/adobe-summit-2024/home
 3. On the sign in page, select [!UICONTROL Create an account]
     ![Frescopa sign-in page](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Frescopa sign in")
 
+4. Fill in your details:
+    <br>
+   
+    > ![IMPORTANT]
+    > * Add your **seat number**, you can find it on your lab machine's desktop. 
+    > * If you your seat number is between 01 and 09, **enter the number without the leading 0**: 01 -> 1 
+    > * Make sure to remember the email address you registered with. You will need this to sign into the website and the app.
+
+    <br> 
+
+    ![Frescopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page%20%20.png)
+
+
 >[!TAB Exercise 1.2 – Download and install the Frescopa app]
 
 ### Exercise 1.2 - Download and install the Frescopa app
