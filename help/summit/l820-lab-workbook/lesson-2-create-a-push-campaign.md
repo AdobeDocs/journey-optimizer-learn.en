@@ -34,13 +34,13 @@ In this lesson, you will review the profile and the related profile attributes t
     
     **Username:**   L820+**your seat number**@adobeeventlab.com
     **Password:**   Adobe2024! 
-
+ <br>
     ![Login screen](/help/summit/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
-
-3. You can skip the next two screens:
-
+ <br>
+1. You can skip the next two screens:
+ <br>
     ![Phone number](/help/summit/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
-
+ <br>
      ![Personalization pop up](/help/summit/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
 
@@ -54,9 +54,9 @@ In this lesson, you will review the profile and the related profile attributes t
 
 ### Exercise 2.2 - Review your profile
 
-1. In Adobe Journey Optimizer left navigation, navigate to **[!UICONTROL CUSTOMER]** -> **[!UICONTROL Profiles]**.
-2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.
-3. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** 
+1. In Adobe Journey Optimizer left navigation, navigate to **[!UICONTROL CUSTOMER]** -> **[!UICONTROL Profiles]**.<br>
+2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.<br>
+3. From the **[!UICONTROL Identity Namespace]** dropdown, select **[!UICONTROL Email]** <br>
 ![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
 4. Click the **[!UICONTROL Profile ID]** link to access the profile data
 ![Profile ID](/help/summit/l820-lab-workbook/assets/2-2-2-profiles.png)
