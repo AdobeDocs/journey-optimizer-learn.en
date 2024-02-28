@@ -137,7 +137,7 @@ In this excercise you will design and customize the push notification.
 
 |[!DNL iOS]|[!DNL Android]|
 |---|---|
-|![iOS tab](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)|![Android tab](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)
+|![iOS tab](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)|![Android tab](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)|
 
 1. **Compose Message**
 
@@ -156,11 +156,11 @@ In this excercise you will design and customize the push notification.
       ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
       5. In the central navigation click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text. 
 
-      >[!SUCCESS]
-      >
-      > This is what your text should look like:
-      > ![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
-      >
+         >[!SUCCESS]
+         >
+         > This is what your text should look like:
+         > ![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
+         >
       6. Click the **[!UICONTROL Save]** button to save the personalization
       <br>
 
