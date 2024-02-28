@@ -62,25 +62,23 @@ In this lesson, you will review the profile and the related profile attributes t
 ![Profile ID](/help/summit/l820-lab-workbook/assets/2-2-2-profiles.png)
 5. On the profile details page: Review the information: 
 
-All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
-
-On the **[!UICONTROL Segment Membership]** tab:
-
-1. Check the audience membership 
-<br>
+   1. On the **[!UICONTROL Details]** tab:
+   All the data  was collected through the mobile website and the mobile app and has been added to the profile.
+   2. On the **[!UICONTROL Segment Membership]** tab: Check the audience membership.
+   <br>
 
 >[!SUCCESS] 
 > Make sure the profile is part of an audience named:
-> <br>  
+> 
 > **Lab-Seat *your seat number*** (e.g. Lab-Seat)
 > <br>
 >       
-> ![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
-
->[!NOTE]
+>![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
 >
 >You require the lab-seat audience in the next exercises. It will guarantee that you are only sending the push messages and in-app notifications to your own device. 
 >
+
+>[!NOTE]
 >If you see that you are member of an audience with a seat number different to yours, you might receive messages from the lab attendee at that seat. 
 
 >[!TAB Exercise 2.3 - Create a push campaign]
@@ -128,36 +126,48 @@ In this section you will configure the properties, audience, actions, and schedu
 
 #### 2.3.3. - Edit the content of the push notification
 
+In this excercise you will design and customize the push notification. 
+
 1. In the **[!UICONTROL Action] section, click the [!UICONTROL Edit Content] button.
 
-In this section you will design and customize the push notification. 
+   ![Edit content button](/help/summit/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
+   <br>
 
-1. Depending on the mobile device you have, select either the [!DNL iOS] or [!DNL Android] tab to configure your content. 
+1. On the next screen, depending on the mobile device you have, select either the [!DNL iOS] or [!DNL Android] tab to configure your content. 
 
-Feel free to add any text you would like, we will give you examples that you can use:
+|[!DNL iOS]|[!DNL Android]|
+|---|---|
+|![iOS tab](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)|![Android tab](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)
 
-1. Add the title to the title field: 
-`10% today!`
-2. Add the body text: 
-   `Today only! Get 10% off on your House Blend coffee purchase!` 
-3. Personalize your body text - add the recipeint's first name:
-   1. Click on the **personalization dialogue icon** next to the **[!UICONTROL Body]** field
-   2. On the ** personalization dialogue** screen, place the cursor where you want to add the name in the text.
-   3. Make sure the **Profile attributes** are selected in the left navigation.
-   4. In the **Search field**, search for:
+1. **Compose Message**
+
+   1. **Compose your message** - feel free to add any text you would like, we will give you examples that you can use:
+   <br>
+      * Title: `10% today!`
+      * Body text: `Today only! Get 10% off on your House Blend coffee purchase!` 
+   <br>
+
+   2. **Personalize your body text** - add the recipeint's first name:
+      1. Click on the **personalization dialogue icon** next to the **[!UICONTROL Body]** field
+      2. On the ** personalization dialogue** screen, place the cursor where you want to add the name in the text.
+      3. Make sure the **Profile attributes** are selected in the left navigation.
+      4. In the **Search field**, search for:
       `first name`
-   5. In the central navigation click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text. 
-   6. Click the **[!UICONTROL Save]** button to save the personalization
+      ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+      5. In the central navigation click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text. 
 
-    >[!SUCCESS]
-    >
-    >This is what your text should look like
-    >
+      >[!SUCCESS]
+      >
+      > This is what your text should look like:
+      > ![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
+      >
+      6. Click the **[!UICONTROL Save]** button to save the personalization
+      <br>
 
-4. **[!UICONTROL On click behavior]:** 
+2. **[!UICONTROL On click behavior]:** 
    1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
    2. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
-5. **[!UICONTROL Add media]:** Click on the **[!UICONTROL Add media] button**
+3. **[!UICONTROL Add media]:** Click on the **[!UICONTROL Add media] button**
    1. On the **[!UICONTROL Select Assets] screen, scroll down to the Frescopa>Products folder and select an image.
    2. Click on the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
 
