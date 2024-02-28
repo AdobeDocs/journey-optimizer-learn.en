@@ -34,13 +34,13 @@ In this lesson, you will review the profile and the related profile attributes t
     
     **Username:**   L820+**your seat number**@adobeeventlab.com
     **Password:**   Adobe2024! 
- <br>
+   <br>
     ![Login screen](/help/summit/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
- <br>
-1. You can skip the next two screens:
- <br>
+   <br>
+3. You can skip the next two screens:
+   <br>
     ![Phone number](/help/summit/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
- <br>
+   <br>
      ![Personalization pop up](/help/summit/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
 
