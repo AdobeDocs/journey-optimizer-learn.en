@@ -51,7 +51,7 @@ https://dsn.adobe.com/web/adobe-summit-2024/home
 
     <br> 
 
-    ![Frescopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page%20%20.png)
+    ![Frescopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png)
 
 
 >[!TAB Exercise 1.2 – Download and install the Frescopa app]
