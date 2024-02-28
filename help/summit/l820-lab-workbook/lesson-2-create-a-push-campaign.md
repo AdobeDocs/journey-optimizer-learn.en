@@ -139,43 +139,47 @@ In this excercise you will design and customize the push notification.
 |---|---|
 |![iOS tab](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)|![Android tab](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)|
 
-1. **Compose Message**
+##### **[!UICONTROL Compose Message] - Section:**
 
-   1. **Compose your message** - feel free to add any text you would like, we will give you examples that you can use:
+1. **Compose your message** - feel free to add any text you would like, we will give you examples that you can use:
    <br>
       * Title: `10% today!`
       * Body text: `Today only! Get 10% off on your House Blend coffee purchase!` 
    <br>
 
-   2. **Personalize your body text** - add the recipeint's first name:
-      1. Click on the **personalization dialogue icon** next to the **[!UICONTROL Body]** field
-      2. On the ** personalization dialogue** screen, place the cursor where you want to add the name in the text.
-      3. Make sure the **Profile attributes** are selected in the left navigation.
-      4. In the **Search field**, search for:
-      `first name`
-      ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
-      5. In the central navigation click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text. 
+2. **Personalize your body text** - add the recipeint's first name:
+   1. Click on the **personalization dialogue icon** next to the **[!UICONTROL Body]** field
+   2. On the ** personalization dialogue** screen, place the cursor where you want to add the name in the text.
+   3. Make sure the **Profile attributes** are selected in the left navigation.
+   4. In the **Search field**, search for: `first name`
+   <br>
+   ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   5. In the central navigation click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text. 
+    <br>
 
-         >[!SUCCESS]
-         >
-         > This is what your text should look like:
-         > ![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
-         >
-      6. Click the **[!UICONTROL Save]** button to save the personalization
-      <br>
+      >[!SUCCESS]
+      >
+      > This is what your text should look like:
+      > ![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
 
-2. **[!UICONTROL On click behavior]:** 
-   1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
-   2. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
-3. **[!UICONTROL Add media]:** Click on the **[!UICONTROL Add media] button**
-   1. On the **[!UICONTROL Select Assets] screen, scroll down to the Frescopa>Products folder and select an image.
-   2. Click on the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
+    6. Click the **[!UICONTROL Save]** button to save the personalization
 
-    >[!SUCCESS]
-    >
-    > 1. On the preview screen, click on **[!UICONTROL Expand View]**
-    > 2. Preview your message.
-    >
+##### **[!UICONTROL On click behavior] - Section:**
+
+1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
+2. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
+
+#####**[!UICONTROL Add media] - Section:** 
+
+1. Click on the **[!UICONTROL Add media] button**
+2. On the **[!UICONTROL Select Assets] screen, scroll down to the Frescopa>Products folder and select an image.
+3. Click on the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
+
+>[!SUCCESS]
+>
+> 1. On the preview screen, click on **[!UICONTROL Expand View]**
+> > 2. Preview your message.
+>
 
 #### 2.3.4. - Review and activate
 
@@ -183,6 +187,5 @@ If you are happy with the content of your message, you can activate the message:
 
 1. Click on the **[!UICONTROL Review to activate] button**.
 2. On the **[!UICONTROL Review to activate] screen**, click the **[!UICONTROL Activate] button**.
-
 
 >[!ENDTABS]
