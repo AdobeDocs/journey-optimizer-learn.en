@@ -62,25 +62,23 @@ In this lesson, you will review the profile and the related profile attributes t
 ![Profile ID](/help/summit/l820-lab-workbook/assets/2-2-2-profiles.png)
 5. On the profile details page: Review the information: 
 
-All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
-
-On the **[!UICONTROL Segment Membership]** tab:
-
-1. Check the audience membership 
-<br>
+   1. On the **[!UICONTROL Details]** tab:
+   All the data  was collected through the mobile website and the mobile app and has been added to the profile.
+   2. On the **[!UICONTROL Segment Membership]** tab: Check the audience membership.
+   <br>
 
 >[!SUCCESS] 
 > Make sure the profile is part of an audience named:
-> <br>  
+> 
 > **Lab-Seat *your seat number*** (e.g. Lab-Seat)
 > <br>
 >       
-> ![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
-
->[!NOTE]
+>![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
 >
 >You require the lab-seat audience in the next exercises. It will guarantee that you are only sending the push messages and in-app notifications to your own device. 
 >
+
+>[!NOTE]
 >If you see that you are member of an audience with a seat number different to yours, you might receive messages from the lab attendee at that seat. 
 
 >[!TAB Exercise 2.3 - Create a push campaign]
