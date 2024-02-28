@@ -64,15 +64,18 @@ In this lesson, you will review the profile and the related profile attributes t
 
 All the data  was collected through the mobile website and the mobile app and has been added to the profile. It available to use to personalize the messages you send.
 
-1.  On the **[!UICONTROL Segment Membership]** tab:
-    1. Check the audience membership 
-    <br>
-    2. Make sure the profile is part of an audience named:
-    
-        **Lab-Seat *your seat number*** (e.g. Lab-Seat)
-        <br>
-        
-        ![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
+On the **[!UICONTROL Segment Membership]** tab:
+
+1. Check the audience membership 
+<br>
+
+>[!SUCCESS] 
+> Make sure the profile is part of an audience named:
+> <br>  
+> **Lab-Seat *your seat number*** (e.g. Lab-Seat)
+> <br>
+>       
+> ![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
 
 >[!NOTE]
 >
