@@ -66,9 +66,11 @@ All the data  was collected through the mobile website and the mobile app and ha
 
 1.  On the **[!UICONTROL Segment Membership]** tab:
     1. Check the audience membership 
+    <br>
     2. Make sure the profile is part of an audience named:
     
         **Lab-Seat *your seat number*** (e.g. Lab-Seat)
+        <br>
         
         ![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
 
