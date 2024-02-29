@@ -168,7 +168,7 @@ To send this custom event from the mobile app, simply do the following:
     ![modify](/help/summit/l820-lab-workbook/assets/3-2-2-1-app-condition.png)
     <br>
 
->[!TAB 3.3 - Preview on device
+>[!TAB 3.3 - Preview on device]
 
 ### 3.3 - Preview on device
 
