@@ -118,7 +118,7 @@ If you are happy with the content of your message, you can activate the message:
 
 ![activate](/help/summit/l820-lab-workbook/assets/3-1-4-2-activate.png)
 
->[!TAB 3.2 - Create a custom trigger for your in-app message
+>[!TAB 3.2 - Create a custom trigger for your in-app message]
 
 ### 3.2 - Create a custom trigger
 
