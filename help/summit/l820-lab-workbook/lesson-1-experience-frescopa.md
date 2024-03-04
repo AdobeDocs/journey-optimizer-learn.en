@@ -84,13 +84,13 @@ After installing the app, you will need to trust the Adobe enterprise developer:
 
 1. Go to settings -> general -> VPN & Device Management 
 
-    ![Device management settings screen](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Device management settings screen")
+    ![Device management settings screen](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.png "Device management settings screen")
 
 2. Select "Adobe Systems Inc" and "Trust Adobe Systems Inc."
 
-    ![Adobe Systems selection screen](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems selection screen")
+    ![Adobe Systems selection screen](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.png "Adobe Systems selection screen")
 
-    ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG "Trust Adobe Systems screen")
+    ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.png "Trust Adobe Systems screen")
 
 You should now be able to launch the "DX Demo" app on your iPhone
 
