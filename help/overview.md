@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer Tutorials - Overview
+title: Journey Optimizer Tutorials
 description: We've got a range of video tutorials to show you how to reap the benefits of Journey Optimizer.
 recommendations: noDisplay, noCatalog
 feature: Get Started
@@ -9,7 +9,7 @@ doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 ---
 
-# Journey Optimizer tutorials
+# Journey Optimizer Tutorials
 
 Journey Optimizer helps companies deliver connected, contextual, and personalized experiences to their customers. The customer journey is the entire process of a customer's interactions with the brand, from the first moments of contact until the customer exits the site. 
 
