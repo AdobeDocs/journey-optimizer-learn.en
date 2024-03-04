@@ -25,9 +25,9 @@ In this lesson, you will review the profile and the related profile attributes t
 
 >[!BEGINTABS]
 
->[!TAB Excercise 2.1 - Login to Journey Optimizer]
+>[!TAB 2.1 - Login to Journey Optimizer]
 
-### Excercise 2.1 - Login to Journey Optimizer
+### Exercise 2.1 - Login to Journey Optimizer
  
 1. Open [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} 
 2. Login using the following details:
@@ -81,11 +81,11 @@ In this lesson, you will review the profile and the related profile attributes t
 >[!NOTE]
 >If you see that you are member of an audience with a seat number different to yours, you might receive messages from the lab attendee at that seat. 
 
->[!TAB Exercise 2.3 - Create a push campaign]
+>[!TAB 2.3 - Create a push campaign]
 
 ### Exercise 2.3 - Create a push campaign
 
-In this exercise, you will create a push campaign, design and customize the push notification, and send the push notification to your own device. 
+In this exercise, you will create a push campaign, design, and customize the push notification, and send the push notification to your own device. 
 
 #### 2.3.1 - Create the campaign
 
@@ -110,8 +110,8 @@ In this section you will configure the properties, audience, actions, and schedu
 
 ![properties section](/help/summit/l820-lab-workbook/assets/2-3-1-4-properties-section.png)
 
-1. Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign again. For example if your seat number is 99: `99 - 10% Discount Campaign`. 
-2. If you like,you can add a description but it is not required for this exercise.
+1. Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign again. For example, if your seat number is 99: `99 - 10% Discount Campaign`. 
+2. If you like, you can add a description, but it is not required for this exercise.
    
 
 ##### 2. **[!UICONTROL Audience section]**
@@ -120,13 +120,13 @@ In this section you will configure the properties, audience, actions, and schedu
    
 1. In the audience section, click on the **[!UICONTROL Select audience]** button.
 2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `your seat number`**. It should be the Lab audience that the profile you created on [!DNL Frescopa] is assigned to.
-3. Select the audience and click [!UICONTROL Save]
+3. Select the audience and click **[!UICONTROL Save]**
 
 ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
 #### 2.3.3. - Edit the content of the push notification
 
-In this excercise you will design and customize the push notification. 
+In this exercise you will design and customize the push notification. 
 
 1. In the **[!UICONTROL Action] section, click the [!UICONTROL Edit Content] button.
 
@@ -141,28 +141,38 @@ In this excercise you will design and customize the push notification.
 
 ##### **[!UICONTROL Compose Message] - Section:**
 
-1. **Compose your message** - feel free to add any text you would like, we will give you examples that you can use:
+1. **Compose your message** - feel free to add any text you would like; we will give you examples that you can use:
    <br>
       * Title: `10% today!`
       * Body text: `Today only! Get 10% off on your House Blend coffee purchase!` 
    <br>
+   ![Compose message](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
-2. **Personalize your body text** - add the recipeint's first name:
-   1. Click on the **personalization dialogue icon** next to the **[!UICONTROL Body]** field
-   2. On the ** personalization dialogue** screen, place the cursor where you want to add the name in the text.
+2. **Personalize your body text** - add the recipient's first name:
+   1. Click on the **personalization dialogue icon** next to the **[!UICONTROL Body]** field.
+
+      ![personalization button](/help/summit/l820-lab-workbook/assets/2-3-personalization-button.png)
+
+   2. On the **personalization dialogue** screen, place the cursor where you want to add the name in the text.
+
+      ![personalization dialogue](/help/summit/l820-lab-workbook/assets/2-3-personalize-body.png)
+
    3. Make sure the **Profile attributes** are selected in the left navigation.
-   4. In the **Search field**, search for: `first name`
+
+   ![Profile attribute](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   <br>
+   4. In the **Search field**, search for: `first name` and click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text. 
    <br>
    ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
-   5. In the central navigation click on the **+** next to  the **First name (Profile attributes>Person>Fullname)** to add the personalization field to your text. 
     <br>
 
       >[!SUCCESS]
       >
       > This is what your text should look like:
       > ![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
-
-    6. Click the **[!UICONTROL Save]** button to save the personalization
+   
+   <br>
+   5. Click the **[!UICONTROL Save]** button to save the personalization.
 
 ##### **[!UICONTROL On click behavior] - Section:**
 

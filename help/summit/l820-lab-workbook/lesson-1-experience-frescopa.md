@@ -26,7 +26,7 @@ In this lesson you will experience the interaction with the brand as a consumer,
 
 >[!BEGINTABS]
 
->[!TAB Exercise 1.1 – Create an account]
+>[!TAB 1.1 – Create an account]
 
 ### Exercise 1.1 – Create an account 
 
@@ -41,20 +41,36 @@ https://dsn.adobe.com/web/adobe-summit-2024/home
 3. On the sign in page, select [!UICONTROL Create an account]
     ![Frescopa sign-in page](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Frescopa sign in")
 
-4. Fill in your details:
+4. On the next page fill in your details:
+   1. Add your **first name** and **last name**
+   2. Enter an **email address** you can access during the lab.
+
+        >[!IMPORTANT]
+        > Make sure to remember the email address you registered with. You will need this to sign into the website and the app.
+
+   3. Enter your *mobile phone number leading with the country code*, to ensure you can receive any SMS messages you might create during the lab: 
     <br>
+    -> For example: +14502741234
    
-    >[!IMPORTANT]
-    > * Add your **seat number**, you can find it on your lab machine's desktop. 
-    > * If you your seat number is between 01 and 09, **enter the number without the leading 0**: 01 -> 1 
-    > * Make sure to remember the email address you registered with. You will need this to sign into the website and the app.
+   
+   4. Enter any **street address** and **city**. 
+   5. Enter your **seat number**, you can find it on your lab machine's desktop.
 
-    <br> 
+        >[!IMPORTANT]
+        > If you your seat number is between 01 and 09, **enter the number without the leading 0**.
+        > -> For example, Seat Number 01 should be entered as 1. 
+        
+        ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+        
+        <br>
+    1. Select if you have a Frescopa machine – you can choose either yes or no.
+    2. Click **Register**
 
-    ![Frescopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png)
+        ![Frescopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png)
 
 
->[!TAB Exercise 1.2 – Download and install the Frescopa app]
+
+>[!TAB 1.2 – Download and install the Frescopa app]
 
 ### Exercise 1.2 - Download and install the Frescopa app
 
