@@ -63,8 +63,8 @@ https://dsn.adobe.com/web/adobe-summit-2024/home
         ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
         
         <br>
-    1. Select if you have a Frescopa machine – you can choose either yes or no.
-    2. Click **Register**
+   6. Select if you have a Frescopa machine – you can choose either yes or no.
+   7. Click **Register**
 
         ![Frescopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png)
 
