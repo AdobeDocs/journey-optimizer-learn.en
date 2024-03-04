@@ -213,7 +213,7 @@ If you are happy with the content of your message, you can activate the message:
 > ![campaign status](/help/summit/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > The status will change from processing to live, to completed – this might take a couple of minutes
-Once the status has changed to completed:
+> Once the status has changed to completed:
 >
 > ![push results](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 > 
