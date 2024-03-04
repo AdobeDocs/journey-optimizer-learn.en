@@ -27,11 +27,11 @@ Create and trigger a mobile in-app campaign.
 
 >[!TAB 3.1 - Create a mobile in-app campaign]
 
-### Excercise 3.1 - Create a mobile in-app campaign
+### Excercise 3.1 Create a mobile in-app campaign
 
 In this exercise, you will create an in-app messaging campaign, design and customize the in-app message, and send the in-app message to your own device.
 
-#### 3.1.1 - Create the campaign
+#### 3.1.1 Create the campaign
 
 1. In Journey Optimizer, in the left navigation, select Campaigns.
 2. Click on the **[!UICONTROL Create Campaign]** button
@@ -47,9 +47,9 @@ In this exercise, you will create an in-app messaging campaign, design and custo
 >You should now be on the Campaign properties:
 > ![Campaign properties](/help/summit/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
 
-#### 3.1.2 - Configure your campaign
+#### 3.1.2 Configure your campaign
 
-##### 1. [!UICONTROL Properties section]
+##### 3.1.2.1 [!UICONTROL Properties section]
 
 ![properties section](/help/summit/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
 
@@ -57,7 +57,7 @@ In this exercise, you will create an in-app messaging campaign, design and custo
 2. If you like, you can add a description but it is not required for this exercise.
    
 
-##### 2. **[!UICONTROL Audience section]**
+##### 3.1.2.2 **[!UICONTROL Audience section]**
 
 ![audience section](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
    
@@ -67,7 +67,7 @@ In this exercise, you will create an in-app messaging campaign, design and custo
 
 ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
-#### 3.1.3 - Edit the content of the in-app message
+#### 3.1.3 Edit the content of the in-app message
 
 In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** button.
 
@@ -104,7 +104,7 @@ First, click on the **[!UICONTROL Modal]** button to make your in-app message a 
 
 Change the default Button #1 text to **Get started**
 
-#### 3.1.4 - Review and activate
+#### 3.1.4 Review and activate
 
 If you are happy with the content of your message, you can activate the message:
 
@@ -120,11 +120,11 @@ If you are happy with the content of your message, you can activate the message:
 
 >[!TAB 3.2 - Create a custom trigger for your in-app message]
 
-### 3.2 - Create a custom trigger
+### Exercise - 3.2 Create a custom trigger
 
 In this exercise, you will create a custom trigger for your in-app message, and send it from your mobile app.
 
-#### 3.2.1 - Create the custom trigger
+#### 3.2.1 Create the custom trigger
 
 1. Select the campaign you just created from the left navigation pane
 2. Click the **[!UICONTROL Modify campaign button]** 
@@ -154,7 +154,7 @@ In this exercise, you will create a custom trigger for your in-app message, and 
     ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-5-done-editing-trigger.png)
     <br>
 
-#### 3.2.2 - Send the custom event
+#### 3.2.2 Send the custom event
 
 You now have a custom trigger that will trigger the in-app message whenever a track call with the "99track" option is sent from the mobile app.
 
@@ -168,9 +168,9 @@ To send this custom event from the mobile app, simply do the following:
     ![modify](/help/summit/l820-lab-workbook/assets/3-2-2-1-app-condition.png)
     <br>
 
->[!TAB 3.3 - Preview on device]
+>[!TAB 3.3 Preview on device]
 
-### 3.3 - Preview on device
+### Exercise 3.3 Preview on device
 
 You can use the preview on device feature to preview your in-app messages on your device, without having to go through the set trigger process.
 

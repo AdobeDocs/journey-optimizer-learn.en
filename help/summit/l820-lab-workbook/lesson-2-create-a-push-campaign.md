@@ -27,7 +27,7 @@ In this lesson, you review the profile and the related profile attributes that w
 
 >[!TAB 2.1 - Log in to Journey Optimizer]
 
-### Exercise 2.1 Login to Journey Optimizer
+### Exercise 2.1 - Login to Journey Optimizer
  
 1. Open [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} 
 2. Login using the following details:
@@ -52,7 +52,7 @@ In this lesson, you review the profile and the related profile attributes that w
 
 >[!TAB Exercise 2.2 Review your profile]
 
-### Exercise 2.2 Review your profile
+### Exercise 2.2- Review your profile
 
 1. In Adobe Journey Optimizer left navigation, navigate to **[!UICONTROL CUSTOMER]** -> **[!UICONTROL Profiles]**.<br>
 2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.<br>
@@ -83,7 +83,7 @@ In this lesson, you review the profile and the related profile attributes that w
 
 >[!TAB 2.3 - Create a push campaign]
 
-### Exercise 2.3 Create a push campaign
+### Exercise 2.3 - Create a push campaign
 
 In this exercise, you create a push campaign, design, and customize the push notification, and send the push notification to your own device. 
 
@@ -195,7 +195,7 @@ In this exercise, you design and customize the push notification.
 > ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
 >
 
-#### 2.3.4. - Review and activate
+#### 2.3.4. Review and activate
 
 If you are happy with the content of your message, you can activate the message:
 
