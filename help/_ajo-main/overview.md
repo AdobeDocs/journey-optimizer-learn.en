@@ -14,25 +14,6 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 Journey Optimizer helps companies deliver connected, contextual, and personalized experiences to their customers. The customer journey is the entire process of a customer's interactions with the brand, from the first moments of contact until the customer exits the site. 
 
 This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer.
-
-<div id="whats-new-section">
-
-## What's new
-
-* **[Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)**
-  *Learn how to create and save condition rules and how to apply these condition rules to content across all channels.*
-
-* **[Use alerts](/help/administration/alerts.md)**
-  *Learn how to subscribe to pre-defined alerts for unexpected journey behaviors and get notified via Email, within Journey Optimizer or using an API.* 
-  
-* **[Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)**
-  *Learn how to copy a journey and its dependent objects from one sandbox to another.*
-  
-* **[Mask data in messages](/help/privacy/mask-data-in-messages.md)**
-  *Understand what data masking is and why mask data. Learn how to mask data in Journey Optimizer messages.*
-
-</div>
-
  
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -69,11 +50,11 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 <table>
 <tr>
   <td>
-    <a href="./introduction/journey-optimizer-overview-part-1.md">
-      <img alt="Journey Optimizer Overview Part 1 - Deliver omni-channel journeys (video)" src="./assets/334174.jpg"/>
+    <a href="../introduction/journey-optimizer-overview-part-1.md">
+      <img alt="Journey Optimizer Overview Part 1 - Deliver omni-channel journeys (video)" src="../assets/334174.jpg"/>
     </a>
     <div>
-      <a href="./introduction/journey-optimizer-overview-part-1.md">
+      <a href="../introduction/journey-optimizer-overview-part-1.md">
     <strong>Journey Optimizer Overview Part 1 </strong>
     </a>
     </div>
@@ -82,11 +63,11 @@ This user guide contains videos and tutorials on features and capabilities of Ad
     <p>
   </td>
     <td>
-    <a href="./introduction/journey-optimizer-overview-part-2.md">
-      <img alt="Journey Optimizer Overview Part 2 - Deliver omni-channel journeys (video)" src="./assets/334175.jpg"/>
+    <a href="../introduction/journey-optimizer-overview-part-2.md">
+      <img alt="Journey Optimizer Overview Part 2 - Deliver omni-channel journeys (video)" src="../assets/334175.jpg"/>
     </a>
     <div>
-      <a href="./introduction/journey-optimizer-overview-part-2.md">
+      <a href="../introduction/journey-optimizer-overview-part-2.md">
     <strong>Journey Optimizer Overview Part 2 </strong>
     </a>
     </div>
@@ -96,11 +77,11 @@ This user guide contains videos and tutorials on features and capabilities of Ad
   </td>
   </td>
     <td>
-    <a href="./decision-management/create-decisions.md">
-      <img alt="Introduction to the decision management capabilities" src="./assets/326961.jpg"/>
+    <a href="../decision-management/create-decisions.md">
+      <img alt="Introduction to the decision management capabilities" src="../assets/326961.jpg"/>
     </a>
     <div>
-      <a href="./decision-management/create-decisions.md">
+      <a href="../decision-management/create-decisions.md">
     <strong>Introduction to the decision management capabilities </strong>
     </a>
     </div>
@@ -113,11 +94,11 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 </tr>
 <tr>
   <td>
-    <a href="./create-journeys/use-case-transactional-journey.md">
-      <img alt="Use Case - Transactional Journey " src="./assets/334202.jpeg"/>
+    <a href="../create-journeys/use-case-transactional-journey.md">
+      <img alt="Use Case - Transactional Journey " src="../assets/334202.jpeg"/>
     </a>
     <div>
-      <a href="./create-journeys/use-case-transactional-journey.md">
+      <a href="../create-journeys/use-case-transactional-journey.md">
     <strong>Use Case - Transactional Journey </strong>
     </a>
     </div>
@@ -126,11 +107,11 @@ This user guide contains videos and tutorials on features and capabilities of Ad
     <p>
   </td>
     <td>
-    <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
-      <img alt="Use contextual event information for personalization" src="./assets/334165.jpg"/>
+    <a href="../personalize-content/use-contextual-event-information-for-personalization.md">
+      <img alt="Use contextual event information for personalization" src="../assets/334165.jpg"/>
     </a>
     <div>
-      <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
+      <a href="../personalize-content/use-contextual-event-information-for-personalization.md">
     <strong>Use contextual event information for personalization </strong>
     </a>
     </div>
@@ -140,11 +121,11 @@ This user guide contains videos and tutorials on features and capabilities of Ad
   </td>
   </td>
     <td>
-    <a href="./report-and-monitor/live-and-global-reports.md">
-      <img alt="Live and global reports" src="./assets/334108.jpg"/>
+    <a href="../report-and-monitor/live-and-global-reports.md">
+      <img alt="Live and global reports" src="../assets/334108.jpg"/>
     </a>
     <div>
-      <a href="./report-and-monitor/live-and-global-reports.md">
+      <a href="../report-and-monitor/live-and-global-reports.md">
     <strong>Live and global reports </strong>
     </a>
     </div>
