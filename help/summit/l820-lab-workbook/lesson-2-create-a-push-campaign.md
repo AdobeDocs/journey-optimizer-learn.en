@@ -139,11 +139,11 @@ In this exercise you will design and customize the push notification.
 |---|---|
 |![iOS tab](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)|![Android tab](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)|
 
-##### **[!UICONTROL Compose Message] - Section:**
+##### **[!UICONTROL Compose Message] - Section**
 
 1. **Compose your message** - feel free to add any text you would like; we will give you examples that you can use:
    <br>
-      * Title: `10% today!`
+      * Title: `Get 10% off today!`
       * Body text: `Today only! Get 10% off on your House Blend coffee purchase!` 
    <br>
    ![Compose message](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
@@ -174,21 +174,27 @@ In this exercise you will design and customize the push notification.
    <br>
    5. Click the **[!UICONTROL Save]** button to save the personalization.
 
-##### **[!UICONTROL On click behavior] - Section:**
+##### **[!UICONTROL On click behavior] - Section**
 
 1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
 2. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
 
-##### **[!UICONTROL Add media] - Section:** 
+![deeplink](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
+
+##### **[!UICONTROL Add media] - Section** 
 
 1. Click on the **[!UICONTROL Add media] button**
+   ![add media buttons](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 2. On the **[!UICONTROL Select Assets] screen, scroll down to the Frescopa>Products folder and select an image.
 3. Click on the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
+
+   ![select image](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
 >[!SUCCESS]
 >
 > 1. On the preview screen, click on **[!UICONTROL Expand View]**.
 > 2. Preview your message.
+> ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
 >
 
 #### 2.3.4. - Review and activate
@@ -196,6 +202,21 @@ In this exercise you will design and customize the push notification.
 If you are happy with the content of your message, you can activate the message:
 
 1. Click on the **[!UICONTROL Review to activate] button**.
+   ![review and activat button](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+
 2. On the **[!UICONTROL Review to activate] screen**, click the **[!UICONTROL Activate] button**.
+   ![review to activate screen](/help/summit/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
+
+>[!SUCCESS]
+> On the **Campaigns overview page**, find your campaign and check the status. 
+>
+> ![campaign status](/help/summit/l820-lab-workbook/assets/2-3-push-completed.png)
+> 
+> The status will change from processing to live, to completed – this might take a couple of minutes
+Once the status has changed to completed:
+>
+> ![push results](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> 
+> 
 
 >[!ENDTABS]
