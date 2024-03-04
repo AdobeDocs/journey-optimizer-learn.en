@@ -165,7 +165,7 @@ To send this custom event from the mobile app, simply do the following:
 3. Enter **99track** (or whatever you chose as your custom event name) in the text field and hit the **[!UICONTROL Submit button]**.
 
 
-    ![modify](/help/summit/l820-lab-workbook/assets/3-2-2-1-app-condition.png)
+    ![modify](/help/summit/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG)
     <br>
 
 >[!TAB 3.3 Preview on device]
@@ -198,7 +198,7 @@ You can use the preview on device feature to preview your in-app messages on you
 
    ![preview qr code](/help/summit/l820-lab-workbook/assets/3-3-1-4-preview-qr-code.png)
 
-   ![enter pin](/help/summit/l820-lab-workbook/assets/3-3-1-5-enter-pin.png)
+   ![enter pin](/help/summit/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG)
 
 Once connected, your in-app message should display each time you click the **[!UICONTROL Preview on device button]**.
 
