@@ -13,7 +13,7 @@ thumbnail: KT-14983.jpeg
 
 # Lesson 3 - Create a mobile in-app campaign
 
-Create and trigger a mobile in-app campaign.
+In this lesson you learn how to create and trigger a mobile in-app campaign.
 
 ## Learning Objectives
 
@@ -29,7 +29,7 @@ Create and trigger a mobile in-app campaign.
 
 ### Excercise 3.1 Create a mobile in-app campaign
 
-In this exercise, you will create an in-app messaging campaign, design and customize the in-app message, and send the in-app message to your own device.
+In this exercise, you create an in-app messaging campaign, design,and customize the in-app message, and activate the in-app message for your own user.
 
 #### 3.1.1 Create the campaign
 
@@ -53,6 +53,7 @@ In this exercise, you will create an in-app messaging campaign, design and custo
 
 ![properties section](/help/summit/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
 
+<br>
 1. Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign again. For example if your seat number is 99: `99 - Welcome Campaign`. 
 2. If you like, you can add a description but it is not required for this exercise.
    
@@ -76,29 +77,29 @@ In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** 
 
 You are now in the In-App message editor. We will now configure the in-app message content.
 
-##### **[!UICONTROL Message layout section]**
+##### **3.1.3.1 [!UICONTROL Message layout section]**
 
 First, click on the **[!UICONTROL Modal]** button to make your in-app message a modal layout.
 
    ![modal button](/help/summit/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
    <br>
 
-##### **[!UICONTROL Media section:]**
+##### **3.1.3.2 [!UICONTROL Media section:]**
 
 1. Click on the **[!UICONTROL Add media] button**
 2. On the **[!UICONTROL Select Assets] screen, scroll down to the Frescopa>Products folder and select an image.
 3. Click on the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
 
-##### **[!UICONTROL Content section:]**
+##### **3.1.3.3 [!UICONTROL Content section:]**
 
 **Compose your message content** - feel free to add any header and body text you like, we will give you examples that you can use:
 
    <br>
       * Header: `Welcome to Frescopa app!`
-      * Body text: `` 
+      * Body text: `Explore our latest coffee offers and machines.` 
    <br>
 
-##### **[!UICONTROL Buttons section:]**
+##### **3.1.3.4[!UICONTROL Buttons section:]**
 
 **Compose your buttons** - You can now add buttons, and configure them how you like, we will simply edit the existing button's text for now.
 
