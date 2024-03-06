@@ -24,10 +24,6 @@ In this lesson you will experience the interaction with the brand as a consumer,
 
 ## Exercises
 
->[!BEGINTABS]
-
->[!TAB 1.1 – Create an account]
-
 ### Exercise 1.1 – Create an account 
 
 1. Navigate to the Frescopa website: 
@@ -68,10 +64,6 @@ https://dsn.adobe.com/web/adobe-summit-2024/home
 
         ![Frescopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png)
 
-
-
->[!TAB 1.2 – Download and install the Frescopa app]
-
 ### Exercise 1.2 - Download and install the Frescopa app
 
 Install the mobile app on your iOS or Android device by scanning the QR code below:
@@ -103,8 +95,6 @@ On Android, simply download and install the APK by following the alert instructi
 ![Android installation screen](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg "Android installation screen")
 
 
->[!TAB Exercise 1.3 – Explore the website and app]
-
 ### Exercise 1.3 – Explore the website and app
 
 Familiarize yourself with the Frescopa website and mobile app:
@@ -117,5 +107,3 @@ Here are things you should do:
 2. 5 web In-app message triggered 
 3. Sign up for a coffee subscription 
 4. Purchase a product
-
->[!ENDTABS]
