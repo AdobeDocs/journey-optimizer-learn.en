@@ -9,8 +9,8 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 thumbnail: KT-14980.jpeg
+exl-id: 23668951-7d48-4298-94d3-bdfb774d626c
 ---
-
 # Lesson 2 - Create a push campaign
 
 In this lesson, you will review the profile and the related profile attributes that were created when you registered on the Frescopa website and completed the survey. You will then learn how to create a push campaign and send a message.

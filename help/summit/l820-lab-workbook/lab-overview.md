@@ -1,5 +1,5 @@
 ---
-title: Lab Workbook - L820 - Build Personalized Mobile Moments with Adobe Journey Optimizer 
+title: Lab Workbook - L820 - Build Personalized Mobile Moments with Adobe Journey Optimizer
 description: Explore a variety of mobile scenarios and learn how to implement personalized experiences for web and mobile with Journey Optimizer.
 feature: Overview
 role: User
@@ -9,8 +9,8 @@ duration: 0
 last-substantial-update: 2024-02-17
 jira: KT-14977
 thumbnail: KT-14977.jpeg
+exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
 ---
-
 # LAB WORKBOOK
 
 ![Adobe Summit - alt text](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
@@ -46,6 +46,3 @@ Complementing its subscription services, Frescopa's website and mobile app offer
 
 Frescopa's commitment to excellence extends beyond its products, as the company is dedicated to creating a seamless and enjoyable customer journey. The combination of innovative technologies and a customer-centric approach positions Frescopa at the forefront of the evolving coffee industry.
 In essence, Frescopa embodies the fusion of passion and technology, redefining the way individuals experience and enjoy their coffee. With a focus on quality, convenience, and personalized offerings, Frescopa invites coffee enthusiasts to embark on a journey of flavor, delivered right to their doorstep.
-
-
-
