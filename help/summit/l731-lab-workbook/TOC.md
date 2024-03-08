@@ -13,8 +13,8 @@ hide: yes
 
 + [Lab Overview]{#overview}
 + [Introduction]{#introduction}
-  + [Introduction](/help/l731-lab-workbook/Introduction/introduction.md)
-  + [Exercise 1.1](/help/l731-lab-workbook/Introduction/exercise-1-1.md)
-  + [Exercise 1.2](/help/l731-lab-workbook/Introduction/exercise-1-2.md)
-  + [Exercise 1.3](/help/l731-lab-workbook/Introduction/exercise-1-3.md)
-  + [Exercise 1.4](/help/l731-lab-workbook/Introduction/exercise-1-4.md)
+  + [Introduction](/help/summit/l731-lab-workbook/Introduction/introduction.md)
+  + [Exercise 1.1](/help/summit/l731-lab-workbook/Introduction/exercise-1-1.md)
+  + [Exercise 1.2](/help/summit/l731-lab-workbook/Introduction/exercise-1-2.md)
+  + [Exercise 1.3](/help/summit/l731-lab-workbook/Introduction/exercise-1-3.md)
+  + [Exercise 1.4](/help/summit/l731-lab-workbook/Introduction/exercise-1-4.md)
