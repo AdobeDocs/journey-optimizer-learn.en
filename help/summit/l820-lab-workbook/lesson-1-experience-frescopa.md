@@ -85,9 +85,9 @@ After installing the app, you must trust the Adobe enterprise developer:
 2. Select **Adobe Systems Inc** and **Trust Adobe Systems Inc**.
 
     ![Adobe Systems selection screen](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems selection screen"){width="250" align="center" zoomable="yes"}
-<br>
+    <br>
 
-    ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.png){width="250" align="center" zoomable="yes"}
+    ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
 
 You should now be able to launch the **DX Demo app** on your iPhone:
@@ -152,3 +152,5 @@ You receive badges for each of these activities.
 > ![Badges](/help/summit/l820-lab-workbook/assets/1-3-badges.png)
 
 In the following lessons, you will learn how to create mobile and web experiences in Adobe Journey Optimizer.
+
+[def]: /help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
