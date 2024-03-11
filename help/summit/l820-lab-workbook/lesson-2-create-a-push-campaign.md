@@ -13,13 +13,13 @@ thumbnail: KT-14980.jpeg
 
 # Lesson 2 - Create a push campaign
 
-In this lesson, you will put on your marketing hat on and will dive into Adobe Journey Optimizer. 
+In this lesson, you put on your marketing hat on and dive into Adobe Journey Optimizer. 
 
-First you will log into Journey Optimizer and review the profile and the related profile attributes that were created when you registered on the Fréscopa website during lesson 1.
+First you log in to Journey Optimizer and review the profile and the related profile attributes that were created when you registered on the Fréscopa website during lesson 1.
  
-You will then create a push notification. Push notifications are used to keep app users informed, even when they are not using the app, but also to reengage them with the app. 
+You then create a push notification. Push notifications are used to keep app users informed, even when they are not using the app, but also to reengage them with the app. 
 
-In exercise 2.3, you will create a push campaign and send a push notification to your own device.  
+In exercise 2.3, you create a push campaign and send a push notification to your own device.  
 
 ## Learning Objectives
 
@@ -29,7 +29,7 @@ In exercise 2.3, you will create a push campaign and send a push notification to
 
 ## Exercises
 
-### Exercise 2.1 - Login to Journey Optimizer
+### Exercise 2.1 - Log in to Journey Optimizer
  
 1. Open [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} 
 2. Login using the following details:
@@ -62,7 +62,7 @@ In exercise 2.3, you will create a push campaign and send a push notification to
 
 1. In Adobe Journey Optimizer left navigation, navigate to **[!UICONTROL CUSTOMER]** -> **[!UICONTROL Profiles]**.<br>
 2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.<br>
-3. In the **[!UICONTROL Identity Namespace]**  field, type in `email` and select the option **Email** from the drop down that appears:
+3. In the **[!UICONTROL Identity Namespace]**  field, type in `email` and select the option **Email** from the drop-down that appears:
 
    ![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
 
@@ -93,7 +93,7 @@ In exercise 2.3, you will create a push campaign and send a push notification to
 >
 >You require the lab-seat audience in the next exercises. It guarantees that you are only sending the push messages and in-app notifications to your own device. 
 >
->**Please speak to a teaching assistant, ff you see that you are member of an audience with a seat number different to yours.**
+>**Speak to a teaching assistant, ff you see that you are member of an audience with a seat number different to yours.**
 >
 
 ### Exercise 2.3 - Create a push campaign
@@ -153,7 +153,7 @@ In this exercise, you design and customize the push notification.
    ![Edit content button](/help/summit/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
    <br>
 
-1. On the next screen, depending on the mobile device you have, select either the [!DNL iOS] or [!DNL Android&trade;] tab to configure your content. 
+1. On the next screen, depending on the mobile device you have, select either the [!DNL iOS] or [!DNL Android&trade;&trade;] tab to configure your content. 
 
 >[!BEGINTABS] 
 
@@ -161,7 +161,7 @@ In this exercise, you design and customize the push notification.
 
 ![iOS tab](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)
 
->[!TAB Android]
+>[!TAB Android&trade;]
 
 ![Android tab](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)
 
@@ -215,7 +215,7 @@ In this exercise, you design and customize the push notification.
    
 2.   On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa>Products folder** and select an image from that folder. 
 
-      For example.: `HouseBlend.png`
+      For example: `HouseBlend.png`
 
 3. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification.
 
