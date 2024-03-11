@@ -13,7 +13,7 @@ thumbnail: KT-14980.jpeg
 
 # Lesson 2 - Create a push campaign
 
-In this lesson, you put on your marketing hat on and dive into Adobe Journey Optimizer. 
+In this lesson, you put on your marketing hat and dive into Adobe Journey Optimizer. 
 
 First you log in to Journey Optimizer and review the profile and the related profile attributes that were created when you registered on the Fréscopa website during lesson 1.
  
@@ -27,9 +27,7 @@ In exercise 2.3, you create a push campaign and send a push notification to your
 * Know how to create a push campaign.
 * Understand how to design and personalize a push message.
 
-## Exercises
-
-### Exercise 2.1 - Log in to Journey Optimizer
+## Exercise 2.1 - Log in to Journey Optimizer
  
 1. Open [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} 
 2. Login using the following details:
@@ -58,7 +56,7 @@ In exercise 2.3, you create a push campaign and send a push notification to your
 <br>
 <br>
 
-### Exercise 2.2 - Review your profile
+## Exercise 2.2 - Review your profile
 
 1. In Adobe Journey Optimizer left navigation, navigate to **[!UICONTROL CUSTOMER]** -> **[!UICONTROL Profiles]**.<br>
 2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.<br>
@@ -98,11 +96,11 @@ In exercise 2.3, you create a push campaign and send a push notification to your
 >**Speak to a teaching assistant, ff you see that you are member of an audience with a seat number different to yours.**
 >
 
-### Exercise 2.3 - Create a push campaign
+## Exercise 2.3 - Create a push campaign
 
 In this exercise, you create a push campaign, design, and customize the push notification, and send the push notification to your own device.
 
-#### 2.3.1 Create the campaign
+### 2.3.1 Create the campaign
 
 1. In Journey Optimizer, in the left navigation, in the **[!UICONTROL JOURNEY MANAGEMENT]** section, select **Campaigns**.
 2. Click the **[!UICONTROL Create Campaign]** button
@@ -118,18 +116,18 @@ In this exercise, you create a push campaign, design, and customize the push not
 >You should now be on the Campaign properties page:
 > ![Campaign properties](/help/summit/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
-#### 2.3.2 Configure your campaign
+### 2.3.2 Configure your campaign
 
 On this page, you configure the properties, audience, actions, and schedule of your campaign.
 
-##### 2.3.2.1 [!UICONTROL Properties section]
+#### 2.3.2.1 [!UICONTROL Properties section]
 
 Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign when you search for it. 
 
    For example, if your seat number is 99: `99 - 10% Discount Campaign`. 
 ![properties section](/help/summit/l820-lab-workbook/assets/2-3-1-4-properties-section.png)
 
-##### 2.3.2.2 **[!UICONTROL Audience section]**
+#### 2.3.2.2 **[!UICONTROL Audience section]**
    
 1. In the audience section, click the **[!UICONTROL Select audience]** button.
 
@@ -146,7 +144,7 @@ Give your campaign a name. Make sure to start the name with your seat number, so
 
    ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
-#### 2.3.3. Edit the content of the push notification
+### 2.3.3. Edit the content of the push notification
 
 In this exercise, you design and customize the push notification.
 
@@ -169,7 +167,7 @@ In this exercise, you design and customize the push notification.
 
 >[!ENDTABS]
 
-##### **2.3.3.1 [!UICONTROL Compose Message] section**
+#### **2.3.3.1 [!UICONTROL Compose Message] section**
 
 1. **Compose your message** - feel free to add any text you would like; here are examples that you can use:
    <br>
@@ -207,14 +205,14 @@ In this exercise, you design and customize the push notification.
    <br>
    6. Click the **[!UICONTROL Save]** button to save the personalization.
 
-##### **2.3.3.2 [!UICONTROL On click behavior] - Section**
+#### **2.3.3.2 [!UICONTROL On click behavior] - Section**
 
 1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
 2. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
 
    ![deeplink](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
 
-##### **2.3.3.3 [!UICONTROL Add media] - Section** 
+#### **2.3.3.3 [!UICONTROL Add media] - Section** 
 
 1. Click the **[!UICONTROL Add media] button**.
    ![add media buttons](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
@@ -236,7 +234,7 @@ In this exercise, you design and customize the push notification.
 > ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
 >
 
-#### 2.3.4. Review and activate
+### 2.3.4. Review and activate
 
 If you are happy with the content of your message, you can activate the message:
 

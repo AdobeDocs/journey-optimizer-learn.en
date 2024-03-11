@@ -22,9 +22,7 @@ In this lesson you will experience the interaction with the brand as a consumer,
 * Experience the different scenarios on the Fréscopa website.
 * Experience the different scenarios on the Fréscopa app.
 
-## Exercises
-
-### Exercise 1.1 – Create an account 
+## Exercise 1.1 – Create an account 
 
 1. Navigate to the [Fréscopa website](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA5NjAyMzQzLCJleHAiOjE3MTE0MTY3NDN9.V3zEKnVL3vGpPqr_34XjnJ5PSYKApYviBE02zyBalsY)
 
@@ -62,7 +60,7 @@ In this lesson you will experience the interaction with the brand as a consumer,
     ![Fréscopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png)
 
 
-### Exercise 1.2 - Download and install the Fréscopa app
+## Exercise 1.2 - Download and install the Fréscopa app
 
 Install the mobile app on your iOS or Android&trade; device by either scanning the QR code from the message that you receive when you register or from below:
 
@@ -74,7 +72,7 @@ Device-specific installation:
 
 >[!TAB iOS]
 
-#### iOS:
+### iOS:
 
 After installing the app, you must trust the Adobe enterprise developer:
 
@@ -102,7 +100,7 @@ You should now be able to launch the **DX Demo app** on your iPhone:
 
 >[!TAB Android]
 
-#### Android
+### Android
 
 On Android, simply download and install the APK by following the alert instructions shown here:
 
@@ -115,7 +113,7 @@ You should now be able to launch the **DX Demo app** on your Android device.
 
 >[!ENDTABS]
 
-### Exercise 1.3 – Explore the website and app
+## Exercise 1.3 – Explore the website and app
 
 Familiarize yourself with the [Fréscopa website](https://dsn.adobe.com/web/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA4NjQyNTU4LCJleHAiOjE3MTA0NTY5NTh9.m4N8Bs5ZB1jYbUSdl1B6MaYJvUiolIYI_T_TcR-xMfU) and mobile app. Experience the different in-app, push, and SMS messages implemented in AJO and triggered through your interactions.
 
