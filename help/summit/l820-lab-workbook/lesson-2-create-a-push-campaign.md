@@ -161,7 +161,7 @@ In this exercise, you design and customize the push notification.
 
 ![iOS tab](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)
 
->[!TAB Android&trade;]
+>[!TAB Android]
 
 ![Android tab](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)
 

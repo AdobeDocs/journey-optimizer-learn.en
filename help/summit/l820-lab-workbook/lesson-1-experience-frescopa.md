@@ -92,15 +92,13 @@ After installing the app, you must trust the Adobe enterprise developer:
 
 You should now be able to launch the **DX Demo app** on your iPhone:
 
-    ![app iOS screen](/help/summit/l820-lab-workbook/assets/1-2-ios-app-icon.png){width="250" align="center" zoomable="yes"}
+![app iOS screen](/help/summit/l820-lab-workbook/assets/1-2-ios-app-icon.png){width="250" align="center" zoomable="yes"}
 
 
    1. Open the app.
    2. On the pop-up, click **Allow**, to allow the DX Demo app to send you notifications.
 
    ![notification pop up](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
-
- 
 
 >[!TAB Android]
 
@@ -112,7 +110,8 @@ On Android, simply download and install the APK by following the alert instructi
 <br>
 ![Android installation screen](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}"Android installation screen"
 
-You should now be able to launch the **DX Demo app** on your Android device:
+You should now be able to launch the **DX Demo app** on your Android device.
+![app Android screen](/help/summit/l820-lab-workbook/assets/1-2-android-app-icon.jpg){width="250" align="center" zoomable="yes"}
 
  >[!ENDTABS]
 
