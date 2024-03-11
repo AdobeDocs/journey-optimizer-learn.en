@@ -72,7 +72,7 @@ Device specific installation:
 
 >[!BEGINTABS] 
 
->[!TAB <iOS>]
+>[!TAB iOS]
 
 #### iOS:
 
@@ -102,7 +102,7 @@ You should now be able to launch the **DX Demo app** on your iPhone:
 
  
 
->[!TAB <Android>]
+>[!TAB Android]
 
 #### Android:
 
