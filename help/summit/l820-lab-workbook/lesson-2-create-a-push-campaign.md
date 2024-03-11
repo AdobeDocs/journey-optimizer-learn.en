@@ -226,6 +226,7 @@ In this exercise, you design and customize the push notification.
 > 1. On the preview screen, click **[!UICONTROL Expand View]**.
 > 2. Preview your message.
 > <br>
+>
 > ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
 >
 
