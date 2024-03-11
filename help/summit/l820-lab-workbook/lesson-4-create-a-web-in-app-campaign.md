@@ -13,21 +13,3 @@ thumbnail: KT-14984.jpeg
 
 # Lesson 4 - Create a web in-app campaign
 
-Create and trigger a web in-app campaign.
-
-
-## Learning Objectives
-
-* Understand how in-app messages are triggered
-* Know how to create a mobile in-app campaign
-* Trigger an in-app message
-
-## Exercises
-
->[!BEGINTABS]
-
->[!TAB Excercise 3.1 - Create a mobile in-app campaign]
-
-### Excercise 3.1 - Create a mobile in-app campaign
-
->[!ENDTABS]
