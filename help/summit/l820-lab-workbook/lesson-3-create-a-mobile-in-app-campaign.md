@@ -23,10 +23,6 @@ In this lesson you learn how to create and trigger a mobile in-app campaign.
 
 ## Exercises
 
->[!BEGINTABS]
-
->[!TAB 3.1 - Create a mobile in-app campaign]
-
 ### Excercise 3.1 Create a mobile in-app campaign
 
 In this exercise, you create an in-app messaging campaign, design,and customize the in-app message, and activate the in-app message for your own user.
@@ -63,7 +59,7 @@ In this exercise, you create an in-app messaging campaign, design,and customize 
 ![audience section](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
    
 1. In the audience section, click on the **[!UICONTROL Select audience]** button.
-2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `your seat number`**. It should be the Lab audience that the profile you created on [!DNL Frescopa] is assigned to.
+2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `your seat number`**. It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
 3. Select the audience and click [!UICONTROL Save]
 
 ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
@@ -87,7 +83,7 @@ First, click on the **[!UICONTROL Modal]** button to make your in-app message a 
 ##### **3.1.3.2 [!UICONTROL Media section:]**
 
 1. Click on the **[!UICONTROL Add media] button**
-2. On the **[!UICONTROL Select Assets] screen, scroll down to the Frescopa>Products folder and select an image.
+2. On the **[!UICONTROL Select Assets] screen, scroll down to the Fréscopa>Products folder and select an image.
 3. Click on the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
 
 ##### **3.1.3.3 [!UICONTROL Content section:]**
@@ -95,7 +91,7 @@ First, click on the **[!UICONTROL Modal]** button to make your in-app message a 
 **Compose your message content** - feel free to add any header and body text you like, we will give you examples that you can use:
 
    <br>
-      * Header: `Welcome to Frescopa app!`
+      * Header: `Welcome to Fréscopa app!`
       * Body text: `Explore our latest coffee offers and machines.` 
    <br>
 
@@ -118,8 +114,6 @@ If you are happy with the content of your message, you can activate the message:
 3. On the **[!UICONTROL Review to activate] screen**, click the **[!UICONTROL Activate] button**.
 
 ![activate](/help/summit/l820-lab-workbook/assets/3-1-4-2-activate.png)
-
->[!TAB 3.2 - Create a custom trigger for your in-app message]
 
 ### Exercise - 3.2 Create a custom trigger
 
@@ -161,7 +155,7 @@ You now have a custom trigger that will trigger the in-app message whenever a tr
 
 To send this custom event from the mobile app, simply do the following:
 
-1. Open the Frescopa mobile app
+1. Open the Fréscopa mobile app
 2. Navigate to the **[!UICONTROL Exercise tab]** on the bottom.
 3. Enter **99track** (or whatever you chose as your custom event name) in the text field and hit the **[!UICONTROL Submit button]**.
 
@@ -169,7 +163,6 @@ To send this custom event from the mobile app, simply do the following:
     ![modify](/help/summit/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG)
     <br>
 
->[!TAB 3.3 Preview on device]
 
 ### Exercise 3.3 Preview on device
 
@@ -190,17 +183,15 @@ You can use the preview on device feature to preview your in-app messages on you
    ![start button](/help/summit/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
    <br>
 
-4. Now, you will enter the base url which has been configured to launch the Frescopa app. In this case it will be `dxdemo://`
+4. Now, you will enter the base url which has been configured to launch the Fréscopa app. In this case it will be `dxdemo://`
 
    ![preview url](/help/summit/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
    <br>
 
-5. Now, scan the QR code with your mobile device, and the Frescopa app will open with a pin screen displayed. Enter the pin shown
+5. Now, scan the QR code with your mobile device, and the Fréscopa app will open with a pin screen displayed. Enter the pin shown
 
    ![preview qr code](/help/summit/l820-lab-workbook/assets/3-3-1-4-preview-qr-code.png)
 
    ![enter pin](/help/summit/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG)
 
 Once connected, your in-app message should display each time you click the **[!UICONTROL Preview on device button]**.
-
->[!ENDTABS]
