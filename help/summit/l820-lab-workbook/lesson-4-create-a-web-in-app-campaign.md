@@ -52,13 +52,13 @@ will trigger it.
 
 1. In the **Properties** section, give your campaign a unique **Name**:
 
-    > [!NOTE]
-    > Make sure to start the name with your seat number, so you can easily
-    > find your campaign later.
-    > 
-    > For example, if your seat number is 99: 
-    >
-    > ![Properties Name](/help/summit/l820-lab-workbook/assets/4-1-2-properties-name.png)
+> [!NOTE]
+> Make sure to start the name with your seat number, so you can easily
+> find your campaign later.
+> 
+> For example, if your seat number is 99: 
+>
+> ![Properties Name](/help/summit/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 #### 4.1.2.2 Define the Trigger 
 
@@ -129,12 +129,9 @@ will trigger it.
 
 >[!SUCCESS]
 >
->Pressing the Send button with your unique value will trigger your Web
-In-app message to fire. And you should see your web in-app message
-appear on your screen.
+>Pressing the Send button with your unique value will trigger your Web In-app message to fire. And you should see your web in-app message appear on your screen.
 >
->This exercise has simulated a custom XDM send event that you saw through
-your Fréscopa customer experience.
+>This exercise has simulated a custom XDM send event that you saw through your Fréscopa customer experience.
 
 ## Thank You!
 
