@@ -32,11 +32,11 @@ In exercise 2.3, you create a push campaign and send a push notification to your
 1. Open [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} 
 2. Login using the following details:
     <br>
-    **Username:** L820+**your seat number**@adobeeventlab.com
+    **Username:** L820+**`<your seat number>`**@adobeeventlab.com
     **Password:**   Adobe2024! 
    <br>
    You can find the details for your login on your lab machine desktop. Use the Adobe ID and the Password.
-   ![desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+   ![desktop](/help/summit/l820-lab-workbook/assets/desk-top.png)
 
     ![Login screen](/help/summit/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
    <br>
@@ -178,7 +178,11 @@ In this exercise, you design and customize the push notification.
 
    ![Compose message](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
-2. **Personalize your body text** - add the recipient's first name:
++++Stretch tasks
+
+If you still have time, try personalizing your message, by adding the recipient's first name:
+
+1. Compose messages: **Personalize your body text** - add the recipient's first name:
    1. Click the **personalization dialogue icon** next to the **[!UICONTROL Body]** field.
 
       ![personalization button](/help/summit/l820-lab-workbook/assets/2-3-personalization-button.png)
@@ -205,34 +209,37 @@ In this exercise, you design and customize the push notification.
    <br>
    6. Click the **[!UICONTROL Save]** button to save the personalization.
 
-#### **2.3.3.2 [!UICONTROL On click behavior] - Section**
+2. Change the on click behavior to open a product page.
 
-1. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
-2. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
+   1. In the [!UICONTROL On click behavior] - Section**
+   2. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
+   3. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
 
-   ![deeplink](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
+      ![deeplink](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
+      
+3. Add an image to the message:
 
-#### **2.3.3.3 [!UICONTROL Add media] - Section** 
+   1. In the ***[!UICONTROL Add media] - Section** 
+   2. Click the **[!UICONTROL Add media] button**.
+      ![add media buttons](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+      
+   3.   On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa>Products folder** and select an image from that folder. 
 
-1. Click the **[!UICONTROL Add media] button**.
-   ![add media buttons](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+         For example: `HouseBlend.png`
+
+   4. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification.
+
+      ![select image](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
+
+   >[!SUCCESS]
+   >
+   > 1. On the preview screen, click **[!UICONTROL Expand View]**.
+   > 2. Preview your message.
+   > <br>
+   >
+   > ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
    
-2.   On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa>Products folder** and select an image from that folder. 
-
-      For example: `HouseBlend.png`
-
-3. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification.
-
-   ![select image](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
-
->[!SUCCESS]
->
-> 1. On the preview screen, click **[!UICONTROL Expand View]**.
-> 2. Preview your message.
-> <br>
->
-> ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
->
++++
 
 ### 2.3.4. Review and activate
 
