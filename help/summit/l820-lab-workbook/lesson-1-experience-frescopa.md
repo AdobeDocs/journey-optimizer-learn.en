@@ -57,7 +57,7 @@ In this lesson you will experience the interaction with the brand as a consumer,
         
     <br>
    6. Select if you have a Fréscopa machine – you can choose either yes or no.
-   7. Click **Register**
+   7. Click **Register**.
 
     ![Fréscopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png)
 
