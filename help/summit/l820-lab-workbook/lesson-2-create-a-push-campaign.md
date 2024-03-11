@@ -54,6 +54,7 @@ In exercise 2.3, you will create a push campaign and send a push notification to
 >You should be logged in to Journey Optimizer and on the homepage:
 >
 >![AJO Homepage](/help/summit/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
+
 <br>
 <br>
 
@@ -63,7 +64,7 @@ In exercise 2.3, you will create a push campaign and send a push notification to
 2. On the **[!UICONTROL Profiles]** overview page, navigate to the [!UICONTROL Browse] tab.<br>
 3. In the **[!UICONTROL Identity Namespace]**  field, type in `email` and select the option **Email** from the drop down that appears:
 
-![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
+   ![Select identity namespace](/help/summit/l820-lab-workbook/assets/2-2-1-select-identity-namespace.png)
 
 4. In the **[!UICONTROL Identity Value]** field, enter the email address you used when you registered with Fréscopa.
 
@@ -71,7 +72,7 @@ In exercise 2.3, you will create a push campaign and send a push notification to
    <br>
 5. Click the **[!UICONTROL Profile ID]** link to access the profile data.
    ![Profile ID](/help/summit/l820-lab-workbook/assets/2-2-2-profiles.png)
-<br>
+   <br>
 6. On the profile details page, review the information: 
 
    1. On the **[!UICONTROL Details]** tab:   
@@ -156,11 +157,11 @@ In this exercise, you design and customize the push notification.
 
 >[!BEGINTABS] 
 
->[!TAB <iOS>]
+>[!TAB iOS]
 
 ![iOS tab](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)
 
->[!TAB <Android>]
+>[!TAB Android]
 
 ![Android tab](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)
 
