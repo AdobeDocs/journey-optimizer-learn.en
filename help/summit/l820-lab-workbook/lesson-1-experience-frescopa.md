@@ -80,7 +80,7 @@ After installing the app, you must trust the Adobe enterprise developer:
 
 1. Go to settings -> general -> VPN & Device Management 
 
-    ![Device management settings screen](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Device management settings screen")
+    ![Device management settings screen](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Device management settings screen"){width="250" align="center" zoomable="yes"}
 
 2. Select **Adobe Systems Inc** and **Trust Adobe Systems Inc**.
 
