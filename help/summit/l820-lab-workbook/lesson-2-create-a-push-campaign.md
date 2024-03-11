@@ -82,7 +82,9 @@ In exercise 2.3, you create a push campaign and send a push notification to your
       ![customer profile - detail tab](/help/summit/l820-lab-workbook/assets/2-2-profile-detail-page.png)
    <br>
    2. On the **[!UICONTROL Audience Membership]** tab: Check the audience membership.
+
       <br>
+
       ![Audience membership](/help/summit/l820-lab-workbook/assets/2-2-3-audience-membership.png)
 
 >[!SUCCESS] 
@@ -173,7 +175,9 @@ In this exercise, you design and customize the push notification.
    <br>
       * Title: `Get 10% off today!`
       * Body text: `Today only! Get 10% off on your House Blend coffee purchase!` 
+   
    <br>
+
    ![Compose message](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
 2. **Personalize your body text** - add the recipient's first name:
@@ -190,7 +194,9 @@ In this exercise, you design and customize the push notification.
    4. In the **Search field**, search for: `first name`.
    5. Click the **+** next to  the **First name (Profile attributes>Person>Full name)** to add the personalization field to your text. 
    <br>
+
    ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   
     <br>
 
       >[!SUCCESS]
