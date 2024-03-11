@@ -165,7 +165,7 @@ In this exercise, you design and customize the push notification.
 
 ![Android tab](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)
 
- >[!ENDTABS]
+>[!ENDTABS]
 
 ##### **2.3.3.1 [!UICONTROL Compose Message] section**
 
