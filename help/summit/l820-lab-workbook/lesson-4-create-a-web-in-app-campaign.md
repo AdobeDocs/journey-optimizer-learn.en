@@ -52,13 +52,13 @@ will trigger it.
 
 1. In the **Properties** section, give your campaign a unique **Name**:
 
-> [!NOTE]
-> Make sure to start the name with your seat number, so you can easily
-> find your campaign later.
-> 
-> For example, if your seat number is 99: 
->
-> ![Properties Name](/help/summit/l820-lab-workbook/assets/4-1-2-properties-name.png)
+    >[!NOTE]
+    > Make sure to start the name with your seat number, so you can easily
+    > find your campaign later.
+    > 
+    > For example, if your seat number is 99: 
+    >
+    > ![Properties Name](/help/summit/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 #### 4.1.2.2 Define the Trigger 
 
