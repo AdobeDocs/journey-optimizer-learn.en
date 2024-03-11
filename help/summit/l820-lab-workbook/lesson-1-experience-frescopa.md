@@ -113,7 +113,7 @@ On Android, simply download and install the APK by following the alert instructi
 You should now be able to launch the **DX Demo app** on your Android device.
 ![app Android screen](/help/summit/l820-lab-workbook/assets/1-2-android-app-icon.jpg){width="250" align="center" zoomable="yes"}
 
- >[!TABS END]
+ >[!ENDTABS]
 
 ### Exercise 1.3 – Explore the website and app
 
