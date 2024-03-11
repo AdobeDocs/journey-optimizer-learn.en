@@ -87,7 +87,7 @@ After installing the app, you must trust the Adobe enterprise developer:
     ![Adobe Systems selection screen](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems selection screen"){width="250" align="center" zoomable="yes"}
 <br>
 
-    ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG "Trust Adobe Systems screen"){width="250" align="center" zoomable="yes"}
+    ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.png){width="250" align="center" zoomable="yes"}
 
 
 You should now be able to launch the **DX Demo app** on your iPhone:
