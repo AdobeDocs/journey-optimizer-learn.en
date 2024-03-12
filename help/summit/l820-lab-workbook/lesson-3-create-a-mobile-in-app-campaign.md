@@ -13,27 +13,28 @@ thumbnail: KT-14983.jpeg
 
 # Lesson 3 - Create a mobile in-app campaign
 
-In this lesson you learn how to create and trigger a mobile in-app campaign.
+In this lesson you will  learn how to create and trigger mobile in-app messages.
 
 ## Learning Objectives
 
-* Understand how in-app messages are triggered
-* Know how to create a mobile in-app campaign
-* Trigger an in-app message
+* Understand how in-app messages are triggered.
+* Know how to create a mobile in-app campaign.
+* Trigger an in-app message.
+
 
 ## Exercise 3.1 Create a mobile in-app campaign
 
-In this exercise, you create an in-app messaging campaign, design,and customize the in-app message, and activate the in-app message for your own user.
+In this exercise, you create an in-app messaging campaign, which will be triggered, when you open the app. 
 
 ### 3.1.1 Create the campaign
 
 1. In Journey Optimizer, in the left navigation, select Campaigns.
-2. Click on the **[!UICONTROL Create Campaign]** button
+2. Click on the **[!UICONTROL Create Campaign]** button.
    ![Create Campaign](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
-3. On the **[!UICONTROL Create Campaign]** page, in the  **[!UICONTROL Action]** section, select the **[!UICONTROL In-app message]** check box
-4. From the **[!UICONTROL Send to]** dropdown select *[!DNL Mobile]*
-5. From the **[!UICONTROL App surface]** dropdown select *[!DNL Frecopa Mobile App]*
-6. Click the **[!UICONTROL Create]** button
+3. On the **[!UICONTROL Create Campaign]** page, in the  **[!UICONTROL Action]** section, select the **[!UICONTROL In-app message]** check box.
+4. From the **[!UICONTROL Send to]** dropdown select *[!DNL Mobile]*.
+5. From the **[!UICONTROL App surface]** dropdown select *[!DNL Frecopa Mobile App]*.
+6. Click the **[!UICONTROL Create]** button.
    ![App surface](/help/summit/l820-lab-workbook/assets/3-1-1-1-create.png)
 
 >[!SUCCESS]
@@ -45,19 +46,20 @@ In this exercise, you create an in-app messaging campaign, design,and customize 
 
 #### 3.1.2.1 [!UICONTROL Properties section]
 
+Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign again. 
+
+For example if your seat number is 99: `99 - Welcome Campaign`. 
+
 ![properties section](/help/summit/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
-
-<br>
-1. Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign again. For example if your seat number is 99: `99 - Welcome Campaign`. 
-2. If you like, you can add a description but it is not required for this exercise.
    
-
 #### 3.1.2.2 **[!UICONTROL Audience section]**
-
-![audience section](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
    
 1. In the audience section, click on the **[!UICONTROL Select audience]** button.
-2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `your seat number`**. It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
+
+![audience section](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
+
+2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `<your seat number>`**. It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
+
 3. Select the audience and click [!UICONTROL Save]
 
 ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
@@ -71,7 +73,7 @@ In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** 
 
 You are now in the In-App message editor. We will now configure the in-app message content.
 
-#### **3.1.3.1 [!UICONTROL Message layout section]**
+#### 3.1.3.1 [!UICONTROL Message layout section]
 
 First, click on the **[!UICONTROL Modal]** button to make your in-app message a modal layout.
 

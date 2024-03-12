@@ -137,6 +137,7 @@ Give your campaign a name. Make sure to start the name with your seat number, so
    <br>
     **Lab - Seat `your seat number`**
     <br>
+
    >[!NOTE]
    >It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
    
@@ -193,10 +194,11 @@ If you have additional time, you can try some of the bonus exercises below.
    3. Make sure that the Profile attributes are selected in the left navigation.
 
       ![Profile attribute](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+  
    <br>
    4. In the **Search field**, search for: `first name`.
    5. Click the **+** next to  the **First name (Profile attributes>Person>Full name)** to add the personalization field to your text. 
-    <br>
+       <br>
 
       ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
    
@@ -205,7 +207,8 @@ If you have additional time, you can try some of the bonus exercises below.
       >[!SUCCESS]
       >
       > This is what your text should look like:
-      > ![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
+      > 
+      >![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
    
       <br>
 
