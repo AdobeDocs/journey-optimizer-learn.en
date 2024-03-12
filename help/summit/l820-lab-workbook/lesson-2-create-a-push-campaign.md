@@ -196,40 +196,40 @@ If you have additional time, you can try some of the bonus exercises below.
    <br>
    4. In the **Search field**, search for: `first name`.
    5. Click the **+** next to  the **First name (Profile attributes>Person>Full name)** to add the personalization field to your text. 
-   <br>
+    <br>
 
-   ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+      ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
    
-   <br>
+      <br>
 
       >[!SUCCESS]
       >
       > This is what your text should look like:
       > ![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
    
-   <br>
+      <br>
 
    6. Click the **[!UICONTROL Save]** button to save the personalization.
 
-#### Bonus 2: Change the on click behavior of the message to **open a product page**
+### Bonus 2: Change the on click behavior of the message to **open a product page**
 
-   7. In the [!UICONTROL On click behavior] - Section**
-   8. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
-   9. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
+   1. In the [!UICONTROL On click behavior] - Section**
+   2. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
+   3. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
 
-      ![deeplink](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
+   ![deep link](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
       
 ### Bonus 3: Add an image to the message
 
-   10. In the ***[!UICONTROL Add media] - Section** 
-   11. Click the **[!UICONTROL Add media] button**.
+   1. In the ***[!UICONTROL Add media] - Section** 
+   2. Click the **[!UICONTROL Add media] button**.
       ![add media buttons](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
       
-   12.  On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa>Products folder** and select an image from that folder. 
+   3.  On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa>Products folder** and select an image from that folder. 
 
          For example: `HouseBlend.png`
 
-   13. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification.
+   4. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification.
 
       ![select image](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
