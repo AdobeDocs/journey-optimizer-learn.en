@@ -13,7 +13,7 @@ thumbnail: KT-14983.jpeg
 
 # Lesson 3 - Create a mobile in-app campaign
 
-In this lesson you will  learn how to create and trigger mobile in-app messages.
+In this lesson, you create and trigger mobile in-app messages.
 
 ## Learning Objectives
 
@@ -24,16 +24,16 @@ In this lesson you will  learn how to create and trigger mobile in-app messages.
 
 ## Exercise 3.1 Create a mobile in-app campaign
 
-In this exercise, you create an in-app messaging campaign, which will be triggered, when you open the app. 
+In this exercise, you create an in-app messaging campaign, which is triggered, when you open the app. 
 
 ### 3.1.1 Create the campaign
 
 1. In Journey Optimizer, in the left navigation, select Campaigns.
-2. Click on the **[!UICONTROL Create Campaign]** button.
+2. Click the **[!UICONTROL Create Campaign]** button.
    ![Create Campaign](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 3. On the **[!UICONTROL Create Campaign]** page, in the  **[!UICONTROL Action]** section, select the **[!UICONTROL In-app message]** check box.
 4. From the **[!UICONTROL Send to]** dropdown select *[!DNL Mobile]*.
-5. From the **[!UICONTROL App surface]** dropdown select *[!DNL Frecopa Mobile App]*.
+5. From the **[!UICONTROL App surface]** dropdown, select *[!DNL Frecopa Mobile App]*.
 6. Click the **[!UICONTROL Create]** button.
    ![App surface](/help/summit/l820-lab-workbook/assets/3-1-1-1-create.png)
 
@@ -54,7 +54,7 @@ For example if your seat number is 99: `99 - Welcome Campaign`.
    
 #### 3.1.2.2 **[!UICONTROL Audience section]**
    
-1. In the audience section, click on the **[!UICONTROL Select audience]** button.
+1. In the audience section, click the **[!UICONTROL Select audience]** button.
 
 ![audience section](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `<your seat number>`**. It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
@@ -70,53 +70,57 @@ In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** 
   
  <br>
 
-You are now in the In-App message editor. We will now configure the in-app message content.
+You are now in the In-App message editor, where you configure the in-app message content.
 
 #### 3.1.3.1 [!UICONTROL Message layout section]
 
-First, click on the **[!UICONTROL Modal]** button to make your in-app message a modal layout.
+First, click the **[!UICONTROL Modal]** button to make your in-app message a modal layout.
 
    ![modal button](/help/summit/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
    <br>
 
 #### **3.1.3.2 [!UICONTROL Media section:]**
 
-1. Click on the **[!UICONTROL Add media] button**
+1. Click the **[!UICONTROL Add media] button**
 2. On the **[!UICONTROL Select Assets] screen, scroll down to the Fréscopa>Products folder and select an image.
-3. Click on the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
+3. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
 
 #### **3.1.3.3 [!UICONTROL Content section:]**
 
-**Compose your message content** - feel free to add any header and body text you like, we will give you examples that you can use:
+**Compose your message content** - feel free to add any header and body text you like. For example:
 
    <br>
       * Header: `Welcome to Fréscopa app!`
-      * Body text: `Explore our latest coffee offers and machines.` 
+      * Body text: `Explore the latest coffee offers.` 
    <br>
 
 #### 3.1.3.4 [!UICONTROL Buttons section:]
 
-**Compose your buttons** - You can now add buttons, and configure them how you like, we will simply edit the existing button's text for now.
+**Compose your buttons** -  we will simply edit the existing button's text for now.
 
 Change the default Button #1 text to **Get started**
+
+You can add buttons and configure them how you like.
 
 ### 3.1.4 Review and activate
 
 If you are happy with the content of your message, you can activate the message:
 
-1. Click on the **[!UICONTROL Review to activate] button**.
+1. Click the **[!UICONTROL Review to activate] button**.
 
     ![review and activate](/help/summit/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
     <br>
 
-2. Note that the current trigger for the in-app message is the default **Application launch event happens**, which means that the in-app message will be triggered when the app launches. You can see this in the **[!UICONTROL Schedule section]**.
+ >[!NOTE] 
+ >The current trigger for the in-app message is the default **Application launch event happens**, which means that the in-app message will be triggered when the app launches. You can see this in the **[!UICONTROL Schedule section]**.
+
 3. On the **[!UICONTROL Review to activate] screen**, click the **[!UICONTROL Activate] button**.
 
 ![activate](/help/summit/l820-lab-workbook/assets/3-1-4-2-activate.png)
 
 ## Exercise - 3.2 Create a custom trigger
 
-In this exercise, you will create a custom trigger for your in-app message, and send it from your mobile app.
+In this exercise, you create a custom trigger for your in-app message, and send it from your mobile app.
 
 ### 3.2.1 Create the custom trigger
 
@@ -172,12 +176,12 @@ You can use the preview on device feature to preview your in-app messages on you
    ![Edit content button](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
    <br>
 
-2. Now, click on the **[!UICONTROL Preview on device button]** below the device
+2. Now, click the **[!UICONTROL Preview on device button]** below the device
 
    ![preview on device button](/help/summit/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
 
-3. Next, click on the **[!UICONTROL start button]** from the connect to device screen. 
+3. Next, click the **[!UICONTROL start button]** from the connect to device screen. 
 
    ![start button](/help/summit/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
    <br>
