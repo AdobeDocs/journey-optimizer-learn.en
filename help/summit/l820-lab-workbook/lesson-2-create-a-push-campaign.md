@@ -195,7 +195,7 @@ If you have additional time, you can try some of the bonus exercises below.
 
       ![Profile attribute](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
   
-   <br>
+ <br>
    4. In the **Search field**, search for: `first name`.
    5. Click the **+** next to  the **First name (Profile attributes>Person>Full name)** to add the personalization field to your text. 
        <br>
@@ -210,8 +210,7 @@ If you have additional time, you can try some of the bonus exercises below.
       > 
       >![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
    
-      <br>
-
+ <br>
    6. Click the **[!UICONTROL Save]** button to save the personalization.
 
 ### Bonus 2: Change the on click behavior of the message to **open a product page**
@@ -226,12 +225,12 @@ If you have additional time, you can try some of the bonus exercises below.
 
    1. In the ***[!UICONTROL Add media] - Section** 
    2. Click the **[!UICONTROL Add media] button**.
-      ![add media buttons](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
       
+   ![add media buttons](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
    3.  On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa>Products folder** and select an image from that folder. 
 
-         For example: `HouseBlend.png`
-
+      For example: `HouseBlend.png`
+   <br>
    4. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification.
 
       ![select image](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
@@ -251,7 +250,7 @@ If you have additional time, you can try some of the bonus exercises below.
 If you are happy with the content of your message, you can activate the message:
 
 1. Click the **[!UICONTROL Review to activate] button**.
-   ![review and activat button](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![review and activate button](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
    <br>
 2. On the **[!UICONTROL Review to activate] screen**, click the **[!UICONTROL Activate] button**.
    ![review to activate screen](/help/summit/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
