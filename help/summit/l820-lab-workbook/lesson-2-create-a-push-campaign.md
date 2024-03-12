@@ -25,7 +25,7 @@ In exercise 2.3, you create a push campaign and send a push notification to your
 
 * Understand profiles and profile attributes.
 * Know how to create a push campaign.
-* Understand how to design and personalize a push message.
+* Understand how to design a push message.
 
 ## Exercise 2.1 - Log in to Journey Optimizer
  
@@ -178,11 +178,12 @@ In this exercise, you design and customize the push notification.
 
    ![Compose message](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
-+++Stretch tasks
+If you have additional time, you can try some of the bonus exercises below.
 
-If you still have time, try personalizing your message, by adding the recipient's first name:
++++ Bonus exercises
 
-1. Compose messages: **Personalize your body text** - add the recipient's first name:
+### Bonus 1: Personalize the message you are sending by adding the recipient's first name
+
    1. Click the **personalization dialogue icon** next to the **[!UICONTROL Body]** field.
 
       ![personalization button](/help/summit/l820-lab-workbook/assets/2-3-personalization-button.png)
@@ -199,7 +200,7 @@ If you still have time, try personalizing your message, by adding the recipient'
 
    ![Search for first name](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
    
-    <br>
+   <br>
 
       >[!SUCCESS]
       >
@@ -207,27 +208,28 @@ If you still have time, try personalizing your message, by adding the recipient'
       > ![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
    
    <br>
+
    6. Click the **[!UICONTROL Save]** button to save the personalization.
 
-2. Change the on click behavior to open a product page.
+#### Bonus 2: Change the on click behavior of the message to **open a product page**
 
-   1. In the [!UICONTROL On click behavior] - Section**
-   2. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
-   3. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
+   7. In the [!UICONTROL On click behavior] - Section**
+   8. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
+   9. Copy and paste the following URL into the **URL field**: `dxdemo://exoticVibes`
 
       ![deeplink](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
       
-3. Add an image to the message:
+### Bonus 3: Add an image to the message
 
-   1. In the ***[!UICONTROL Add media] - Section** 
-   2. Click the **[!UICONTROL Add media] button**.
+   10. In the ***[!UICONTROL Add media] - Section** 
+   11. Click the **[!UICONTROL Add media] button**.
       ![add media buttons](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
       
-   3.   On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa>Products folder** and select an image from that folder. 
+   12.  On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa>Products folder** and select an image from that folder. 
 
          For example: `HouseBlend.png`
 
-   4. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification.
+   13. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification.
 
       ![select image](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
@@ -238,7 +240,7 @@ If you still have time, try personalizing your message, by adding the recipient'
    > <br>
    >
    > ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
-   
+
 +++
 
 ### 2.3.4. Review and activate
