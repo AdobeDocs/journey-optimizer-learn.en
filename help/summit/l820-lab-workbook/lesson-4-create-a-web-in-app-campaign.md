@@ -13,14 +13,11 @@ thumbnail: KT-14984.jpeg
 
 # Lesson 4 - Create a Web In-app Campaign
 
-Now that you have created mobile experiences for the app, in this
-exercise, you will create one of the experiences you have seen on the
-Fréscopa website.
+Now that you have created mobile experiences for the app, in this exercise, you will create one of the experiences you have seen on the Fréscopa website.
 
 ## Learning Objectives
 
 * Know how to create a Web In-app campaign.
-
 * Trigger an in-app message.
 
 ## Exercise 4.1 - Create a Web In-app Campaign
@@ -115,7 +112,7 @@ will trigger it.
 
 ### 4.1.4 Trigger the Web In-app Message
 
-1. Go to the Fréscopa website and navigate to the **Exercise** page on your browser:
+1. Go to the Fréscopa website and navigate to the **Exercise** page on your browser or through this link [Exercise page](https://dsn.adobe.com/web/adobe-summit-2024/exercise).
 
     ![Web exercises link](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
