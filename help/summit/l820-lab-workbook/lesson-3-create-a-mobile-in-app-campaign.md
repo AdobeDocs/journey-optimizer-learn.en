@@ -57,9 +57,7 @@ For example if your seat number is 99: `99 - Welcome Campaign`.
 1. In the audience section, click on the **[!UICONTROL Select audience]** button.
 
 ![audience section](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
-
 2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `<your seat number>`**. It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
-
 3. Select the audience and click [!UICONTROL Save]
 
 ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
@@ -68,8 +66,9 @@ For example if your seat number is 99: `99 - Welcome Campaign`.
 
 In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** button.
 
-   ![Edit content button](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
-   <br>
+![Edit content button](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+  
+ <br>
 
 You are now in the In-App message editor. We will now configure the in-app message content.
 
@@ -95,7 +94,7 @@ First, click on the **[!UICONTROL Modal]** button to make your in-app message a 
       * Body text: `Explore our latest coffee offers and machines.` 
    <br>
 
-#### **3.1.3.4[!UICONTROL Buttons section:]**
+#### 3.1.3.4 [!UICONTROL Buttons section:]
 
 **Compose your buttons** - You can now add buttons, and configure them how you like, we will simply edit the existing button's text for now.
 
@@ -190,7 +189,7 @@ You can use the preview on device feature to preview your in-app messages on you
 
 5. Now, scan the QR code with your mobile device, and the Fréscopa app will open with a pin screen displayed. Enter the pin shown
 
-   ![preview qr code](/help/summit/l820-lab-workbook/assets/3-3-1-4-preview-qr-code.png)
+   ![preview QR code](/help/summit/l820-lab-workbook/assets/3-3-1-4-preview-qr-code.png)
 
    ![enter pin](/help/summit/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG)
 
