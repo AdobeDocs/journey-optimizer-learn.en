@@ -57,12 +57,8 @@ For example if your seat number is 99: `99 - Welcome Campaign`.
 1. In the audience section, click the **[!UICONTROL Select audience]** button.
 
 ![audience section](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
-2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `<your seat number>`**. 
-
->[!NOTE]
->It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
-
-3. Select the audience and click [!UICONTROL Save]
+2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `<your seat number>`**. It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
+3. Select the audience and click [!UICONTROL Save].
 
 ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
@@ -97,15 +93,14 @@ For example, click on the **[!UICONTROL Modal]** button to make your in-app mess
    ![Media Section](/help/summit/l820-lab-workbook/assets/3-1-3-2-media-section.png)
 
 <br>
-
 3. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
 
 #### **3.1.3.3 [!UICONTROL Content section:]**
 
 **Compose your message content** - feel free to add any header and body text you like. For example:
 
-   * **Header:** `Welcome to Fréscopa app!`
-   * **Body text:** `Explore the latest coffee offers.` 
+* **Header:** `Welcome to Fréscopa app!`
+* **Body text:** `Explore the latest coffee offers.` 
 
 #### 3.1.3.4 [!UICONTROL Buttons section:]
 
@@ -145,7 +140,8 @@ If you are happy with the content of your message, you can activate the message:
 > 2. On the Campaigns overview page, find your campaign and check the status. The status will change from Activating to Live, to Completed:
 >     
 >  ![in-app status activating](/help/summit/l820-lab-workbook/assets/3-1-4-activating.png)
->     
+>
+> <br>
 > 3. Once the status is live: Open the app.
 > 
 > ![in-app status live](/help/summit/l820-lab-workbook/assets/3-1-4-live.png)
@@ -241,7 +237,7 @@ To send this custom event from the mobile app, simply do the following:
     ![modify](/help/summit/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG){width="250" align="center" zoomable="yes"}
     <br>
 
->[SUCCESS]
+>[!SUCCESS]
 >
 >By clicking submit, you manually fired a trigger and the in-app notification you created will pop up:
 
