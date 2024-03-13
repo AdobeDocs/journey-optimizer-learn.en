@@ -48,7 +48,7 @@ In this exercise, you create an in-app messaging campaign, which is triggered, w
 
 Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign again. 
 
-For example if your seat number is 99: `99 - Welcome Campaign`. 
+For example if your seat number is 99:  `99 - Welcome Campaign`. 
 
 ![properties section](/help/summit/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
    
@@ -82,25 +82,25 @@ For example, click the **[!UICONTROL Modal]** button to make your in-app message
    ![modal button](/help/summit/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
    <br>
 
-#### **3.1.3.2 [!UICONTROL Media section:]**
+#### 3.1.3.2 [!UICONTROL Media section]
 
-1. Click the **[!UICONTROL Add media] button**
+1. Click the **[!UICONTROL Add media]** button.
    
    ![Media button](/help/summit/l820-lab-workbook/assets/3-1-add-media-button.png)
 
-2. On the **[!UICONTROL Select Assets] screen, scroll down to the Fréscopa>Products folder and select an image.
+2. On the **[!UICONTROL Select Assets]** screen, scroll down to the Fréscopa>Products folder and select an image.
 
    ![Media Section](/help/summit/l820-lab-workbook/assets/3-1-3-2-media-section.png)
 
 <br>
-3. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification. 
+3. Click the image and click the **[!UICONTROL Select]** button to add the image to your push notification. 
 
-#### **3.1.3.3 [!UICONTROL Content section:]**
+#### 3.1.3.3 [!UICONTROL Content section:]
 
 **Compose your message content** - feel free to add any header and body text you like. For example:
 
-* **Header:** `Welcome to Fréscopa app!`
-* **Body text:** `Explore the latest coffee offers.` 
+* **Header:**  `Welcome to Fréscopa app!`
+* **Body text:**  `Explore the latest coffee offers.` 
 
 #### 3.1.3.4 [!UICONTROL Buttons section:]
 
@@ -177,7 +177,7 @@ Events are programmed into the app and triggered through the user's interaction 
 
    ![in-app message trigger page](/help/summit/l820-lab-workbook/assets/4-1-2-in-app-message-trigger.png)
 
-6. Click the **[!UICONTROL Add condition] button.
+6. Click the **[!UICONTROL Add condition]** button.
 
    ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
     
@@ -188,7 +188,7 @@ Events are programmed into the app and triggered through the user's interaction 
 
 8. Click the **Add condition** button again, and from the **Select a trait dropdown**, select the **Action** option.
 
-   ![action optiom](/help/summit/l820-lab-workbook/assets/3-2-1-3-action-option.png)
+   ![action option](/help/summit/l820-lab-workbook/assets/3-2-1-3-action-option.png)
 
 9. Now, add your custom trigger name to the text field to the right.
 
@@ -229,10 +229,10 @@ To send this custom event from the mobile app, simply do the following:
 1. Open the Fréscopa mobile app
 2. In the navigation at the bottom of the screen, click the Exercise logo.
 
-![Exercise button](/help/summit/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
+   ![Exercise button](/help/summit/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
 
-1. Enter your chosen custom trigger name  in the Event Name field.
-2. Click the Submit button
+3. Enter your chosen custom trigger name  in the Event Name field.
+4. Click the Submit button
 
 
     ![modify](/help/summit/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG){width="250" align="center" zoomable="yes"}

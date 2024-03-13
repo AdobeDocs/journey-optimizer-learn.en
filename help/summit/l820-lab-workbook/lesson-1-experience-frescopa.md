@@ -51,7 +51,7 @@ In this lesson you will experience the interaction with the brand as a consumer,
    5. Enter your **seat number**, you can find it on your lab machine's desktop.
    <br>
         
-        ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+    ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
         
     <br>
    6. Select if you have a Fréscopa machine – you can choose either yes or no.
