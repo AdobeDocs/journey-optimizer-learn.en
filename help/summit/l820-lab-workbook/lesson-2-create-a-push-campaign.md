@@ -92,9 +92,6 @@ Give your campaign a name. Make sure to start the name with your seat number, so
    <br>
     **Lab - Seat `your seat number`**
     <br>
-
-   >[!NOTE]
-   >It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
    
 3. Select the audience and click **[!UICONTROL Save]**
 
