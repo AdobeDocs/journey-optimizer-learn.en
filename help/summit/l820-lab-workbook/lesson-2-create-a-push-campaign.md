@@ -145,7 +145,7 @@ In this exercise, you design and customize the push notification.
    2. Click the **[!UICONTROL Add media] button**.
       
    ![add media buttons](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
-   3. On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa>Products folder** and select an image from that folder. 
+   3. On the **[!UICONTROL Select Assets] screen**, in the left navigation, open the **Fréscopa folder** and select an image from that folder. 
 
       For example: `HouseBlend.png`
    <br>

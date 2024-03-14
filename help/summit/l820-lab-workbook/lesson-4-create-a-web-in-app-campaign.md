@@ -109,7 +109,9 @@ In this section you define what triggers for the message to appear on the websit
    ![Edit content button](/help/summit/l820-lab-workbook/assets/4-1-3-edit-content-button.png)
 
 2. The authoring process is the same process that you completed in the above Mobile In-app exercises. Take time to freely edit your message with your own title, body, and media content.
-   
+    
+    If you use the modal or full screen layout, you can add a button. You can use this URL to open the product page: **`dxdemo://exoticVibes`** 
+    
 3. When you are done editing your message, click **Review to activate**.
 
 4. If everything looks good on the review screen, click **Activate** to publish your Web In-app message.
@@ -135,10 +137,10 @@ In this section you define what triggers for the message to appear on the websit
 >
 >Pressing the Send button with your unique value will trigger your Web In-app message to fire. And you should see your web in-app message appear on your screen.
 >
->This exercise has simulated a custom XDM send event that you saw through your Fréscopa customer experience.
+>This exercise simulated a custom XDM send event that you saw through your Fréscopa customer experience.
 
 ## Thank You!
 
 Thank you for your participation. Please give us feedback, on how we did
-and if the lab met your expectations, by complete the Session survey on
+and if the lab met your expectations, by complete the Lab 820 Session survey in
 the Summit App.
