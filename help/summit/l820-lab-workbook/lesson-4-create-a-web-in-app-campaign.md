@@ -22,7 +22,7 @@ Now that you have created mobile experiences for the app, in this exercise, you 
 
 ## Exercise 4.1 - Create a Web In-app Campaign
 
-In this exercise, you will create a Web In-app campaign. You will design and customize a Web In-app message and establish a custom trigger that will trigger it.
+In this exercise, you create a web in-app campaign. You design and customize a your message and define a trigger that will fire the message.
 
 ### 4.1.1 Create the Campaign
 
@@ -46,7 +46,7 @@ In this exercise you create the campaign and define which web page the in-app me
 
 ### 4.1.2 Configure your Campaign
 
-On this page, you define the properties of the campaign and the event that triggers the in-app message to appear in the web page.  Leave all other settings on the default. You do not need to define an audience.
+On this page, you define the properties of the campaign and the event that triggers the in-app message to appear in the web page. Leave all other settings on the default. For this exercise you do not need to define a specific audience.
 
 #### 4.1.2.1 Properties section 
 
@@ -109,11 +109,9 @@ In this section you define what triggers for the message to appear on the websit
    ![Edit content button](/help/summit/l820-lab-workbook/assets/4-1-3-edit-content-button.png)
 
 2. The authoring process is the same process that you completed in the above Mobile In-app exercises. Take time to freely edit your message with your own title, body, and media content.
-   
-   Here are some media assets you can also choose from. Dimply right click on one of the images and **copy the image address** and paste it into the media field.
-
-
-
+    
+    If you use the modal or full screen layout, you can add a button. You can use this URL to open the product page: **`dxdemo://exoticVibes`** 
+    
 3. When you are done editing your message, click **Review to activate**.
 
 4. If everything looks good on the review screen, click **Activate** to publish your Web In-app message.
@@ -139,10 +137,10 @@ In this section you define what triggers for the message to appear on the websit
 >
 >Pressing the Send button with your unique value will trigger your Web In-app message to fire. And you should see your web in-app message appear on your screen.
 >
->This exercise has simulated a custom XDM send event that you saw through your Fréscopa customer experience.
+>This exercise simulated a custom XDM send event that you saw through your Fréscopa customer experience.
 
 ## Thank You!
 
 Thank you for your participation. Please give us feedback, on how we did
-and if the lab met your expectations, by complete the Session survey on
+and if the lab met your expectations, by complete the Lab 820 Session survey in
 the Summit App.
