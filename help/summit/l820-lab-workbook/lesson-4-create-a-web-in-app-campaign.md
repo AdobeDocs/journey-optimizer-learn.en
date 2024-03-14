@@ -22,11 +22,11 @@ Now that you have created mobile experiences for the app, in this exercise, you 
 
 ## Exercise 4.1 - Create a Web In-app Campaign
 
-In this exercise, you will create a Web In-app campaign. You will design
-and customize a Web In-app message and establish a custom trigger that
-will trigger it.
+In this exercise, you will create a Web In-app campaign. You will design and customize a Web In-app message and establish a custom trigger that will trigger it.
 
 ### 4.1.1 Create the Campaign
+
+In this exercise you create the campaign and define which web page the in-app message will appear on.
 
 1. In Journey Optimizer, in the left navigation, under **JOURNEY MANAGEMENT** select **Campaigns**.
 
@@ -37,13 +37,16 @@ will trigger it.
 3. On the **Create Campaign** page, in the **Action** section, select the **In-app message** check box.
 4. From the **Send to** dropdown select **Web.**
 
-5. Enter the following URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise**
+5. Enter the following URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *This is the web page your message will appear on.*
 
     ![In-app URL](/help/summit/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+
 
 6. Click the **[!UICONTROL Create]** button.
 
 ### 4.1.2 Configure your Campaign
+
+On this page, you define the properties of the campaign and the event that triggers the in-app message to appear in the web page.  Leave all other settings on the default. You do not need to define an audience.
 
 #### 4.1.2.1 Properties section 
 
@@ -59,8 +62,10 @@ will trigger it.
 
 #### 4.1.2.2 Define the Trigger 
 
-1. In the **Triggers section, c**lick **Edit triggers**.
-2. In the **In-app message trigger page,** clear the current trigger, by clicking on the **X**.
+In this section you define what triggers for the message to appear on the website. You define a unique trigger that allows you to send the message just to yourself. 
+
+1. In the **Triggers section**, click **Edit triggers**.
+2. On the **In-app message trigger page,** clear the current trigger, by clicking on the **X**.
 
     ![In-app message trigger](/help/summit/l820-lab-workbook/assets/4-1-2-in-app-message-trigger.png)
 
@@ -78,30 +83,36 @@ will trigger it.
 
    ![dropdown XDM Event](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png) 
 
-7. Add your **custom trigger name** to the **text field** to the right.
-    You can use any term you like, just make sure to add your **seat number** to the action. That way you can ensure that it is unique.
+7. Add your **custom trigger name** to the **text field** to the right.You can use any term you like, just make sure to add your **seat number** to the action. That way you can ensure that it is unique.
     
-    We will use **99web** as an example.
+    For example, **99web**.
     
     >[!TIP]
-    >Create a unique string that is easy for you to remember. This will be needed later in the exercise.*
-
-    ![Show message if - cofigured](/help/summit/l820-lab-workbook/assets/4-1-2-show-message-if-configured.png)
+    >Create a unique string that is easy for you to remember. This will be needed later in the exercise.
 
 8. Click on the dropdown arrow of the field and select **Add "your custom trigger name"** to save your value.
     
     ![Add custom trigger](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
-9. Click **Done** on the top right. This will close the **Rules
-    Builder**.
+    Make sure your event appears under the dropdown:
+
+     ![Show message if - cofigured](/help/summit/l820-lab-workbook/assets/4-1-2-show-message-if-configured.png)
+
+9. Click **Done** on the top right. This will close the **Rules Builder**.
 
 ### 4.1.3 Edit the Content of the In-app Message
+
+ In this section you define the content, design, and layout of your message. 
 
 1. Click the **Edit content** button in the **Action** section to access the authoring construct.
     
    ![Edit content button](/help/summit/l820-lab-workbook/assets/4-1-3-edit-content-button.png)
 
-2. The authoring process is the exact same process that you completed in the above Mobile In-app exercises. Take time to freely edit your message with your own title, body,and media content.
+2. The authoring process is the same process that you completed in the above Mobile In-app exercises. Take time to freely edit your message with your own title, body, and media content.
+   
+   Here are some media assets you can also choose from. Dimply right click on one of the images and **copy the image address** and paste it into the media field.
+
+
 
 3. When you are done editing your message, click **Review to activate**.
 
