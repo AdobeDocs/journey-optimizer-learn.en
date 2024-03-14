@@ -92,9 +92,6 @@ Give your campaign a name. Make sure to start the name with your seat number, so
    <br>
     **Lab - Seat `your seat number`**
     <br>
-
-   >[!NOTE]
-   >It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
    
 3. Select the audience and click **[!UICONTROL Save]**
 
@@ -165,7 +162,7 @@ In this exercise, you design and customize the push notification.
    > ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 
-If you have completed this part of the exercise and still have some time, try the bonus exercise:
+If you completed this part of the exercise and still have some time, try the bonus exercise:
 
 +++ Bonus exercise
 
@@ -198,7 +195,16 @@ If you have completed this part of the exercise and still have some time, try th
    
  <br>
    6. Click the **[!UICONTROL Save]** button to save the personalization.
+   
       
+   >[!SUCCESS]
+   >
+   > 1. On the preview screen, click **[!UICONTROL Expand View]**.
+   > 2. Preview your message.
+   > <br>
+   >
+   > ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
+
 +++
 
 ### 2.2.4. Review and activate
