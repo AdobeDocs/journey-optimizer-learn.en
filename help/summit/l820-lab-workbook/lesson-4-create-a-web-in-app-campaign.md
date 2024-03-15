@@ -60,45 +60,45 @@ On this page, you define the properties of the campaign and the event that trigg
     >
     > ![Properties Name](/help/summit/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
-#### 4.1.2.2 Define the Trigger 
+
+#### 4.1.2.2 Set up your custom trigger rule
 
 In this section you define what triggers for the message to appear on the website. You define a unique trigger that allows you to send the message just to yourself. 
 
-1. In the **Triggers section**, click **Edit triggers**.
-2. On the **In-app message trigger page,** clear the current trigger, by clicking on the **X**.
+1. Scroll down to the **[!UICONTROL Triggers section]** and click the **[!UICONTROL Edit triggers button]**
 
-    ![In-app message trigger](/help/summit/l820-lab-workbook/assets/4-1-2-in-app-message-trigger.png)
+    ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+    <br>
+2. In the rule builder, select the first drop down box and change **[!UICONTROL Application Launch]** to *Sent data to Platform*.
+3. Add a condition by pressing the + Add condition button
 
-3. Click the **Add condition button**.
+   ![add condition button](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
-    ![add condition button](/help/summit/l820-lab-workbook/assets/4-1-2-add-condition.png)
+4. From the Select a trait drop down, select XDM event type.
 
-4. From the **Select an event drop down,** select the **Sent data to platform** option:
+   ![XDM event type](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
-    ![event drop down- sent data to platform](/help/summit/l820-lab-workbook/assets/4-1-2-event-drop-down.png)
 
-5. Click the **add condition button** again.
+5. In the following text field, add a *`<custom string value>`* that you can remember, and press **[!UICONTROL]Add** `<custom string value>` to save the value. 
 
-6. From the **Select trait dropdown,** select the **XDM event type**.
+   This custom string value will be used later to fire you message. 
 
-   ![dropdown XDM Event](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png) 
+   >[!TIP]
+   > Adding your seat number to the custom string value, will make it unique and easier for you to remember.
+   > 
+   > For example: `99web`
+   > 
 
-7. Add your **custom trigger name** to the **text field** to the right.You can use any term you like, just make sure to add your **seat number** to the action. That way you can ensure that it is unique.
-    
-    For example, **99web**.
-    
-    >[!TIP]
-    >Create a unique string that is easy for you to remember. This will be needed later in the exercise.
+   ![add custom trigger string value](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
-8. Click on the dropdown arrow of the field and select **Add "your custom trigger name"** to save your value.
-    
-    ![Add custom trigger](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+6. Press the **[!UICONTROL Done]** button in the top right.
 
-    Make sure your event appears under the dropdown:
+>[!SUCCESS]
+>
+>You have now defined your web in-app message with a custom trigger event.
+>
+>![Web campaign with custom trigger defined](/help/summit/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
-     ![Show message if - cofigured](/help/summit/l820-lab-workbook/assets/4-1-2-show-message-if-configured.png)
-
-9. Click **Done** on the top right. This will close the **Rules Builder**.
 
 ### 4.1.3 Edit the Content of the In-app Message
 
@@ -121,7 +121,7 @@ In this section you define what triggers for the message to appear on the websit
 
 ### 4.1.4 Trigger the Web In-app Message
 
-1. Go to the Fréscopa website and navigate to the **Exercise** page on your browser or through this link [Exercise page](https://dsn.adobe.com/web/adobe-summit-2024/exercise).
+1. Go to the Fréscopa website and navigate to the **Exercise** page on your browser.
 
     ![Web exercises link](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
