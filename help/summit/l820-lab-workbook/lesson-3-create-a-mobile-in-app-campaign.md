@@ -150,11 +150,14 @@ For example, click the **[!UICONTROL Modal]** button to make your in-app message
       4. Font color 
       5. Alignment
    
-      ![advanced formatting options](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
+      ![advanced formatting options](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png){align="center" zoomable="yes"}
    
    3. **Settings Tab**
       
       By shifting over to this tab and in the **[!UICONTROL Preview]** section, you can change the **App Preview**.
+      <br>   
+      ![Settings tab](/help/summit/l820-lab-workbook/assets/3-1-3-1-settings-tab.png){align="center" zoomable="yes"}
+         <br>
 
       1. The **[!UICONTROL Layout]** section gives you option to use an image as the background or a solid color.
 
@@ -166,9 +169,7 @@ For example, click the **[!UICONTROL Modal]** button to make your in-app message
          5. Custom position
          6. Custom animation
          7. Message round corner
-         <br>
-         ![Settings tab](/help/summit/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
-         <br>
+   <br>
 4. When you are done authoring your content and are satisfied with you message click the **[!UICONTROL Review to activate] button**.
 
    >[!SUCCESS]
@@ -219,9 +220,10 @@ To refresh the payload and download your newly published Campaign:
 >![In-app message](/help/summit/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
 >
 > *If you are having issues triggering your message, check for the following:*
->  *  *In the Event name field on your mobile app, make sure that you type in your trigger rule value exactly how you had it in the Campaign.*
->  * *Make sure capitalization is correct and that you do not have a leading or ending space.*
->  *  *You can look up your trigger rule value that you used if  you go back to your Campaign review page by clicking back into your campaign on the Campaign Dashboard.*
+> 
+> * *In the Event name field on your mobile app, make sure that you type in your trigger rule value exactly how you had it in the Campaign.*
+> * *Make sure capitalization is correct and that you do not have a leading or ending space.*
+> * *You can look up your trigger rule value that you used if  you go back to your Campaign review page by clicking back into your campaign on the Campaign Dashboard.*
 
 You just authored and published your first Journey Optimizer In-app message!
 
