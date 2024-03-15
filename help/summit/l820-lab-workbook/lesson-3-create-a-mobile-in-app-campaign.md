@@ -51,16 +51,44 @@ Give your campaign a name. Make sure to start the name with your seat number, so
 For example if your seat number is 99:  `99 - Welcome Campaign`. 
 
 ![properties section](/help/summit/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
-   
-#### 3.1.2.2 **[!UICONTROL Audience section]**
-   
-1. In the audience section, click the **[!UICONTROL Select audience]** button.
 
-![audience section](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
-2. On the **[!UICONTROL Select audience]** screen, search for the audience **Lab - Seat `<your seat number>`**. It should be the Lab audience that the profile you created on [!DNL Fréscopa] is assigned to.
-3. Select the audience and click [!UICONTROL Save].
 
-![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
+#### 3.1.2.2 Set up your custom trigger rule
+
+1. Scroll down to the **[!UICONTROL Triggers section]** and click the **[!UICONTROL Edit triggers button]**
+
+    ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+    <br>
+2. In the rule builder, select the first drop down box and change **[!UICONTROL Application Launch]** to *Sent data to Platform*.
+3. Add a condition by pressing the + Add condition button
+
+   ![add condition button](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+
+4. From the Select a trait drop down, select XDM event type.
+
+   ![XDM event type](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+
+
+5. In the following text field, add a *`<custom string value>`* that you can remember, and press **[!UICONTROL]Add** `<custom string value>` to save the value. 
+
+   This custom string value will be used later to fire you message. 
+
+   >[!TIP]
+   > Adding your seat number to the custom string value, will make it unique and easier for you to remember.
+   > 
+   > For example: `99exerciseTrigger`
+   > 
+
+   ![add custom trigger string value](/help/summit/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
+
+6. Press the **[!UICONTROL Done]** button in the top right.
+
+>[!SUCCESS]
+>
+>You have now defined your In-app message with a custom trigger event.
+>
+>![Campaign with custom trigger defined](/help/summit/l820-lab-workbook/assets/3-1-2-2-campaign-with-custom-trigger.png)
+
 
 ### 3.1.3 Edit the content of the in-app message
 
@@ -72,7 +100,7 @@ In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** 
 
 You are now in the In-App message editor, where you configure the in-app message content.
 
-#### 3.1.3.1 [!UICONTROL Message layout section]
+#### 3.1.3.1 Layout
 
 Select which layout should be applied to your message. 
 
@@ -82,204 +110,166 @@ For example, click the **[!UICONTROL Modal]** button to make your in-app message
    ![modal button](/help/summit/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
    <br>
 
-#### 3.1.3.2 [!UICONTROL Media section]
+#### 3.1.3.2 Authoring your message and publishing your campaign
 
-1. Click the **[!UICONTROL Add media]** button.
+1. In the media section, paste in the following URL:  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
+   <br>
+   When you click out of the value field, your image should appear.
    
-   ![Media button](/help/summit/l820-lab-workbook/assets/3-1-add-media-button.png)
+   ![media shown on the preview](/help/summit/l820-lab-workbook/assets/3-1-3-2-media.png)
+ 
+2. In the following **[!UICONTROL Content]** section, add in your own custom text that you want to be displayed in your message for the **[!UICONTROL Header]** and **[!UICONTROL Body]**.
 
-2. On the **[!UICONTROL Select Assets]** screen, scroll down to the Fréscopa>Products folder and select an image.
+   ![Header and Body](/help/summit/l820-lab-workbook/assets/3-1-3-2-content.png)
 
-   ![Media Section](/help/summit/l820-lab-workbook/assets/3-1-3-2-media-section.png)
+3. Additional Options:
+   1. **Buttons:**
+      1. In this section of the editor, you can customize the text for your CTA button by editing the Button Text field.
 
-<br>
-3. Click the image and click the **[!UICONTROL Select]** button to add the image to your push notification. 
+      2. The **[!UICONTROL Interact event]** field is used to define the value that is passed to the SDK when the CTA is pressed by the user.
 
-#### 3.1.3.3 [!UICONTROL Content section:]
+      3. The **[!UICONTROL Target]** field is used to define where you would like the CTA to take the user. This includes URLs and Deeplinks. 
+         <br>
+         For example, you can add this deeplink to a product page as the **target**: dxdemo://exoticVibes
+         <br>  
+      4. You can add additional buttons by pressing **[!UICONTROL + Add button]**.
 
-**Compose your message content** - feel free to add any header and body text you like. For example:
+      5. When a second button is added to your message, you now have the option to change the button layout with the drop-down box.
+         <br>
+         ![Buttons section](/help/summit/l820-lab-workbook/assets/3-1-3-2-buttons.png)
+   
+   2. **Advanced formatting**
 
-* **Header:**  `Welcome to Fréscopa app!`
-* **Body text:**  `Explore the latest coffee offers.` 
+      Enabling this toggle will give additional customization options in the editor.
+      
+      ![advanced formatting toggle](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-toggle.png)
+      
+      1. Media Size
+      2. Font   
+      3. Pt size
+      4. Font color 
+      5. Alignment
+   
+      ![advanced formatting options](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
+   
+   3. **Settings Tab**
+      
+      By shifting over to this tab and in the **[!UICONTROL Preview]** section, you can change the **App Preview**.
 
-#### 3.1.3.4 [!UICONTROL Buttons section:]
+      1. The **[!UICONTROL Layout]** section gives you option to use an image as the background or a solid color.
 
-Add a button to your in-app message:
+      2. The **[!UICONTROL Message]** section provides custom interactions that can be enabled for your message:
+         1. Custom Gestures
+         2. UI Takeover
+         3. Custom UI takeover
+         4. Custom size
+         5. Custom position
+         6. Custom animation
+         7. Message round corner
+         <br>
+         ![Settings tab](/help/summit/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
+         <br>
+4. When you are done authoring your content and are satisfied with you message click the **[!UICONTROL Review to activate] button**.
 
-1. Change the default Button #1 text. 
-   For example: `Shop now`
-2. Interact event: Clicked
-3. Add a product page as the **target**: dxdemo://exoticVibes
-
-<br>
-
-   ![Button configuration](/help/summit/l820-lab-workbook/assets/3-1-3-4-button-config.png)
-
-You can add additional buttons if you like.
-
-### 3.1.4 Review and activate
-
-If you are happy with the content of your message, you can activate the message:
-
-1. Click the **[!UICONTROL Review to activate] button**.
-
-    ![review and activate](/help/summit/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
-    <br>
+   >[!SUCCESS]
+   >
+   > You have now completed authoring your mobile In-app message. You should now be on the Campaign **[!UICONTROL Review to activate]** page.
+   >
+   >![review and activate](/help/summit/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
+   >
+   > Here you will be able to see a complete summary of your message. 
+   >
+   > *Please take note of the custom value that you used as you trigger rule. This value will be used to fire your In-app message. The value that used can be found on in the highlight area of the summary page.*
 
    >[!NOTE] 
    >The current trigger for the in-app message is the default **Application launch event happens**, which means that the in-app message is triggered when the app launches. You can see this in the **[!UICONTROL Schedule section]**.
 
-2. On the **[!UICONTROL Review to activate] screen**, click the **[!UICONTROL Activate] button**.
-
-![activate](/help/summit/l820-lab-workbook/assets/3-1-4-2-activate.png)
+5. If you are done reviewing your Campaign, press the Activate button to publish the Campaign.
+   <br>
+   ![activate](/help/summit/l820-lab-workbook/assets/3-1-4-2-activate.png)
 
 
 >[!SUCCESS]
 >
-> 1. Close the app on your phone.
-> 2. On the Campaigns overview page, find your campaign and check the status. The status changes from Activating to Live, to Completed:
->     
->  ![in-app status activating](/help/summit/l820-lab-workbook/assets/3-1-4-activating.png)
+> You should now see the Campaigns dashboard. Locate your campaign by scrolling or by using the search feature. When your Campaign changes status to **[!UICONTROL Live]** (~1min), your Campaign has now been published. 
 >
-> <br>
-> 3. Once the status is live: Open the app.
-> 
-> ![in-app status live](/help/summit/l820-lab-workbook/assets/3-1-4-live.png)
+> ![Published campaign](/help/summit/l820-lab-workbook/assets/3-1-3-2-published-campaign.png)
 >
-> The in-app notification you created pops up:
->
-> ![in-app notification](/help/summit/l820-lab-workbook/assets/3-1-success-in-app-notification.png){width="250" align="center" zoomable="yes"}
->
-> Click the button. You are redirected to the House Blend product page:
->
-> ![product page](/help/summit/l820-lab-workbook/assets/3-1-product-page.png){width="250" align="center" zoomable="yes"}
 
 
-## Exercise - 3.2 Create a custom trigger
+#### 3.1.3.3 Firing your In-app Message
 
-Events are programmed into the app and triggered through the user's interaction with the app. Like in exercise 3.1, where the message is triggered when the app is opened, or when you view a specific page, click a button and so on. In this exercise, you define your own trigger and manually execute it from the app directly to test your message. 
+To refresh the payload and download your newly published Campaign:
 
-### 3.2.1 Create the custom trigger
-
-1. In the left navigation, select **Campaigns** 
-2. On the Campaigns page, select the campaign you created in exercise 3.1. 
-3. Click the **[!UICONTROL Modify campaign button]** 
-
-    ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-1-modify-campaign.png)
-    <br>
-
-4. Scroll down to the **[!UICONTROL Triggers section]** and select the **[!UICONTROL Edit triggers button]**
-
-    ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
-    <br>
-
-5. In the  In-app message trigger page, clear the current trigger, by clicking the **X**.
-
-   ![in-app message trigger page](/help/summit/l820-lab-workbook/assets/4-1-2-in-app-message-trigger.png)
-
-6. Click the **[!UICONTROL Add condition]** button.
-
-   ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+1. On your mobile device, completely close out the Fréscopa app. 
+2. Reopen the Fréscopa app.
+3. Now navigate to the Exercise tab on the app.
     
-   <br>
-7. Select the **[!UICONTROL Track action]** option from the dropdown
-    
-    ![track action option](/help/summit/l820-lab-workbook/assets/3-2-track-action.png)
-
-8. Click the **Add condition** button again, and from the **Select a trait dropdown**, select the **Action** option.
-
-   ![action option](/help/summit/l820-lab-workbook/assets/3-2-1-3-action-option.png)
-
-9. Now, add your custom trigger name to the text field to the right.
-
-   You can use any term you like, make sure to add your seat number to the action.
-   <br>
-
-   >[!TIP]
-   > Create a unique string that is easy for you to remember. This is needed later in the exercise.
-   >
-   >  For example: `99track`
-
-
-    ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-4-add-custom-action-name.png)
-    <br>
-
-10. Click the done button on the top right.
-
-    ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-5-done-editing-trigger.png)
-    <br>
-
->[!SUCCESS]
->You should see the following information in the Triggers section of the campaign overview page:
->
->![success](/help/summit/l820-lab-workbook/assets/3-2-success.png)
-
-### 3.2.2 Activate your campaign:
-
-1. Click the Review to activate button.
-2. On the Review to activate page, click the Activate button to activate your campaign.
-3. Wait until your campaign is live before you move to exercise 3.2.3.
-
-### 3.2.3 Send the custom event
-
-You now have a custom event that triggers the in-app message whenever a call with the event name you defined (in this example "99track") is sent from the mobile app. We implemented a feature in the lab mobile app that allows you to manually trigger your event.
-
-To send this custom event from the mobile app, simply do the following:
-
-1. Open the Fréscopa mobile app
-2. In the navigation at the bottom of the screen, click the Exercise logo.
-
    ![Exercise button](/help/summit/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
 
-3. Enter your chosen custom trigger name  in the Event Name field.
-4. Click the Submit button
+4. In the text field, type in your custom trigger value that you defined in you Campaign. Then press Submit.
 
 
     ![modify](/help/summit/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG){width="250" align="center" zoomable="yes"}
-    <br>
 
 >[!SUCCESS]
 >
 >By clicking submit, you manually fired a trigger and the in-app notification you created pops up:
+>
+>![In-app message](/help/summit/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
+>
+> *If you are having issues triggering your message, check for the following:*
+>  *  *In the Event name field on your mobile app, make sure that you type in your trigger rule value exactly how you had it in the Campaign.*
+>  * *Make sure capitalization is correct and that you do not have a leading or ending space.*
+>  *  *You can look up your trigger rule value that you used if  you go back to your Campaign review page by clicking back into your campaign on the Campaign Dashboard.*
 
-## Exercise 3.3 Preview on device
+You just authored and published your first Journey Optimizer In-app message!
 
-The preview on device feature is an out of the box functionality that allows you to test and review your in-app messages directly on your device before activating it. In this exercise, you learn how to use this feature and preview the message you created in exercise 3.1.
 
-1. Open the campaign that you created, by clicking the name of the campaign in the Campaigns overview page to open the campaign. 
-2. In the content section, click the **[!UICONTROL Preview on device button]** below phone.
+## Exercise 3.2 Duplicate Campaign and Preview on device
+
+The **Duplicate campaign** and **Preview on device** features are out-of-the-box functionality that allows you to duplicate your Campaigns and test and review your In-app messages directly on your device before activating it. In this exercise you will learn how to use this feature and preview the message you created in exercise 3.1.
+
+1. Open the campaign you just created, by clicking on the name of the campaign in the Campaigns dashboard page to open the campaign. This will take you back to the **[!UICONTROL Review campaign]** page. 
+1. Press the **[!UICONTROL Duplicate button]**. This will open a new prompt to name your new campaign that is being duplicated. Add in a new name that you easily remember or used the default name where **[!DNL _copy]** is added by default.
+
+   ![duplicate campaign](/help/summit/l820-lab-workbook/assets/3-2-duplicate-campaign.png)
+
+1. Once you hit the duplicate button, your duplicate campaign will be created, and you will be taken back to the Campaigns Dashboard. 
+1. Once your campaign is duplicated, open your new campaign.
+
+1. You can access the Preview on device feature on the **[!UICONTROL Campaign review]** page or on the **[!UICONTROL Campaign author]** step.
 
    ![preview on device button](/help/summit/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
 
-3. Next, click the **[!UICONTROL start button]** from the connect to device screen. 
+1. Next, click the **[!UICONTROL start button]** from the connect to device screen. 
 
    ![start button](/help/summit/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
    <br>
 
-4. Enter the base url which has been configured to launch the Fréscopa app: `dxdemo://`
+1. Enter the base url which has been configured to launch the Fréscopa app: `dxdemo://`
 
    ![preview url](/help/summit/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
    
    <br>
 
-5. Follow the instructions on the screen: 
-6. Scan the QR code with your mobile device, and the Fréscopa app opens with a screen that allows you to enter a pin displayed. 
-7. Enter the pin shown in AJO on the Assurance screen on your device and click  the Connect button which appears at the bottom right once you have entered the pin. 
+1. Follow the instructions on the screen: 
+   1. Scan the QR code with your mobile device, and the Fréscopa app opens with a screen that allows you to enter a pin displayed. 
+   2. Enter the pin shown in AJO on the Assurance screen on your device and click  the Connect button which appears at the bottom right once you have entered the pin. 
 
 
    ![enter pin](/help/summit/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
+   <br>
+1. This pop-up appears on your computer screen
+   
+   ![pop-up](/help/summit/l820-lab-workbook/assets/3-3-pop-up.png)
 
+1. Click the Done button. This will close the dialog box and your phone is now connected to Preview on device.
+
+  
 >[!SUCCESS]
-> 
-> 1. This pop-up appears on your computer screen
->  
->     ![pop-up](/help/summit/l820-lab-workbook/assets/3-3-pop-up.png)
->  
-> 2. You should see the adobe logo with a green bubble on your app screen: 
->     ![logo with bubble](/help/summit/l820-lab-workbook/assets/3-3-logo-assurance.png)
->     
-> 3. Click **Done** on the pop-up on your computer.
 >
 > Your in-app message appears on your device. 
-> Once connected, your in-app message should display each time, you click the Preview on device button.
+>
+> *Once connected, your in-app message should display each time, you click the **[!UICONTROL Preview on device] button**.*
