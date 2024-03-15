@@ -123,41 +123,41 @@ For example, click the **[!UICONTROL Modal]** button to make your in-app message
    ![Header and Body](/help/summit/l820-lab-workbook/assets/3-1-3-2-content.png)
 
 3. Additional Options:
-   1. **Buttons:**
+   1. **Buttons:** 
+
+        ![Buttons section](/help/summit/l820-lab-workbook/assets/3-1-3-2-buttons.png)
+
       1. In this section of the editor, you can customize the text for your CTA button by editing the Button Text field.
 
       2. The **[!UICONTROL Interact event]** field is used to define the value that is passed to the SDK when the CTA is pressed by the user.
 
-      3. The **[!UICONTROL Target]** field is used to define where you would like the CTA to take the user. This includes URLs and Deeplinks. 
-         <br>
-         For example, you can add this deeplink to a product page as the **target**: dxdemo://exoticVibes
-         <br>  
+      3. The **[!UICONTROL Target]** field is used to define where you would like the CTA to take the user. This includes URLs and Deeplinks. For example, you can add this deeplink to a product page such as `dxdemo://exoticVibes`.
+           
       4. You can add additional buttons by pressing **[!UICONTROL + Add button]**.
 
       5. When a second button is added to your message, you now have the option to change the button layout with the drop-down box.
-         <br>
-         ![Buttons section](/help/summit/l820-lab-workbook/assets/3-1-3-2-buttons.png)
+       
    
    2. **Advanced formatting**
+          
+      ![advanced formatting toggle](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-toggle.png)
 
       Enabling this toggle will give additional customization options in the editor.
-      
-      ![advanced formatting toggle](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-toggle.png)
-      
+
       1. Media Size
-      2. Font   
-      3. Pt size
-      4. Font color 
-      5. Alignment
-   
-      ![advanced formatting options](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png){align="center" zoomable="yes"}
+      1. Font   
+      1. Pt size
+      1. Font color 
+      1. Alignment
+
+      ![advanced formatting options](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
    
    3. **Settings Tab**
       
       By shifting over to this tab and in the **[!UICONTROL Preview]** section, you can change the **App Preview**.
       <br>   
-      ![Settings tab](/help/summit/l820-lab-workbook/assets/3-1-3-1-settings-tab.png){align="center" zoomable="yes"}
-         <br>
+      ![Settings tab](/help/summit/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
+       <br>
 
       1. The **[!UICONTROL Layout]** section gives you option to use an image as the background or a solid color.
 
