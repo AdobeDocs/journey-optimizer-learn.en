@@ -91,8 +91,8 @@ Give your campaign a name. Make sure to start the name with your seat number, so
    
 1. On the **[!UICONTROL Select audience]** screen, search for the audience:
   
-  * **Lab - Seat `your seat number`**
-      
+   **Lab - Seat `your seat number`**
+   
 1. Select the audience, then click **[!UICONTROL Save]**.
 
    ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
@@ -176,7 +176,7 @@ If you completed this part of the exercise and still have some time, try the bon
 
 1. Ensure that the **Profile attributes** are selected in the left navigation.
 
-  ![Profile attribute](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   ![Profile attribute](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
   
 1. In the **Search field**, search for: `first name`.
 
