@@ -13,18 +13,14 @@ thumbnail: KT-14984.jpeg
 
 # Lesson 4 - Create a Web In-app Campaign
 
-Now that you have created mobile experiences for the app, in this exercise, you will create one of the experiences you have seen on the Fréscopa website.
+Now that you have created mobile experiences for the app, in this lesson, you will create one of the experiences you have seen on the Fréscopa website. You create a web in-app campaign. You design and customize a your message and define a trigger that will fire the message.
 
 ## Learning Objectives
 
 * Know how to create a Web In-app campaign.
 * Trigger an in-app message.
 
-## Exercise 4.1 - Create a Web In-app Campaign
-
-In this exercise, you create a web in-app campaign. You design and customize a your message and define a trigger that will fire the message.
-
-### 4.1.1 Create the Campaign
+## Exercise 4.1 - Create the Campaign
 
 In this exercise you create the campaign and define which web page the in-app message will appear on.
 
@@ -44,11 +40,11 @@ In this exercise you create the campaign and define which web page the in-app me
 
 6. Click the **[!UICONTROL Create]** button.
 
-### 4.1.2 Configure your Campaign
+## Exercise 4.2 Configure your Campaign
 
 On this page, you define the properties of the campaign and the event that triggers the in-app message to appear in the web page. Leave all other settings on the default. For this exercise you do not need to define a specific audience.
 
-#### 4.1.2.1 Properties section 
+### 4.2.1 Give your campaign a name 
 
 1. In the **Properties** section, give your campaign a unique **Name**:
 
@@ -61,7 +57,7 @@ On this page, you define the properties of the campaign and the event that trigg
     > ![Properties Name](/help/summit/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
-#### 4.1.2.2 Set up your custom trigger rule
+### 4.2.2 Set up your custom trigger rule
 
 In this section you define what triggers for the message to appear on the website. You define a unique trigger that allows you to send the message just to yourself. 
 
@@ -100,7 +96,7 @@ In this section you define what triggers for the message to appear on the websit
 >![Web campaign with custom trigger defined](/help/summit/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
-### 4.1.3 Edit the Content of the In-app Message
+### 4.2.3 Edit the content of the in-app Message
 
  In this section you define the content, design, and layout of your message. 
 
@@ -119,7 +115,7 @@ In this section you define what triggers for the message to appear on the websit
 5. This will take you back to the Campaign Dashboard. 
     Wait unit your campaign status changes to **Live** before moving to 4.1.4.
 
-### 4.1.4 Trigger the Web In-app Message
+## Exercise 4.3 Trigger the web in-app message
 
 1. Go to the Fréscopa website and navigate to the **Exercise** page on your browser.
 
@@ -135,11 +131,11 @@ In this section you define what triggers for the message to appear on the websit
 
 >[!SUCCESS]
 >
->Pressing the Send button with your unique value will trigger your Web In-app message to fire. And you should see your web in-app message appear on your screen.
+>Clicking the Send button with your unique value will trigger your Web In-app message to fire. And you should see your web in-app message appear on your screen.
 >
 >This exercise simulated a custom XDM send event that you saw through your Fréscopa customer experience.
 
-## Thank You!
+## Thank you!
 
 Thank you for your participation. Please give us feedback, on how we did
 and if the lab met your expectations, by complete the Lab 820 Session survey in
