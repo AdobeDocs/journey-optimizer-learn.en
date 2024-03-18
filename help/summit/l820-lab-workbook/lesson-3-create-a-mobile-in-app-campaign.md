@@ -226,7 +226,7 @@ To refresh the payload and download your newly published Campaign:
 You just authored and published your first Journey Optimizer In-app message!
 
 
-## Exercise 3.2 Duplicate Campaign and Preview on device
+## Bonus Exercise: Duplicate Campaign and Preview on device
 
 The **Duplicate campaign** and **Preview on device** features are out-of-the-box functionality that allows you to duplicate your Campaigns and test and review your In-app messages directly on your device before activating it. In this exercise you will learn how to use this feature and preview the message you created in exercise 3.1.
 
