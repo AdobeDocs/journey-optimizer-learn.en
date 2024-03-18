@@ -55,8 +55,6 @@ jira: KT-14980
 
 In this exercise, you create the push campaign, design, and customize the push notification, and send the push notification to your own device.
 
-### 2.2.1 Create the campaign
-
 1. In Journey Optimizer, in the left navigation, in the **[!UICONTROL JOURNEY MANAGEMENT]** section, select **Campaigns**.
 2. Click the **[!UICONTROL Create Campaign]** button
    ![Create Campaign](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
@@ -71,18 +69,18 @@ In this exercise, you create the push campaign, design, and customize the push n
 >You should now be on the Campaign properties page:
 > ![Campaign properties](/help/summit/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
-### 2.2.2 Configure your campaign
+## Exercise 2.3 - Configure your campaign
 
 On this page, you configure the properties, audience, actions, and schedule of your campaign.
 
-#### 2.2.2.1 [!UICONTROL Properties section]
+### 2.3.1 [!UICONTROL Properties section]
 
 Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign when you search for it. 
 
    For example, if your seat number is 99: `99 - 10% Discount Campaign`. 
 ![properties section](/help/summit/l820-lab-workbook/assets/2-3-1-4-properties-section.png)
 
-#### 2.2.2.2 **[!UICONTROL Audience section]**
+### 2.3.2 **[!UICONTROL Audience section]**
    
 1. In the audience section, click the **[!UICONTROL Select audience]** button.
 
@@ -97,7 +95,7 @@ Give your campaign a name. Make sure to start the name with your seat number, so
 
    ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
-### 2.2.3. Edit the content of the push notification
+### 2.3.3 Edit the content of the push notification
 
 In this exercise, you design and customize the push notification.
 
@@ -120,7 +118,7 @@ In this exercise, you design and customize the push notification.
 
 >[!ENDTABS]
 
-#### 2.2.3.1 [!UICONTROL Compose Message] section
+#### 2.3.3.1 [!UICONTROL Compose Message] section
 
 1. **Compose your message** - feel free to add any text you would like; here are examples that you can use:
    <br>
@@ -131,7 +129,7 @@ In this exercise, you design and customize the push notification.
 
    ![Compose message](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
-#### 2.2.3.2 Change the on click behavior of the message to **open a product page**
+#### 2.3.3.2 Change the on click behavior of the message to **open a product page**
 
    1. In the [!UICONTROL On click behavior] - Section**
    2. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
@@ -139,7 +137,7 @@ In this exercise, you design and customize the push notification.
 
    ![deep link](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
 
-#### 2.2.3.3 Add an image to the message
+#### 2.3.3.3 Add an image to the message
 
    1. In the ***[!UICONTROL Add media] - Section** 
    2. Click the **[!UICONTROL Add media] button**.
@@ -161,13 +159,13 @@ In this exercise, you design and customize the push notification.
    >
    > ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
-## Bonus Exercise
+### Bonus Exercise
 
 If you completed this part of the exercise and still have some time, try the bonus exercise:
 
 +++ Bonus exercise
 
-### Bonus 1: Personalize the message that you are sending by adding the recipient's first name
+#### Personalize the message that you are sending by adding the recipient's first name
 
    1. Click the **personalization dialogue icon** next to the **[!UICONTROL Body]** field.
 
@@ -208,7 +206,7 @@ If you completed this part of the exercise and still have some time, try the bon
 
 +++
 
-### 2.2.4. Review and activate
+### 2.3.4. Review and activate
 
 If you are happy with the content of your message, you can activate the message:
 
