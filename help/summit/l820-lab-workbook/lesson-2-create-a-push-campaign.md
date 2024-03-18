@@ -34,7 +34,7 @@ In this exercise, you will put your marketer hat on and implement a marketing ca
 
    ![desktop](/help/summit/l820-lab-workbook/assets/desk-top.png)
 
-    ![Login screen](/help/summit/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
+   ![Login screen](/help/summit/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
    
 1. You can skip the next two screens:
    
