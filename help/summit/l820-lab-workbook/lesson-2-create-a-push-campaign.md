@@ -139,7 +139,7 @@ In this exercise, you design and customize the push notification.
 
    ![deep link](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
 
-### 2.2.3.3 Add an image to the message
+#### 2.2.3.3 Add an image to the message
 
    1. In the ***[!UICONTROL Add media] - Section** 
    2. Click the **[!UICONTROL Add media] button**.
@@ -161,6 +161,7 @@ In this exercise, you design and customize the push notification.
    >
    > ![expand view](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
+## Bonus Exercise
 
 If you completed this part of the exercise and still have some time, try the bonus exercise:
 
