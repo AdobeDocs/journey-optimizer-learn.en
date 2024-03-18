@@ -40,7 +40,7 @@ In this exercise you create the campaign and define which web page the in-app me
 
 1. Click **[!UICONTROL Create]**.
 
-## Exercise 4.2 Configure your Campaign
+## Exercise 4.2 Configure your campaign
 
 On this page, you define the properties of the campaign and the event that triggers the in-app message to appear in the web page. Leave all other settings on the default. For this exercise you do not need to define a specific audience.
 
