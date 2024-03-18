@@ -26,8 +26,6 @@ In this lesson, you create and trigger mobile in-app messages.
 
 In this exercise, you create an in-app messaging campaign, which is triggered, when you open the app. 
 
-### 3.1.1 Create the campaign
-
 1. In Journey Optimizer, in the left navigation, select Campaigns.
 2. Click the **[!UICONTROL Create Campaign]** button.
    ![Create Campaign](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
@@ -42,9 +40,9 @@ In this exercise, you create an in-app messaging campaign, which is triggered, w
 >You should now be on the Campaign properties:
 > ![Campaign properties](/help/summit/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
 
-### 3.1.2 Configure your campaign
+## Exercise 3.2 Configure your campaign
 
-#### 3.1.2.1 [!UICONTROL Properties section]
+### 3.2.1 [!UICONTROL Properties section]
 
 Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign again. 
 
@@ -53,7 +51,7 @@ For example if your seat number is 99:  `99 - Welcome Campaign`.
 ![properties section](/help/summit/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
 
 
-#### 3.1.2.2 Set up your custom trigger rule
+### 3.2.2 Set up your custom trigger rule
 
 1. Scroll down to the **[!UICONTROL Triggers section]** and click the **[!UICONTROL Edit triggers button]**
 
@@ -90,7 +88,7 @@ For example if your seat number is 99:  `99 - Welcome Campaign`.
 >![Campaign with custom trigger defined](/help/summit/l820-lab-workbook/assets/3-1-2-2-campaign-with-custom-trigger.png)
 
 
-### 3.1.3 Edit the content of the in-app message
+### 3.2.3 Edit the content of the in-app message
 
 In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** button.
 
@@ -100,7 +98,7 @@ In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** 
 
 You are now in the In-App message editor, where you configure the in-app message content.
 
-#### 3.1.3.1 Layout
+#### 3.2.3.1 Layout
 
 Select which layout should be applied to your message. 
 
@@ -110,7 +108,7 @@ For example, click the **[!UICONTROL Modal]** button to make your in-app message
    ![modal button](/help/summit/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
    <br>
 
-#### 3.1.3.2 Authoring your message and publishing your campaign
+#### 3.2.3.2 Authoring your message and publishing your campaign
 
 1. In the media section, paste in the following URL:  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
@@ -198,7 +196,7 @@ For example, click the **[!UICONTROL Modal]** button to make your in-app message
 >
 
 
-#### 3.1.3.3 Firing your In-app Message
+## Exercise 3.3 Trigger the mobile in-app message
 
 To refresh the payload and download your newly published Campaign:
 

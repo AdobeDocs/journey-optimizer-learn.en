@@ -20,7 +20,7 @@ Now that you have created mobile experiences for the app, in this lesson, you wi
 * Know how to create a Web In-app campaign.
 * Trigger an in-app message.
 
-## Exercise 4.1 - Create the Campaign
+## Exercise 4.1 Create a web in-app campaign
 
 In this exercise you create the campaign and define which web page the in-app message will appear on.
 
@@ -44,7 +44,7 @@ In this exercise you create the campaign and define which web page the in-app me
 
 On this page, you define the properties of the campaign and the event that triggers the in-app message to appear in the web page. Leave all other settings on the default. For this exercise you do not need to define a specific audience.
 
-### 4.2.1 Give your campaign a name 
+### 4.2.1 [!UICONTROL Properties section]
 
 1. In the **Properties** section, give your campaign a unique **Name**:
 
@@ -96,7 +96,7 @@ In this section you define what triggers for the message to appear on the websit
 >![Web campaign with custom trigger defined](/help/summit/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
-### 4.2.3 Edit the content of the in-app Message
+### 4.2.3 Edit the content of the in-app message
 
  In this section you define the content, design, and layout of your message. 
 
