@@ -27,16 +27,16 @@ In this lesson you will experience the interaction with the brand as a consumer,
 1. Navigate to the [Fréscopa website](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA5NjAyMzQzLCJleHAiOjE3MTE0MTY3NDN9.V3zEKnVL3vGpPqr_34XjnJ5PSYKApYviBE02zyBalsY){target="_blank"} 
 
 
-2. On the Fréscopa homepage, click **[!UICONTROL Sign In]**
+1. On the Fréscopa homepage, click **[!UICONTROL Sign In]**
    <br>
    ![Fréscopa homepage](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
 
    <br>
-3. On the sign-in page, select **[!UICONTROL Create an account]**
+1. On the sign-in page, select **[!UICONTROL Create an account]**
      <br>
     ![Fréscopa sign-in page](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa sign-in")
      <br>
-4. On the next page fill in your details:
+1. On the next page fill in your details:
    1. Add your **first name** and **last name**
    2. Enter an **email address** that you can access during the lab.
 
@@ -49,15 +49,14 @@ In this lesson you will experience the interaction with the brand as a consumer,
    <br>
    4. Enter any **street address** and **city**. 
    5. Enter your **seat number**, you can find it on your lab machine's desktop.
-   <br>
+        <br>
         
-    ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
-        
-    <br>
+        ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+        <br>
    6. Select if you have a Fréscopa machine – you can choose either yes or no.
    7. Click **Register**.
-
-    ![Fréscopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png)
+   
+    ![Fréscopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
 
 ## Exercise 1.2 - Download and install the Fréscopa app
@@ -80,7 +79,7 @@ After installing the app, you must trust the Adobe enterprise developer:
 
     ![Device management settings screen](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Device management settings screen"){width="250" align="center" zoomable="yes"}
 
-2. Select **Adobe Systems Inc** and **Trust Adobe Systems Inc**.
+1. Select **Adobe Systems Inc** and **Trust Adobe Systems Inc**.
 
     ![Adobe Systems selection screen](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems selection screen"){width="250" align="center" zoomable="yes"}
     <br>
@@ -88,15 +87,13 @@ After installing the app, you must trust the Adobe enterprise developer:
     ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
 
-You should now be able to launch the **DX Demo app** on your iPhone:
-
-![app iOS screen](/help/summit/l820-lab-workbook/assets/1-2-ios-app-icon.png){width="250" align="center" zoomable="yes"}
+   -> You should now be able to launch the **Fréscopa app** on your iPhone: ![Fréscopa App Icon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
-   1. Open the app.
-   2. On the pop-up, click **Allow**, to allow the DX Demo app to send you notifications.
+1. Open the app.
+1. On the pop-up, click **Allow**, to allow the DX Demo app to send you notifications.
 
-   ![notification pop up](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
+![notification pop up](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
@@ -106,10 +103,9 @@ On Android, simply download and install the APK by following the alert instructi
 
 ![Android download screen](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android download screen"){width="250" align="center" zoomable="yes"}
 <br>
-![Android installation screen](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}"Android installation screen"
+![Android installation screen](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-You should now be able to launch the **DX Demo app** on your Android device.
-![app Android screen](/help/summit/l820-lab-workbook/assets/1-2-android-app-icon.jpg){width="250" align="center" zoomable="yes"}
+-> You should now be able to launch the **Fréscopa app** on your Android device: ![Fréscopa App Icon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
