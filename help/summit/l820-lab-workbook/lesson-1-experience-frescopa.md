@@ -27,33 +27,35 @@ In this lesson you will experience the interaction with the brand as a consumer,
 1. Navigate to the [Fréscopa website](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA5NjAyMzQzLCJleHAiOjE3MTE0MTY3NDN9.V3zEKnVL3vGpPqr_34XjnJ5PSYKApYviBE02zyBalsY){target="_blank"} 
 
 1. On the Fréscopa homepage, click **[!UICONTROL Sign In]**.
-   <br>
+   
    ![Fréscopa homepage](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
 
-   <br>
 1. On the sign-in page, select **[!UICONTROL Create an account]**.
-     <br>
+ 
     ![Fréscopa sign-in page](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa sign-in")
-     <br>
+
 1. On the next page fill in your details:
+   
    1. Add your **first name** and **last name**.
-   2. Enter an **email address** that you can access during the lab.
+   
+   1. Enter an **email address** that you can access during the lab.
 
-        >[!IMPORTANT]
-        > Make sure to remember the email address you registered with and that you can access the email account during the lab. You need this to sign in to the website and the app!
+     >[!IMPORTANT]
+     > Make sure to remember the email address you registered with and that you can access the email account during the lab. You need this to sign in to the website and the app!
 
-   3. To receive SMS messages that you create during the lab, enter your **mobile phone number**, including with the country code: 
-    <br>
-    For example: `+14502741234`
-   <br>
-   4. Enter a **street address** and **city**.
-   5. Enter your **seat number**. (You can find it on your lab machine's desktop.)
-        <br>
-        
-        ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
-        <br>
-   6. To specify whether you have a Fréscopa machine, choose either **Yes** or **No**.
-   7. Click **Register**.
+   1. To receive SMS messages that you create during the lab, enter your **mobile phone number**, including with the country code: 
+    
+     For example: `+14502741234`
+   
+   1. Enter a **street address** and **city**.
+   
+   1. Enter your **seat number**. (You can find it on your lab machine's desktop.)
+            
+     ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+    
+    1. To specify whether you have a Fréscopa machine, choose either **Yes** or **No**.
+   
+1. Click **Register**.
    
     ![Fréscopa registration page](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
@@ -88,9 +90,10 @@ After installing the app, you must trust the Adobe enterprise developer:
 
 
 1. Open the app.
+
 1. On the pop-up, click **Allow**, to allow the DX Demo app to send you notifications.
 
-![notification pop up](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
+     ![notification pop up](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
