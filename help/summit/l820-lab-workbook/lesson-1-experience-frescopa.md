@@ -40,20 +40,20 @@ In this lesson you will experience the interaction with the brand as a consumer,
    
    1. Enter an **email address** that you can access during the lab.
 
-     >[!IMPORTANT]
-     > Make sure to remember the email address you registered with and that you can access the email account during the lab. You need this to sign in to the website and the app!
+          >[!IMPORTANT]
+          > Make sure to remember the email address you registered with and that you can access the email account during the lab. You need this to sign in to the website and the app!
 
    1. To receive SMS messages that you create during the lab, enter your **mobile phone number**, including with the country code: 
     
-     For example: `+14502741234`
+          * For example: `+14502741234`
    
    1. Enter a **street address** and **city**.
    
    1. Enter your **seat number**. (You can find it on your lab machine's desktop.)
             
-     ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+          ![Lab machine desktop](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
     
-    1. To specify whether you have a Fréscopa machine, choose either **Yes** or **No**.
+   1. To specify whether you have a Fréscopa machine, choose either **Yes** or **No**.
    
 1. Click **Register**.
    
