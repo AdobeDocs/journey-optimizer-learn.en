@@ -45,7 +45,7 @@ In this lesson you will experience the interaction with the brand as a consumer,
 
    1. To receive SMS messages that you create during the lab, enter your **mobile phone number**, including with the country code: 
     
-          * For example: `+14502741234`
+          For example: `+14502741234`
    
    1. Enter a **street address** and **city**.
    
