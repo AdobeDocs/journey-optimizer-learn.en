@@ -1,6 +1,6 @@
 ---
 title: Lab Workbook - L820 - Build Personalized Mobile Moments with Adobe Journey Optimizer 
-description: Explore a variety of mobile scenarios and learn how to implement personalized experiences for web and mobile with Journey Optimizer.
+description: Explore various mobile scenarios and learn how to implement personalized experiences for web and mobile with Journey Optimizer.
 feature: Overview
 role: User
 level: Intermediate
@@ -18,12 +18,12 @@ thumbnail: KT-14977.jpeg
 
 ## L820 - Build Personalized Mobile Moments with Adobe Journey Optimizer 
 
-In this hands-on lab, you will explore a variety of mobile scenarios and learn how to implement personalized experiences for web and mobile with Journey Optimizer. 
+In this hands-on lab, you explore various mobile scenarios and learn how to implement personalized experiences for web and mobile with Journey Optimizer. 
 
-### Key Takeaways
+### Key takeaways
 
 * Understand the variety of supported mobile experiences.
-* Configure a push campaign
+* Configure a push campaign.
 * Learn how to configure mobile in-app campaigns. 
 * Set up web in-app messages.
 * Test your own personalized scenarios.
@@ -35,11 +35,11 @@ In this hands-on lab, you will explore a variety of mobile scenarios and learn h
 ![Seat number](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 You require access to:
 
-* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - login details will be provided during the exercises.
+* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - login details are provided during the exercises.
 * [Fréscopa website](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"} 
 
 
-### Understand the Use Case
+### Understand the use case
 
 Fréscopa, a dynamic and innovative company, specializes in revolutionizing the coffee experience through its unique blend of coffee subscription services and a diverse array of coffee-related products available on its website and mobile app. With a commitment to delivering exceptional quality and flavor, Fréscopa caters to coffee enthusiasts seeking convenience and premium options.
 

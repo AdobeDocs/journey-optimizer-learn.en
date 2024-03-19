@@ -21,7 +21,6 @@ In this lesson, you create and trigger mobile in-app messages.
 * Know how to create a mobile in-app campaign.
 * Trigger an in-app message.
 
-
 ## Exercise 2.1 - Log in to Journey Optimizer
  
 1. Open [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} 
@@ -53,18 +52,26 @@ In this lesson, you create and trigger mobile in-app messages.
 
 In this exercise, you create an in-app messaging campaign, which is triggered, when you open the app. 
 
-1. In Journey Optimizer, in the left navigation, select Campaigns.
-2. Click the **[!UICONTROL Create Campaign]** button.
+1. In Journey Optimizer, in the left navigation, select **[!UICONTROL Campaigns]**.
+
+1. Click **[!UICONTROL Create Campaign]**.
+
    ![Create Campaign](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
-3. On the **[!UICONTROL Create Campaign]** page, in the  **[!UICONTROL Action]** section, select the **[!UICONTROL In-app message]** check box.
-4. From the **[!UICONTROL Send to]** dropdown select *[!DNL Mobile]*.
-5. From the **[!UICONTROL App surface]** dropdown, select *[!DNL Frecopa Mobile App]*.
-6. Click the **[!UICONTROL Create]** button.
+
+1. On the **[!UICONTROL Create Campaign]** page, in the  **[!UICONTROL Action]** section, select the **[!UICONTROL In-app message]** check box.
+
+1. From the **[!UICONTROL Send to]** dropdown, select **[!DNL Mobile]**.
+
+1. From the **[!UICONTROL App surface]** dropdown, select **[!DNL Frecopa Mobile App]**.
+
+1. Click **[!UICONTROL Create]**.
+
    ![App surface](/help/summit/l820-lab-workbook/assets/3-1-1-1-create.png)
 
 >[!SUCCESS]
 >
 >You should now be on the Campaign properties:
+>
 > ![Campaign properties](/help/summit/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
 
 ## Exercise 2.3 Configure your campaign
@@ -77,36 +84,36 @@ For example if your seat number is 99:  `99 - Welcome Campaign`.
 
 ![properties section](/help/summit/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
 
-
 ### 2.3.2 Set up your custom trigger rule
 
-1. Scroll down to the **[!UICONTROL Triggers section]** and click the **[!UICONTROL Edit triggers button]**
+1. Scroll down to the **[!UICONTROL Triggers section]**, then click **[!UICONTROL Edit triggers]**.
 
-    ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
-    <br>
-2. In the rule builder, select the first drop down box and change **[!UICONTROL Application Launch]** to *Sent data to Platform*.
-3. Add a condition by pressing the + Add condition button
+   ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   
+1. In the rule builder, select the first drop-down box, then change **[!UICONTROL Application Launch]** to *Sent data to Platform*.
+
+1. Add a condition by clicking **[!UICONTROL Add condition]**.
 
    ![add condition button](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
-4. From the Select a trait drop down, select XDM event type.
+1. From the **[!UICONTROL Select a trait]** drop down, select **[!UICONTROL XDM event type]**.
 
    ![XDM event type](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
+1. In the following text field, add a *`<custom string value>`* that you can remember.
 
-5. In the following text field, add a *`<custom string value>`* that you can remember, and press **[!UICONTROL]Add** `<custom string value>` to save the value. 
+1. To save the value, click **[!UICONTROL Add**] `<custom string value>`. 
 
-   This custom string value will be used later to fire you message. 
+   This custom string value is used later to fire you message. 
 
    >[!TIP]
-   > Adding your seat number to the custom string value, will make it unique and easier for you to remember.
+   > Adding your seat number to the custom string value makes it unique and easier for you to remember.
    > 
    > For example: `99exerciseTrigger`
-   > 
 
    ![add custom trigger string value](/help/summit/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
 
-6. Press the **[!UICONTROL Done]** button in the top right.
+1. Click **[!UICONTROL Done]** in the top right.
 
 >[!SUCCESS]
 >
@@ -117,23 +124,19 @@ For example if your seat number is 99:  `99 - Welcome Campaign`.
 
 ### 2.3.3 Edit the content of the in-app message
 
-In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** button.
+In the **[!UICONTROL Action]** section, click **[!UICONTROL Edit Content]**.
 
 ![Edit content button](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
-  
- <br>
 
-You are now in the In-App message editor, where you configure the in-app message content.
+The [!UICONTROL In-App message] editor displays, where you configure the in-app message content.
 
 #### 2.3.3.1 Layout
 
 Select which layout should be applied to your message. 
 
-For example, click the **[!UICONTROL Modal]** button to make your in-app message a modal layout.
+For example, click **[!UICONTROL Modal]** to make your in-app message a modal layout.
 
-
-   ![modal button](/help/summit/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
-   <br>
+![modal button](/help/summit/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
 
 #### 2.3.3.2 Authoring your message and publishing your campaign
 
