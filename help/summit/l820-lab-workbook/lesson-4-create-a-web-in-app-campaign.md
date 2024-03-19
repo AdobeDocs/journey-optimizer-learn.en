@@ -137,8 +137,3 @@ In this section you define what triggers for the message to appear on the websit
 >Clicking the Send button with your unique value will trigger your Web In-app message to fire. And you should see your web in-app message appear on your screen.
 >
 >This exercise simulated a custom XDM send event that you saw through your Fréscopa customer experience.
-
-
-## Thank you!
-
-Thank you for your participation. Please give us feedback on how we did and if the lab met your expectations. To do so, complete the Lab 820 Session survey in the Summit App.
