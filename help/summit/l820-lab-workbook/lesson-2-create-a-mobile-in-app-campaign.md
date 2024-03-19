@@ -1,5 +1,5 @@
 ---
-title: Lesson 3 - Create a mobile in-app campaign
+title: Lesson 2 - Create a mobile in-app campaign
 description: Create and trigger a mobile in-app campaign.
 feature: In App
 role: User
@@ -11,7 +11,7 @@ jira: KT-14983
 thumbnail: KT-14983.jpeg
 ---
 
-# Lesson 3 - Create a mobile in-app campaign
+# Lesson 2 - Create a mobile in-app campaign
 
 In this lesson, you create and trigger mobile in-app messages.
 
@@ -22,7 +22,34 @@ In this lesson, you create and trigger mobile in-app messages.
 * Trigger an in-app message.
 
 
-## Exercise 3.1 Create a mobile in-app campaign
+## Exercise 2.1 - Log in to Journey Optimizer
+ 
+1. Open [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} 
+2. Login using the following details:
+    <br>
+    **Username:** L820+**`<your seat number>`**@adobeeventlab.com
+    **Password:**   Adobe2024! 
+   <br>
+   You can find the details for your login on your lab machine desktop. Use the Adobe ID and the Password.
+   ![desktop](/help/summit/l820-lab-workbook/assets/desk-top.png)
+
+    ![Login screen](/help/summit/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
+   <br>
+3. You can skip the next two screens:
+   <br>
+    ![Phone number](/help/summit/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
+   <br>
+     ![Personalization pop up](/help/summit/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
+
+
+>[!SUCCESS]
+>
+>You should be logged in to Journey Optimizer and on the homepage:
+>
+>![AJO Homepage](/help/summit/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
+
+
+## Exercise 2.2 Create a mobile in-app campaign
 
 In this exercise, you create an in-app messaging campaign, which is triggered, when you open the app. 
 
@@ -40,9 +67,9 @@ In this exercise, you create an in-app messaging campaign, which is triggered, w
 >You should now be on the Campaign properties:
 > ![Campaign properties](/help/summit/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
 
-## Exercise 3.2 Configure your campaign
+## Exercise 2.3 Configure your campaign
 
-### 3.2.1 [!UICONTROL Properties section]
+### 2.3.1 [!UICONTROL Properties section]
 
 Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign again. 
 
@@ -51,7 +78,7 @@ For example if your seat number is 99:  `99 - Welcome Campaign`.
 ![properties section](/help/summit/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
 
 
-### 3.2.2 Set up your custom trigger rule
+### 2.3.2 Set up your custom trigger rule
 
 1. Scroll down to the **[!UICONTROL Triggers section]** and click the **[!UICONTROL Edit triggers button]**
 
@@ -88,7 +115,7 @@ For example if your seat number is 99:  `99 - Welcome Campaign`.
 >![Campaign with custom trigger defined](/help/summit/l820-lab-workbook/assets/3-1-2-2-campaign-with-custom-trigger.png)
 
 
-### 3.2.3 Edit the content of the in-app message
+### 2.3.3 Edit the content of the in-app message
 
 In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** button.
 
@@ -98,7 +125,7 @@ In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content]** 
 
 You are now in the In-App message editor, where you configure the in-app message content.
 
-#### 3.2.3.1 Layout
+#### 2.3.3.1 Layout
 
 Select which layout should be applied to your message. 
 
@@ -108,7 +135,7 @@ For example, click the **[!UICONTROL Modal]** button to make your in-app message
    ![modal button](/help/summit/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
    <br>
 
-#### 3.2.3.2 Authoring your message and publishing your campaign
+#### 2.3.3.2 Authoring your message and publishing your campaign
 
 1. In the media section, paste in the following URL:  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
@@ -196,7 +223,7 @@ For example, click the **[!UICONTROL Modal]** button to make your in-app message
 >
 
 
-## Exercise 3.3 Trigger the mobile in-app message
+## Exercise 2.4 Trigger the mobile in-app message
 
 To refresh the payload and download your newly published Campaign:
 

@@ -1,5 +1,5 @@
 ---
-title: Lesson 2 - Create a push campaign
+title: Lesson 4 - Create a push campaign
 description: Review profile data and learn how to create and send audiences a push notification in Journey Optimizer.
 feature: Push
 role: User
@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-14980
 ---
 
-# Lesson 2 - Create a push campaign
+# Lesson 4 - Create a push campaign
 
 
  In the previous exercise, you were a coffee enthusiast, a Fréscopa customer. You interacted with the brand through their website and the Fréscopa app and received many transactional messages. These messages are triggered through the user's interaction with the website or the application. 
@@ -23,35 +23,10 @@ jira: KT-14980
 * Know how to create a push campaign.
 * Understand how to design a push message.
 
-## Exercise 2.1 - Log in to Journey Optimizer
- 
-1. Open [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} 
-2. Login using the following details:
-    <br>
-    **Username:** L820+**`<your seat number>`**@adobeeventlab.com
-    **Password:**   Adobe2024! 
-   <br>
-   You can find the details for your login on your lab machine desktop. Use the Adobe ID and the Password.
-   ![desktop](/help/summit/l820-lab-workbook/assets/desk-top.png)
-
-    ![Login screen](/help/summit/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
-   <br>
-3. You can skip the next two screens:
-   <br>
-    ![Phone number](/help/summit/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
-   <br>
-     ![Personalization pop up](/help/summit/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
-
-
->[!SUCCESS]
->
->You should be logged in to Journey Optimizer and on the homepage:
->
->![AJO Homepage](/help/summit/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
 
 <br>
 
-## Exercise 2.2 - Create a push campaign
+## Exercise 4.1 - Create a push campaign
 
 In this exercise, you create the push campaign, design, and customize the push notification, and send the push notification to your own device.
 
@@ -69,18 +44,18 @@ In this exercise, you create the push campaign, design, and customize the push n
 >You should now be on the Campaign properties page:
 > ![Campaign properties](/help/summit/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
-## Exercise 2.3 - Configure your campaign
+## Exercise 4.2 - Configure your campaign
 
 On this page, you configure the properties, audience, actions, and schedule of your campaign.
 
-### 2.3.1 [!UICONTROL Properties section]
+### 4.2.1 [!UICONTROL Properties section]
 
 Give your campaign a name. Make sure to start the name with your seat number, so you can easily find your campaign when you search for it. 
 
    For example, if your seat number is 99: `99 - 10% Discount Campaign`. 
 ![properties section](/help/summit/l820-lab-workbook/assets/2-3-1-4-properties-section.png)
 
-### 2.3.2 **[!UICONTROL Audience section]**
+### 4.2.2 **[!UICONTROL Audience section]**
    
 1. In the audience section, click the **[!UICONTROL Select audience]** button.
 
@@ -95,7 +70,7 @@ Give your campaign a name. Make sure to start the name with your seat number, so
 
    ![audience selection](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
-### 2.3.3 Edit the content of the push notification
+### 4.2.3 Edit the content of the push notification
 
 In this exercise, you design and customize the push notification.
 
@@ -118,7 +93,7 @@ In this exercise, you design and customize the push notification.
 
 >[!ENDTABS]
 
-#### 2.3.3.1 [!UICONTROL Compose Message] section
+#### 4.2.3.1 [!UICONTROL Compose Message] section
 
 1. **Compose your message** - feel free to add any text you would like; here are examples that you can use:
    <br>
@@ -129,7 +104,7 @@ In this exercise, you design and customize the push notification.
 
    ![Compose message](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
-#### 2.3.3.2 Change the on click behavior of the message to **open a product page**
+#### 4.2.3.2 Change the on click behavior of the message to **open a product page**
 
    1. In the [!UICONTROL On click behavior] - Section**
    2. Select **[!UICONTROL Deeplink]** from the **[!UICONTROL Body click behavior]** dropdown.
@@ -137,7 +112,7 @@ In this exercise, you design and customize the push notification.
 
    ![deep link](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
 
-#### 2.3.3.3 Add an image to the message
+#### 4.2.3.3 Add an image to the message
 
    1. In the ***[!UICONTROL Add media] - Section** 
    2. Click the **[!UICONTROL Add media] button**.
@@ -206,7 +181,7 @@ If you completed this part of the exercise and still have some time, try the bon
 
 +++
 
-### 2.3.4. Review and activate
+### 4.2.4. Review and activate
 
 If you are happy with the content of your message, you can activate the message:
 
@@ -225,3 +200,11 @@ If you are happy with the content of your message, you can activate the message:
 > Once the status has changed to completed:
 >
 > ![push results](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
+
+
+## Thank you!
+
+Thank you for your participation. Please give us feedback, on how we did
+and if the lab met your expectations, by complete the Lab 820 Session survey in
+the Summit App.
+

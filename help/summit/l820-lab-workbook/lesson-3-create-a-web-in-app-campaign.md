@@ -1,5 +1,5 @@
 ---
-title: Lesson 4 - Create a web in-app campaign
+title: Lesson 3 - Create a web in-app campaign
 description: Create and trigger a web in-app campaign.
 feature: In App
 role: User
@@ -7,11 +7,11 @@ level: Intermediate
 doc-type: Article
 duration: 0
 recommendations: noDisplay, noCatalog
-jira: KT-14984
-thumbnail: KT-14984.jpeg
+jira: KT-13983
+thumbnail: KT-13983.jpeg
 ---
 
-# Lesson 4 - Create a Web In-app Campaign
+# Lesson 3 - Create a Web In-app Campaign
 
 Now that you have created mobile experiences for the app, in this lesson, you will create one of the experiences you have seen on the Fréscopa website. You create a web in-app campaign. You design and customize a your message and define a trigger that will fire the message.
 
@@ -20,7 +20,7 @@ Now that you have created mobile experiences for the app, in this lesson, you wi
 * Know how to create a Web In-app campaign.
 * Trigger an in-app message.
 
-## Exercise 4.1 Create a web in-app campaign
+## Exercise 3.1 Create a web in-app campaign
 
 In this exercise you create the campaign and define which web page the in-app message will appear on.
 
@@ -33,18 +33,18 @@ In this exercise you create the campaign and define which web page the in-app me
 3. On the **Create Campaign** page, in the **Action** section, select the **In-app message** check box.
 4. From the **Send to** dropdown select **Web.**
 
-5. Enter the following URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *This is the web page your message will appear on.*
+5. Enter the following URL: **https://dsn.adobe.com/web/adobe-summit-2023/exercise** - *This is the web page your message will appear on.*
 
     ![In-app URL](/help/summit/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 
 6. Click the **[!UICONTROL Create]** button.
 
-## Exercise 4.2 Configure your Campaign
+## Exercise 3.2 Configure your Campaign
 
 On this page, you define the properties of the campaign and the event that triggers the in-app message to appear in the web page. Leave all other settings on the default. For this exercise you do not need to define a specific audience.
 
-### 4.2.1 [!UICONTROL Properties section]
+### 3.2.1 [!UICONTROL Properties section]
 
 1. In the **Properties** section, give your campaign a unique **Name**:
 
@@ -57,7 +57,7 @@ On this page, you define the properties of the campaign and the event that trigg
     > ![Properties Name](/help/summit/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
-### 4.2.2 Set up your custom trigger rule
+### 3.2.2 Set up your custom trigger rule
 
 In this section you define what triggers for the message to appear on the website. You define a unique trigger that allows you to send the message just to yourself. 
 
@@ -70,7 +70,7 @@ In this section you define what triggers for the message to appear on the websit
 
    ![add condition button](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
-4. From the Select a trait drop down, select XDM event type.
+3. From the Select a trait drop down, select XDM event type.
 
    ![XDM event type](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
@@ -96,26 +96,26 @@ In this section you define what triggers for the message to appear on the websit
 >![Web campaign with custom trigger defined](/help/summit/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
-### 4.2.3 Edit the content of the in-app message
+### 3.2.3 Edit the content of the in-app message
 
  In this section you define the content, design, and layout of your message. 
 
 1. Click the **Edit content** button in the **Action** section to access the authoring construct.
     
-   ![Edit content button](/help/summit/l820-lab-workbook/assets/4-1-3-edit-content-button.png)
+    ![Edit content button](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
-2. The authoring process is the same process that you completed in the above Mobile In-app exercises. Take time to freely edit your message with your own title, body, and media content.
+1. The authoring process is the same process that you completed in the above Mobile In-app exercises. Take time to freely edit your message with your own title, body, and media content.
     
     If you use the modal or full screen layout, you can add a button. You can use this URL to open the product page: **`dxdemo://exoticVibes`** 
     
-3. When you are done editing your message, click **Review to activate**.
+1. When you are done editing your message, click **Review to activate**.
 
-4. If everything looks good on the review screen, click **Activate** to publish your Web In-app message.
+1. If everything looks good on the review screen, click **Activate** to publish your Web In-app message.
 
-5. This will take you back to the Campaign Dashboard. 
-    Wait unit your campaign status changes to **Live** before moving to 4.1.4.
+1. This will take you back to the Campaign Dashboard. 
+    Wait unit your campaign status changes to **Live** before moving to 3.1.3.
 
-## Exercise 4.3 Trigger the web in-app message
+## Exercise 3.3 Trigger the web in-app message
 
 1. Go to the Fréscopa website and navigate to the **Exercise** page on your browser.
 
@@ -123,10 +123,10 @@ In this section you define what triggers for the message to appear on the websit
 
 2. Make sure to refresh the web page.
 
-3. Now type in your unique string value that you defined in your campaign.4-2
+3. Now type in your unique string value that you defined in your campaign.3-2
 
     ![exercise page](/help/summit/l820-lab-workbook/assets/4-2-exercise-page.png)
-
+    
 4. Finally, click **Send**.
 
 >[!SUCCESS]
@@ -134,9 +134,3 @@ In this section you define what triggers for the message to appear on the websit
 >Clicking the Send button with your unique value will trigger your Web In-app message to fire. And you should see your web in-app message appear on your screen.
 >
 >This exercise simulated a custom XDM send event that you saw through your Fréscopa customer experience.
-
-## Thank you!
-
-Thank you for your participation. Please give us feedback, on how we did
-and if the lab met your expectations, by complete the Lab 820 Session survey in
-the Summit App.
