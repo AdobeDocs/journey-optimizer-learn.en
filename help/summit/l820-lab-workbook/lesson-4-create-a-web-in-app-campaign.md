@@ -11,34 +11,35 @@ jira: KT-13983
 thumbnail: KT-13983.jpeg
 ---
 
+
 # Lesson 3 - Create a Web In-app Campaign
 
-Now that you have created mobile experiences for the app, in this lesson, you will create one of the experiences you have seen on the Fréscopa website. You create a web in-app campaign. You design and customize a your message and define a trigger that will fire the message.
+Now that you have created mobile experiences for the app, in this lesson, you create one of the experiences you have seen on the Fréscopa website. You create a web in-app campaign. You design and customize a your message and define a trigger that fires the message.
 
-## Learning Objectives
+## Learning objectives
 
 * Know how to create a Web In-app campaign.
 * Trigger an in-app message.
 
 ## Exercise 3.1 Create a web in-app campaign
 
-In this exercise you create the campaign and define which web page the in-app message will appear on.
+In this exercise you create the campaign and define which web page the in-app message appeara on.
 
 1. In Journey Optimizer, in the left navigation, under **JOURNEY MANAGEMENT** select **Campaigns**.
 
-2. Click on the **Create Campaign** button.
+1. Click **Create Campaign**.
 
     ![CreateCampaign](/help/summit/l820-lab-workbook/assets/4-1-create-campaign.png)
 
-3. On the **Create Campaign** page, in the **Action** section, select the **In-app message** check box.
-4. From the **Send to** dropdown select **Web.**
+1. On the **Create Campaign** page, in the **Action** section, select the **In-app message** check box.
 
-5. Enter the following URL: **https://dsn.adobe.com/web/adobe-summit-2023/exercise** - *This is the web page your message will appear on.*
+1. From the **Send to** dropdown, select **Web.**
+
+1. Enter the following URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *This is the web page your message will appear on.*
 
     ![In-app URL](/help/summit/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
-
-6. Click the **[!UICONTROL Create]** button.
+1. Click **[!UICONTROL Create]**.
 
 ## Exercise 3.2 Configure your Campaign
 
@@ -61,23 +62,24 @@ On this page, you define the properties of the campaign and the event that trigg
 
 In this section you define what triggers for the message to appear on the website. You define a unique trigger that allows you to send the message just to yourself. 
 
-1. Scroll down to the **[!UICONTROL Triggers section]** and click the **[!UICONTROL Edit triggers button]**
+1. Scroll down to the **[!UICONTROL Triggers section]**, then click **[!UICONTROL Edit triggers]**.
 
     ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
-    <br>
-2. In the rule builder, select the first drop down box and change **[!UICONTROL Application Launch]** to *Sent data to Platform*.
-3. Add a condition by pressing the + Add condition button
+
+1. In the rule builder, select the first drop down box and change **[!UICONTROL Application Launch]** to *Sent data to Platform*.
+
+1. Add a condition by clicking **[!UICONTROL + Add condition]**.
 
    ![add condition button](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
-3. From the Select a trait drop down, select XDM event type.
+1. From the **[!UICONTROL Select a trait]** drop down, select **[!UICONTROL XDM event type]**.
 
    ![XDM event type](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
-5. In the following text field, add a *`<custom string value>`* that you can remember, and press **[!UICONTROL]Add** `<custom string value>` to save the value. 
+1. In the following text field, add a *`<custom string value>`* that you can remember, and press **[!UICONTROL Add]** `<custom string value>` to save the value. 
 
-   This custom string value will be used later to fire you message. 
+   This custom string value is used later to fire you message. 
 
    >[!TIP]
    > Adding your seat number to the custom string value, will make it unique and easier for you to remember.
@@ -87,7 +89,7 @@ In this section you define what triggers for the message to appear on the websit
 
    ![add custom trigger string value](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
-6. Press the **[!UICONTROL Done]** button in the top right.
+1. Press the **[!UICONTROL Done]** button in the top right.
 
 >[!SUCCESS]
 >
@@ -108,12 +110,13 @@ In this section you define what triggers for the message to appear on the websit
     
     If you use the modal or full screen layout, you can add a button. You can use this URL to open the product page: **`dxdemo://exoticVibes`** 
     
-1. When you are done editing your message, click **Review to activate**.
+1. When you are done editing your message, click **[!UICONTROL Review to activate]**.
 
-1. If everything looks good on the review screen, click **Activate** to publish your Web In-app message.
+1. If everything looks good on the review screen, click **[!UICONTROL Activate]** to publish your Web In-app message.
 
-1. This will take you back to the Campaign Dashboard. 
-    Wait unit your campaign status changes to **Live** before moving to 3.1.3.
+1. You are returned to the Campaign Dashboard.
+
+   Wait unit your campaign status changes to **Live** before moving to 4.1.4.
 
 ## Exercise 3.3 Trigger the web in-app message
 
@@ -121,16 +124,21 @@ In this section you define what triggers for the message to appear on the websit
 
     ![Web exercises link](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
-2. Make sure to refresh the web page.
+1. Make sure to refresh the web page.
 
-3. Now type in your unique string value that you defined in your campaign.3-2
+1. Type your unique string value that you defined in your campaign.
 
     ![exercise page](/help/summit/l820-lab-workbook/assets/4-2-exercise-page.png)
-    
-4. Finally, click **Send**.
+
+1. Click **[!UICONTROL Send]**.
 
 >[!SUCCESS]
 >
 >Clicking the Send button with your unique value will trigger your Web In-app message to fire. And you should see your web in-app message appear on your screen.
 >
 >This exercise simulated a custom XDM send event that you saw through your Fréscopa customer experience.
+
+
+## Thank you!
+
+Thank you for your participation. Please give us feedback on how we did and if the lab met your expectations. To do so, complete the Lab 820 Session survey in the Summit App.
