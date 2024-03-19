@@ -167,7 +167,7 @@ If you completed this part of the exercise and still have some time, try the bon
       > 
       >![Personalization token](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
    
- <br>
+      <br>
    6. Click the **[!UICONTROL Save]** button to save the personalization.
    
       
@@ -202,7 +202,7 @@ If you are happy with the content of your message, you can activate the message:
 > ![push results](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
 
-## Thank you!
+**Thank you!**
 
 Thank you for your participation. Please give us feedback, on how we did
 and if the lab met your expectations, by complete the Lab 820 Session survey in
