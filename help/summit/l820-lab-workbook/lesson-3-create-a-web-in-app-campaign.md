@@ -66,7 +66,8 @@ In this section you define what triggers for the message to appear on the websit
 
     ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
-1. In the rule builder, select the first drop down box and change **[!UICONTROL Application Launch]** to *Sent data to Platform*.
+1. In the rule builder, click on **[!UICONTROL Application Launch]** and from the dropdown select  *Sent data to Platform*.
+    ![trigger event drop-down](/help/summit/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. Add a condition by clicking **[!UICONTROL + Add condition]**.
 
@@ -108,7 +109,7 @@ In this section you define what triggers for the message to appear on the websit
 
 1. The authoring process is the same process that you completed in the above Mobile In-app exercises. Take time to freely edit your message with your own title, body, and media content.
     
-    If you use the modal or full screen layout, you can add a button. You can use this URL to open the product page: **`dxdemo://exoticVibes`** 
+    If you use the modal or full screen layout, you can add a button. You can use this URL to open the product page: **https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_** 
     
 1. When you are done editing your message, click **[!UICONTROL Review to activate]**.
 

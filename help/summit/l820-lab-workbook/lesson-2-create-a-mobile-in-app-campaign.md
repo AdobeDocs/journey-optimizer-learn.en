@@ -90,7 +90,8 @@ For example if your seat number is 99:  `99 - Welcome Campaign`.
 
    ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
    
-1. In the rule builder, select the first drop-down box, then change **[!UICONTROL Application Launch]** to *Sent data to Platform*.
+1. In the rule builder, click on **[!UICONTROL Application Launch]** and from the dropdown select  *Sent data to Platform*.
+   ![Sent to data platform](/help/summit/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. Add a condition by clicking **[!UICONTROL Add condition]**.
 
