@@ -15,21 +15,23 @@ thumbnail: KT-14977.jpeg
 
 ![Adobe Summit - alt text](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
+## L820 - Build Personalized Mobile Moments with Adobe Journey Optimizer 
+
+In this hands-on lab, you explore various mobile scenarios and learn how to implement personalized experiences for web and mobile with Journey Optimizer. 
+
+
 >[!IMPORTANT]
 >
 >Kindly refrain from posting any photos or screenshots from the session on to social media.
->
+><br>
 >**Adobe Confidentiality**
 >The information and product disclosures shared today during this lab are Adobe's Confidential Information. 
 >Participants may not reproduce, use, disseminate, or disclose Confidential Information to any person or entity.
 >Product disclosures are for informational purposes only, are not a guarantee of any future feature or functionality and are subject to change at any time. As such, such product features or functionality are in no way part of your agreement with Adobe or otherwise committed to you in any manner.
->
+><br>
 >**Disclaimer**
 >Adobe is providing you with early access to the features, which leverage generative AI technology. Please note that these features are still under development and may produce responses which are unexpected or inaccurate. We welcome your feedback as we bring this feature to market.
 
-## L820 - Build Personalized Mobile Moments with Adobe Journey Optimizer 
-
-In this hands-on lab, you explore various mobile scenarios and learn how to implement personalized experiences for web and mobile with Journey Optimizer. 
 
 ### Key takeaways
 
