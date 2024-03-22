@@ -62,5 +62,3 @@ Complementing its subscription services, Fréscopa's website and mobile app offe
 
 Fréscopa's commitment to excellence extends beyond its products, as the company is dedicated to creating a seamless and enjoyable customer journey. The combination of innovative technologies and a customer-centric approach positions Fréscopa at the forefront of the evolving coffee industry. In essence, Fréscopa embodies the fusion of passion and technology, redefining the way individuals experience and enjoy their coffee. With a focus on quality, convenience, and personalized offerings, Fréscopa invites coffee enthusiasts to embark on a journey of flavor, delivered right to their doorstep.
 
-
-
