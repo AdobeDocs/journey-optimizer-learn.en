@@ -9,8 +9,8 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
+exl-id: fe18eca7-229c-4867-ab34-1862bad63124
 ---
-
 # Lesson 2 - Create a mobile in-app campaign
 
 In this lesson, you create and trigger mobile in-app messages.

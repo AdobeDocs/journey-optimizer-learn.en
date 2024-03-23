@@ -8,8 +8,8 @@ doc-type: Tutorial
 duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
+exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
 ---
-
 # Lesson 4 - Create a push campaign
 
 In the previous exercise, you were a coffee enthusiast, a Fréscopa customer. You interacted with the brand through their website and the Fréscopa app and received many transactional messages. These messages are triggered through the user's interaction with the website or the application. 
@@ -203,4 +203,3 @@ If you are happy with the content of your message, you can activate the message:
 Thank you for your participation. Please give us feedback, on how we did
 and if the lab met your expectations, by complete the Lab 820 Session survey in
 the Summit App.
-

@@ -9,8 +9,8 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
+exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
 ---
-
 # Lesson 1 - Experience Fréscopa
 
 In this lesson you will experience the interaction with the brand as a consumer, before you set up mobile experiences as a marketer in the following lessons.

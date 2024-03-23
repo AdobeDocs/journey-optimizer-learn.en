@@ -9,9 +9,8 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
+exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
 ---
-
-
 # Lesson 3 - Create a Web In-app Campaign
 
 Now that you have created mobile experiences for the app, in this lesson, you create one of the experiences you have seen on the Fréscopa website. You create a web in-app campaign. You design and customize a your message and define a trigger that fires the message.
