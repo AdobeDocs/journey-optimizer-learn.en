@@ -24,7 +24,7 @@ In this lesson you will experience the interaction with the brand as a consumer,
 
 ## Exercise 1.1 - Create an account 
 
-1. Navigate to the [Fréscopa website](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA5NjAyMzQzLCJleHAiOjE3MTE0MTY3NDN9.V3zEKnVL3vGpPqr_34XjnJ5PSYKApYviBE02zyBalsY){target="_blank"} 
+1. Navigate to the [Fréscopa website](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}  
 
 1. On the Fréscopa homepage, click **[!UICONTROL Sign In]**.
    
@@ -111,7 +111,7 @@ On Android, download and install the APK by following the alert instructions sho
 
 ## Exercise 1.3 - Explore the website and app
 
-Familiarize yourself with the [Fréscopa website](https://dsn.adobe.com/web/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA4NjQyNTU4LCJleHAiOjE3MTA0NTY5NTh9.m4N8Bs5ZB1jYbUSdl1B6MaYJvUiolIYI_T_TcR-xMfU){target="_blank"} and mobile app. Experience the different in-app, push, and SMS messages implemented in AJO and triggered through your interactions.
+Familiarize yourself with the [Fréscopa website](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}  and mobile app. Experience the different in-app, push, and SMS messages implemented in AJO and triggered through your interactions.
 
 Here are some things that you should try:
 
