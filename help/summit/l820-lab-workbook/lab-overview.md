@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
+last-substantial-update: 2024-03-26
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
 ---
 # LAB WORKBOOK
