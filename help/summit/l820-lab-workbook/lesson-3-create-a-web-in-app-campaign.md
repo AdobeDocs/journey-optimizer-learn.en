@@ -151,4 +151,4 @@ In this section you define what triggers for the message to appear on the websit
 * [Get started with In-app channel](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
 * [Create a Web In-app message](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
 * [Design your In-app content](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Check and send your In-app notification](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Check and send your In-app notification](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
