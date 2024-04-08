@@ -197,9 +197,15 @@ If you are happy with the content of your message, you can activate the message:
 >
 > ![push results](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
+## Additional resources
 
-**Thank you!**
+**How to videos:**
 
-Thank you for your participation. Please give us feedback, on how we did
-and if the lab met your expectations, by complete the Lab 820 Session survey in
-the Summit App.
+* [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
+
+**Product documentation:**
+
+* [Get started with push notification](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [Create a push notification](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [Design a push notification](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Check and send your push notification](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

@@ -303,4 +303,18 @@ The **Duplicate campaign** and **Preview on device** features are out-of-the-box
 >
 > Your in-app message appears on your device. 
 >
-> *Once connected, your in-app message should display each time, you click the **[!UICONTROL Preview on device] button**.*
+> *Once connected, your in-app message should display each time, you click the **[!UICONTROL Preview on device] button**.
+
+## Additional resources
+
+**How to videos:**
+
+* [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
+* [Author an in-app message](/help/channels/author-in-app-messages.md)
+
+**Product documentation:**
+
+* [Get started with In-app channel](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Create an Mobile In-app message](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Design your In-app content](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Check and send your In-app notification](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

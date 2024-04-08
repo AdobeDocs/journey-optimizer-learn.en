@@ -137,3 +137,18 @@ In this section you define what triggers for the message to appear on the websit
 >Clicking the Send button with your unique value will trigger your Web In-app message to fire. And you should see your web in-app message appear on your screen.
 >
 >This exercise simulated a custom XDM send event that you saw through your Fréscopa customer experience.
+
+
+## Additional resources
+
+**How to videos:**
+
+* [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
+* [Author an in-app message](/help/channels/author-in-app-messages.md)
+
+**Product documentation:**
+
+* [Get started with In-app channel](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Create a Web In-app message](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Design your In-app content](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Check and send your In-app notification](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
