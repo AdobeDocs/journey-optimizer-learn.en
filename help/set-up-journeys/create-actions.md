@@ -18,4 +18,4 @@ Learn what an action is, how to use the Edit Profile and Jump action in Journey 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
 
-Visit the product documentation for more information on how to [configure custom actions](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration).
+Visit the product documentation for more information on how to [configure a custom action](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}.
