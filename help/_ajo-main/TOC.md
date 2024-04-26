@@ -23,6 +23,7 @@ auto-video-transcripts: true
   + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
   + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
+  + [Discover the new Journey Designer](/help/create-journeys/new-journey-designer.md)
   + [Overview over the journey canvas](/help/create-journeys/overview-over-the-journey-canvas.md)
   + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
   + [Use case - Transactional journey](/help/create-journeys/use-case-transactional-journey.md)
