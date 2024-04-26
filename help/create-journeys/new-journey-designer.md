@@ -10,8 +10,8 @@ last-substantial-update: 2024-04-26
 jira: KT-15392
 hidefromtoc: Yes
 hide: Yes
+exl-id: e481336c-eaf2-4fbc-8803-9ba109559dd4
 ---
-
 # Discover the new Journey Designer
 
 Discover the new redesigned journey canvas and how to leverage live reporting in journeys.
