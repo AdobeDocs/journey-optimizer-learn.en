@@ -26,7 +26,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
  
 ## Experience League Live events
 
-* **[New Code-Based Experience Channel in Journey Optimizer](/https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+* **[New Code-Based Experience Channel in Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Learn how to activate inbound surfaces and granular personalization control with developer-centric actions.*
 
 * **[API Triggered Messaging in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}**
