@@ -56,6 +56,7 @@ auto-video-transcripts: true
   + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
 + SMS channel{#sms-channel}
   + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
+  + [Author an MMS](/help/channels/author-mms.md)
   + [SMS - Double opt-in for Sinch and Infobip](/help/channels/sms-double-opt-in.md)
 + Web channel {#web-channel}
   + [Create a web campaign](/help/channels/create-a-web-campaign.md)
@@ -100,6 +101,7 @@ auto-video-transcripts: true
     + [Set up email channel](/help/set-up-channels/set-up-email-channel.md)
     + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
     + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
+    + [Configure MMS API credentials and channel surfaces](/help/set-up-channels/configure-mms-channel.md)
     + [Configure message frequency rules](/help/administration/configure-frequency-rules.md)
     + [Create and execute an ip warmup plan](/help/administration/create-and-execute-an-ip-warmup-plan.md)
   + Configure journeys {#journey-configuration}
