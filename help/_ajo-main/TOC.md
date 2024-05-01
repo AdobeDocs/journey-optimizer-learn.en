@@ -101,7 +101,6 @@ auto-video-transcripts: true
     + [Set up email channel](/help/set-up-channels/set-up-email-channel.md)
     + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
     + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
-    + [Configure MMS API credentials and channel surfaces](/help/set-up-channels/configure-mms-channel.md)
     + [Configure message frequency rules](/help/administration/configure-frequency-rules.md)
     + [Create and execute an ip warmup plan](/help/administration/create-and-execute-an-ip-warmup-plan.md)
   + Configure journeys {#journey-configuration}
