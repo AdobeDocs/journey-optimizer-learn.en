@@ -11,4 +11,4 @@ jira: KT-14044
 
 # Create a Code-based experience campaign
 
-{{$include help/_includes/inc-create-a-code-based-experience-campaign.md}}
+{{$include /help/_includes/inc-create-a-code-based-experience-campaign.md}}
