@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 63
 last-substantial-update: 2024-05-01
 jira: KT-15444
+exl-id: 810c700b-d629-474c-8ffb-ea44ca187a03
 ---
 
 # Author an MMS message
