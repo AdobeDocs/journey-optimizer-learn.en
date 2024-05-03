@@ -7,6 +7,7 @@ level: Beginner
 doc-type: Feature Video
 jira: KT-9894
 thumbnail: 3422017.jpeg
+exl-id: 2920a913-116b-4f76-9916-b268a9e95bde
 ---
 # Configure and send a push campaign
 
