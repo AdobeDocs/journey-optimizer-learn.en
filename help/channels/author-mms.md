@@ -1,5 +1,5 @@
 ---
-title: Author an MMS messages
+title: Author an MMS message
 description: Learn how to connect Journey Optimizer to an MMS service provider and how to create an MMS channel surface.
 feature: SMS
 role: Admin, User
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-01
 jira: KT-15444
 ---
 
-# Author an MMS messages
+# Author an MMS message
 
 Learn how to connect Journey Optimizer to an MMS service provider and how to create an MMS channel surface.
 

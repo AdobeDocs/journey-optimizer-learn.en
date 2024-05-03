@@ -5,7 +5,6 @@ feature: Push, Campaigns
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-07-25
 jira: KT-9894
 thumbnail: 3422017.jpeg
 exl-id: abd47e24-0878-437d-b5d0-e0d9dd1873bc

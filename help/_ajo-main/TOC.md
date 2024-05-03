@@ -19,7 +19,9 @@ auto-video-transcripts: true
 + Campaigns {#create-campaigns}
   + [Create a campaign](/help/create-campaigns/create-a-campaign.md)
   + [Create an in-app campaign](/help/create-campaigns/in-app.md)
-  + [Create a web campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
+  + [Configure and send a Push Campaign](/help/create-campaigns/push-campaign.md)
+  + [Create a web campaign](/help/create-campaigns/web-campaign.md)
+  + [Create a code-based experience campaign](/help/create-campaigns/code-based-experience.md)
   + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
   + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
@@ -45,6 +47,8 @@ auto-video-transcripts: true
   + [Manage, author, and use fragments](/help/content-management/manage-author-use-fragments.md)
   + [Create and use expression fragments](/help/content-management/expression-fragments.md)
   + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
++ Code-based experience channel{#code-based-experience-channel}
+  + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
 + Direct mail channel{#direct-mail-channel}
   + [Direct mail channel](/help/channels/direct-mail.md)
 + In App channel{#in-app-channel}
@@ -56,7 +60,7 @@ auto-video-transcripts: true
   + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
 + SMS channel{#sms-channel}
   + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
-  + [Author an MMS](/help/channels/author-mms.md)
+  + [Author an MMS message](/help/channels/author-mms.md)
   + [SMS - Double opt-in for Sinch and Infobip](/help/channels/sms-double-opt-in.md)
 + Web channel {#web-channel}
   + [Create a web campaign](/help/channels/create-a-web-campaign.md)
