@@ -2,7 +2,7 @@
 title: Configure MMS API credentials and channel surfaces
 description: Learn how to connect Journey Optimizer to an MMS service provider and how to create an MMS channel surface.
 feature: SMS
-role: Admin, User
+role: Admin
 level: Beginner
 doc-type: Feature Video
 duration: 85
