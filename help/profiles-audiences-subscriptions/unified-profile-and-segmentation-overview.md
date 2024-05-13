@@ -6,6 +6,7 @@ role: User
 level: Beginner
 jira: KT-10183
 thumbnail: 342114.jpg
+hide: Yes
 exl-id: 53c853d7-c12e-4e77-aed3-c34039a13c5c
 ---
 # Unified profile and segmentation - Overview
