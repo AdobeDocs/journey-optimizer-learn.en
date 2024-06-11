@@ -39,33 +39,34 @@ auto-video-transcripts: true
   + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
-+ Email channel{#email-channel}
-  + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
-  + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
-  + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
-  + [Content templates](/help/channels/content-templates.md)
-  + [Manage, author, and use fragments](/help/content-management/manage-author-use-fragments.md)
-  + [Create and use expression fragments](/help/content-management/expression-fragments.md)
-  + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
-+ Code-based experience channel{#code-based-experience-channel}
-  + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
-+ Direct mail channel{#direct-mail-channel}
-  + [Direct mail channel](/help/channels/direct-mail.md)
-+ In App channel{#in-app-channel}
-  + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
-  + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
-  + [Author an in-app message](/help/channels/author-in-app-messages.md)
-  + [Configure content experiments for in-app messages](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ Push channel{#push-channel}
-  + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
-+ SMS channel{#sms-channel}
-  + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
-  + [Author an MMS message](/help/channels/author-mms.md)
-  + [SMS - Double opt-in for Sinch and Infobip](/help/channels/sms-double-opt-in.md)
-+ Web channel {#web-channel}
-  + [Create a web campaign](/help/channels/create-a-web-campaign.md)
-  + [Author a web campaign](/help/channels/author-a-web-campaign.md)
-  + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
++ Channels {#channels}
+  + Email channel{#email}
+    + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
+    + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
+    + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
+    + [Content templates](/help/channels/content-templates.md)
+    + [Manage, author, and use fragments](/help/content-management/manage-author-use-fragments.md)
+    + [Create and use expression fragments](/help/content-management/expression-fragments.md)
+    + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
+  + Code-based experience channel{#code-based-experience-channel}
+    + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
+  + Direct mail channel{#direct-mail-channel}
+    + [Direct mail channel](/help/channels/direct-mail.md)
+  + In App channel{#in-app-channel}
+    + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
+    + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
+    + [Author an in-app message](/help/channels/author-in-app-messages.md)
+    + [Configure content experiments for in-app messages](/help/experimentation/content-experiments-for-in-app-messages.md)
+  + Push channel{#push-channel}
+    + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
+  + SMS channel{#sms-channel}
+    + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
+    + [Author an MMS message](/help/channels/author-mms.md)
+    + [SMS - Double opt-in for Sinch and Infobip](/help/channels/sms-double-opt-in.md)
+  + Web channel {#web-channel}
+    + [Create a web campaign](/help/channels/create-a-web-campaign.md)
+    + [Author a web campaign](/help/channels/author-a-web-campaign.md)
+    + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalize content {#personalize-content}
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
