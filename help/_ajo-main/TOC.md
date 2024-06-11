@@ -44,7 +44,7 @@ auto-video-transcripts: true
     + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
   + Direct mail channel{#direct-mail-channel}
     + [Direct mail channel](/help/channels/direct-mail.md)
-  + Email channel{#email}
+  + Email channel{#email-channel}
     + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
