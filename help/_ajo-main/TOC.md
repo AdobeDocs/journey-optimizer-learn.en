@@ -51,7 +51,7 @@ auto-video-transcripts: true
     + [Content templates](/help/channels/content-templates.md)
     + [Manage, author, and use fragments](/help/content-management/manage-author-use-fragments.md)
     + [Create and use expression fragments](/help/content-management/expression-fragments.md)
-    + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)qw
+    + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
   + In App channel{#in-app-channel}
     + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
     + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
