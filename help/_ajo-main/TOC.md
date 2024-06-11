@@ -40,6 +40,10 @@ auto-video-transcripts: true
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Channels {#channels}
+  + Code-based experience channel{#code-based-experience-channel}
+    + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
+  + Direct mail channel{#direct-mail-channel}
+    + [Direct mail channel](/help/channels/direct-mail.md)
   + Email channel{#email}
     + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
@@ -47,11 +51,7 @@ auto-video-transcripts: true
     + [Content templates](/help/channels/content-templates.md)
     + [Manage, author, and use fragments](/help/content-management/manage-author-use-fragments.md)
     + [Create and use expression fragments](/help/content-management/expression-fragments.md)
-    + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
-  + Code-based experience channel{#code-based-experience-channel}
-    + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
-  + Direct mail channel{#direct-mail-channel}
-    + [Direct mail channel](/help/channels/direct-mail.md)
+    + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)qw
   + In App channel{#in-app-channel}
     + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
     + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
