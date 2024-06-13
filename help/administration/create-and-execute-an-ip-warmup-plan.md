@@ -20,4 +20,4 @@ Learn how to create and execute an IP warmup plan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
 
-Please see the product documentation [Get started with IP warmup plans](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html) for more information.
+See the [Deliverability Best Practice Guide](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/introduction) for best practices on [Targeting criteria](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [ISP-specific considerations during IP warming](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming), and [Volume](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) during IP warming.
