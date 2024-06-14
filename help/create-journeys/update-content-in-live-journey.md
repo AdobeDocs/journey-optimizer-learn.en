@@ -5,7 +5,7 @@ feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
-duration: 0
+duration: 112
 last-substantial-update: 2024-06-14
 jira: KT-13942
 ---
