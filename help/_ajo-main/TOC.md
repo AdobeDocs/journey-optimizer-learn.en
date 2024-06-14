@@ -21,7 +21,7 @@ auto-video-transcripts: true
   + [Create an in-app campaign](/help/create-campaigns/in-app.md)
   + [Configure and send a Push Campaign](/help/create-campaigns/push-campaign.md)
   + [Create a web campaign](/help/create-campaigns/web-campaign.md)
-  + [Create a code-based experience campaign](/help/create-campaigns/code-based-experience.md)
+  + [Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
   + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
   + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
