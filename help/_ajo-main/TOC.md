@@ -34,6 +34,7 @@ auto-video-transcripts: true
   + [Use case - Audience qualification](/help/create-journeys/use-case-audience-qualification.md)
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
+  + [Update content in a live journey](/help/create-journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
   + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
