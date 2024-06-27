@@ -16,6 +16,7 @@ auto-video-transcripts: true
   + [Architecture](/help/introduction/architecture.md)
   + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
+  + [Get help with the AI-Assistant](/help/ai-assistant.md)
 + Campaigns {#create-campaigns}
   + [Create a campaign](/help/create-campaigns/create-a-campaign.md)
   + [Create an in-app campaign](/help/create-campaigns/in-app.md)
