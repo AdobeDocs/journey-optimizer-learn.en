@@ -22,7 +22,7 @@ Experience League LIVE:
 
 ## Limited availability {#limited-availability}
 
->[!Note]
+>[!NOTE]
 >
 >This features is currently only available for a set of organizations (Limited Availability). To gain access, contact your Adobe representative.
 
