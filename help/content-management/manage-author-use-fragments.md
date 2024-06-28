@@ -5,7 +5,8 @@ feature: Templates
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-05-26
+duration: 436
+last-substantial-update: 2024-06-28
 jira: KT-13222
 thumbnail: 3419932.jpeg
 exl-id: f15df6cf-7317-465f-afe5-4590561e4493
