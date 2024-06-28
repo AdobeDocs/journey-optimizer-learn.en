@@ -20,3 +20,9 @@ Experience League LIVE:
 
     *Learn the benefits of in-app messaging as a real-time engagement channel and how to configure and author personalized mobile app experiences in Adobe Journey Optimizer.*
 
+## Limited availability {#limited-availability}
+
+>[!Note]
+>
+>This features is currently only available for a set of organizations (Limited Availability). To gain access, contact your Adobe representative.
+

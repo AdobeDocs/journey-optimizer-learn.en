@@ -69,7 +69,11 @@ auto-video-transcripts: true
     + [Create a web campaign](/help/channels/create-a-web-campaign.md)
     + [Author a web campaign](/help/channels/author-a-web-campaign.md)
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
-+ [Assets Essentials](/help/assets-essentials-overview.md)
++ Content Management{#content-management}
+  + [Manage Assets](/help/assets-essentials-overview.md)
+  + [Create and use expression fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+  + [Configure content experiments for emails](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
+  + [Set up multilingual messages](/help/content-management/set-up-multilingual-messages.md)
 + Personalize content {#personalize-content}
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
