@@ -1,5 +1,5 @@
 ---
-title: Use Case: Business Event
+title: Use Case - Business Event
 description: Learn how to use business events in Journey Optimizer. Understand how the data from business events can be used for personalized messaging in journeys.
 feature: Journeys
 role: User
