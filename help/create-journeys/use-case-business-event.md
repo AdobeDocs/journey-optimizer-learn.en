@@ -1,17 +1,18 @@
 ---
-title: Use Case - Business event
-description: Understand the applicable use cases for business events. Learn how to build a journey using a business event and which best practices to apply.
-jira: KT-7702
-thumbnail: 334234.jpg
+title: Use Case: Business Event
+description: Learn how to use business events in Journey Optimizer. Understand how the data from business events can be used for personalized messaging in journeys.
 feature: Journeys
-doc-type: feature video
-team: PM
 role: User
 level: Beginner
+doc-type: Feature Video
+duration: 250
+last-substantial-update: 2024-06-28
+jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
 ---
-# Use Case - Business event
 
-Understand the applicable use cases for business events. Learn how to build a journey using a business event and which best practices to apply.
+# Use Case: Business Event
 
->[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12&learn=on){transcript=true}
+Learn how to use business events in Journey Optimizer. Business events allow brands to trigger journeys based on non-people-related events, such as notifying subscribers when a news publication has new content or sending communications during a sporting event. Understand how the data from business events can be used for personalized messaging in journeys.
+
+>[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
