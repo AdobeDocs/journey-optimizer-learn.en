@@ -11,7 +11,7 @@ jira: KT-14034
 thumbnail: KT-14034.jpeg
 ---
 
-# Set up multi lingual messages
+# Set up multilingual messages
 
 {{limited-availability}}
 
