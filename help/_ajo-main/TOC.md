@@ -50,9 +50,6 @@ auto-video-transcripts: true
     + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
-    + [Manage content templates](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/content-templates)
-    + [Manage fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
-    + [Create expression fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
     + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
   + In App channel{#in-app-channel}
     + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
