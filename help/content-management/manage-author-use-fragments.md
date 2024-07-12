@@ -1,5 +1,5 @@
 ---
-title: Manage, author, and use fragments
+title: Manage fragments
 description: Learn how to manage, author, and use fragments in Adobe Journey Optimizer.
 feature: Templates
 role: User
@@ -11,7 +11,7 @@ jira: KT-13222
 thumbnail: 3419932.jpeg
 exl-id: f15df6cf-7317-465f-afe5-4590561e4493
 ---
-# Manage, author, and use fragments
+# Manage fragments
 
 Learn how to manage, author, and use fragments in Adobe Journey Optimizer.
 
