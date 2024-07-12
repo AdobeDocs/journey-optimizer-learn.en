@@ -50,7 +50,7 @@ auto-video-transcripts: true
     + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
-    + [Manage content templates](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/content-templates))
+    + [Manage content templates](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/content-templates)
     + [Manage fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
     + [Create expression fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
     + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
@@ -72,7 +72,7 @@ auto-video-transcripts: true
 + Content Management{#content-management}
   + [Manage Assets](/help/assets-essentials-overview.md)
   + [Manage content templates](/help/content-management/content-templates.md)
-  + [Manage fragments](/help/content-management/manage-author-use-fragments.md)
+  + [Manage fragments](/help/content-management/manage-fragments.md)
   + [Create expression fragments](/help/content-management/expression-fragments.md)
   + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
   + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
