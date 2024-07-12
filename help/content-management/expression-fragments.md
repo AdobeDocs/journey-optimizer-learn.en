@@ -1,5 +1,5 @@
 ---
-title: Create and use expression fragments
+title: Create expression fragments
 description: Learn how to create and use expression fragments.
 feature: Templates, Email Design
 role: User
@@ -11,7 +11,7 @@ thumbnail: 3424587.jpeg
 hidefromtoc: No
 exl-id: e97ad4be-0d42-4516-8c20-948c604c61a3
 ---
-# Create and use expression fragments
+# Create expression fragments
 
 Learn how to create and use expression fragments.
 
