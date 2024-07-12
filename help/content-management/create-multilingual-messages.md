@@ -1,5 +1,5 @@
 ---
-title: Create multilingual messages
+title: Create a multilingual message
 description: Learn how to create multilingual messages in Adobe Journey Optimizer.
 feature: Multilingual Content
 role: User
@@ -10,7 +10,7 @@ last-substantial-update: 2024-07-08
 jira: KT-15747
 ---
 
-# Create multilingual messages
+# Create a multilingual message
 
 {{limited-availability}}
 
