@@ -1,6 +1,6 @@
 ---
-title: Set up multilingual messages
-description: Learn how to set up multilingual messages for manual and automated translation in Adobe Journey Optimizer.  
+title: Set up multilingual messaging
+description: Learn how to set up translation projects for automated translation and the required language setting for manual translation and automated translation projects for multilingual messages.
 feature: Multilingual Content
 role: Admin
 level: Beginner
@@ -11,7 +11,7 @@ jira: KT-14034
 thumbnail: KT-14034.jpeg
 ---
 
-# Set up multilingual messages
+# Set up multilingual messaging
 
 {{limited-availability}}
 
