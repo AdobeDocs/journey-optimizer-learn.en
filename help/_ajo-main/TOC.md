@@ -72,8 +72,8 @@ auto-video-transcripts: true
 + Content Management{#content-management}
   + [Manage Assets](/help/assets-essentials-overview.md)
   + [Create and use expression fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
-  + [Set up multilingual messages](/help/content-management/set-up-multilingual-messages.md)
-  + [Create multilingual messages](/help/content-management/create-multilingual-messages.md)
+  + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
+  + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
 + Personalize content {#personalize-content}
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
