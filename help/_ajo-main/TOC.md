@@ -71,12 +71,11 @@ auto-video-transcripts: true
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Content Management{#content-management}
   + [Manage Assets](/help/assets-essentials-overview.md)
-  + [Manage content templates](/help/channels/content-templates.md)
+  + [Manage content templates](/help/content-management/content-templates.md)
   + [Manage fragments](/help/content-management/manage-author-use-fragments.md)
   + [Create expression fragments](/help/content-management/expression-fragments.md)
   + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
   + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
-
 + Personalize content {#personalize-content}
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
