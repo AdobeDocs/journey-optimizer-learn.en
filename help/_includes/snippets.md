@@ -26,3 +26,8 @@ Experience League LIVE:
 >
 >This features is currently only available for a set of organizations (Limited Availability). To gain access, contact your Adobe representative.
 
+## Beta {#beta}
+
+>[!AVAILABILITY]
+>
+>This capability is currently in beta version and only available to beta customers. To join the beta program, contact Adobe Customer Care.
