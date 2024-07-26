@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 143
 last-substantial-update: 2024-06-27
 jira: KT-15789
+exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
 ---
-
 # AI Assistant
 
 Learn what you can do with AI Assistant in Adobe Experience Platform-based applications like Real-Time Customer Data Platform, Journey Optimizer, and Customer Journey Analytics.

@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 471
 last-substantial-update: 2024-07-08
 jira: KT-15747
+exl-id: cad09776-b39c-42c3-ba62-28490d5548a3
 ---
-
 # Create a multilingual message
 
 {{limited-availability}}

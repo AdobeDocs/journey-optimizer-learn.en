@@ -8,8 +8,8 @@ feature: Reporting
 duration: 22500
 last-substantial-update: 2024-06-24
 jira: KT-15774
+exl-id: 385f2f89-bef9-4a32-9ca1-4a2f4afb2c6a
 ---
-
 # Enhanced reporting with Customer Journey Analytics
 
 Reporting and orchestration measurement features powered by Customer Journey Analytics are available in Adobe Journey Optimizer. These enhancements to Journey Optimizer also include increased interoperability and extended value with Customer Journey Analytics through additional data sources, advanced customization, data manipulation, analysis, and more. 

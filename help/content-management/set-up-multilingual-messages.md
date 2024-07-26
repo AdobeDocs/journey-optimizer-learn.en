@@ -9,8 +9,8 @@ duration: 599
 last-substantial-update: 2024-06-28
 jira: KT-14034
 thumbnail: KT-14034.jpeg
+exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
 ---
-
 # Set up multilingual messaging
 
 {{limited-availability}}
