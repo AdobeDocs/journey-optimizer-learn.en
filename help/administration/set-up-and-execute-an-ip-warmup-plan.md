@@ -5,10 +5,10 @@ feature: IP Warmup Plans
 role: Admin
 level: Beginner
 doc-type: Feature Video
-hidefromtoc: Yes
-hide: Yes
+hidefromtoc: No
+hide: No
 duration: 741
-last-substantial-update: 2024-08-12
+last-substantial-update: 2024-08-14
 jira: KT-14602
 ---
 
