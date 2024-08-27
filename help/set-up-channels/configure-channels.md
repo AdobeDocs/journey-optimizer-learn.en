@@ -15,3 +15,5 @@ jira: KT-15794
 Learn what channel configurations are and how they are used in Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433124/?learn=on)
+
+For more information on how to set up channel configurations [see the product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces).
