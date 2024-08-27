@@ -109,6 +109,7 @@ auto-video-transcripts: true
   + [Enhanced reporting with Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Configuration {#configuration}
   + Configure channels {#channel-configuration}
+    + [Configure channels](/help/set-up-channels/configure-channels.md)
     + [Guided channel setup](/help/set-up-channels/guided-channel-setup.md)
     + [Set up email channel](/help/set-up-channels/set-up-email-channel.md)
     + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
