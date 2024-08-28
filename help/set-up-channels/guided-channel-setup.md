@@ -22,7 +22,5 @@ Learn how to set up and validate a push channel notification on a sample iOS mob
 
 Please see the product documentation for more information:
 
-* [Get started with Guided channel setup](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
-* [Set up Android mobile configuration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-android)
-* [Set up iOS mobile configuration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-ios)
-* [Set up web configuration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-web)
+* [Get started with guided channel setup](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
+* [Create a channel setup](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
