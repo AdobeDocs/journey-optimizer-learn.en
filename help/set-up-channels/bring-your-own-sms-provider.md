@@ -9,8 +9,8 @@ duration: 154
 last-substantial-update: 2024-07-26
 jira: KT-15886
 badge: label="Beta"
+exl-id: 7278a99e-4553-4cd1-8830-350c85d5926b
 ---
-
 # Bring your own SMS provider(Beta)
 
 {{beta}}

@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 206
 last-substantial-update: 2024-08-27
 jira: KT-15794
+exl-id: 8599a533-a46c-4cb9-ac7d-237096b48d62
 ---
-
 # Configure channels
 
 Learn what channel configurations are and how they are used in Adobe Journey Optimizer.

@@ -10,8 +10,8 @@ hide: No
 duration: 741
 last-substantial-update: 2024-08-14
 jira: KT-14602
+exl-id: ff238ed8-dfc3-4b66-85cb-f4d8a656815a
 ---
-
 # Set up and execute an IP warm-up plan
 
 Understand what IP warming is and learn how to set up and execute an IP warmup plan in Adobe Journey Optimizer.
