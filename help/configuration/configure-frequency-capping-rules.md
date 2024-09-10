@@ -16,4 +16,4 @@ Learn how to configure frequency capping rules.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
-See the [product documentation]([https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules)] for more information.
+See the [product documentation]([https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules) for more information.
