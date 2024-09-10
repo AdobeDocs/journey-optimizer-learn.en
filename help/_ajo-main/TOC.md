@@ -122,7 +122,7 @@ auto-video-transcripts: true
     + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
     + [Create events](/help/set-up-journeys/create-events.md)
     + [Create actions](/help/set-up-journeys/create-actions.md)
-  + Business rules {business-rules}
+  + Business rules {#business-rules}
     + [Configure frequency capping rules](/help/configuration/configure-frequency-capping-rules.md)
 + Access Control {#access-control}
   + [Access management](/help/set-up-access/access-management.md)

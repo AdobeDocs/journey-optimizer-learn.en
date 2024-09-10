@@ -1,6 +1,6 @@
 ---
-title: Configure business rules - message frequency
-description: Learn how to configure frequency capping rules. See the [product documentation]([https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules)] for more information.
+title: Configure business rules - frequency capping
+description: Learn how to configure frequency capping rules.
 feature: Frequency Rules
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-09-10
 jira: KT-14860
 ---
 
-# Configure business rules - message frequency
+# Configure business rules - Frequency capping
 
 Learn how to configure frequency capping rules.
 
