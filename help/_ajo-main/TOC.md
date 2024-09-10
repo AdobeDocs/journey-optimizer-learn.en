@@ -123,6 +123,7 @@ auto-video-transcripts: true
     + [Create actions](/help/set-up-journeys/create-actions.md)
   + Business rules {#business-rules}
     + [Configure frequency capping rules](/help/configuration/configure-frequency-capping-rules.md)
+    + [Test and report on frequency rules](/help/configuration/test-and-report-on-frequency-rules.md)
 + Access Control {#access-control}
   + [Access management](/help/set-up-access/access-management.md)
   + [Configure attribute-based access control](/help/administration/attribute-based-access-control.md)
