@@ -6,10 +6,11 @@ thumbnail: 344451.jpg
 feature: Email, Push
 doc-type: feature video
 team: PM
-hidefromtoc: yes
-hide: yes
 role: User
 level: Beginner
+last-substantial-update: 2024-09-10
+hidefromtoc: yes
+hide: yes
 ---
 # Configure message frequency rules
 
