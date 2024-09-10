@@ -8,6 +8,8 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+hide: yes
+hidefromtoc: yes
 exl-id: 76d4cb7e-a9ac-470b-bc9c-5792bf5d7482
 ---
 # Configure message frequency rules
