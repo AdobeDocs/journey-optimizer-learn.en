@@ -116,7 +116,6 @@ auto-video-transcripts: true
     + [Set up and execute an IP warm-up plan](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
     + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
     + [Bring your own SMS provider(Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
-    + [Configure message frequency rules](/help/administration/configure-frequency-rules.md)
     + [Configure MMS API credentials and channel surfaces](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
   + Configure journeys {#journey-configuration}
     + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
