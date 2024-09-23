@@ -67,7 +67,9 @@ auto-video-transcripts: true
     + [Author a web campaign](/help/channels/author-a-web-campaign.md)
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Content Management{#content-management}
-  + [Create content with the AI Assistant in Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+  + AI Assistant Content Accelerator{#content-accelerator}
+    + [Introduction to the AI Assistant Content Accelerator](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+    + [Create content with the AI Assistant in Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
   + [Manage Assets](/help/assets-essentials-overview.md)
   + [Manage content templates](/help/content-management/content-templates.md)
   + [Manage fragments](/help/content-management/manage-fragments.md)
