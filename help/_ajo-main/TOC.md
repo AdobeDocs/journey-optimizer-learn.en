@@ -56,6 +56,7 @@ auto-video-transcripts: true
     + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
     + [Author an in-app message](/help/channels/author-in-app-messages.md)
     + [Configure content experiments for in-app messages](/help/experimentation/content-experiments-for-in-app-messages.md)
+    + [Create content cards](/help/channels/create-content-cards.md)
   + Push channel{#push-channel}
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
   + SMS channel{#sms-channel}
