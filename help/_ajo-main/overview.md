@@ -26,10 +26,13 @@ This user guide contains videos and tutorials on features and capabilities of Ad
  
 ## Latest Experience League Live events
 
+* **[AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign.* 
 * **[Summer Spotlight - Three must try features in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
   *Supercharge your customer engagement this summer with Adobe Journey Optimizer's three features: journey experimentation, frequency capping, and multi-lingual messaging.*
 * **[New Code-Based Experience Channel in Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Learn how to activate inbound surfaces and granular personalization control with developer-centric actions.*
+  
  </div>
 
 <div id="staff-picks-section">
