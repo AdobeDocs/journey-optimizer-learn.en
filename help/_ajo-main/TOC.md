@@ -51,7 +51,7 @@ auto-video-transcripts: true
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
     + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
-  + Content Cards (#content-cards)
+  + Content Cards{#content-cards}
     + [Create content cards](/help/channels/create-content-cards.md)
   + In App channel{#in-app-channel}
     + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
