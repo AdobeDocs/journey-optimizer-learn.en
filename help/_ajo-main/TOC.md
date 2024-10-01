@@ -133,6 +133,7 @@ auto-video-transcripts: true
   + [Configure attribute-based access control](/help/administration/attribute-based-access-control.md)
   + [Create and manage sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Privacy {#privacy}
+  + [Data Governance](help/privacy/data-governance.md)
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
 + Exercises and challenges {#exercises-and-challenges}
   + [Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
