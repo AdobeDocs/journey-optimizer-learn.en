@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 151
 last-substantial-update: 2024-09-26
 jira: KT-15791
-hidefromtoc: yes
-hide: yes
+hidefromtoc: no
+hide: no
 ---
 
 # Create content cards
