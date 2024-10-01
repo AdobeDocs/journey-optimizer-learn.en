@@ -51,12 +51,13 @@ auto-video-transcripts: true
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
     + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
+  + Content Cards (#content-cards)
+    + [Create content cards](/help/channels/create-content-cards.md)
   + In App channel{#in-app-channel}
     + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
     + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
     + [Author an in-app message](/help/channels/author-in-app-messages.md)
     + [Configure content experiments for in-app messages](/help/experimentation/content-experiments-for-in-app-messages.md)
-    + [Create content cards](/help/channels/create-content-cards.md)
   + Push channel{#push-channel}
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
   + SMS channel{#sms-channel}
