@@ -31,3 +31,9 @@ Experience League LIVE:
 >[!AVAILABILITY]
 >
 >This capability is currently in beta version and only available to beta customers. To join the beta program, contact Adobe Customer Care.
+
+## Platform Video - Policies (#platform-video)
+
+>>[!NOTE]
+>
+>The video demonstrates this feature in the Adobe Experience Platform user interface. The same functionality is available in Journey Optimizer in the DATA MANAGEMENT and PRIVACY sections in the left navigation. 

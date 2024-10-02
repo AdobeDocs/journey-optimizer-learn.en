@@ -135,6 +135,8 @@ auto-video-transcripts: true
   + [Create and manage sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Data Governance and Privacy {#data-governance-and-privacy}
   + [Data Governance Framework](/help/privacy/data-governance-framework.md)
+  + [Classify data using labels](/help/privacy/classify-data-using-lables.md)
+  + [Enforce data usage policies in Journey Optimizer channels](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
 + Exercises and challenges {#exercises-and-challenges}
   + [Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
