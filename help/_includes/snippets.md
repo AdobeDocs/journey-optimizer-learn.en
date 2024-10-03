@@ -34,6 +34,6 @@ Experience League LIVE:
 
 ## Platform Video - Policies (#platform-video)
 
->>[!NOTE]
+>[!NOTE]
 >
 >The video demonstrates this feature in the Adobe Experience Platform user interface. The same functionality is available in Journey Optimizer in the DATA MANAGEMENT and PRIVACY sections in the left navigation. 
