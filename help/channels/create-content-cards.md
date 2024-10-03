@@ -14,8 +14,6 @@ hide: no
 
 # Create content cards
 
-{{limited-availability}}
-
 Learn how to create content cards for your application.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)

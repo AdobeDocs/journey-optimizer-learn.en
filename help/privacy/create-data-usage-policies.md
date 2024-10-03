@@ -14,11 +14,11 @@ hidefromtoc: Yes
 
 # Create Data Usage Policies
 
->>[!NOTE]
+Learn how to create and manage data usage policies. Data usage policies allow you to restrict data usage for specific purposes based on the labeling of data. To learn the API-based approach, see [create data usage policies with the API|https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create].
+
+>[!NOTE]
 >
 >The video demonstrates this feature in the Adobe Experience Platform user interface. The same functionality is available from the Journey Optimizer user interface, in the PRIVACY section in the left navigation. 
-
-Learn how to create and manage data usage policies. Data usage policies allow you to restrict data usage for specific purposes based on the labeling of data. To learn the API-based approach, see [create data usage policies with the API|https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
