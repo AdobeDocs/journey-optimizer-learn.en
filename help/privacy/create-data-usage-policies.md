@@ -5,8 +5,8 @@ feature: Governance, Privacy
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 0
-last-substantial-update: 2024-10-02
+duration: 209
+last-substantial-update: 2024-10-03
 jira: KT-16267
 hide: Yes
 hidefromtoc: Yes
@@ -19,6 +19,8 @@ Learn how to create and manage data usage policies. Data usage policies allow yo
 >[!NOTE]
 >
 >The video demonstrates this feature in the Adobe Experience Platform user interface. The same functionality is available from the Journey Optimizer user interface, in the PRIVACY section in the left navigation. 
+>
+>Watch this [tutorial](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) to understand how policies are enforced in Journey Optimizer channels.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
