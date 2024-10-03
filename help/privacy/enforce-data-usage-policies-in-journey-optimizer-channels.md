@@ -10,6 +10,7 @@ last-substantial-update: 2024-10-01
 jira: KT-16264
 hide: Yes
 hidefromtoc: Yes
+badgePrivateBeta: label="Private Beta" type="Informative"
 ---
 
 # Enforce data usage policies in Journey Optimizer channels
