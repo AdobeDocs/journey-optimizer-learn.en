@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 209
 last-substantial-update: 2024-10-03
 jira: KT-16267
-hide: Yes
-hidefromtoc: Yes
+hide: No
+hidefromtoc: No
 ---
 
 # Create Data Usage Policies
