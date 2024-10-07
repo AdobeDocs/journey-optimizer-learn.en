@@ -48,6 +48,7 @@ auto-video-transcripts: true
   + Direct mail channel{#direct-mail-channel}
     + [Create a direct mail](/help/channels/direct-mail.md)
   + Email channel{#email-channel}
+    + [Message authoring - Overview](/help/channels/message-authoring-overview.md)
     + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
@@ -79,9 +80,10 @@ auto-video-transcripts: true
     + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
   + AI Assistant Content Accelerator{#content-accelerator}
-    + [Introduction to the AI Assistant Content Accelerator](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-    + [Create content with the AI Assistant in Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+    + [AI Assistant Content Accelerator - Overview](/help/content-management/ai-assistant-content-accelerator-overview.md)
+    + [Create content using the AI Assistant Content Accelerator](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personalize content {#personalize-content}
+  + [Personalization editor - Overview](/help/personalize-content/personalization-editor-overview.md)
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
   + [Use contextual event information for personalization](/help/personalize-content/use-contextual-event-information-for-personalization.md)

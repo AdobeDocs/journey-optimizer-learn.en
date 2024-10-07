@@ -1,17 +1,17 @@
 ---
-title: Introduction to the AI Assistant Content Accelerator
+title: AI Assistant Content Accelerator - Overview
 description: Understand how the AI Assistant Content Accelerator can help marketers by providing proactive content variation suggestions for both text and images.
 feature: Content Assistant
 role: User
-level: Beginner, Intermediate, Experienced
-doc-type: Value Video
-duration: 323
-last-substantial-update: 2024-09-23
-jira: KT-16226
+level: Beginner
+doc-type: Feature Video
+duration: 78
+last-substantial-update: 2024-10-07
+jira: KT-16296
 ---
 
-# Introduction to the AI Assistant Content Accelerator
+# AI Assistant Content Accelerator - Overview
 
 Understand how the AI Assistant Content Accelerator can help marketers by providing proactive content variation suggestions for both text and images.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432772/?learn=on)
