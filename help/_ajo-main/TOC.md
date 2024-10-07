@@ -70,15 +70,17 @@ auto-video-transcripts: true
     + [Author a web campaign](/help/channels/author-a-web-campaign.md)
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Content Management{#content-management}
-  + AI Assistant Content Accelerator{#content-accelerator}
-    + [Introduction to the AI Assistant Content Accelerator](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-    + [Create content with the AI Assistant in Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+  + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
   + [Manage Assets](/help/assets-essentials-overview.md)
   + [Manage content templates](/help/content-management/content-templates.md)
   + [Manage fragments](/help/content-management/manage-fragments.md)
   + [Create expression fragments](/help/content-management/expression-fragments.md)
-  + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
-  + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
+  + Multilingual messaging {#multilingual-messaging}
+    + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
+    + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
+  + AI Assistant Content Accelerator{#content-accelerator}
+    + [Introduction to the AI Assistant Content Accelerator](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+    + [Create content with the AI Assistant in Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
 + Personalize content {#personalize-content}
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -108,6 +110,7 @@ auto-video-transcripts: true
   + [Configure a dataset export destination](/help/data-management/configure-dataset-export-destination.md)
   + [Export datasets to cloud storage locations](/help/data-management/export-datasets.md)
 + Report and monitor {#report-and-monitor}
+  + [Measurement and reporting - Overview](/help/report-and-monitor/measurement-and-reporting-overview.md)
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
   + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-csv-format.md)
