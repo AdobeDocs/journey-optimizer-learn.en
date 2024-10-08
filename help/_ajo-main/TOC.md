@@ -26,7 +26,7 @@ auto-video-transcripts: true
   + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
   + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
-  + [Overview over the journey canvas](/help/create-journeys/overview-over-the-journey-canvas.md)
+  + [Journey Designer - Overview](/help/create-journeys/journey-designer-overview.md)
   + [Discover the new Journey Designer](/help/create-journeys/new-journey-designer.md)
   + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
   + [Use case - Transactional journey](/help/create-journeys/use-case-transactional-journey.md)
@@ -38,15 +38,19 @@ auto-video-transcripts: true
   + [Update content in a live journey](/help/create-journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
+  + [Profiles and audiences - Overview](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
   + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Channels {#channels}
+  + [Mobile App Optimization - Overview](/help/channels/mobile-app-optimization-overview.md)
   + Code-based experience channel{#code-based-experience-channel}
     + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
   + Direct mail channel{#direct-mail-channel}
     + [Create a direct mail](/help/channels/direct-mail.md)
   + Email channel{#email-channel}
+    + [Email Channel - Overview](/help/channels/email-channel-overview.md)
+    + [Email design & personalization- Overview](/help/channels/email-design-and-personalization-overview.md)
     + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
@@ -54,31 +58,40 @@ auto-video-transcripts: true
   + Content Cards{#content-cards}
     + [Create content cards](/help/channels/create-content-cards.md)
   + In App channel{#in-app-channel}
+    + [In-app messages - Overview](/help/channels/in-app-messages-overview.md)
     + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
     + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
     + [Author an in-app message](/help/channels/author-in-app-messages.md)
     + [Configure content experiments for in-app messages](/help/experimentation/content-experiments-for-in-app-messages.md)
   + Push channel{#push-channel}
+    + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
   + SMS channel{#sms-channel}
+    + [SMS/MMS messages - Overview](/help/channels/sms-mms-messages-overview.md)
     + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
     + [Author an MMS message](/help/channels/author-mms.md)
     + [SMS - Double opt-in for Sinch and Infobip](/help/channels/sms-double-opt-in.md)
   + Web channel {#web-channel}
+    + [Web personalization - Overview](/help/channels/web-personalization-overview.md)
     + [Create a web campaign](/help/channels/create-a-web-campaign.md)
     + [Author a web campaign](/help/channels/author-a-web-campaign.md)
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Content Management{#content-management}
-  + AI Assistant Content Accelerator{#content-accelerator}
-    + [Introduction to the AI Assistant Content Accelerator](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-    + [Create content with the AI Assistant in Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+  + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
+  + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
   + [Manage Assets](/help/assets-essentials-overview.md)
   + [Manage content templates](/help/content-management/content-templates.md)
   + [Manage fragments](/help/content-management/manage-fragments.md)
   + [Create expression fragments](/help/content-management/expression-fragments.md)
-  + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
-  + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
+  + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
+  + Multilingual messaging {#multilingual-messaging}
+    + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
+    + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
+  + AI Assistant Content Accelerator{#content-accelerator}
+    + [AI Assistant Content Accelerator - Overview](/help/content-management/ai-assistant-content-accelerator-overview.md)
+    + [Create content using the AI Assistant Content Accelerator](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personalize content {#personalize-content}
+  + [Personalization editor - Overview](/help/personalize-content/personalization-editor-overview.md)
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
   + [Use contextual event information for personalization](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -107,6 +120,7 @@ auto-video-transcripts: true
   + [Configure a dataset export destination](/help/data-management/configure-dataset-export-destination.md)
   + [Export datasets to cloud storage locations](/help/data-management/export-datasets.md)
 + Report and monitor {#report-and-monitor}
+  + [Measurement and reporting - Overview](/help/report-and-monitor/measurement-and-reporting-overview.md)
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
   + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-csv-format.md)

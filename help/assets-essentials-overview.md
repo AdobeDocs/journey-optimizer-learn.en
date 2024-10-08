@@ -6,6 +6,8 @@ role: User
 level: Beginner
 jira: KT-10165
 thumbnail: 342098.jpeg
+hidefromtoc: yes
+hide: yes
 exl-id: 78b7582b-76bc-4919-9e17-34966b5032f5
 ---
 # Assets Essentials Overview
