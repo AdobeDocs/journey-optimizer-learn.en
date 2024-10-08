@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 474
 last-substantial-update: 2024-10-01
 jira: KT-16263
-hide: Yes
-hidefromtoc: Yes
+hide: no
+hidefromtoc: no
 ---
 
 # Data Governance Framework Overview

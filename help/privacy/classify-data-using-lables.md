@@ -7,8 +7,8 @@ level: Beginner
 jira: KT-16266
 thumbnail: 29709.jpg
 last-substantial-update: 2024-10-01
-hide: Yes
-hidefromtoc: Yes
+hide: No
+hidefromtoc: No
 ---
 # Classify data using labels
 

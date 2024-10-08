@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 235
 last-substantial-update: 2024-09-11
 jira: KT-16190
-hidefromtoc: yes
-hide: yes
+hidefromtoc: no
+hide: no
 ---
 
 # Create content with the AI Assistant in Journey Optimizer - Content Accelerator

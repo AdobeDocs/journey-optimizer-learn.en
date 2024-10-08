@@ -26,7 +26,7 @@ auto-video-transcripts: true
   + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
   + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
-  + [Overview over the journey canvas](/help/create-journeys/overview-over-the-journey-canvas.md)
+  + [Journey Designer - Overview](/help/create-journeys/journey-designer-overview.md)
   + [Discover the new Journey Designer](/help/create-journeys/new-journey-designer.md)
   + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
   + [Use case - Transactional journey](/help/create-journeys/use-case-transactional-journey.md)
@@ -43,6 +43,7 @@ auto-video-transcripts: true
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Channels {#channels}
+  + [Mobile App Optimization - Overview](/help/channels/mobile-app-optimization-overview.md)
   + Code-based experience channel{#code-based-experience-channel}
     + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
   + Direct mail channel{#direct-mail-channel}
@@ -56,13 +57,16 @@ auto-video-transcripts: true
   + Content Cards{#content-cards}
     + [Create content cards](/help/channels/create-content-cards.md)
   + In App channel{#in-app-channel}
+    + [In-app messages - Overview](/help/channels/in-app-messages-overview.md)
     + [Create an in-app campaign](/help/channels/create-an-in-app-campaign.md)
     + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
     + [Author an in-app message](/help/channels/author-in-app-messages.md)
     + [Configure content experiments for in-app messages](/help/experimentation/content-experiments-for-in-app-messages.md)
   + Push channel{#push-channel}
+    + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
   + SMS channel{#sms-channel}
+    + [SMS/MMS messages - Overview](/help/channels/sms-mms-messages-overview.md)
     + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
     + [Author an MMS message](/help/channels/author-mms.md)
     + [SMS - Double opt-in for Sinch and Infobip](/help/channels/sms-double-opt-in.md)
@@ -76,6 +80,7 @@ auto-video-transcripts: true
   + [Manage content templates](/help/content-management/content-templates.md)
   + [Manage fragments](/help/content-management/manage-fragments.md)
   + [Create expression fragments](/help/content-management/expression-fragments.md)
+  + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
   + Multilingual messaging {#multilingual-messaging}
     + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
