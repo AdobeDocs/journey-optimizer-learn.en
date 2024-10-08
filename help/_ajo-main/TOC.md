@@ -49,7 +49,8 @@ auto-video-transcripts: true
   + Direct mail channel{#direct-mail-channel}
     + [Create a direct mail](/help/channels/direct-mail.md)
   + Email channel{#email-channel}
-    + [Message authoring - Overview](/help/channels/message-authoring-overview.md)
+    + [Email Channel - Overview](/help/channels/email-channel-overview.md)
+    + [Email design & personalization- Overview](/help/channels/email-design-and-personalization-overview.md)
     + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
@@ -71,10 +72,12 @@ auto-video-transcripts: true
     + [Author an MMS message](/help/channels/author-mms.md)
     + [SMS - Double opt-in for Sinch and Infobip](/help/channels/sms-double-opt-in.md)
   + Web channel {#web-channel}
+    + [Web personalization - Overview](/help/channels/web-personalization-overview.md)
     + [Create a web campaign](/help/channels/create-a-web-campaign.md)
     + [Author a web campaign](/help/channels/author-a-web-campaign.md)
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Content Management{#content-management}
+  + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
   + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
   + [Manage Assets](/help/assets-essentials-overview.md)
   + [Manage content templates](/help/content-management/content-templates.md)
