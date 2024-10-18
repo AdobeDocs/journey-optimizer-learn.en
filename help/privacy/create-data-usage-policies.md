@@ -12,9 +12,9 @@ hide: No
 hidefromtoc: No
 ---
 
-# Create Data Usage Policies
+# Create data usage policies
 
-Learn how to create and manage data usage policies. Data usage policies allow you to restrict data usage for specific purposes based on the labeling of data. To learn the API-based approach, see [create data usage policies with the API|https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create].
+Learn how to create and manage data usage policies. Data usage policies allow you to restrict data usage for specific purposes based on the labeling of data. To learn the API-based approach, see [Create data usage policies with the API](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create).
 
 >[!NOTE]
 >
