@@ -1,6 +1,6 @@
 ---
 title: Trigger campaigns using APIs
-description: Learn how to trigger transactional SMS and email messages from an external system.
+description: Learn how to trigger transactional SMS and email messages from an external system in AJO.
 feature: Campaigns, API
 role: User, Developer
 level: Experienced
