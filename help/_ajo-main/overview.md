@@ -42,8 +42,8 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 <table>
 <tr>
   <td>
-    <a href="../introduction/journey-optimizer-overview-part-1.md">
-      <img alt="Journey Optimizer Overview Part 1 - Deliver omni-channel journeys (video)" src="../assets/334174.jpg"/>
+    <a href="../introduction/journey-optimizer-overview.md">
+      <img alt="Journey Optimizer Overview (video)" src="../assets/334174.jpg"/>
     </a>
     <div>
       <a href="../introduction/journey-optimizer-overview-part-1.md">
