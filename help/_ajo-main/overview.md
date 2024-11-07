@@ -41,30 +41,31 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 <table>
 <tr>
-  <td>
-    <a href="../introduction/journey-optimizer-overview.md">
-      <img alt="Journey Optimizer Overview (video)" src="../assets/334174.jpg"/>
+    <td>
+    <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+      <img alt="Create content using the AI Assistant Content Accelerator (video)" src="../assets/3434635.jpg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-1.md">
-    <strong>Journey Optimizer Overview Part 1 </strong>
+      <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+    <strong>Create content using the AI Assistant Content Accelerator</strong>
     </a>
     </div>
     <p>
-    <em>This video shows how brands can use Adobe Journey Optimization to deliver personalized omni-channel journeys to their consumers.</em>
+    <em>Learn how to use the AI Assistant Content Accelerator to generate proactive content variation suggestions for both text and images.
+</em>
     <p>
   </td>
     <td>
-    <a href="../introduction/journey-optimizer-overview-part-2.md">
-      <img alt="Journey Optimizer Overview Part 2 - Deliver omni-channel journeys (video)" src="../assets/334175.jpg"/>
+    <a href="../experimentation/content-experiments-for-emails.md">
+      <img alt="Configure content experiments for email campaigns(video)" src="../assets/3419893.jpeg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-2.md">
-    <strong>Journey Optimizer Overview Part 2 </strong>
+      <a href="../experimentation/content-experiments-for-emails.md">
+    <strong>Configure content experiments for email campaigns </strong>
     </a>
     </div>
     <p>
-    <em>This video shows how brands can use Adobe Journey Optimizer's decision management capabilities, real-time segment qualification, and business event management to take their consumer journeys to new heights.</em>
+    <em>Learn how to configure content experiments to A/B test and explore email content best drives your business objectives.</em>
     <p>
   </td>
   </td>
