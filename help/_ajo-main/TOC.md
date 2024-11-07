@@ -11,8 +11,6 @@ auto-video-transcripts: true
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
-  + [Journey Optimizer Overview Part 1](/help/introduction/journey-optimizer-overview-part-1.md)
-  + [Journey Optimizer Overview Part 2](/help/introduction/journey-optimizer-overview-part-2.md)
   + [Key capabilities and the user interface](/help/introduction/key-capabilities-and-user-interface.md)
   + [Architecture](/help/introduction/architecture.md)
   + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
