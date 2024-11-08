@@ -8,8 +8,8 @@ doc-type: Value Video
 duration: 323
 last-substantial-update: 2024-09-23
 jira: KT-16226
+exl-id: cd14c201-58a4-4459-a368-4024dc337798
 ---
-
 # Create content using the AI Assistant Content Accelerator
 
 Learn how to use the AI Assistant Content Accelerator to generate proactive content variation suggestions for both text and images.

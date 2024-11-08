@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 332
 last-substantial-update: 2024-09-10
 jira: KT-14860
+exl-id: 936c8902-ce08-4877-a255-f840c301398b
 ---
-
 # Configure business rules - Frequency capping
 
 Learn how to configure frequency capping rules.

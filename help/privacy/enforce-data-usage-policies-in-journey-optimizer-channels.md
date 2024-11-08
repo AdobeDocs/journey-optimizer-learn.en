@@ -11,8 +11,8 @@ jira: KT-16264
 hide: No
 hidefromtoc: No
 badgePrivateBeta: label="Private Beta" type="Informative"
+exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
 ---
-
 # Enforce data usage policies in Journey Optimizer channels
 
 Learn how data usage policies are enforced in Journey Optimizer channels.

@@ -1,6 +1,6 @@
 ---
 title: Create Data Usage Policies
-description: Learn how to create and manage data usage policies. 
+description: Learn how to create and manage data usage policies.
 feature: Governance, Privacy
 role: User
 level: Beginner
@@ -10,8 +10,8 @@ last-substantial-update: 2024-10-03
 jira: KT-16267
 hide: No
 hidefromtoc: No
+exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
 ---
-
 # Create data usage policies
 
 Learn how to create and manage data usage policies. Data usage policies allow you to restrict data usage for specific purposes based on the labeling of data. To learn the API-based approach, see [Create data usage policies with the API](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create).
