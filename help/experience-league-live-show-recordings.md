@@ -2,8 +2,8 @@
 title: Experience League LIVE show recordings
 description: Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 feature: Overview
+exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
 ---
-
 # Experience League LIVE shows
 
 Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
@@ -92,11 +92,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-
-
-
-
-
 ## Past Episodes
 
 <!-- CARDS
@@ -104,8 +99,8 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
 
