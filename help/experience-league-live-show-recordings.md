@@ -2,8 +2,8 @@
 title: Experience League LIVE show recordings
 description: Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 feature: Overview
+exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
 ---
-
 # Experience League LIVE shows
 
 Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
@@ -344,8 +344,3 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-
-
