@@ -8,7 +8,6 @@ auto-video-transcripts: true
 # Journey Optimizer Tutorials {#tutorials}
 
 + [Journey Optimizer Tutorials](/help/_ajo-main/overview.md)
-+ [Experience League Live show recordings](/help/experience-league-live-show-recordings.md)  
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
@@ -156,5 +155,6 @@ auto-video-transcripts: true
 + Exercises and challenges {#exercises-and-challenges}
   + [Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
   + [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
++ [Experience League Live show recordings](/help/experience-league-live-show-recordings.md)  
 + Summit Labs {#summit-labs}
   + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"} 
