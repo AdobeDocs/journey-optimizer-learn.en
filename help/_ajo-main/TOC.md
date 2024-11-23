@@ -145,7 +145,7 @@ auto-video-transcripts: true
 + Access Control {#access-control}
   + [Access management](/help/set-up-access/access-management.md)
   + [Configure attribute-based access control](/help/administration/attribute-based-access-control.md)
-  + [Create and manage sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
+  + [Use sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Data Governance and Privacy {#data-governance-and-privacy}
   + [Data Governance Framework](/help/privacy/data-governance-framework.md)
   + [Classify data using labels](/help/privacy/classify-data-using-lables.md)
