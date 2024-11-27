@@ -15,3 +15,4 @@ jira: KT-16603
 Reporting interactivity features include creating a simple metric or publishing an audience directly from your report, performing basic ad-hoc analysis, and scheduling your report for delivery to your stakeholders. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440615/?learn=on)
+
