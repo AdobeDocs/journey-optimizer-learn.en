@@ -1,7 +1,7 @@
 ---
 title: Create content cards
 description: Learn how to create content cards for your application.
-feature: In App
+feature: Content Cards, In App
 role: User
 level: Beginner
 doc-type: Feature Video

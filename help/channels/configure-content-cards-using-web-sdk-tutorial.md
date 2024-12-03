@@ -1,7 +1,7 @@
 ---
 title: Configure content card support using the Web SDK (Tutorial)
 description: Learn how Adobe Journey Optimizer's Content Cards enhance engagement with personalized content, covering benefits, implementation, use cases, and tips.
-feature: Use Cases, Web SDK
+feature: Content Cards, Use Cases, Web SDK
 role: User
 level: Intermediate
 doc-type: Tutorial
