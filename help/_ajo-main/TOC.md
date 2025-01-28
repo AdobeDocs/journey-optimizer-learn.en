@@ -127,7 +127,6 @@ auto-video-transcripts: true
   + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-csv-format.md)
   + [Use alerts](/help/administration/alerts.md)
   + [Enhanced reporting with Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
-  + [Reporting interactivity](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + Configuration {#configuration}
   + Configure channels {#channel-configuration}
     + [Configure channels](/help/set-up-channels/configure-channels.md)
