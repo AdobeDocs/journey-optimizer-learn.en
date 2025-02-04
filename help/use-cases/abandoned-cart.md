@@ -12,6 +12,6 @@ jira: KT-16346
 
 # Use Case Playbook -  Abandoned shopping cart
 
-Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer(AJO).
+Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
