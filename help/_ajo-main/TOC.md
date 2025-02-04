@@ -10,6 +10,7 @@ auto-video-transcripts: true
 + [Journey Optimizer Tutorials](/help/_ajo-main/overview.md)
 + Use Cases {#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
+  + [Abandoned cart](help/use-cases/abandoned-shopping-cart.md)
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
