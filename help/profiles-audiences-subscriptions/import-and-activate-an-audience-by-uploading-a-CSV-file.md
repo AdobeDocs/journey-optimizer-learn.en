@@ -1,6 +1,6 @@
 ---
 title: Import and activate an audience by uploading a CSV file
-description: Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.
+description: Discover how to efficiently import and activate an audience by uploading a CSV file in AJO. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.
 feature: Audiences
 role: User
 level: Beginner
