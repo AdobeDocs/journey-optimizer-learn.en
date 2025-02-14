@@ -1,6 +1,6 @@
 ---
 title: Create an audience using the rule builder
-description: Understand how Journey Optimizer uses rules to generate audience and learn how to use attributes, events, and existing audiences to create an audience. 
+description: Understand how Journey Optimizer (AJO) uses rules to generate audience and learn how to use attributes, events, and existing audiences to create an audience. 
 jira: KT-7553
 thumbnail: 3425020.jpg
 feature: Audiences
