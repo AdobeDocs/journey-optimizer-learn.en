@@ -16,4 +16,4 @@ This page has text and links that are being used in the L535 Summit Lab. It allo
 
 Images:
 
-![Mobile Phone](/help/summit-lab-assets/assets/Online%20banking%20app-01.png)
+![Mobile Phone](/help/summit-lab-assets/assets/Online banking app-01.png)
