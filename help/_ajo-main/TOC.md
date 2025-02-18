@@ -145,8 +145,9 @@ auto-video-transcripts: true
     + [Create events](/help/set-up-journeys/create-events.md)
     + [Create actions](/help/set-up-journeys/create-actions.md)
   + Business rules {#business-rules}
-    + [Configure frequency capping rules](/help/configuration/configure-frequency-capping-rules.md)
-    + [Test and report on frequency rules](/help/configuration/test-and-report-on-frequency-rules.md)
+    + [Configure frequency capping rules](/help/business-rules/configure-frequency-capping-rules.md)
+    + [Work with rule sets](/help/business-rules/work-with-rule-sets.md)
+    + [Test and report on frequency rules](/help/business-rules/test-and-report-on-frequency-rules.md)
 + Access Control {#access-control}
   + [Access management](/help/set-up-access/access-management.md)
   + [Configure attribute-based access control](/help/administration/attribute-based-access-control.md)
