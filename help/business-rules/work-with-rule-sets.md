@@ -15,3 +15,5 @@ jira: KT-17341
 Learn how to create a customer frequency capping rule set to limit the number of communications sent to customers based on communication type.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+
+See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets) for more information.
