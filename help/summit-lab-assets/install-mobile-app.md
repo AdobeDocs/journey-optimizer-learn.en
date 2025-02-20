@@ -39,11 +39,10 @@ After installing the app, you must trust the Adobe enterprise developer:
 
     You should now be able to launch the * SecureFinancial app** on your iPhone: 
 
-2. Open the app.
+1. Open the app.
 
-3. On the pop-up, click **Allow**, to allow the DX Demo app to send you notifications.
+1. On the pop-up, click **Allow**, to allow the DX Demo app to send you notifications.
 
-     ![notification pop up](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
