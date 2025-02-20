@@ -22,7 +22,7 @@ Device-specific installation:
 
 >[!TAB iOS]
 
-### iOS:
+## iOS:
 
 After installing the app, you must trust the Adobe enterprise developer:
 
@@ -37,18 +37,17 @@ After installing the app, you must trust the Adobe enterprise developer:
 
     ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * You should now be able to launch the * SecureFinancial app** on your iPhone: ! SecureFinancial App Icon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+    You should now be able to launch the * SecureFinancial app** on your iPhone: 
 
+2. Open the app.
 
-1. Open the app.
-
-1. On the pop-up, click **Allow**, to allow the DX Demo app to send you notifications.
+3. On the pop-up, click **Allow**, to allow the DX Demo app to send you notifications.
 
      ![notification pop up](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
-### Android
+## Android
 
 On Android, download and install the APK by following the alert instructions shown here:
 
@@ -56,6 +55,6 @@ On Android, download and install the APK by following the alert instructions sho
 <br>
 ![Android installation screen](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* You should now be able to launch the * SecureFinancial app** on your Android device: ! SecureFinancial App Icon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+You should now be able to launch the * SecureFinancial app** on your Android device: 
 
 >[!ENDTABS]
