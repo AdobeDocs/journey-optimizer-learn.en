@@ -18,4 +18,4 @@ This page has text and links that are being used in the L535 Summit Lab. It allo
 
 ![Mobile Phone](/help/summit-lab-assets/assets/online-banking-app-01.png)
 
-## Install the app
+CLick [here](/help/summit-lab-assets/install-mobile-app.md) for instructions on how to install the app.
