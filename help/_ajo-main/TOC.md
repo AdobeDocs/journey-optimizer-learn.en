@@ -165,3 +165,4 @@ auto-video-transcripts: true
 + Summit Labs {#summit-labs}
   + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"} 
   + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)
+  + [Install the mobile app](/help/summit-lab-assets/install-mobile-app.md)
