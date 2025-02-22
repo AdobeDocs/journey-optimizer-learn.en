@@ -16,6 +16,8 @@ This page has text and links that are being used in the L535 Summit Lab. It allo
 
 ## Images
 
+![SecureFinancial logo](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+
 ![Mobile Phone](/help/summit-lab-assets/assets/online-banking-app-01.png)
 
-CLick [here](/help/summit-lab-assets/install-mobile-app.md) for instructions on how to install the app.
+
