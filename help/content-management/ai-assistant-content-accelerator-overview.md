@@ -1,6 +1,6 @@
 ---
-title: AI Assistant for Content Generation - Overview
-description: Understand how the AI Assistant Content Accelerator can help marketers by providing proactive content variation suggestions for both text and images.
+title: AI Assistant for content generation - Overview
+description: Understand how the AI Assistant for content generation  can help marketers by providing proactive content variation suggestions for both text and images.
 feature: Content Assistant
 role: User
 level: Beginner

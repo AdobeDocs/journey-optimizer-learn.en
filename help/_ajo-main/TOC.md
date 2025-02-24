@@ -91,9 +91,9 @@ auto-video-transcripts: true
   + Multilingual messaging {#multilingual-messaging}
     + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
-  + AI Assistant Content Accelerator{#content-accelerator}
-    + [AI Assistant Content Accelerator - Overview](/help/content-management/ai-assistant-content-accelerator-overview.md)
-    + [Create content using the AI Assistant Content Accelerator](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+  + AI Assistant for content generation {#content-accelerator}
+    + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-content-accelerator-overview.md)
+    + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personalize content {#personalize-content}
   + [Personalization editor - Overview](/help/personalize-content/personalization-editor-overview.md)
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
