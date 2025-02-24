@@ -10,8 +10,8 @@ last-substantial-update: 2024-10-07
 jira: KT-16296
 exl-id: 78e9077a-a1b1-40eb-916e-893e933c5d08
 ---
-# AI Assistant for Content Generation - Overview
+# AI Assistant for content generation - Overview
 
-Understand how the AI Assistant for Content Generation can help marketers by providing proactive content variation suggestions for both text and images.
+Understand how the AI Assistant for content generation can help marketers by providing proactive content variation suggestions for both text and images.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432772/?learn=on)
