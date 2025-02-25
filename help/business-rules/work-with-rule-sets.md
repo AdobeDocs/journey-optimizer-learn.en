@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 170
 last-substantial-update: 2025-02-18
 jira: KT-17341
+exl-id: 524f7f2a-8292-408e-a3b9-356c62473d95
 ---
-
 # Work with rule sets
 
 Learn how to create a customer frequency capping rule set to limit the number of communications sent to customers based on communication type.

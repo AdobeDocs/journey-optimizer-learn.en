@@ -8,8 +8,8 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: yes
 hidefromtoc: yes
+exl-id: 4e968512-ebc1-42ee-873c-41d6c1ec3056
 ---
-
 # Download and install the SecureFinancial app
 
 Install the mobile app on your iOS or Android&trade.
@@ -66,5 +66,3 @@ On Android, download and install the APP by following the alert instructions sho
 You should now be able to launch the * SecureFinancial app** on your Android device: 
 
 >[!ENDTABS]
-
-
