@@ -27,9 +27,7 @@ This page has text and links that are being used in the L535 Summit Lab. It allo
 #### Prompt
 
 ```
-Generate a welcome email for new SecurFinancial
-customers who just opened a new savings account. Add a
-call to action to install the SecurFinancial mobile app.
+Generate a welcome email for new SecurFinancial customers who just opened a new savings account. Add a call to action to install the SecurFinancial mobile app.
 ```
 
 ### Exercise 3.1 - Apply dynamic content to the SMS message
@@ -83,17 +81,13 @@ Welcome to SecurFinancial!
 #### Body
 
 ```
-Thank you for downloading the app. You can find
-ATMs, track your spending and more. All within the
-app.
+Thank you for downloading the app. You can find ATMs, track your spending and more. All within the app.
 ```
 
 #### Media URL
 
 ```
-https://demo-systemnext.
-s3.amazonaws.com/assets/securfinancial/homeloan.
-jpg
+https://demo-systemnext.s3.amazonaws.com/assets/securfinancial/homeloan.jpg
 ```
 
 #### Button Title
