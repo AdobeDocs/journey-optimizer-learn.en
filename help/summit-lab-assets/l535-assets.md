@@ -27,7 +27,8 @@ This page has text and links that are being used in the L535 Summit Lab. It allo
 #### Prompt
 
 ```
-Generate a welcome email for new SecurFinancial customers who just opened a new savings account. Add a call to action to install the SecurFinancial mobile app.
+Generate a welcome email for new SecurFinancial customers who just opened a new savings account. 
+Add a call to action to install the SecurFinancial mobile app.
 ```
 
 ### Exercise 3.1 - Apply dynamic content to the SMS message
