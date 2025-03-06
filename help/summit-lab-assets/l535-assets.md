@@ -56,13 +56,13 @@ s3.amazonaws.com/dxdemo/summit/index.html
 #### Title
 
 ```
-Welcome to SecurFinancial"
+Welcome to SecurFinancial
 ```
 
 #### Body Text
 
 ```
-Did you know you can find an ATM near in the SecurFinancial app? Try it now!"
+Did you know you can find an ATM near in the SecurFinancial app? Try it now!
 ```
 
 #### URL
