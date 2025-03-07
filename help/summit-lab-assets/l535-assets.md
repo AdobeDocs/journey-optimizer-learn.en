@@ -22,6 +22,15 @@ This page has text and links that are being used in the L535 Summit Lab. It allo
 
 ## Copy and paste for exercises
 
+### Exercise 2.1 - Login to Journey Optimizer
+
+Log in using the following details: 
+
+Email Address:    L535+*your seat number*@adobeeventlab.com  
+ 
+Password:       Adobe4Summit!
+
+
 ### Exercise 2.3 - Compose the email message
 
 #### Prompt
@@ -88,7 +97,7 @@ Thank you for downloading the app. You can find ATMs, track your spending and mo
 #### Media URL
 
 ```
-https://demo-systemnext.s3.amazonaws.com/assets/securfinancial/homeloan.jpg
+https://demo-system-next.s3.amazonaws.com/assets/securfinancial/home-loan.jpg
 ```
 
 #### Button Title
