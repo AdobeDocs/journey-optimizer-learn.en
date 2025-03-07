@@ -14,4 +14,4 @@ exl-id: 78e9077a-a1b1-40eb-916e-893e933c5d08
 
 Understand how the AI Assistant for content generation can help marketers by providing proactive content variation suggestions for both text and images.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432772/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
