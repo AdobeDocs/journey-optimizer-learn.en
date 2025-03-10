@@ -15,7 +15,7 @@ jira: KT-17512
 
 Learn how to lock content in templates. This tutorial covers locking templates fully or partially, using read-only and content locking modes, and how to manage editable areas within a locked template.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
 
 Please refer to the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/content-locking
 ) for more information.
