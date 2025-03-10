@@ -1,6 +1,6 @@
 ---
 title: Create content templates
-description: Learn how to create, edit, and use content templates.
+description: Learn how to create, edit, and use content templates in adobe Journey Optimizer (AJO).
 feature: Templates
 role: User
 level: Beginner
