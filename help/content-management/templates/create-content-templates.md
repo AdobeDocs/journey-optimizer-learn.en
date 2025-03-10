@@ -1,5 +1,5 @@
 ---
-title: Content templates
+title: Create content templates
 description: Learn how to create, edit, and use content templates.
 feature: Templates
 role: User
@@ -9,7 +9,7 @@ thumbnail: 3413743.jpg
 last-substantial-update: 2023-01-31
 exl-id: 6c9bfc6b-4391-433c-82b2-427662766402
 ---
-# Content templates
+# Create content templates
 
 Learn how to create, edit, and use content templates.
 
