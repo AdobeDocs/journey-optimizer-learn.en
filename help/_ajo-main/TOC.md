@@ -94,6 +94,9 @@ auto-video-transcripts: true
   + AI Assistant for content generation {#content-accelerator}
     + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-content-accelerator-overview.md)
     + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+  + Content templates{#content-templates}
+    + [Create content templates](/help/content-management/templates/create-content-templates.md)
+    + [Lock content in templates](/help/content-management/templates/content-locking.md)
 + Personalize content {#personalize-content}
   + [Personalization editor - Overview](/help/personalize-content/personalization-editor-overview.md)
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
