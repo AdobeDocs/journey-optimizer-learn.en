@@ -9,8 +9,8 @@ doc-type: Feature Video
 duration: 279
 last-substantial-update: 2025-03-10
 jira: KT-17512
+exl-id: b2da5ddb-8d17-43a0-aea5-bfc5bf7cd444
 ---
-
 # Lock content in templates
 
 Learn how to lock content in templates. This tutorial covers locking templates fully or partially, using read-only and content locking modes, and how to manage editable areas within a locked template.
