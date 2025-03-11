@@ -84,7 +84,6 @@ auto-video-transcripts: true
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
   + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
   + [Manage Assets](/help/assets-essentials-overview.md)
-  + [Manage content templates](/help/content-management/content-templates.md)
   + [Manage fragments](/help/content-management/manage-fragments.md)
   + [Create expression fragments](/help/content-management/expression-fragments.md)
   + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
