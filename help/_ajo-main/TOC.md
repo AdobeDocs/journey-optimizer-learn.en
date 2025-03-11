@@ -104,9 +104,9 @@ auto-video-transcripts: true
   + [Use helper functions for personalization](/help/personalize-content/use-helper-functions-for-personalization.md)
   + [Use and manage saved expressions in the personalization library](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
   + [Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)
-+ Decision management {#decision-management}
-  + [Introduction to decision management](/help/decision-management/introduction-to-decision-management.md)
-  + [Demo of the decision management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
++ Decisioning {#decisioning}
+  + [Introduction to decisioning](/help/decision-management/introduction-to-decisioning.md)
+  + [Demo of the decisioning capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
   + [Create placements](/help/decision-management/create-placements.md)
   + [Create rules](/help/decision-management/create-rules.md)
   + [Create tags](/help/decision-management/create-tags.md)
