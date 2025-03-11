@@ -37,7 +37,7 @@ Password:       Adobe4Summit!
 #### Prompt
 
 ```
-Generate a welcome email for new SecurFinancial customers who just opened a new savings account. 
+Generate a welcome email for new SecurFinancial customers who just opened a new checking account. 
 Add a call to action to install the SecurFinancial mobile app.
 ```
 
