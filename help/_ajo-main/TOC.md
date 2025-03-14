@@ -109,7 +109,7 @@ auto-video-transcripts: true
     + [Introduction to Decisioning](/help/decisioning/introduction-to-decisioning.md)
     + [End-to-end Decisioning walkthrough](/help/decisioning/decisioning-end-to-end.md)
   + Decision Management {#decision-management}
-    + [Introduction to Decision Management](/help/decision-management/introduction-to-decisioning.md)
+    + [Introduction to Decision Management](/help/decision-management/introduction-to-decision-management.md)
     + [Demo of the Decision Management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
     + [Create placements](/help/decision-management/create-placements.md)
     + [Create rules](/help/decision-management/create-rules.md)
