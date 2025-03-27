@@ -1,6 +1,6 @@
 ---
 title: Edit assets with Adobe Express
-description: Learn how to efficiently edit your assets in Adobe Journey Optimizer using Adobe Express tools.
+description: Learn how to edit your assets in Adobe Journey Optimizer using Adobe Express tools.
 feature: Assets
 topic: Content Management, Integrations
 role: User
@@ -17,7 +17,7 @@ jira: KT-17529
 >
 >Adobe Express integration in Adobe Journey Optimizer is currently not available for use with Healthcare Shield or Privacy and Security Shield.
 
-Learn how to efficiently edit your assets in Adobe Journey Optimizer using Adobe Express tools.
+Learn how to edit your assets in Adobe Journey Optimizer using Adobe Express tools.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
