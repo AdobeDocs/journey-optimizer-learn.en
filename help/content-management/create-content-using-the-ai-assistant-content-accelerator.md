@@ -2,6 +2,7 @@
 title: Create content using the AI Assistant for content generation
 description: Learn how to use the AI Assistant for content generation to generate proactive content variation suggestions for both text and images.
 feature: Content Assistant
+topic: Content Management
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Value Video

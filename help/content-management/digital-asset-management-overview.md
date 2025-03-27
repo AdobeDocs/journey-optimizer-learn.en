@@ -2,6 +2,7 @@
 title: Digital asset management - Overview
 description: Learn how to manage your digital assets in Journey Optimizer.
 feature: Assets
+topic: Content Management
 role: User
 level: Beginner
 doc-type: Feature Video

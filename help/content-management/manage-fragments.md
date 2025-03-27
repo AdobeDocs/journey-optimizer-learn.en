@@ -2,6 +2,7 @@
 title: Manage fragments
 description: Learn how to manage, author, and use fragments in Adobe Journey Optimizer.
 feature: Templates
+topic: Content Management
 role: User
 level: Beginner
 doc-type: Feature Video

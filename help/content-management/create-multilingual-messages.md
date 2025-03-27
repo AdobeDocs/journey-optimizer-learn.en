@@ -2,6 +2,7 @@
 title: Create a multilingual message
 description: Learn how to create multilingual messages in Adobe Journey Optimizer.
 feature: Multilingual Content
+topic: Content Management
 role: User
 level: Beginner
 doc-type: Feature Video
