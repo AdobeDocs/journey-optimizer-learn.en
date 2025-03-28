@@ -1,7 +1,7 @@
 ---
 title: Create and email using GenStudio for Performance Marketing
 description: Discover the process of exporting an email template from Journey Optimizer to GenStudio for Performance Marketing, crafting brand-compliant emails using the template in GenStudio, and importing them seamlessly back into Journey Optimizer.
-feature: Emails, Templates
+feature: Email Design, Templates
 topic: Content Management
 role: User
 level: Beginner, Intermediate
