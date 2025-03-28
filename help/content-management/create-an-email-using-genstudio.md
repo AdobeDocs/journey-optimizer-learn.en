@@ -23,4 +23,4 @@ Discover the process of exporting an email template from [!DNL Journey Optimizer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
-To learn more about [!DNL GenStudio for Performance Marketing], visit the [documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
+To learn more about [!DNL GenStudio for Performance Marketing], visit the [[!DNL Adobe GenStudio for Performance Marketing] User Guide](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} or see the [Adobe GenStudio for Performance Marketing tutorials](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/overview).
