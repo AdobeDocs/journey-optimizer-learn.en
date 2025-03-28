@@ -89,6 +89,7 @@ auto-video-transcripts: true
   + [Manage fragments](/help/content-management/manage-fragments.md)
   + [Create expression fragments](/help/content-management/expression-fragments.md)
   + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
+  + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + Multilingual messaging {#multilingual-messaging}
     + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
