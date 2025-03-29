@@ -9,8 +9,8 @@ doc-type: Feature Video
 duration: 324
 last-substantial-update: 2025-03-28
 jira: KT-17531
+exl-id: 6503a468-b089-4bd1-b8a5-310077cbc43b
 ---
-
 # Create an email using GenStudio for Performance Marketing
 
 >[!AVAILABILITY]
