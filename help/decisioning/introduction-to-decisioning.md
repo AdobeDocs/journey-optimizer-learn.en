@@ -1,6 +1,6 @@
 ---
 title: Introduction to Decisioning
-description: Decisioning simplifies personalization by offering a centralized catalog of marketing offers known as 'decision items' and a sophisticated decision engine. This engine leverages rules and ranking criteria to select and present the most relevant decision items to each individual. This video gives you a brief overview of Adobe Journey Optimizer's Decisioning capabilities&gt;
+description: Learn about Decisioning capabilities in Journey Optimizer.
 feature: Decisioning
 topic: Integrations
 role: User
