@@ -83,22 +83,25 @@ auto-video-transcripts: true
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Content Management{#content-management}
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
-  + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
-  + [Manage Assets](/help/assets-essentials-overview.md)
-  + [Edit assets with Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
-  + [Manage fragments](/help/content-management/manage-fragments.md)
-  + [Create expression fragments](/help/content-management/expression-fragments.md)
-  + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
-  + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
+  + [Manage assets]{#assets}
+    + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
+    + [Manage Assets](/help/assets-essentials-overview.md)
+    + [Edit assets with Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
+  + Work with fragments {#fragments}
+    + [Manage fragments](/help/content-management/manage-fragments.md)
+    + [Create expression fragments](/help/content-management/expression-fragments.md)
+    + [Use AEM Content Fragments](/help/content-management/aem_content_fragments.md)
+  + Content templates{#content-templates}
+    + [Create content templates](/help/content-management/templates/create-content-templates.md)
+    + [Lock content in templates](/help/content-management/templates/content-locking.md)
   + Multilingual messaging {#multilingual-messaging}
     + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
   + AI Assistant for content generation {#content-accelerator}
     + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-content-accelerator-overview.md)
     + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-  + Content templates{#content-templates}
-    + [Create content templates](/help/content-management/templates/create-content-templates.md)
-    + [Lock content in templates](/help/content-management/templates/content-locking.md)
+  + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
+  + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalize content {#personalize-content}
   + [Personalization editor - Overview](/help/personalize-content/personalization-editor-overview.md)
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
