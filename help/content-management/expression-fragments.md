@@ -1,7 +1,7 @@
 ---
 title: Create expression fragments
 description: Learn how to create and use expression fragments.
-feature: Templates, Email Design
+feature: Fragments, Email Design
 topic: Content Management
 role: User
 level: Beginner, Intermediate, Experienced
