@@ -43,15 +43,15 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Create content using the AI Assistant Content Accelerator (video)" src="../assets/3434635.jpg"/>
+      <img alt="Create content using AI Assistant Content Accelerator (video)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Create content using the AI Assistant Content Accelerator</strong>
+    <strong>Create content using AI Assistant Content Accelerator</strong>
     </a>
     </div>
     <p>
-    <em>Learn how to use the AI Assistant Content Accelerator to generate proactive content variation suggestions for both text and images.
+    <em>Learn how to use AI Assistant Content Accelerator to generate proactive content variation suggestions for both text and images.
 </em>
     <p>
   </td>
