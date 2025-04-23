@@ -86,6 +86,7 @@ auto-video-transcripts: true
   + Manage assets {#assets}
     + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
     + [Manage Assets](/help/assets-essentials-overview.md)
+    + [AEM Dynamic Media integration](/help/content-management/aem-dynamic-media-integration.md)
     + [Edit assets with Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
   + Work with fragments {#fragments}
     + [Manage fragments](/help/content-management/manage-fragments.md)
