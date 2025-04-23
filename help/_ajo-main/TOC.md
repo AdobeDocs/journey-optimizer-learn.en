@@ -83,7 +83,7 @@ auto-video-transcripts: true
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Content Management{#content-management}
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
-  + [Manage assets]{#assets}
+  + Manage assets {#assets}
     + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
     + [Manage Assets](/help/assets-essentials-overview.md)
     + [Edit assets with Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
