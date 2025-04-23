@@ -12,8 +12,8 @@ jira: KT-17533
 hidefromtoc: yes
 hide: yes
 index: no
+exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
 ---
-
 # Adobe Experience Manager Dynamic Media integration
 
 Learn how to integrate Adobe Experience Managr Dynamic Media with Adobe Journey Optimizer to enable real-time content updates and personalization.
