@@ -1,7 +1,8 @@
 ---
 title: AI Assistant for content generation - Overview
-description: Understand how the AI Assistant for content generation  can help marketers by providing proactive content variation suggestions for both text and images.
+description: Understand how AI Assistant for content generation  can help marketers by providing proactive content variation suggestions for both text and images.
 feature: Content Assistant
+topic: Content Management
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,6 +13,6 @@ exl-id: 78e9077a-a1b1-40eb-916e-893e933c5d08
 ---
 # AI Assistant for content generation - Overview
 
-Understand how the AI Assistant for content generation can help marketers by providing proactive content variation suggestions for both text and images.
+Understand how AI Assistant for content generation can help marketers by providing proactive content variation suggestions for both text and images.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)

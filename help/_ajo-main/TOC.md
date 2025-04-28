@@ -44,6 +44,7 @@ auto-video-transcripts: true
   + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Create an audience by uploading a CSV file](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+  + [Evaluate audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Channels {#channels}
   + [Mobile App Optimization - Overview](/help/channels/mobile-app-optimization-overview.md)
@@ -82,20 +83,26 @@ auto-video-transcripts: true
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
 + Content Management{#content-management}
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
-  + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
-  + [Manage Assets](/help/assets-essentials-overview.md)
-  + [Manage fragments](/help/content-management/manage-fragments.md)
-  + [Create expression fragments](/help/content-management/expression-fragments.md)
-  + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
+  + Manage assets {#assets}
+    + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
+    + [Manage Assets](/help/assets-essentials-overview.md)
+    + [AEM Dynamic Media integration](/help/content-management/aem-dynamic-media-integration.md)
+    + [Edit assets with Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
+  + Work with fragments {#fragments}
+    + [Manage fragments](/help/content-management/manage-fragments.md)
+    + [Create expression fragments](/help/content-management/expression-fragments.md)
+    + [Use AEM Content Fragments](/help/content-management/aem-content-fragments.md)
+  + Content templates{#content-templates}
+    + [Create content templates](/help/content-management/templates/create-content-templates.md)
+    + [Lock content in templates](/help/content-management/templates/content-locking.md)
   + Multilingual messaging {#multilingual-messaging}
     + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
   + AI Assistant for content generation {#content-accelerator}
     + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-content-accelerator-overview.md)
-    + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-  + Content templates{#content-templates}
-    + [Create content templates](/help/content-management/templates/create-content-templates.md)
-    + [Lock content in templates](/help/content-management/templates/content-locking.md)
+    + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
+  + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
+  + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalize content {#personalize-content}
   + [Personalization editor - Overview](/help/personalize-content/personalization-editor-overview.md)
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -104,7 +111,7 @@ auto-video-transcripts: true
   + [Use helper functions for personalization](/help/personalize-content/use-helper-functions-for-personalization.md)
   + [Use and manage saved expressions in the personalization library](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
   + [Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)
-+ Decision Capabilities{#decision-capabilites}
++ Decision Capabilities{#decision-capabilities}
   + Decisioning {#decisioning}
     + [Introduction to Decisioning](/help/decisioning/introduction-to-decisioning.md)
     + [End-to-end Decisioning walkthrough](/help/decisioning/decisioning-end-to-end.md)
