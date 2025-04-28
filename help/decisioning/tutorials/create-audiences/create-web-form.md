@@ -1,6 +1,6 @@
 ---
 title: Create a web form
-description: Create a form in your HTML page that allows users to select their investment preference:
+description: Create a form in your HTML page that allows users to select their investment preference
 feature: Decisioning
 role: User
 level: Beginner
