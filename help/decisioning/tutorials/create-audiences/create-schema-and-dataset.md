@@ -10,7 +10,7 @@ last-substantial-update: 2025-03-13
 jira: KT-17487
 ---
 
-## Set Up Your XDM Schema in AEP
+# Set Up XDM Schema,Dataset,Datastream and Audiences in AEP
 
 *   Log in to Adobe Experience Platform
 

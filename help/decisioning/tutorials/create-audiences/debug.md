@@ -1,6 +1,6 @@
 ---
 title: Debug
-description: Create a form in your HTML page that allows users to select their investment preference:
+description: Debug the solution
 feature: Decisioning
 role: User
 level: Beginner
