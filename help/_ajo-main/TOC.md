@@ -111,6 +111,7 @@ auto-video-transcripts: true
   + [Use helper functions for personalization](/help/personalize-content/use-helper-functions-for-personalization.md)
   + [Use and manage saved expressions in the personalization library](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
   + [Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)
+  + [Personalization editor playground](/help/personalize-content/personalization-editor-playground.md)
 + Decision Capabilities{#decision-capabilities}
   + Decisioning {#decisioning}
     + [Introduction to Decisioning](/help/decisioning/introduction-to-decisioning.md)
