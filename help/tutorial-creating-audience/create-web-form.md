@@ -1,13 +1,12 @@
 ---
 title: Create a web form
 description: Create a form in your HTML page that allows users to select their investment preference
-feature: Decisioning
+feature: Audiences
 role: User
 level: Beginner
-doc-type: Value Video
-duration: 1547
-last-substantial-update: 2025-03-13
-jira: KT-17487
+doc-type: Tutorial
+last-substantial-update: 2025-04-30
+jira: KT-17923
 ---
 # Create a web form
 
@@ -53,3 +52,5 @@ function handleSubmission() {
   messageBox.textContent = `Thank you for selecting "${selectedAssetClass.value}". We'll use this to personalize your experience.`;
 }
 ```
+
+[The sample HTML form is provided as part of this tutorial](assets/webform.zip)

@@ -1,13 +1,12 @@
 ---
 title: Create Adobe Experience Platform Tags
-description: Creating AEP Audiences Based on User Investment Preferences (Stocks, Bonds, CDs)
-feature: Decisioning
+description: Creating AJO Audiences Based on User Investment Preferences (Stocks, Bonds, CDs)
+feature: Audiences
 role: User
 level: Beginner
-doc-type: Value Video
-duration: 1547
-last-substantial-update: 2025-03-13
-jira: KT-17487
+doc-type: Tutorial
+last-substantial-update: 2025-04-30
+jira: KT-17923
 ---
 
 # Creating AEP Tags

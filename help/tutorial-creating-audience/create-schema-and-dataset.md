@@ -1,13 +1,12 @@
 ---
-title: Creating Audiences
-description: Creating XDM Schema and Dataset
-feature: Decisioning
+title: Set up XDM Schema,Dataset,Datastream and Audiences in AEP
+description: Creating XDM Schema,Dataset,Datastream and Audiences
+feature: Audiences
 role: User
 level: Beginner
-doc-type: Value Video
-duration: 1547
-last-substantial-update: 2025-03-13
-jira: KT-17487
+doc-type: Tutorial
+last-substantial-update: 2025-04-30
+jira: KT-17923
 ---
 
 # Set Up XDM Schema,Dataset,Datastream and Audiences in AEP

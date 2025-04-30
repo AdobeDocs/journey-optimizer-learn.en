@@ -1,13 +1,12 @@
 ---
-title: Debug
-description: Debug the solution
-feature: Decisioning
+title: Testing the solution
+description: Methods to debug the solution
+feature: Audiences
 role: User
 level: Beginner
-doc-type: Value Video
-duration: 1547
-last-substantial-update: 2025-03-13
-jira: KT-17487
+doc-type: Tutorial
+last-substantial-update: 2025-04-30
+jira: KT-17923
 ---
 # Testing the solution
 
