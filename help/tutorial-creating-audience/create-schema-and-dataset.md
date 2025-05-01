@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30
 jira: KT-17923
+exl-id: 0efa418a-5b4f-4012-a6fc-afaa34a59285
 ---
-
 # Set Up XDM Schema,Dataset,Datastream and Audiences in AEP
 
 *   Log in to Adobe Experience Platform
