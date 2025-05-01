@@ -11,6 +11,7 @@ auto-video-transcripts: true
 + Use Cases {#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
+
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
@@ -175,7 +176,13 @@ auto-video-transcripts: true
 + Exercises and challenges {#exercises-and-challenges}
   + [Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
   + [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
-+ [Experience League Live show recordings](/help/experience-league-live-show-recordings.md)  
++ [Experience League Live show recordings](/help/experience-league-live-show-recordings.md)
++ Creating Audiences using Web SDK {#tutorial-creating-audiences}
+  + [Introduction](../tutorial-creating-audience/introduction.md)
+  + [Create Schema,Datasets..etc](../tutorial-creating-audience/create-schema-and-dataset.md)
+  + [Create AEP Tags](../tutorial-creating-audience/create-aep-tags.md)
+  + [Create web form](../tutorial-creating-audience/create-web-form.md)
+  + [Debug the solution](../tutorial-creating-audience/debug.md)  
 + Summit Labs {#summit-labs}
   + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"} 
   + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)
