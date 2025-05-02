@@ -8,6 +8,7 @@ doc-type: Technical Video
 duration: 169
 last-substantial-update: 2025-05-01
 jira: KT-17876
+index: no
 ---
 
 # Lesson 4 – Create a content experiment

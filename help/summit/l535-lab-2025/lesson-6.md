@@ -8,6 +8,7 @@ doc-type: Tutorial
 duration: 193
 last-substantial-update: 2025-05-01
 jira: KT-17945
+index: no
 ---
 
 # Lesson 6 - Create a content card campaign
