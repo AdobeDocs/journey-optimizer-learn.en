@@ -9,12 +9,17 @@ doc-type: Feature Video
 duration: 222
 last-substantial-update: 2025-04-23
 jira: KT-17533
-hidefromtoc: yes
-hide: yes
-index: no
+hidefromtoc: no
+hide: no
+index: yes
+badge: label="Limited availability" type="Informative"
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
 ---
 # Adobe Experience Manager Dynamic Media integration
+
+>[!AVAILABILITY]
+>
+>This integration is only available for a set of organizations (Limited Availability). To gain access, contact your Adobe representative.
 
 Learn how to integrate Adobe Experience Managr Dynamic Media with Adobe Journey Optimizer to enable real-time content updates and personalization.
 
