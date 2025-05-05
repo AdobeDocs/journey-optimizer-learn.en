@@ -13,7 +13,7 @@ exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
 ---
 # LAB WORKBOOK
 
-![Adobe Summit - alt text](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit - alt text](/help/summit-lab-2024-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Build Personalized Mobile Moments with Adobe Journey Optimizer 
 
@@ -45,7 +45,7 @@ In this hands-on lab, you explore various mobile scenarios and learn how to impl
 
 * Know your seat number: You can find your seat number on the lab machine's desk top:
 
-![Seat number](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+![Seat number](/help/summit-lab-2024-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 You require access to:
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - login details are provided during the exercises.
