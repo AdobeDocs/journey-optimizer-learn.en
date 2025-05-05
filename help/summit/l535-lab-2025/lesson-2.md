@@ -1,6 +1,6 @@
 ---
 title: Lesson 2 - Create a welcome journey
-description: In this exercise you start building the welcome journey, based on an existing journey. You start by defining the entry criteria and then build compose the email message first, using the AI Content Accelerator.
+description: In this exercise, you start building the welcome journey, based on an existing journey. You start by defining the entry criteria and then build compose the email message first, using the AI Content Accelerator.
 feature: Journeys, Email
 role: User
 level: Beginner, Intermediate
@@ -13,6 +13,6 @@ index: no
 
 # Lesson 2 - Create a welcome journey
 
-In this exercise you start building the welcome journey, based on an existing journey. You start by defining the entry criteria and then build compose the email message first, using the AI Content Accelerator.
+In this exercise, you start building the welcome journey, based on an existing journey. You start by defining the entry criteria and then build compose the email message first, using the AI Content Accelerator.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)

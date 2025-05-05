@@ -1,6 +1,6 @@
 ---
 title: Lesson 5 – Test your journey
-description: In this lesson you test your journey. Testing the journey before publishing is a critical step. This helps the practitioner to see if the journey logic is set up as intended.
+description: In this lesson, you test your journey. Testing the journey before publishing is a critical step. This helps the practitioner to see if the journey logic is set up as intended.
 feature: Journeys
 role: User
 level: Beginner, Intermediate
@@ -13,6 +13,6 @@ index: no
 
 # Lesson 5 – Test your journey
 
-In this lesson you test your journey. Testing the journey before publishing is a critical step. This helps the practitioner to see if the journey logic is set up as intended.
+In this lesson, you test your journey. Testing the journey before publishing is a critical step. This helps the practitioner to see if the journey logic is set up as intended.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457930/?learn=on&enablevpops)

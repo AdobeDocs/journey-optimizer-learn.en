@@ -1,6 +1,6 @@
 ---
 title: Lesson 3 - Create dynamic content
-description: Dynamic content allows you to adapt the content of your messages based on conditional rules that can be made up of profile attributes, contextual events or audiences. In this exercise you will apply it to the SMS, as an example, but it can be applied across all channels.
+description: Dynamic content allows you to adapt the content of your messages based on conditional rules that can be made up of profile attributes, contextual events or audiences. In this exercise, you apply dynamic content to the SMS.
 feature: SMS, Personalization
 role: User
 level: Beginner, Intermediate
@@ -15,6 +15,8 @@ index: no
 
 *Your challenge:* You need to make sure that only customers who have not already installed the app are asked to install it. Anyone who already has the app installed should only receive a general welcome message. You do not want to make the journey flow more complex. 
 
-*The Solution*: Dynamic content allows you to adapt the content of your messages based on conditional rules that can be made up of profile attributes, contextual events or audiences. In this exercise you will apply it to the SMS as an example, but it can be applied across all channels.
+*The Solution*: Dynamic content allows you to adapt the content of your messages based on conditional rules that can be made up of profile attributes, contextual events or audiences. 
+
+In this exercise, you apply dynamic content to the SMS as an example, but it can be applied across all channels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)

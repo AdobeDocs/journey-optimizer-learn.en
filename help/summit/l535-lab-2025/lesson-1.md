@@ -1,6 +1,6 @@
 ---
 title: Lesson 1 - Experience the journey
-description: In this lesson you experience the onboarding journey of a new SecurFinancial customer.
+description: In this lesson, you experience the onboarding journey of a new SecurFinancial customer.
 feature: Journeys
 role: User
 level: Beginner, Intermediate
@@ -13,6 +13,6 @@ index: no
 
 # Lesson 1 - Experience the journey
 
-In this lesson you experience the onboarding journey of a new SecurFinancial customer.
+In this lesson, you experience the onboarding journey of a new SecurFinancial customer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457827/?learn=on&enablevpops)

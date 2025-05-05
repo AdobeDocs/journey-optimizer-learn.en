@@ -1,20 +1,19 @@
 ---
-user-guide-title: Summit Lab 731 - Workbook
-user-guide-description: In this hands-on lab, you learn how to implement a multi-channel marketing strategy that includes in-app, push notifications, SMS, and email messaging campaigns and journeys in Adobe Journey Optimizer.
+user-guide-title: Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer
+user-guide-description: In this lab, you'll learn how to transform business communications from basic outbound messaging to sophisticated omnichannel experiences. Through practical examples, you'll create a customer journey that combines proactive outreach with responsive engagement.
 role: User
-level: Beginner
-breadcrumb-title: Journey Optimizer - L731 Workbook
-breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
-index: no
-hide: yes
+level: Beginner,Intermediate
+breadcrumb-title: scaling-orchestration-to-omnichannel-engagement
+breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/overview.html
 ---
 
-# Summit Lab L731: Build Personalized Mobile Moments with Journey Optimizer {#workbook}
+# Scaling orchestration to omnichannel engagemen{#scaling-orchestration-to-omnichannel-engagement}
 
-+ [Lab Overview]{#overview}
-+ [Introduction]{#introduction}
-  + [Introduction](/help/summit/l731-lab-workbook/Introduction/introduction.md)
-  + [Exercise 1.1](/help/summit/l731-lab-workbook/Introduction/exercise-1-1.md)
-  + [Exercise 1.2](/help/summit/l731-lab-workbook/Introduction/exercise-1-2.md)
-  + [Exercise 1.3](/help/summit/l731-lab-workbook/Introduction/exercise-1-3.md)
-  + [Exercise 1.4](/help/summit/l731-lab-workbook/Introduction/exercise-1-4.md)
+[Tutorial Overview]{#overview}
++ [Introduction](/help/summit/l535-lab-2025/introduction.md)
++ [Lesson 1 - Experience the journey](/help/summit/l535-lab-2025/lesson-1.md)
++ [Lesson 2 - Create a welcome journey](/help/summit/l535-lab-2025/lesson-2.md)
++ [Lesson 3 - Create dynamic content](/help/summit/l535-lab-2025/lesson-3.md)
++ [Lesson 4 – Create a content experiment](/help/summit/l535-lab-2025/lesson-4.md)
++ [Lesson 5 – Test your Journey](/help/summit/l535-lab-2025/lesson-5.md)
++ [Lesson 6 - Create a content card campaign](/help/summit/l535-lab-2025/lesson-6.md)
