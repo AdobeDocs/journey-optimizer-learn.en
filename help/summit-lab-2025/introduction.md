@@ -18,6 +18,4 @@ Over the course of six lessons, you learn how to elevate business communications
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
 
-Download the workbook [here](/help/summit-lab-2024/summit-lab-2025/assets/Summit_Lab Manual L535-final-v4.pdf).
-
-
+Download the workbook [here](/help/summit-lab-2025/assets/Summit_Lab Manual L535-final-v4.pdf).
