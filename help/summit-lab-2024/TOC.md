@@ -4,7 +4,7 @@ breadcrumb-title: Adobe Summit - LAB WORKBOOKS
 breadcrumb-url: /docs/journey-optimizer-learn/adobe-summit-lab-workbooks/overview.html
 ---
 
-# Adobe Summit - L820 LAB WORKBOOK {#summit-labs}
+# Adobe Summit - Build Personalized Mobile Moments {#build-personalized-mobile-moments}
 
 + [Introduction to the lab](/help/summit-lab-2024/l820-lab-workbook/lab-overview.md)
 + [Lesson 1 - Experience Fréscopa](/help/summit-lab-2024/l820-lab-workbook/lesson-1-experience-frescopa.md)
