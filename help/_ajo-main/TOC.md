@@ -101,7 +101,7 @@ auto-video-transcripts: true
     + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
   + AI Assistant for content generation {#ai-assistant}
-    + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-content-accelerator-overview.md)
+    + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
   + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
   + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
