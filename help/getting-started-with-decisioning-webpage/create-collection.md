@@ -1,0 +1,19 @@
+---
+title: Create Collection
+description: A collection is used to group related offer items in decisioning, making it easier to manage and organize content around a specific theme, audience, or campaign goal.
+feature: Audiences
+role: User
+level: Beginner
+doc-type: Tutorial
+last-substantial-update: 2025-04-30
+jira: KT-17728
+---
+# Create Collection
+
+Collections allow you to categorize and group your decision items according to your preferences. These categories are created by crafting rules that leverage the attributes of decision items.
+
+* Login to Journey Optimizer
+* Decisioning -> Catalogs -> Collections ->Create collection
+* Specify the collection name and Collection rules as shown in the screeshot
+
+![create-collection](assets/fin-wise-collection.png)
