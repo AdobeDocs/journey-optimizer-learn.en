@@ -9,8 +9,8 @@ duration: 169
 last-substantial-update: 2025-05-01
 jira: KT-17876
 index: no
+exl-id: 2e756b8a-4fd8-47d5-99ea-4a18cdd6d974
 ---
-
 # Lesson 4 – Create a content experiment
 
 *Your challenge:* You have several approaches for the push message in mind but are not sure which one is most efficient. You want to make sure the most effective message is sent. 
