@@ -9,8 +9,8 @@ duration: 127
 last-substantial-update: 2025-05-01
 jira: KT-17875
 index: no
+exl-id: e3a93300-e5db-4c8b-8afc-18f101db93d0
 ---
-
 # Lesson 3 - Create dynamic content
 
 *Your challenge:* You need to make sure that only customers who have not already installed the app are asked to install it. Anyone who already has the app installed should only receive a general welcome message. You do not want to make the journey flow more complex. 

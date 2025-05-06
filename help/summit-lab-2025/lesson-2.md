@@ -9,8 +9,8 @@ duration: 295
 last-substantial-update: 2025-05-01
 jira: KT-17874
 index: no
+exl-id: c4f9447b-e79f-45ea-bd93-ed299da7aef6
 ---
-
 # Lesson 2 - Create a welcome journey
 
 In this exercise, you start building the welcome journey, based on an existing journey. You start by defining the entry criteria and then build compose the email message first, using the AI Content Accelerator.
