@@ -11,6 +11,7 @@ auto-video-transcripts: true
 + Use Cases {#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
+  + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement){target="_blank"} 
 
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
@@ -184,6 +185,6 @@ auto-video-transcripts: true
   + [Create web form](../tutorial-creating-audience/create-web-form.md)
   + [Debug the solution](../tutorial-creating-audience/debug.md)  
 + Summit Labs {#summit-labs}
-  + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"} 
-  + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)
-  + [Install the mobile app](/help/summit-lab-assets/install-mobile-app.md)
+  + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"} 
+  + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement){target="_blank"} 
+

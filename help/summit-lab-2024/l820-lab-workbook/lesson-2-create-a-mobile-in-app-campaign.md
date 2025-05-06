@@ -30,22 +30,22 @@ In this lesson, you create and trigger mobile in-app messages.
     **Password:**   Adobe2024! 
    <br>
    You can find the details for your login on your lab machine desktop. Use the Adobe ID and the Password.
-   ![desktop](/help/summit/l820-lab-workbook/assets/desk-top.png)
+   ![desktop](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
 
-    ![Login screen](/help/summit/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
+    ![Login screen](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
    <br>
 3. You can skip the next two screens:
    <br>
-    ![Phone number](/help/summit/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
+    ![Phone number](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
    <br>
-     ![Personalization pop up](/help/summit/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
+     ![Personalization pop up](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
 
 >[!SUCCESS]
 >
 >You should be logged in to Journey Optimizer and on the homepage:
 >
->![AJO Homepage](/help/summit/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
+>![AJO Homepage](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
 
 
 ## Exercise 2.2 Create a mobile in-app campaign
@@ -56,7 +56,7 @@ In this exercise, you create an in-app messaging campaign, which is triggered, w
 
 1. Click **[!UICONTROL Create Campaign]**.
 
-   ![Create Campaign](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![Create Campaign](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
 1. On the **[!UICONTROL Create Campaign]** page, in the  **[!UICONTROL Action]** section, select the **[!UICONTROL In-app message]** check box.
 
@@ -66,13 +66,13 @@ In this exercise, you create an in-app messaging campaign, which is triggered, w
 
 1. Click **[!UICONTROL Create]**.
 
-   ![App surface](/help/summit/l820-lab-workbook/assets/3-1-1-1-create.png)
+   ![App surface](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-1-create.png)
 
 >[!SUCCESS]
 >
 >You should now be on the Campaign properties:
 >
-> ![Campaign properties](/help/summit/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
+> ![Campaign properties](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
 
 ## Exercise 2.3 Configure your campaign
 
@@ -82,24 +82,24 @@ Give your campaign a name. Make sure to start the name with your seat number, so
 
 For example if your seat number is 99:  `99 - Welcome Campaign`. 
 
-![properties section](/help/summit/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
+![properties section](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
 
 ### 2.3.2 Set up your custom trigger rule
 
 1. Scroll down to the **[!UICONTROL Triggers section]**, then click **[!UICONTROL Edit triggers]**.
 
-   ![modify](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![modify](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
    
 1. In the rule builder, click on **[!UICONTROL Application Launch]** and from the dropdown select  *Sent data to Platform*.
-   ![Sent to data platform](/help/summit/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![Sent to data platform](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. Add a condition by clicking **[!UICONTROL Add condition]**.
 
-   ![add condition button](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![add condition button](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. From the **[!UICONTROL Select a trait]** drop down, select **[!UICONTROL XDM event type]**.
 
-   ![XDM event type](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM event type](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 1. In the following text field, add a *`<custom string value>`* that you can remember.
 
@@ -112,7 +112,7 @@ For example if your seat number is 99:  `99 - Welcome Campaign`.
    > 
    > For example: `99exerciseTrigger`
 
-   ![add custom trigger string value](/help/summit/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
+   ![add custom trigger string value](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
 
 1. Click **[!UICONTROL Done]** in the top right.
 
@@ -120,14 +120,14 @@ For example if your seat number is 99:  `99 - Welcome Campaign`.
 >
 >You have now defined your In-app message with a custom trigger event.
 >
->![Campaign with custom trigger defined](/help/summit/l820-lab-workbook/assets/3-1-2-2-campaign-with-custom-trigger.png)
+>![Campaign with custom trigger defined](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-campaign-with-custom-trigger.png)
 
 
 ### 2.3.3 Edit the content of the in-app message
 
 In the **[!UICONTROL Action]** section, click **[!UICONTROL Edit Content]**.
 
-![Edit content button](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+![Edit content button](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 The [!UICONTROL In-App message] editor displays, where you configure the in-app message content.
 
@@ -137,7 +137,7 @@ Select which layout should be applied to your message.
 
 For example, click **[!UICONTROL Modal]** to make your in-app message a modal layout.
 
-![modal button](/help/summit/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
+![modal button](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
 
 #### 2.3.3.2 Authoring your message and publishing your campaign
 
@@ -145,16 +145,16 @@ For example, click **[!UICONTROL Modal]** to make your in-app message a modal la
    <br>
    When you click out of the value field, your image should appear.
    
-   ![media shown on the preview](/help/summit/l820-lab-workbook/assets/3-1-3-2-media.png)
+   ![media shown on the preview](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
  
 2. In the following **[!UICONTROL Content]** section, add in your own custom text that you want to be displayed in your message for the **[!UICONTROL Header]** and **[!UICONTROL Body]**.
 
-   ![Header and Body](/help/summit/l820-lab-workbook/assets/3-1-3-2-content.png)
+   ![Header and Body](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
 
 3. Additional Options:
    1. **Buttons:** 
 
-        ![Buttons section](/help/summit/l820-lab-workbook/assets/3-1-3-2-buttons.png)
+        ![Buttons section](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-buttons.png)
 
       1. In this section of the editor, you can customize the text for your CTA button by editing the Button Text field.
 
@@ -169,7 +169,7 @@ For example, click **[!UICONTROL Modal]** to make your in-app message a modal la
    
    2. **Advanced formatting**
           
-      ![advanced formatting toggle](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-toggle.png)
+      ![advanced formatting toggle](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-toggle.png)
 
       Enabling this toggle will give additional customization options in the editor.
 
@@ -179,13 +179,13 @@ For example, click **[!UICONTROL Modal]** to make your in-app message a modal la
       1. Font color 
       1. Alignment
 
-      ![advanced formatting options](/help/summit/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
+      ![advanced formatting options](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
    
    3. **Settings Tab**
       
       By shifting over to this tab and in the **[!UICONTROL Preview]** section, you can change the **App Preview**.
       <br>   
-      ![Settings tab](/help/summit/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
+      ![Settings tab](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
        <br>
 
       1. The **[!UICONTROL Layout]** section gives you option to use an image as the background or a solid color.
@@ -205,7 +205,7 @@ For example, click **[!UICONTROL Modal]** to make your in-app message a modal la
    >
    > You have now completed authoring your mobile In-app message. You should now be on the Campaign **[!UICONTROL Review to activate]** page.
    >
-   >![review and activate](/help/summit/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
+   >![review and activate](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
    >
    > Here you will be able to see a complete summary of your message. 
    >
@@ -216,14 +216,14 @@ For example, click **[!UICONTROL Modal]** to make your in-app message a modal la
 
 5. If you are done reviewing your Campaign, press the Activate button to publish the Campaign.
    <br>
-   ![activate](/help/summit/l820-lab-workbook/assets/3-1-4-2-activate.png)
+   ![activate](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-2-activate.png)
 
 
 >[!SUCCESS]
 >
 > You should now see the Campaigns dashboard. Locate your campaign by scrolling or by using the search feature. When your Campaign changes status to **[!UICONTROL Live]** (~1min), your Campaign has now been published. 
 >
-> ![Published campaign](/help/summit/l820-lab-workbook/assets/3-1-3-2-published-campaign.png)
+> ![Published campaign](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-published-campaign.png)
 >
 
 
@@ -235,18 +235,18 @@ To refresh the payload and download your newly published Campaign:
 2. Reopen the Fréscopa app.
 3. Now navigate to the Exercise tab on the app.
     
-   ![Exercise button](/help/summit/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
+   ![Exercise button](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
 
 4. In the text field, type in your custom trigger value that you defined in you Campaign. Then press Submit.
 
 
-    ![modify](/help/summit/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG){width="250" align="center" zoomable="yes"}
+    ![modify](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG){width="250" align="center" zoomable="yes"}
 
 >[!SUCCESS]
 >
 >By clicking submit, you manually fired a trigger and the in-app notification you created pops up:
 >
->![In-app message](/help/summit/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
+>![In-app message](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
 >
 > *If you are having issues triggering your message, check for the following:*
 > 
@@ -264,24 +264,24 @@ The **Duplicate campaign** and **Preview on device** features are out-of-the-box
 1. Open the campaign you just created, by clicking on the name of the campaign in the Campaigns dashboard page to open the campaign. This will take you back to the **[!UICONTROL Review campaign]** page. 
 1. Press the **[!UICONTROL Duplicate button]**. This will open a new prompt to name your new campaign that is being duplicated. Add in a new name that you easily remember or used the default name where **[!DNL _copy]** is added by default.
 
-   ![duplicate campaign](/help/summit/l820-lab-workbook/assets/3-2-duplicate-campaign.png)
+   ![duplicate campaign](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-duplicate-campaign.png)
 
 1. Once you hit the duplicate button, your duplicate campaign will be created, and you will be taken back to the Campaigns Dashboard. 
 1. Once your campaign is duplicated, open your new campaign.
 
 1. You can access the Preview on device feature on the **[!UICONTROL Campaign review]** page or on the **[!UICONTROL Campaign author]** step.
 
-   ![preview on device button](/help/summit/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
+   ![preview on device button](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
 
 1. Next, click the **[!UICONTROL start button]** from the connect to device screen. 
 
-   ![start button](/help/summit/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
+   ![start button](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
    <br>
 
 1. Enter the base url which has been configured to launch the Fréscopa app: `dxdemo://`
 
-   ![preview url](/help/summit/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
+   ![preview url](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
    
    <br>
 
@@ -290,11 +290,11 @@ The **Duplicate campaign** and **Preview on device** features are out-of-the-box
    2. Enter the pin shown in AJO on the Assurance screen on your device and click  the Connect button which appears at the bottom right once you have entered the pin. 
 
 
-   ![enter pin](/help/summit/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
+   ![enter pin](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
    <br>
 1. This pop-up appears on your computer screen
    
-   ![pop-up](/help/summit/l820-lab-workbook/assets/3-3-pop-up.png)
+   ![pop-up](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
 
 1. Click the Done button. This will close the dialog box and your phone is now connected to Preview on device.
 
