@@ -7,6 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30
 jira: KT-17923
+exl-id: 20de8dec-aac8-43ed-8305-e723f82a5dd9
 ---
 # Create a web form
 

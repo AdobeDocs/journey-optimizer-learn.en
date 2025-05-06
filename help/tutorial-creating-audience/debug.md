@@ -7,6 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30
 jira: KT-17923
+exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
 ---
 # Testing the solution
 
@@ -62,6 +63,3 @@ The ECID (Experience Cloud ID) is Adobe's unique, persistent identifier used to 
 * Ensure that Edge Segmentation is enabled for the audience so that qualification happens in near real-time.
 * Waiting a few minutes and refreshing the Audiences view can also help, especially if testing right after publishing changes.
 * Make sure that audience rules are correctly defined and reference the exact field names and values captured from the form submission.
-
-
-

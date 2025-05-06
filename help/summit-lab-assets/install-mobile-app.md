@@ -16,7 +16,7 @@ Install the mobile app on your iOS or Android&trade.
 
 **Step 1:** Scan the QR code for your device from below:
 
-![SecureFinancial mobile app QR codes](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
+![SecureFinancial mobile app QR codes](/help/summit-lab-2024-lab-assets/assets/dx-demo-app-qr-codes.png)
 
 Device-specific installation:
 
@@ -28,11 +28,11 @@ Device-specific installation:
 
 1. Click on **Install** on the modal that pops up in the camera app.
 
-    ![Install pop-up](/help/summit-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
+    ![Install pop-up](/help/summit-lab-2024-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
 
 2. Close the **Camera** app and look for the DX Demo app on your screen
 
-    ![DX-Demo App](/help/summit-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
+    ![DX-Demo App](/help/summit-lab-2024-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
     
 
 ## Step 3:  Trust Adobe enterprise developer
@@ -41,14 +41,14 @@ After installing the app, you must trust the Adobe enterprise developer:
 
 1. Go to **Settings** > **General** > **VPN & Device Management**. 
 
-    ![Device management settings screen](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Device management settings screen"){width="250" align="center" zoomable="yes"}
+    ![Device management settings screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Device management settings screen"){width="250" align="center" zoomable="yes"}
 
 1. Select **Adobe Systems Inc** and **Trust Adobe Systems Inc**.
 
-    ![Adobe Systems selection screen](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems selection screen"){width="250" align="center" zoomable="yes"}
+    ![Adobe Systems selection screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems selection screen"){width="250" align="center" zoomable="yes"}
     <br>
 
-    ![Trust Adobe Systems screen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+    ![Trust Adobe Systems screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
     You should now be able to launch the * SecureFinancial app** on your iPhone: 
 
@@ -59,9 +59,9 @@ After installing the app, you must trust the Adobe enterprise developer:
 
 On Android, download and install the APP by following the alert instructions shown here:
 
-![Android download screen](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android download screen"){width="250" align="center" zoomable="yes"}
+![Android download screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android download screen"){width="250" align="center" zoomable="yes"}
 <br>
-![Android installation screen](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Android installation screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
 You should now be able to launch the * SecureFinancial app** on your Android device: 
 
