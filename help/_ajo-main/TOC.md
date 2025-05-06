@@ -100,7 +100,7 @@ auto-video-transcripts: true
   + Multilingual messaging {#multilingual-messaging}
     + [Set up multilingual messaging](/help/content-management/set-up-multilingual-messages.md)
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
-  + AI Assistant for content generation {#content-accelerator}
+  + AI Assistant for content generation {#ai-assistant}
     + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-content-accelerator-overview.md)
     + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
   + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
