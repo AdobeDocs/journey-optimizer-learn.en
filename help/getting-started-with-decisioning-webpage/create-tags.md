@@ -1,11 +1,11 @@
 ---
 title: Create tags to associate with the offer items
 description: Create tags to associate with each offer item, making it easier to search, filter, and apply rules or strategies during personalization and decisioning
-feature: Audiences
+feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30
+last-substantial-update: 2025-05-05
 jira: KT-17728
 ---
 

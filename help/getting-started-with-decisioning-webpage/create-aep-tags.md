@@ -1,15 +1,15 @@
 ---
 title: Create Adobe Experience Platform Tags
 description: Creating AJO Audiences Based on User Investment Preferences (Stocks, Bonds, CDs)
-feature: Audiences
+feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30
+last-substantial-update: 2025-05-05
 jira: KT-17923
 ---
 
-# Creating AEP Tags
+# Create Adobe Experience Platform
 
 Adobe Launch is configured on the web page to load the Adobe Experience Platform Web SDK, enabling the sendEvent API call to trigger personalized experiences. This setup ensures that the necessary client-side libraries are initialized correctly, allowing real-time interaction with Adobe Journey Optimizer for offer delivery.
 

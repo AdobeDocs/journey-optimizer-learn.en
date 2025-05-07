@@ -1,11 +1,11 @@
 ---
 title: Create a selection strategy
 description: A selection strategy is reusable, and consists of a collection associated with an eligibility constraint and a ranking method to determine the offers to be shown when selected in a decision policy.
-feature: Audiences
+feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30
+last-substantial-update: 2025-05-05
 jira: KT-17728
 ---
 

@@ -4,7 +4,8 @@ description: Web page to test the personalized offers delivered using decisionin
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30
+feature: Decisioning
+last-substantial-update: 2025-05-05
 jira: KT-17728
 ---
 

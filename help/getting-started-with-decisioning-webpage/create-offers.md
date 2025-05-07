@@ -1,11 +1,11 @@
 ---
 title: Create offer 
 description: An offer item in decisioning represents a single piece of personalized content—such as a message, image, promotion, or recommendation—that can be delivered to a user based on defined rules and conditions.
-feature: Audiences
+feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30
+last-substantial-update: 2025-05-05
 jira: KT-17728
 ---
 

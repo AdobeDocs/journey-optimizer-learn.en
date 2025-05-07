@@ -11,6 +11,8 @@ auto-video-transcripts: true
 + Use Cases {#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
+  + [Creating Audiences using Web SDK](/help/tutorial-creating-audience/introduction.md)
+  + [Decisioning in web page](/help/getting-started-with-decisioning-webpage/introduction.md)  
 
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
@@ -183,6 +185,18 @@ auto-video-transcripts: true
   + [Create AEP Tags](../tutorial-creating-audience/create-aep-tags.md)
   + [Create web form](../tutorial-creating-audience/create-web-form.md)
   + [Debug the solution](../tutorial-creating-audience/debug.md)  
++ Decisioning on webpage {#getting-started-with-decisioning-webpage}
+  + [Inroduction](../getting-started-with-decisioning-webpage/introduction.md)
+  + [Create tags](../getting-started-with-decisioning-webpage/create-tags.md)
+  + [Create offer](../getting-started-with-decisioning-webpage/create-offers.md)
+  + [Create collection](../getting-started-with-decisioning-webpage/create-collection.md)
+  + [Create selection strategy](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
+  + [Create channel](../getting-started-with-decisioning-webpage/create-channel.md)
+  + [Create campaign](../getting-started-with-decisioning-webpage/create-campaign.md)
+  + [Create Decision Policy](../getting-started-with-decisioning-webpage/create-decision-policy.md)
+  + [Create AEP Tags](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+  + [Create webpage](../getting-started-with-decisioning-webpage/create-web-page.md)
+
 + Summit Labs {#summit-labs}
   + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"} 
   + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)

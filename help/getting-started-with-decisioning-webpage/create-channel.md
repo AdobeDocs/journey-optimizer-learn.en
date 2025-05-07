@@ -2,9 +2,10 @@
 title: Create Code based experience channel
 description: A channel configuration in AJO defines how personalized content, such as offers, will be delivered through a specific channel—like web, email, mobile app, or other digital touchpoints.
 role: User
+feature: Decisioning
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30
+last-substantial-update: 2025-05-05
 jira: KT-17728
 ---
 

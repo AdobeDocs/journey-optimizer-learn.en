@@ -1,11 +1,11 @@
 ---
 title: Create campaign
 description: A campaign in AJO connects audiences, decision policies, and channels to deliver personalized offers at the right moment across customer touchpoints.
-feature: Audiences
+feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30
+last-substantial-update: 2025-05-05
 jira: KT-17728
 ---
 

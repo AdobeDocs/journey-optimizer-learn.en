@@ -1,7 +1,7 @@
 ---
 title: Personalizing Web Page Offers with AJO Decisioning Based on Audience 
-description: Learn how to use Adobe Journey Optimizer (AJO) to deliver personalized offers on a web page by leveraging audience segmentation built in Adobe Experience Platform (AEP).
-feature: Audiences
+description: Learn how to use Adobe Journey Optimizer (AJO) Decisioning to deliver personalized offers on a web page by leveraging audience segmentation built in Adobe Experience Platform (AEP).
+feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
