@@ -6,6 +6,7 @@ breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/intro
 index: no
 role: Admin
 level: Beginner
+auto-video-transcripts: true
 ---
 
 # Tutorial - Configure a training sandbox {#configure-a-training-sandbox}

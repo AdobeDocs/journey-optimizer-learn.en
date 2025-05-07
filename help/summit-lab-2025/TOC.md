@@ -5,6 +5,7 @@ role: User
 level: Beginner,Intermediate
 breadcrumb-title: scaling-orchestration-to-omnichannel-engagement
 breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+auto-video-transcripts: true
 ---
 
 # Scaling orchestration to omnichannel engagement{#scaling-orchestration-to-omnichannel-engagement}
