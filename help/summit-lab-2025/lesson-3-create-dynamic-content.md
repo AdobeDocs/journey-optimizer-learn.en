@@ -20,3 +20,7 @@ exl-id: e3a93300-e5db-4c8b-8afc-18f101db93d0
 In this exercise, you apply dynamic content to the SMS as an example, but it can be applied across all channels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
+
+## Additional resources
+
+* [Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)

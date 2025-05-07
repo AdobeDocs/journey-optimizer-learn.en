@@ -23,3 +23,7 @@ In this lesson, you create a content card in the mobile app as part of the custo
 experience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
+
+## Additional resources
+
+* [Create content cards](/help/channels/create-content-cards.md)

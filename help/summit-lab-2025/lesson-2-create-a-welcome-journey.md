@@ -16,3 +16,8 @@ exl-id: c4f9447b-e79f-45ea-bd93-ed299da7aef6
 In this exercise, you start building the welcome journey, based on an existing journey. You start by defining the entry criteria and then build compose the email message first, using the AI Content Accelerator.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
+
+## Additional resources
+
+* [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
+* [Use Case - Audience qualification](/help/create-journeys/use-case-audience-qualification.md)
