@@ -2,6 +2,7 @@
 user-guide-title: Adobe Summit - LAB WORKBOOKS
 breadcrumb-title: Adobe Summit - LAB WORKBOOKS
 breadcrumb-url: /docs/journey-optimizer-learn/adobe-summit-lab-workbooks/overview.html
+auto-video-transcripts: true
 ---
 
 # Adobe Summit - Build Personalized Mobile Moments {#build-personalized-mobile-moments}
