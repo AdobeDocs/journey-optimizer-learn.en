@@ -9,9 +9,9 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2025-03-27
 jira: KT-17529
-hidefromtoc: yes
-hide: yes
-index: no
+hidefromtoc: no
+hide: no
+index: yes
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
 ---
 # Edit assets with Adobe Express

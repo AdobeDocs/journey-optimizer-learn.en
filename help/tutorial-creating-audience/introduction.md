@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30
 jira: KT-17923
+exl-id: ebaa3aa5-0a08-43fd-8d06-8e4b5d8dee05
 ---
-
 # Creating AJO Audiences Based on User Investment Preferences (Stocks, Bonds, CDs)
 
 In this tutorial, you'll learn how to capture user preferences through a web form, send that data to Adobe Experience Platform (AEP) in real time, and dynamically qualify users into targeted audiences based on their selections. By combining Adobe Tags (Launch), the AEP Web SDK (Alloy.js), and Edge Segmentation, you'll enable immediate personalization opportunities for customers interested in Stocks, Bonds, or Certificates of Deposit (CDs).
@@ -49,8 +49,3 @@ Users will submit their preferences through a web form, and those preferences wi
 *   AEP Edge Segmentation
 
 *   A webpage with a preference form
-
-
-
-
-

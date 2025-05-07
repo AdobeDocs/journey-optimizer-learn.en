@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30
 jira: KT-17923
+exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
 ---
-
 # Creating AEP Tags
 
 Adobe Experience Platform Tags (formerly Adobe Launch) help manage and deploy* marketing and analytics technologies on your website without needing to change the site's code.
@@ -110,4 +110,3 @@ When you publish a AEP Tags property, Adobe gives you a script tag that you must
 *   Click on Environments and click the install icon of the environment you want (for example, Development, Staging, Production).
 
 *   Make a note of the embedded code. It is needed at a later stage of this tutorial.
-
