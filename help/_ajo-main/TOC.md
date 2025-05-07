@@ -11,9 +11,7 @@ auto-video-transcripts: true
 + Use Cases {#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
-  + [Creating Audiences using Web SDK](/help/tutorial-creating-audience/introduction.md)
-  + [Decisioning in web page](/help/getting-started-with-decisioning-webpage/introduction.md)  
-
+  
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
