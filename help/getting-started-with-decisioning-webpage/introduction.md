@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-05
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
 ---
-# Creating AJO Audiences Based on User Investment Preferences (Stocks, Bonds, CDs)
+# Personalizing Web Page Offers with AJO Decisioning Based on Audience
 
 This tutorial builds on a previously created audience segmentation setup using the Adobe Experience Platform (AEP) Web SDK. In the previous tutorial, user preferences—such as interest in Stocks, Bonds, or Certificates of Deposit (CDs)—were captured and used to segment individuals into targeted audiences within Adobe Experience Platform (AEP). This tutorial builds on that foundation by using Adobe Journey Optimizer (AJO) Decisioning to deliver personalized financial offers to those audiences in real time, enhancing both engagement and conversion outcomes.
 
