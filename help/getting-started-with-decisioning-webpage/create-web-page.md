@@ -85,3 +85,5 @@ document.addEventListener("DOMContentLoaded", function() {
 }); <
 /script>
 ```
+
+[The sample HTML page and related assets can be downloaded from here](assets/web-page-assets.zip)

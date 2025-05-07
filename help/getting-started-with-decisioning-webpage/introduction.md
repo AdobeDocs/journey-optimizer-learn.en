@@ -11,7 +11,10 @@ jira: KT-17728
 
 # Creating AJO Audiences Based on User Investment Preferences (Stocks, Bonds, CDs)
 
-This tutorial builds on a previously created audience segmentation setup using the Adobe Experience Platform (AEP) Web SDK. In the previous tutorial, user preferences—such as interest in Stocks, Bonds, or Certificates of Deposit (CDs)—were captured and used to segment individuals into targeted audiences within Adobe Experience Platform (AEP). This tutorial builds on that foundation by using Adobe Journey Optimizer (AJO) Decisioning to deliver personalized financial offers to those audiences in real time, enhancing both engagement and conversion outcomes
+This tutorial builds on a previously created audience segmentation setup using the Adobe Experience Platform (AEP) Web SDK. In the previous tutorial, user preferences—such as interest in Stocks, Bonds, or Certificates of Deposit (CDs)—were captured and used to segment individuals into targeted audiences within Adobe Experience Platform (AEP). This tutorial builds on that foundation by using Adobe Journey Optimizer (AJO) Decisioning to deliver personalized financial offers to those audiences in real time, enhancing both engagement and conversion outcomes.
+
+You can test the personalized AJO offers live using the link below.
+[Click here to view the live demo](https://gbedekar489.github.io/finwise/welcome.html) — the page will display real-time offers based on your investment preferences.
 
 ## Pre-requisites for This Tutorial
 

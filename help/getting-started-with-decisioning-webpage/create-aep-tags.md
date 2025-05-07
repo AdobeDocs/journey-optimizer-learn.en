@@ -42,5 +42,5 @@ When an AEP Tags property is published, Adobe gives you a script tag that you mu
 
 *   Click on Environments and click the install icon of the environment you want (for example, Development, Staging, Production).
 
-*   Make a note of the embedded code. It is needed at a later stage of this tutorial.
+*   Make a note of the embedded code. This code needs to be placed just before the closing ```</body>``` tag in the HTML page.
 
