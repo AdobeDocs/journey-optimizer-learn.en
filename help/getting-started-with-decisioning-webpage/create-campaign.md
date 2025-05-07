@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05
 jira: KT-17728
+exl-id: a48a3702-4d66-467b-a7ec-9d91b81b771d
 ---
-
 # Create campaign
 
 In Adobe Journey Optimizer (AJO), a campaign serves as a container that brings together all the elements required to deliver personalized experiences to a targeted audience. It orchestrates when and how offers are presented, linking components such as channels, placements, collections, and decision strategies.
@@ -19,4 +19,3 @@ In Adobe Journey Optimizer (AJO), a campaign serves as a container that brings t
 ![create-campaign](assets/create-campaign.png)
 * Click Edit content and then Edit code to open the personlization editor.It is a non-visual experience creation interface which allows you to author your code
 ![edit-cbe_html](assets/edit_code_based_exp_html.png)
-

@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05
 jira: KT-17923
+exl-id: 6823ce13-bc77-4e2b-89e0-606e403c15f2
 ---
-
 # Create Adobe Experience Platform
 
 Adobe Launch is configured on the web page to load the Adobe Experience Platform Web SDK, enabling the sendEvent API call to trigger personalized experiences. This setup ensures that the necessary client-side libraries are initialized correctly, allowing real-time interaction with Adobe Journey Optimizer for offer delivery.
@@ -43,4 +43,3 @@ When an AEP Tags property is published, Adobe gives you a script tag that you mu
 *   Click on Environments and click the install icon of the environment you want (for example, Development, Staging, Production).
 
 *   Make a note of the embedded code. This code needs to be placed just before the closing ```</body>``` tag in the HTML page.
-

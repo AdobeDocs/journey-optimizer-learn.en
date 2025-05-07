@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05
 jira: KT-17728
+exl-id: 3528d8be-dc0b-4049-bca6-4a4a5fd0909f
 ---
-
 # Create a selection strategy
 
 A selection strategy is a reusable configuration that combines a collection of offers with eligibility rules and a ranking method to determine which offers are shown when the strategy is used in a decision policy.

@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05
 jira: KT-17728
+exl-id: 4842e70f-b440-4e51-8d74-89023c651fc7
 ---
-
 # Create tags to associate with the offer items
 
 To create tags with offer items in Adobe Experience Platform (AEP), you first need to create the tags themselves within the AEP Tag Management system. Then, you can assign these tags to specific offer items in the AEP Decisioning tool. 

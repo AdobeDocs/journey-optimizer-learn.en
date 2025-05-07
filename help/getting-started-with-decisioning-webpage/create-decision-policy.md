@@ -1,5 +1,5 @@
 ---
-title: Create Decision Policy 
+title: Create Decision Policy
 description: A decision policy defines the logic used to determine which offers are delivered to a user during personalization.
 feature: Decisioning
 role: User
@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05
 jira: KT-17728
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
 ---
-
 # Create Decision Policy
 
 Decision policies are containers for your offers that leverage the Decisioning engine in order to pick the best content to deliver, depending on the audience.

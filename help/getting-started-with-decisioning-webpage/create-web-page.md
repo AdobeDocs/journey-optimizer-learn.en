@@ -7,8 +7,8 @@ doc-type: Tutorial
 feature: Decisioning
 last-substantial-update: 2025-05-05
 jira: KT-17728
+exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
 ---
-
 # Create a web page to test the solution
 
 This web page was created to test personalized offers delivered through Adobe Journey Optimizer Decisioning. It provides a controlled environment where the sendEvent call can be triggered and the returned offer content rendered, helping validate end-to-end personalization setup and ensure that decisioning works as expected.

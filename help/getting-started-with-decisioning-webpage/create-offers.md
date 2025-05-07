@@ -1,5 +1,5 @@
 ---
-title: Create offer 
+title: Create offer
 description: An offer item in decisioning represents a single piece of personalized content—such as a message, image, promotion, or recommendation—that can be delivered to a user based on defined rules and conditions.
 feature: Decisioning
 role: User
@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05
 jira: KT-17728
+exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
 ---
-
 # Create Offer 
 
 An Offer Item in AJO represents a single piece of personalized content—such as a promotion, message, or recommendation—that is delivered to a user based on decisioning logic.
@@ -66,4 +66,3 @@ This schema:
 ```html
 <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; border: 1px solid #ddd; padding: 1.5rem; border-radius: 8px; max-width: 600px; margin: auto;">   <h3 style="color: #28a745; margin-top: 0;">💰 Lock in a 5.25% APY — Open Your CD Account Today</h3>   <p style="font-size: 1rem; color: #333;">     Secure your savings with a high-yield Certificate of Deposit. For a limited time, enjoy a      <strong>guaranteed 5.25% annual percentage yield (APY)</strong> on 12-month CDs.   </p>   <ul style="padding-left: 1.25rem; color: #444;">     <li>🔒 Guaranteed returns with FDIC insurance</li>     <li>📈 Lock in today's high rates before they change</li>     <li>💼 Flexible terms from 6 to 24 months</li>     <li>🎁 Open with just $500 and get a $50 bonus</li>   </ul>   <p style="color: #333;">     Whether you're saving for a short-term goal or building a conservative income strategy, our CDs offer peace of mind and predictable growth.   </p>   <a href="https://yourbank.com/open-cd"      style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">      💼 Open a CD Account   </a> </div>
 ```
-
