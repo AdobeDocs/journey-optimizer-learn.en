@@ -11,7 +11,7 @@ auto-video-transcripts: true
 + Use Cases {#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
-  + [Create Audiences ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+  + [Create Audiences based on user preferences ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
   + [Decisioning on web page](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
   + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
 

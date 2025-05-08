@@ -36,4 +36,4 @@ At this stage, you can include any required decision attributes directly within 
 This code goes through a list of personalized offers chosen for the user and displays the text for each one on the web page. It shows the message (called offerText) from each offer inside a paragraph, so users can see their tailored content clearly.
 If no personalized offer is available, a fallback offer—is shown to ensure the space isn't left blank.
 
-Click on Save, and then Activate the campaing
+Click on Save, and then Activate the campaign.
