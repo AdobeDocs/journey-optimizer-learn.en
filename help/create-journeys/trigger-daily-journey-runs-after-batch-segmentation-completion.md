@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 78
 last-substantial-update: 2025-05-08
 jira: KT-18066
+exl-id: 0ea0c787-e18b-489d-8b27-1f4e528cc0bc
 ---
-
 # Trigger daily journey runs after batch segmentation completion
 
 Learn how to configure read audience journeys to start only after segmentation jobs are complete, ensuring data accuracy and compliance.
