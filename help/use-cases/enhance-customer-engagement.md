@@ -12,7 +12,7 @@ exl-id: 586b6d20-7849-4d20-a9e5-d3ff4daef253
 
  These tutorials focus on enhancing customer engagement and personalization by using real-time audience creation and personalized decisioning through web forms and web pages. By integrating these powerful techniques, businesses can ensure that the right message reaches the right audience at the right time, enhancing customer engagement and driving personalized marketing efforts.
 
-1. [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"} 
+1. [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"} 
     
     Learn how to:
 
@@ -21,7 +21,7 @@ exl-id: 586b6d20-7849-4d20-a9e5-d3ff4daef253
     * Automatically sort users into specific audiences based on their choices.
 
 
-2. [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"} 
+2. [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 
-   Building on the first tutorial, learn how to use a centralized catalog of marketing offers and a smart decision engine to show each person the most relevant offers.
+Building on the first tutorial, learn how to use a centralized catalog of marketing offers and a smart decision engine to show each person the most relevant offers.
 
