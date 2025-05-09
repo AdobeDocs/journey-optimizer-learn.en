@@ -11,7 +11,7 @@ auto-video-transcripts: true
 + Use Cases {#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
-  + [Enhance customer engagement](/help/use-cases/enhance-customer-engagement.md)
+  + [Enhance customer engagement](/help/use-cases/enhance-customer-engagement.md){target="_blank"} 
   + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
@@ -47,7 +47,7 @@ auto-video-transcripts: true
   + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Create an audience by uploading a CSV file](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-  + [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
+  + [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"} 
   + [Evaluate audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Channels {#channels}
@@ -133,7 +133,7 @@ auto-video-transcripts: true
     + [Create decisions](/help/decision-management/create-decisions.md)
     + [Deliver offers with the Decisions API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
     + [Frequency capping](/help/decision-management/frequency-capping.md)
-  + [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
+  + [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"} 
 + Data Management {#data-management}
   + [Overview](/help/data-management/set-up-data-overview.md)
   + [Create a schema](/help/data-management/create-schema.md)
