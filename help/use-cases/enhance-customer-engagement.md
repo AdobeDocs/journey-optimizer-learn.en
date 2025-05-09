@@ -1,6 +1,6 @@
 ---
 title: Use Case - Enhance customer engagement
-description:  TThese tutorials focus on enhancing customer engagement and personalization by using real-time audience creation and personalized decisioning through web forms and web pages.
+description: These tutorials focus on enhancing customer engagement and personalization by using real-time audience creation and personalized decisioning through web forms and web pages.
 feature: Use Cases, Audiences, Decisioning
 role: Developer
 level: Beginner
