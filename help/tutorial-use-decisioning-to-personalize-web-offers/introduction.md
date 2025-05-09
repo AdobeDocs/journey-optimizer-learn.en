@@ -1,5 +1,5 @@
 ---
-title: Personalizing Web Page Offers with AJO Decisioning Based on Audience
+title: Use decisioning to personalize web offers
 description: Learn how to use Adobe Journey Optimizer (AJO) Decisioning to deliver personalized offers on a web page by leveraging audience segmentation built in Adobe Experience Platform (AEP).
 feature: Decisioning
 role: User
@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
 ---
-# Personalizing Web Page Offers with AJO Decisioning Based on Audience
+# Use decisioning to personalize web offers
 
-This tutorial builds on a previously created audience segmentation setup using the Adobe Experience Platform (AEP) Web SDK. In the previous tutorial, user preferences—such as interest in Stocks, Bonds, or Certificates of Deposit (CDs)—were captured and used to segment individuals into targeted audiences within Adobe Experience Platform (AEP). This tutorial builds on that foundation by using Adobe Journey Optimizer (AJO) Decisioning to deliver personalized financial offers to those audiences in real time, enhancing both engagement and conversion outcomes.
+This tutorial builds on a previously created audience segmentation setup using the Adobe Experience Platform (AEP) Web SDK. In the [previous tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction), user preferences—such as interest in Stocks, Bonds, or Certificates of Deposit (CDs)—were captured and used to segment individuals into targeted audiences within Adobe Experience Platform (AEP). This tutorial builds on that foundation by using Adobe Journey Optimizer (AJO) Decisioning to deliver personalized financial offers to those audiences in real time, enhancing both engagement and conversion outcomes.
 
 You can test the personalized AJO offers live using the link below.
 [Click here to view the live demo](https://gbedekar489.github.io/finwise/welcome.html) — the page will display real-time offers based on your investment preferences.
