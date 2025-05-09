@@ -6,8 +6,8 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-9
+exl-id: 586b6d20-7849-4d20-a9e5-d3ff4daef253
 ---
-
 # Use Case - Enhance customer engagement (Tutorial)
 
  These tutorials address the business use case of improving customer engagement and personalization by combining real-time audience creation and personalized decisioning strategies via web forms and web pages. 
