@@ -6,8 +6,8 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-9
+exl-id: 586b6d20-7849-4d20-a9e5-d3ff4daef253
 ---
-
 # Use Case - Enhance customer engagement (Tutorial)
 
  These tutorials focus on enhancing customer engagement and personalization by using real-time audience creation and personalized decisioning through web forms and web pages. By integrating these powerful techniques, businesses can ensure that the right message reaches the right audience at the right time, enhancing customer engagement and driving personalized marketing efforts.
