@@ -14,7 +14,6 @@ auto-video-transcripts: true
   + [Create Audiences based on user preferences ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
   + [Decisioning on web page](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
   + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
-
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
@@ -49,6 +48,7 @@ auto-video-transcripts: true
   + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Create an audience by uploading a CSV file](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+  +[Create audiences using Web SDK (tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
   + [Evaluate audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Channels {#channels}
@@ -181,12 +181,6 @@ auto-video-transcripts: true
   + [Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
   + [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Experience League Live show recordings](/help/experience-league-live-show-recordings.md)
-+ Creating Audiences using Web SDK {#tutorial-creating-audiences}
-  + [Introduction](../tutorial-creating-audience/introduction.md)
-  + [Create Schema,Datasets..etc](../tutorial-creating-audience/create-schema-and-dataset.md)
-  + [Create AEP Tags](../tutorial-creating-audience/create-aep-tags.md)
-  + [Create web form](../tutorial-creating-audience/create-web-form.md)
-  + [Debug the solution](../tutorial-creating-audience/debug.md)  
 + Decisioning on webpage {#getting-started-with-decisioning-webpage}
   + [Inroduction](../getting-started-with-decisioning-webpage/introduction.md)
   + [Create tags](../getting-started-with-decisioning-webpage/create-tags.md)
@@ -198,7 +192,6 @@ auto-video-transcripts: true
   + [Create Decision Policy](../getting-started-with-decisioning-webpage/create-decision-policy.md)
   + [Create AEP Tags](../getting-started-with-decisioning-webpage/create-aep-tags.md)
   + [Create webpage](../getting-started-with-decisioning-webpage/create-web-page.md)
-
 + Summit Labs {#summit-labs}
   + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"} 
   + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
