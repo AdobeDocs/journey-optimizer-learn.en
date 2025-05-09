@@ -1,5 +1,5 @@
 ---
-title: Use Case - Enhance customer engagement (Tutorial)
+title: Use Case - Enhance customer engagement
 description:  TThese tutorials focus on enhancing customer engagement and personalization by using real-time audience creation and personalized decisioning through web forms and web pages.
 feature: Use Cases, Audiences, Decisioning
 role: Developer
@@ -8,11 +8,11 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-9
 exl-id: 586b6d20-7849-4d20-a9e5-d3ff4daef253
 ---
-# Use Case - Enhance customer engagement (Tutorial)
+# Use Case - Enhance customer engagement
 
  These tutorials focus on enhancing customer engagement and personalization by using real-time audience creation and personalized decisioning through web forms and web pages. By integrating these powerful techniques, businesses can ensure that the right message reaches the right audience at the right time, enhancing customer engagement and driving personalized marketing efforts.
 
-1. [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
+1. [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"} 
     
     Learn how to:
 
@@ -21,7 +21,7 @@ exl-id: 586b6d20-7849-4d20-a9e5-d3ff4daef253
     * Automatically sort users into specific audiences based on their choices.
 
 
-2. [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
+2. [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"} 
 
    Building on the first tutorial, learn how to use a centralized catalog of marketing offers and a smart decision engine to show each person the most relevant offers.
 
