@@ -1,6 +1,6 @@
 ---
-title: Use decisioning to personalize web offers
-description: Learn how to use Adobe Journey Optimizer (AJO) Decisioning to deliver personalized offers on a web page by leveraging audience segmentation built in Adobe Experience Platform (AEP).
+title: Personalize Web Offers with Decisioning
+description: Learn how to use Journey Optimizer (AJO) Decisioning to deliver personalized offers on a web page by leveraging audience segmentation built in Experience Platform (AEP).
 feature: Decisioning
 role: User
 level: Beginner
@@ -16,7 +16,7 @@ This tutorial builds on a previously created audience segmentation setup using t
 You can test the personalized AJO offers live using the link below.
 [Click here to view the live demo](https://gbedekar489.github.io/finwise/welcome.html) — the page will display real-time offers based on your investment preferences.
 
-## Pre-requisites for This Tutorial
+## Pre-requisites for this tutorial
 
 *   Access to Adobe Experience Platform
 
@@ -29,11 +29,11 @@ You can test the personalized AJO offers live using the link below.
 *   Ability to use Browser DevTools (Console and Network tabs)
 
 
-## GOAL
+## Goal
 
 This tutorial guides you through delivering personalized investment offers—such as Stocks, Bonds, or CDs—on a website using Adobe Journey Optimizer (AJO). By leveraging audience segmentation and decisioning strategies, you learn how to ensure that each visitor sees the most relevant offer based on their preferences.
 
-## Tools Used
+## Tools used
 
 * Adobe Experience Platform (AEP)
 * Adobe Journey Optimizer (AJO)
