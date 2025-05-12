@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: 31f4af67-59f3-417d-b098-3217eb8c357d
 ---
-
 # Boost App Engagement with Adobe Journey Optimizer
 
 Learn how Adobe Journey Optimizer helps deliver personalized content across apps and devices to enhance user engagement and retention.

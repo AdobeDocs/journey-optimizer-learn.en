@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: ff22ce7a-55fd-4262-b2a0-e7e25479716b
 ---
-
 # Testing Custom Actions in Adobe Journey Optimizer
 
 Discover how to test custom actions directly in Adobe Journey Optimizer without needing to run a full journey, saving time and effort.

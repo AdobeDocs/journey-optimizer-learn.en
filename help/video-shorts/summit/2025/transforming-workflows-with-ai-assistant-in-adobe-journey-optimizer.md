@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: 78a6ac9b-0a5c-4e07-9877-330098b8dbb9
 ---
-
 # Transforming Workflows with AI Assistant in Adobe Journey Optimizer
 
 Discover how the AI Assistant in Adobe Journey Optimizer revolutionizes workflows by providing instant data insights and troubleshooting capabilities, saving hours of manual effort.
