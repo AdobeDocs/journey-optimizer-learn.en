@@ -1,6 +1,6 @@
 ---
 title: Creating Audiences in Adobe Journey Optimizer
-description: : Learn how to define and build targeted audiences in AJO to power personalized customer journeys and real-time decisioning
+description: Learn how to define and build targeted audiences in AJO to power personalized customer journeys and real-time decisioning
 feature: Audiences
 role: User
 level: Beginner
