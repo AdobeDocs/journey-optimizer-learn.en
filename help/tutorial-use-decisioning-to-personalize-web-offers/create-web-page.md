@@ -1,5 +1,5 @@
 ---
-title: Create a web page to test the solution
+title: Create a Web Page to Test the Solution
 description: Web page to test the personalized offers delivered using decisioning.
 role: User
 level: Beginner
@@ -15,18 +15,27 @@ This web page was created to test personalized offers delivered through Adobe Jo
 
 The following script is responsible for fetching and displaying a personalized offer on a web page using Adobe Journey Optimizer.
 
-1.  Decode HTML entities: There's a helper function that safely converts any special characters in the offer content into readable HTML.
+1. Decode HTML entities: 
 
-2.  Run personalization:
-When called, it sends a request (sendEvent) to Adobe's Web SDK to get personalized content for a specific area on the page (the #ajo-offer element).
-If an offer is returned, it decodes the HTML and inserts it into the page.
-If nothing is returned, it logs a warning.
+    There's a helper function that safely converts any special characters in the offer content into readable HTML.
 
-3.  Wait for the SDK:
-Since Adobe's SDK (alloy) loads asynchronously, the script waits until it's fully loaded before making the request. 
-It checks for alloy every 200 milliseconds, up to 20 times, to avoid errors.
+1. Run personalization:
 
-4.  On page load: When the page finishes loading, the script starts the process by calling waitForAlloy().
+    When called, it sends a request (`sendEvent`) to Adobe's Web SDK to get personalized content for a specific area on the page (the `#ajo-offer` element).
+
+    If an offer is returned, it decodes the HTML and inserts it into the page.
+
+    If nothing is returned, it logs a warning.
+
+1. Wait for the SDK:
+
+    Since Adobe's SDK (alloy) loads asynchronously, the script waits until it's fully loaded before making the request. 
+
+    It checks for alloy every 200 milliseconds, up to 20 times, to avoid errors.
+
+1. On page load: 
+
+    When the page finishes loading, the script starts the process by calling `waitForAlloy()`.
 
 
 
