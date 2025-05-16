@@ -1,13 +1,13 @@
 ---
 title: Import sample CRM data into AEP profile dataset
-description:  Import sample records (e.g., with CRMID, email, income, zip code) to validate whether AEP can correctly stitch those profiles with anonymous web visitors based on shared identifiers like ECID.
+description: Import sample records (e.g., with CRMID, email, income, zip code) to validate whether AEP can correctly stitch those profiles with anonymous web visitors based on shared identifiers like ECID.
 feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19
 jira: KT-18089
-
+exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
 ---
 # Import sample CRM data into AEP profile dataset
 

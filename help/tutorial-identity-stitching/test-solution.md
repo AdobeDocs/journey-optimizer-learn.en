@@ -8,6 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19
 recommendations: noDisplay, noCatalog
 jira: KT-18089
+exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
 ---
 # Test the identity stitching
 
@@ -83,6 +84,3 @@ The following screen shot shows the id "FIN001" being passed correctly.
 * Navigate to Customer -> Profiles ->Browse
 * Search for FinWise CRM ID = FIN001
 * Open the profile and look at the Identities section. You should see both the CRMID and the ECID listed.   This confirms that the two identities were stitched into a single profile.
-
-
-
