@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: df30df31-9cfa-4a87-9178-10b34e942a3d
 ---
-
 # Live Demo: Creating and Publishing a Content Card Campaign
 
 Watch a step-by-step demo on how to create, configure, and publish a Content Card campaign in Adobe Journey Optimizer.

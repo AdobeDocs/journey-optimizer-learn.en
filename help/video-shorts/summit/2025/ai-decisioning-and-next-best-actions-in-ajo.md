@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: 606a5cb9-729a-4f30-9929-08c69eb229af
 ---
-
 # AI Decisioning and Next Best Actions in AJO
 
 Explore how Adobe Journey Optimizer uses AI to optimize journeys, paths, and channels for personalized customer experiences.

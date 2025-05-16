@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: 57809beb-bc70-46bc-a307-bd11b2aaaf2a
 ---
-
 # Why Adobe Built Journey Optimizer
 
 Discover the core reasons behind the creation of Adobe Journey Optimizer and how it enables brands to deliver consistent, real-time, and personalized customer experiences across channels.

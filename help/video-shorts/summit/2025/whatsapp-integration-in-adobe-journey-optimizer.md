@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: 264b1205-8e2a-4f02-aa9c-629413f9dc8d
 ---
-
 # WhatsApp Integration in Adobe Journey Optimizer
 
 Discover how AJO's native integration with WhatsApp Business enables seamless marketing and transactional communications.

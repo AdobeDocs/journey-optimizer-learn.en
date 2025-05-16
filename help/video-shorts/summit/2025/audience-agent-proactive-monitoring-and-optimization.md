@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: c8c3fbd9-3678-4830-800d-33ac627283ed
 ---
-
 # Audience Agent: Proactive Monitoring and Optimization
 
 See how the Audience Agent in Adobe Journey Optimizer proactively monitors audience health, identifies issues, and suggests actionable solutions to enhance engagement.

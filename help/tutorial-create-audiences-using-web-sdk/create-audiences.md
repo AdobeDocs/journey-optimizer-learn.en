@@ -7,6 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30
 jira: KT-17923
+exl-id: d90f1868-0514-49b2-832d-82460883b6e4
 ---
 # Creating Audiences in Adobe Journey Optimizer
 
@@ -47,5 +48,3 @@ Audiences in Adobe Experience Platform are groups of users created based on thei
 
 
 ![toggle-full-xdm-schema](assets/show-custom-fields.png)
-
-

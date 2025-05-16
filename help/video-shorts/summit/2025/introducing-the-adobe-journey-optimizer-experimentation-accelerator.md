@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: 733b2ab9-6fc1-41ce-8773-d41539cf07c2
 ---
-
 # Introducing the Adobe Journey Optimizer Experimentation Accelerator
 
 Explore the new GenAI-powered Experimentation Accelerator, designed to optimize testing, surface insights, and drive business impact.

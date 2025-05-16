@@ -1,5 +1,5 @@
 ---
-title: Personalize Web Offers with Decisioning
+title: Use Decisioning to personalize web offers
 description: Learn how to use Journey Optimizer (AJO) Decisioning to deliver personalized offers on a web page by leveraging audience segmentation built in Experience Platform (AEP).
 feature: Decisioning
 role: User
