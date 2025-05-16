@@ -8,7 +8,6 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19
 jira: KT-18089
 ---
-
 # Send CRMID to Adobe Experience Platform
 
 Adobe Launch (Tags) is used to send the CRMID to Adobe Experience Platform (AEP) because it provides a flexible, event-driven mechanism for transmitting identity data directly from the browser. Sending CRMID after user login allows AEP to link the anonymous ECID with the known CRM profile, enabling accurate identity stitching. This linkage forms the foundation for building unified customer profiles, qualifying audiences, and delivering real-time personalized experiences in Adobe Journey Optimizer (AJO).
@@ -23,6 +22,7 @@ Experience Cloud ID Service is an optional extension added to the tag property f
 ## Tag Data Elements
 
 Create the following Data Elements
+
 | Data Element | Extension                         | Data Element Type         | Custom Settings                        |
 |--------------|-----------------------------------|---------------------------|----------------------------------------|
 | crmid        | Adobe Client Data Layer           | Data Layer Computed State | user.crmid                             |

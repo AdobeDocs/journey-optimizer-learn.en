@@ -8,9 +8,8 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19
 recommendations: noDisplay, noCatalog
 jira: KT-18089
-
 ---
-## Test the identity stitching
+# Test the identity stitching
 
 This sample application simulates a real-world login flow where user credentials are validated on the server side before the CRM ID is sent to Adobe Experience Platform (AEP). A local Node.js server is used to securely serve the web pages, handle basic authentication logic, and avoid browser restrictions (such as blocked local file access or missing CORS headers) that could interfere with Adobe Launch or Web SDK functionality. This setup ensures the experience is closer to a real production environment.
 
