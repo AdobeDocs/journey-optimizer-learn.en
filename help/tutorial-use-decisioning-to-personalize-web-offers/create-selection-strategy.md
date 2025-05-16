@@ -13,8 +13,5 @@ exl-id: 3528d8be-dc0b-4049-bca6-4a4a5fd0909f
 
 A selection strategy is a reusable configuration that combines a collection of offers with eligibility rules and a ranking method to determine which offers are shown when the strategy is used in a decision policy.
 
-![selection-strategy](assets/fine_wise_selection_strategy.png)
+![selection-strategy](assets/fine_wise_selection_strategy1.png)
 
-To restrict the selection of the offers to the members of an Experience Platform audience, select Audiences and choose an audience from the list. For this tutorial, the audiences created in the earlier tutorial are used.
-
-![selection-strategy-audiences](assets/selection-strategy.png)

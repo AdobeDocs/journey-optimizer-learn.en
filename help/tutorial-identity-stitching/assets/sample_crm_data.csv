@@ -1,0 +1,11 @@
+crmId,firstName,lastName,email,loyaltyStatus,annualIncome
+FIN001,Alice,Wong,alice.wong@example.com,Gold,336104
+FIN002,Brian,Smith,brian.smith@example.com,Silver,191065
+FIN003,Cathy,Johnson,cathy.johnson@example.com,Bronze,117015
+FIN004,David,Lee,david.lee@example.com,Bronze,61869
+FIN005,Eva,Martinez,eva.martinez@example.com,Silver,191371
+FIN006,Frank,Brown,frank.brown@example.com,Silver,196132
+FIN007,Grace,Kim,grace.kim@example.com,Gold,309851
+FIN008,Henry,Davis,henry.davis@example.com,Gold,318378
+FIN009,Isla,Clark,isla.clark@example.com,Silver,181776
+FIN010,Jack,Lopez,jack.lopez@example.com,Silver,186643

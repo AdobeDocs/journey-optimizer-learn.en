@@ -40,7 +40,8 @@ This schema:
     For each offer, copy and paste the corresponding offer text provided at the end of this article into the appropriate offer item.
 
 1. Tag the offers with the tag created in the previous step.
-
+1. Add appropriate audience to each offer.
+![offer-eligibility](assets/offer-eligibility.png)
 1. Approve the offers.
 
 Completed offer with standard and custom attributes defined:
