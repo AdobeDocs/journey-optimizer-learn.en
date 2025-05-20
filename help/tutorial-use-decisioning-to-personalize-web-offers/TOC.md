@@ -10,13 +10,13 @@ auto-video-transcripts: true
 
 # Use Decisioning to personalize web offers {#use-decisioning-to-personalize-web-offers}
 
-  + [Introduction](./introduction.md)
-  + [Create tags](./create-tags.md)
-  + [Create an offer](./create-offers.md)
-  + [Create a collection](./create-collection.md)
-  + [Create a selection strategy](./create-selection-strategy.md)
-  + [Create a channel](./create-channel.md)
-  + [Create a campaign](./create-campaign.md)
-  + [Create a Decision policy](./create-decision-policy.md)
-  + [Create AEP tags](./create-aep-tags.md)
-  + [Create a webpage](./create-web-page.md)
++ [Introduction](./introduction.md)
++ [Create tags](./create-tags.md)
++ [Create an offer](./create-offers.md)
++ [Create a collection](./create-collection.md)
++ [Create a selection strategy](./create-selection-strategy.md)
++ [Create a channel](./create-channel.md)
++ [Create a campaign](./create-campaign.md)
++ [Create a Decision policy](./create-decision-policy.md)
++ [Create AEP tags](./create-aep-tags.md)
++ [Create a webpage](./create-web-page.md)
