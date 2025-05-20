@@ -115,9 +115,7 @@ dxdemo://atm
 
 ## Images
 
-![SecureFinancial logo](/help/summit-lab-2024-lab-assets/assets/SecureFinancial-logo.png)
+![SecureFinancial logo](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
 
 
-![Mobile Phone](/help/summit-lab-2024-lab-assets/assets/online-banking-app-01.png)
-
-
+![Mobile Phone](/help/summit-lab-assets/assets/online-banking-app-01.png)
