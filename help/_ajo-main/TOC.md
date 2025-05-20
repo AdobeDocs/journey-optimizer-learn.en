@@ -13,6 +13,10 @@ auto-video-transcripts: true
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
   + [Enhance customer engagement](/help/use-cases/enhance-customer-engagement.md){target="_blank"} 
   + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
+Use Case Playbooks {#use-case-playbooks}
+  + [Overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+  + [Configure a playbook sandbox](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+  + [Create and publish playbook instances](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
