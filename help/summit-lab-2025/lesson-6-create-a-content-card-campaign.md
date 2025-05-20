@@ -24,6 +24,4 @@ experience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
 
-## Additional resources
-
-* [Create content cards](/help/channels/create-content-cards.md)
+See [Create content cards](/help/channels/create-content-cards.md) for more guidance on this topic.

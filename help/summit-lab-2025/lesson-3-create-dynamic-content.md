@@ -21,6 +21,4 @@ In this exercise, you apply dynamic content to the SMS as an example, but it can
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
 
-## Additional resources
-
-* [Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md)
+See [Create dynamic content with the condition rule builder](/help/personalize-content/create-dynamic-content.md) for more guidance on this topic.
