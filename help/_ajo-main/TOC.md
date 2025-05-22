@@ -161,7 +161,7 @@ auto-video-transcripts: true
     + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
     + [Set up and execute an IP warm-up plan](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
     + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
-    + [Bring your own SMS provider(Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+    + [Configure a custom SMS provider](/help/set-up-channels/configure-custom-sms-provider.md)
     + [Configure MMS API credentials and channel surfaces](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
   + Configure journeys {#journey-configuration}
     + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
