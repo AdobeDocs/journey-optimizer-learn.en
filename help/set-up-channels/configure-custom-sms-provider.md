@@ -6,7 +6,7 @@ role: Admin
 level: Beginner, Experienced
 doc-type: Feature Video
 duration: 341
-last-substantial-update: 2024-07-26
+last-substantial-update: 2025-05-23
 jira: KT-15886
 exl-id: 7278a99e-4553-4cd1-8830-350c85d5926b
 ---
