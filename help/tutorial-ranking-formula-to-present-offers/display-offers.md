@@ -10,7 +10,7 @@ jira: KT-18188
 
 ---
 
-## Create a Web Page to Test the Solution
+# Create a Web Page to Test the Solution
 
 This sample application simulates a real-world login flow where user credentials are validated on the server side before the CRM ID is sent to Adobe Experience Platform (AEP). A local Node.js server is used to securely serve the web pages, handle basic authentication logic, and avoid browser restrictions (such as blocked local file access or missing CORS headers) that could interfere with Adobe Launch or Web SDK functionality. This setup ensures the experience is closer to a real production environment.
 
@@ -34,8 +34,9 @@ This setup provides a responsive and tailored experience, ensuring that each use
       cd ranking-formula
       node server.js
     ```
+
 *   Open your browser and go to http://localhost:3000/formula.html.
 
-* login using alice/pass123
+*   login using alice/pass123
 
 You should see offers specific to 92128 since alice resides in 92128 zip code.
