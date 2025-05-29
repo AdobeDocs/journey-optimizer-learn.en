@@ -72,10 +72,10 @@ The offer text for Generic offer, without any zip code associated with the offer
 
 Group these offers in a collection called **_GenericOffers_**
 
-The above offers are available to all visitors—meaning there are no strict eligibility constraints—then the ranking formula becomes critical for determining which offer should be shown based on profile context.
+The offers are available to all visitors—meaning there are no strict eligibility constraints—then the ranking formula becomes critical for determining which offer should be shown based on profile context.
 Since eligibility rules aren't filtering the offers, all three are treated as candidates.
-The selection strategy will retrieve all three.
-The ranking formula will score them based on profile attributes (like zipcode and annualIncome) to pick the best one.
+The selection strategy retrieves all three.
+The ranking formula scores them based on profile attributes (like zipcode and annualIncome) to pick the best one.
 
 
 

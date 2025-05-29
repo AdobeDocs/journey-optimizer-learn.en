@@ -12,11 +12,11 @@ jira: KT-18188
 
 # Create a campaign
 
-To deliver personalized offers to users on the web page, a campaign was created in Adobe Journey Optimizer and configured with the correct channel — in this case, the Web channel. This configuration ensures that the offers are delivered via real-time decisioning to users interacting with the website.
+To deliver personalized offers to users on the web page, a campaign was created in Adobe Journey Optimizer and configured with the correct channel, Web channel. This configuration ensures that the offers are delivered via real-time decisioning to users interacting with the website.
 
 Within this campaign, a decision policy was defined to control how offers are selected. The decision policy includes a selection strategy, which consists of:
 
-A collection of offer items (e.g., based on ZIP code or income),
+A collection of offer items (for example, based on ZIP code or income),
 
 Eligibility rules that determine which offers apply to a user, and
 
@@ -24,13 +24,13 @@ A ranking formula that assigns scores to eligible offers to prioritize the most 
 
 When a logged-in user visits the site, a personalization request is sent to AJO. Based on the user's stitched identity and profile attributes (like ZIP code and annual income), the decision policy evaluates all available offers. It applies the selection strategy and ranking logic to determine the best match.
 
-The result is a tailored set of offers, returned as HTML content, and displayed to the user in a carousel on the website — creating a seamless, real-time personalized experience.
+The result is a tailored set of offers, returned as HTML content, and displayed to the user in a carousel on the website, creating a seamless, real-time personalized experience.
 
 
 ## High-Level Steps to Create a Campaign in AJO
 
 1. **Create a Channel Configuration**  
-   Define where and how the offers will appear (e.g., web page with code-based experience).
+   Define where and how the offers appear (for example, a web page with code-based experience).
    - **Name**: `finwise-web-personalization`  
   Identifies this configuration for FinWise's personalized web offer delivery.
 
@@ -38,7 +38,7 @@ The result is a tailored set of offers, returned as HTML content, and displayed 
   Targeted specifically for web browsers. No mobile channels are enabled.
 
     - **Experience Type**: `Code-based experience`  
-  Offers are not directly injected into the DOM. Instead, AJO returns raw HTML which is parsed and handled by custom JavaScript.
+  Offers are not directly injected into the DOM. Instead, AJO returns raw HTML which is parsed using custom JavaScript.
 
     - **Page URL**: `http://localhost:3000/formula.html`  
   The channel is configured for a specific test page used during development.
@@ -54,7 +54,7 @@ The result is a tailored set of offers, returned as HTML content, and displayed 
    Navigate to the Campaigns section and create a new campaign with the Web channel.
 
 3. **Add Action**  
-   Add code-based-experience action and link the action to  previously created channel configuration.
+   Add code-based-experience action and link the action to a  previously created channel configuration.
 
 
 
@@ -62,7 +62,7 @@ The result is a tailored set of offers, returned as HTML content, and displayed 
    All Visitors (Default).
 
    Identity type: ECID (Experience Cloud ID)
-   This setting uses the ECID as the primary identity for recognizing users. When identity stitching is in place, ECID is linked to CRM ID for personalized targeting Select or create a decision policy that defines the offer logic.
+   This setting uses the ECID as the primary identity for recognizing users. When identity stitching is in place, ECID is linked to CRM ID for Personalized Targeting Select or create a decision policy that defines the offer logic.
 
 5. **Decision Policy**
     
@@ -80,7 +80,7 @@ The result is a tailored set of offers, returned as HTML content, and displayed 
   Eligibility was set to **_All visitors_** 
 
     -   **Ranking Formula**  
-  A logic expression that scores each eligible offer. The offer with the highest score is returned to be rendered in the personalized experience.
+  A logic expression that scores each eligible offer. The offer with the highest score is rendered in the personalized experience.
 
 
 

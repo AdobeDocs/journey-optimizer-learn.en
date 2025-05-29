@@ -12,9 +12,9 @@ jira: KT-18188
 
 # Create a Web Page to Test the Solution
 
-This sample application simulates a real-world login flow where user credentials are validated on the server side before the CRM ID is sent to Adobe Experience Platform (AEP). A local Node.js server is used to securely serve the web pages, handle basic authentication logic, and avoid browser restrictions (such as blocked local file access or missing CORS headers) that could interfere with Adobe Launch or Web SDK functionality. This setup ensures the experience is closer to a real production environment.
+This sample application simulates a real-world login flow where user credentials are validated on the server side before the CRM ID is sent to Adobe Experience Platform (AEP). A local Node.js server is used to securely serve the web pages, handle basic authentication logic, and avoid browser restrictions (such as blocked local file access or missing CORS headers) that could interfere with Adobe Launch or Web SDK functionality. This setup ensures that the experience is closer to a real production environment.
 
-Personalized offers are displayed only after the user logs in, at which point identity stitching between the user's CRM ID and ECID (Experience Cloud ID) is completed. This ensures that Adobe Journey Optimizer (AJO) can accurately recognize the profile and return targeted offers.
+Personalized offers are displayed only after the user logs in, at which point identity stitching between the user's CRM ID and ECID (Experience Cloud ID) is completed. This identity stitching ensures that Adobe Journey Optimizer (AJO) can accurately recognize the profile and return targeted offers.
 
 After successful login, a personalization request is sent to AJO to retrieve available offers for the user. These offers are returned as HTML fragments, each embedded with a data-tags attribute — such as data-tags="ajo offer-vacation-based-cd zip-92128 income-high" — which includes the offer name and segmentation details like ZIP code and income level.
 
@@ -29,14 +29,13 @@ This setup provides a responsive and tailored experience, ensuring that each use
 *   Unzip the [provided files into this ranking-formula folder.](assets/ranking-formula.zip)
 
 *   Run the app by navigating into the folder and starting the server:
+    * `cd ranking-formula`
 
-       ```bash
-      cd ranking-formula
-      node server.js
-    ```
+    * `node server.js`
+    
 
 *   Open your browser and go to http://localhost:3000/formula.html.
 
-*   login using alice/pass123
+*   Login using alice/pass123
 
-You should see offers specific to 92128 since alice resides in 92128 zip code.
+Since Alice resides in the 92128 zip code, offers tailored to that location are displayed.

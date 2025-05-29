@@ -15,12 +15,12 @@ A selection strategy is a reusable configuration that combines a collection of o
 
 To create a selection strategy
 
-*   Login to Journey Optimizer
+*   Log in to Journey Optimizer
 
 *   Navigate to Decisioning ->Strategy setup ->Selection strategies ->Create selection strategy
 
-*   Provide Selection strategy name,Collection,Eligibility and Ranking method as shown in the screenshot
+*   Provide Selection strategy name, Collection, Eligibility and Ranking method as shown in the screenshot
 
 
-Make sure to you formula as the ranking method
+Make sure to use formula as the ranking method
 ![selection-strategy](assets/selection-strategy.png)
