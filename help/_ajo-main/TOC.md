@@ -46,6 +46,8 @@ auto-video-transcripts: true
   + [Update content in a live journey](/help/create-journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
   + [Trigger daily journey runs after batch segmentation](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+  + Conflict management {#conflict-management}
+    + [Identify potential conflicts](/help/create-journeys/identify-potential-conflicts.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
   + [Profiles and audiences - Overview](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
   + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
