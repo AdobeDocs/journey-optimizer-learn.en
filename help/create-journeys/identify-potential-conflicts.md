@@ -1,6 +1,6 @@
 ---
 title: Identify potential conflicts
-description: Learn how to use the conflict management viewer in Adobe Journey Optimizer to prevent overwhelming customers with too many simultaneous campaigns and communications.
+description: Discover how to identify and manage potential conflicts - such as overlapping audiences, concurrent timelines, shared communication channels, and frequency constraints across journeys and campaigns to ensure a seamless and customer-friendly communication experience.
 feature: Journeys
 role: User
 level: Intermediate
@@ -12,6 +12,6 @@ jira: KT-17854
 
 # Identify potential conflicts
 
-Learn how to use the conflict management viewer in Adobe Journey Optimizer to prevent overwhelming customers with too many simultaneous campaigns and communications.
+Discover how to identify and manage potential conflicts - such as overlapping audiences, concurrent timelines, shared communication channels, and frequency constraints across journeys and campaigns to ensure a seamless and customer-friendly communication experience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
