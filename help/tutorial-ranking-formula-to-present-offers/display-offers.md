@@ -7,9 +7,8 @@ doc-type: Tutorial
 feature: Decisioning
 last-substantial-update: 2025-05-31
 jira: KT-18188
-
+exl-id: 6b1eec78-153c-4ea5-acfe-2dcc6f1e6078
 ---
-
 # Create a Web Page to Test the Solution
 
 This sample application simulates a real-world login flow where user credentials are validated on the server side before the CRM ID is sent to Adobe Experience Platform (AEP). A local Node.js server is used to securely serve the web pages, handle basic authentication logic, and avoid browser restrictions (such as blocked local file access or missing CORS headers) that could interfere with Adobe Launch or Web SDK functionality. This setup ensures that the experience is closer to a real production environment.

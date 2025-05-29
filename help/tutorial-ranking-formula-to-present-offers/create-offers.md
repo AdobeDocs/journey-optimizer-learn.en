@@ -7,9 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30
 jira: KT-18188
-
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
 ---
-
 # Create Location-Based Offers with ZIP Code Targeting
 
 Before creating the offers, the Offer Item schema was extended to include a new field: zipcode. This custom field enables each offer to be explicitly tagged with its target ZIP code, allowing for location-based filtering and ranking during decisioning.
@@ -76,6 +75,3 @@ The offers are available to all visitors—meaning there are no strict eligibili
 Since eligibility rules aren't filtering the offers, all three are treated as candidates.
 The selection strategy retrieves all three.
 The ranking formula scores them based on profile attributes (like zipcode and annualIncome) to pick the best one.
-
-
-

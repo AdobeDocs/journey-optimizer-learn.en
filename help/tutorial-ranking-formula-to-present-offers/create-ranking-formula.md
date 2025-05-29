@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30
 jira: KT-18188
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
 ---
-
 # Create Ranking formula
 
 A ranking formula in Adobe Journey Optimizer is used during offer decisioning, specifically within a selection strategy to determine the priority order of eligible offers. The ranking formula comes into play after eligibility filtering, when multiple offers qualify for a given profile but only the top one (or few) should be presented based on business logic or profile context.
@@ -54,7 +54,3 @@ Criteria 2 contain three criteria:
 *   _techmarketingdemos.annualIncome < 100000 – checks the income level from the user's profile.
 
 If all of these criteria are met, the offer gets a score of 30.
-
-
-
-

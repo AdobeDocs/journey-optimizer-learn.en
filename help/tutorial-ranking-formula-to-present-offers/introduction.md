@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-27
 jira: KT-18188
-
+exl-id: 11685f7c-8048-4318-9c28-71bd7da8f7ff
 ---
 # Personalizing offers with Ranking formulas based on user zip code and income
 
@@ -34,5 +34,3 @@ This tutorial covers the next steps in offer decisioning:
 *   Defining a Selection Strategy to group and prioritizing offers.
 
 *   Building a Decision Policy to deliver the most relevant offer to each individual.
-
-

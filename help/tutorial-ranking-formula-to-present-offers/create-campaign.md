@@ -7,9 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30
 jira: KT-18188
-
+exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
 ---
-
 # Create a campaign
 
 To deliver personalized offers to users on the web page, a campaign was created in Adobe Journey Optimizer and configured with the correct channel, Web channel. This configuration ensures that the offers are delivered via real-time decisioning to users interacting with the website.
@@ -86,8 +85,3 @@ The result is a tailored set of offers, returned as HTML content, and displayed 
 
 6. **Publish the Campaign**  
    Activate the campaign to begin delivering personalized offers in real time.
-
-
-
-
-
