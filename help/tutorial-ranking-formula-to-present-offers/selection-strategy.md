@@ -5,9 +5,9 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-05
-jira: KT-17728
-exl-id: 3528d8be-dc0b-4049-bca6-4a4a5fd0909f
+last-substantial-update: 2025-05-31
+jira: KT-18188
+
 ---
 # Create a selection strategy
 
@@ -15,12 +15,12 @@ A selection strategy is a reusable configuration that combines a collection of o
 
 To create a selection strategy
 
-*   Login to Journey Optimizer
+*   Log in to Journey Optimizer
 
 *   Navigate to Decisioning ->Strategy setup ->Selection strategies ->Create selection strategy
 
-*   Provide Selection strategy name,Collection,Eligibility and Ranking method as shown in the screenshot
+*   Provide Selection strategy name, Collection, Eligibility and Ranking method as shown in the screenshot
 
 
-![selection-strategy](assets/fine_wise_selection_strategy1.png)
-
+Make sure to use formula as the ranking method
+![selection-strategy](assets/selection-strategy.png)

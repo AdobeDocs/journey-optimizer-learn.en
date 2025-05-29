@@ -29,18 +29,13 @@ Add an identity field **_crmid_** under the SystemIdentifier object. Mark the cr
 
 ## Prepare sample data
 
-| crmId  | firstName | lastName | email                     | loyaltyStatus | annualIncome |
-|--------|-----------|----------|---------------------------|---------------|--------------|
-| FIN001 | Alice     | Wong     | alice.wong@example.com    | Gold          | 336104       |
-| FIN002 | Brian     | Smith    | brian.smith@example.com   | Silver        | 191065       |
-| FIN003 | Cathy     | Johnson  | cathy.johnson@example.com | Bronze        | 117015       |
-| FIN004 | David     | Lee      | david.lee@example.com     | Bronze        | 61869        |
-| FIN005 | Eva       | Martinez | eva.martinez@example.com  | Silver        | 191371       |
-| FIN006 | Frank     | Brown    | frank.brown@example.com   | Silver        | 196132       |
-| FIN007 | Grace     | Kim      | grace.kim@example.com     | Gold          | 309851       |
-| FIN008 | Henry     | Davis    | henry.davis@example.com   | Gold          | 318378       |
-| FIN009 | Isla      | Clark    | isla.clark@example.com    | Silver        | 181776       |
-| FIN010 | Jack      | Lopez    | jack.lopez@example.com    | Silver        | 186643       |
+| crmId  | firstName | lastName | email                   | loyaltyStatus | zipCode | annualIncome |
+|--------|-----------|----------|-------------------------|---------------|---------|--------------|
+| FIN001 | Alice     | Wong     | alice.wong@example.com  | Gold          | 92128   | 120000       |
+| FIN002 | Bob       | Smith    | bob.smith@example.com   | Silver        | 92126   | 85000        |
+| FIN003 | Charlie   | Kim      | charlie.kim@example.com | Platinum      | 60614   | 175000       |
+| FIN004 | Diana     | Lee      | diana.lee@example.com   | Gold          | 30303   | 98000        |
+| FIN005 | Ethan     | Brown    | ethan.brown@example.com | Bronze        | 75201   | 60000        |
 
 ## Ingest the CSV file
 
@@ -49,7 +44,7 @@ Add an identity field **_crmid_** under the SystemIdentifier object. Mark the cr
 * Navigate to Connections -> Sources -> Local system
 * Select the **_Add Data_** under the Local file upload. Make sure to select the _**FinWiseCustomerDataSetWithAnnualIncome**_ as the target dataset.
 ![ingest-csv](assets/ingest-csv-into-dataset.png)
-* Navigate to the next screen. Upload the [csv file](assets/sample_crm_data.csv) and verify the mappings 
+* Navigate to the next screen. Upload the [csv file](assets/finwise_profiles.csv) and verify the mappings 
 ![mappings](assets/mappings.png)
 
 * Click Finish to start the data ingestion process
