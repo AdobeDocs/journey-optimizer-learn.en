@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 203
 last-substantial-update: 2025-05-29
 jira: KT-17854
+exl-id: 2911535d-dcf2-4b24-a55f-28d750928b7c
 ---
-
 # Identify potential conflicts
 
 Discover how to identify and manage potential conflicts - such as overlapping audiences, concurrent timelines, shared communication channels, and frequency constraints across journeys and campaigns to ensure a seamless and customer-friendly communication experience.
