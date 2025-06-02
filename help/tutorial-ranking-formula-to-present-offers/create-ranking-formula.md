@@ -28,7 +28,7 @@ Criteria 1
 
 This condition filters decision items (offers) **to include only** the offers tagged with "IncomeLevel."
 These filtered offers will then proceed to the next step — such as ranking or delivery — based on additional logic you define.
-![criteria_one](assetS/income-related-formual.png)
+![criteria_one](assetS/income-related-formula.png)
 
 
 The following expression is used to create the ranking score
