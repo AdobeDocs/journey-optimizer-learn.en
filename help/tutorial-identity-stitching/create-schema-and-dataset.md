@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30
 jira: KT-18089
-
+exl-id: 8bb85ba7-3c50-4596-88f8-e112c48a8253
 ---
 # Set Up XDM Schema, Dataset and Datastream in AEP
 
@@ -49,4 +49,3 @@ A datastream in Adobe Experience Platform is like a secure pipeline (or highway)
 *   Choose the appropriate event dataset (created earlier).
 
 *   Save the datastream.
-
