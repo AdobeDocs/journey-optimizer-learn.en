@@ -82,14 +82,14 @@ The result is a tailored set of offers, returned as HTML content, and displayed 
   A logic expression that scores each eligible offer. The offer with the highest score is rendered in the personalized experience.
 
 
-5. **Insert Decision Policy**
+6.  **Insert Decision Policy**
 
     ![personalization-editor](assets/personalization-editor.png)
 
-    This Handlebars code loops through the offers returned by a specific decision policy in Adobe Journey Optimizer and creates a `<div>` for each offer. Each `<div>` includes a data-tags attribute that incorporates the offer's internal name, which we used to split and group offers within our carousel. This allows the front-end logic to identify and organize offers by category or tag for smooth carousel navigation. The content inside each `<div>` displays the personalized offer text, enabling dynamic and visually segmented presentation of multiple offers.
+    The  Handlebars code loops through the offers returned by a specific decision policy in Adobe Journey Optimizer and creates a `<div>` for each offer. Each `<div>` uses a data-tags attribute with the offer's internal name to help the carousel group and organize offers by category for smooth navigation. The content inside each `<div>` displays the personalized offer text, enabling dynamic and visually segmented presentation of multiple offers.
 
 
-6. **Publish the Campaign**  
+7.  **Publish the Campaign**  
    Activate the campaign to begin delivering personalized offers in real time.
 
    ![img](assets/personalization-editor.png)

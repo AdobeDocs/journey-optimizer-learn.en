@@ -26,7 +26,7 @@ A criterion in a ranking formula refers to a conditional rule used to assign a s
 
 Criteria 1
 
-This condition filters decision items (offers) to only include those that are tagged with "IncomeLevel".
+This condition filters decision items (offers) **to include only** the offers tagged with "IncomeLevel."
 These filtered offers will then proceed to the next step — such as ranking or delivery — based on additional logic you define.
 ![criteria_one](assetS/income-related-formual.png)
 
@@ -52,7 +52,7 @@ This way, the system:
 * Falls back to a general offer if no match is found, and avoids showing offers meant for other ZIP codes.
 
 
-If an offer item does not meet any of the filter criteria (like not having the "IncomeLevel" tag), it will still be considered but will receive a default ranking score of 10.
+If an offer item does not meet any of the filter criteria (like not having the "IncomeLevel" tag), the offer receives a default ranking score of 10.
 
 
 
