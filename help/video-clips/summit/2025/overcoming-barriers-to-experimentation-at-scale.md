@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: e2f7c8fd-f9fb-4bb1-abe1-35101be84653
 ---
-
 # Overcoming Barriers to Experimentation at Scale
 
 Learn how Adobe identified and addressed key barriers to scaling experimentation, from ideation to execution, using platform-driven solutions.

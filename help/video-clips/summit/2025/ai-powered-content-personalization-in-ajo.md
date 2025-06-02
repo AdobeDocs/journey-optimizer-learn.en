@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: f4424b3d-c32a-4329-980d-284fc9d0bc9e
 ---
-
 # AI-Powered Content Personalization in AJO
 
 Learn how Adobe Journey Optimizer integrates with tools like GenStudio and Experience Manager to deliver AI-driven, on-brand personalized content.

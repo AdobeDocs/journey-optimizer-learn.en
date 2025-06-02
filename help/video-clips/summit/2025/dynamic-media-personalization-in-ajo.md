@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: b0a59059-ed5d-4f62-bfec-11f165b11a01
 ---
-
 # Dynamic Media Personalization in AJO
 
 Learn how Adobe Journey Optimizer integrates with Experience Manager's Dynamic Media to enable personalized, composite images for marketing campaigns.

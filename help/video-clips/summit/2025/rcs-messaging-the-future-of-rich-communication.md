@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: a337533d-8acc-4e37-9df3-d57930d3dde7
 ---
-
 # RCS Messaging: The Future of Rich Communication
 
 Explore how Adobe Journey Optimizer supports RCS messaging, offering branded, interactive, and app-like experiences directly in users' message inboxes.

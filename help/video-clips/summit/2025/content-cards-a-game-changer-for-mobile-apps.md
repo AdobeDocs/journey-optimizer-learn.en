@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: a93ea591-0746-40ec-9139-ac6b826c72e9
 ---
-
 # Content Cards: A Game-Changer for Mobile Apps
 
 Discover how Content Cards in Adobe Journey Optimizer can deliver personalized, non-intrusive content directly within your app to drive engagement and conversions.

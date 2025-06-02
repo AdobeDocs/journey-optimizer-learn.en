@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: bd6a7a14-f9cf-46de-89d4-3e85f8fc02b0
 ---
-
 # Geofence-Based In-App Messaging with Adobe Journey Optimizer
 
 Learn how to use Adobe Journey Optimizer's integration with Places Service to create location-based in-app messages for personalized customer engagement.

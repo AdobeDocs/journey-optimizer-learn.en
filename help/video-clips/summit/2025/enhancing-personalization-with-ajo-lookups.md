@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: a8c45e2d-95f6-41b0-8830-9f8cceef75bb
 ---
-
 # Enhancing Personalization with AJO Lookups
 
 Explore how to use record-based datasets for personalized messaging without bloating customer profiles in Adobe Journey Optimizer.
