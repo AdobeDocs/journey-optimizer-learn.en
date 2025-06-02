@@ -32,24 +32,26 @@ These filtered offers will then proceed to the next step — such as ranking or 
 
 
 The following expression is used to create the ranking score
+
 ``` pql
+
 if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
 
 ```
 
 What the Formula Does
 
-* If the offer has the same ZIP code as the user, give it a very high score so it gets picked first.
+*   If the offer has the same ZIP code as the user, give it a very high score so it gets picked first.
 
-* If the offer doesn't have a ZIP code at all (it's a general offer), give it a normal score based on the user's income.
+*   If the offer doesn't have a ZIP code at all (it's a general offer), give it a normal score based on the user's income.
 
-* If the offer has a different ZIP code than the user, give it a very low score so it's not selected.
+*   If the offer has a different ZIP code than the user, give it a very low score so it's not selected.
 
 This way, the system:
 
-* Always tries to show a ZIP-matching offer first,
+*   Always tries to show a ZIP-matching offer first,
 
-* Falls back to a general offer if no match is found, and avoids showing offers meant for other ZIP codes.
+*   Falls back to a general offer if no match is found, and avoids showing offers meant for other ZIP codes.
 
 
 If an offer item does not meet any of the filter criteria (like not having the "IncomeLevel" tag), the offer receives a default ranking score of 10.
