@@ -69,7 +69,7 @@ The offer text for Generic offer, without any zip code associated with the offer
 
 ```
 
-Group these offers in a collection called **_GenericOffers_**
+Group these offers in a collection called **income-related-offers**
 
 The offers are available to all visitors—meaning there are no strict eligibility constraints—then the ranking formula becomes critical for determining which offer should be shown based on profile context.
 Since eligibility rules aren't filtering the offers, all three are treated as candidates.
