@@ -2,7 +2,6 @@
 title: Set up a subdomain
 description: Learn how to set up a subdomain for your email channel in Adobe Journey Optimizer.
 feature: Subdomains, Deliverability, Channel Configuration, Email
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
 role: Admin
 level: Beginner
 doc-type: Feature Video
