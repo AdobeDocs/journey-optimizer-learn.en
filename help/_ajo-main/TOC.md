@@ -158,13 +158,18 @@ auto-video-transcripts: true
 + Configuration {#configuration}
   + Configure channels {#channel-configuration}
     + [Configure channels](/help/set-up-channels/configure-channels.md)
-    + [Guided channel setup](/help/set-up-channels/guided-channel-setup.md)
-    + [Set up email channel](/help/set-up-channels/set-up-email-channel.md)
-    + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
-    + [Set up and execute an IP warm-up plan](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-    + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
-    + [Configure a custom SMS provider](/help/set-up-channels/configure-custom-sms-provider.md)
-    + [Configure MMS API credentials and channel surfaces](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+    + Email channel {#email-channel}
+      + [Create and IP pool](/help/set-up-channels/create-ip-pool.md)
+      + [Set up a subdomain](/help/set-up-channels/set-up-subdomain.md)
+      + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [Set up email channel](/help/set-up-channels/set-up-email-channel.md)
+      + [Set up and execute an IP warm-up plan](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+    + SMS/MMS channel {#sms-mms-channel}
+      + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
+      + [Configure a custom SMS provider](/help/set-up-channels/configure-custom-sms-provider.md)
+      + [Configure MMS API credentials and channel surfaces](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+    + Web and mobile channels {#web-and-mobile-channels}
+      + [Guided channel setup](/help/set-up-channels/guided-channel-setup.md)
   + Configure journeys {#journey-configuration}
     + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
     + [Create events](/help/set-up-journeys/create-events.md)
