@@ -17,7 +17,7 @@ An AEP Tags property called FinWise is created. The following extensions were ad
 
 ![tags-extensions](assets/tags-extensions.png)
 
-Configure the AEP Web SDK extension using the Financial Advisors DataStream created in the earlier tutorial.
+Configure the AEP Web SDK extension using the Financial Advisors DataStream created in the previous step.
 Experience Cloud ID Service is an optional extension added to the tag property for debugging purposes.
 
 ## Tag Data Elements
