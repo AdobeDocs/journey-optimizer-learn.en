@@ -25,32 +25,37 @@ A criterion in a ranking formula refers to a conditional rule used to assign a s
 
 
 Criteria 1
-![criteria_one](assets/criteria1.png)
 
-Criteria 1 contain three criteria:
-
-*   offer._techmarketingdemos.offerDetails.zipCode == "92128" – checks the ZIP code associated with the offer.
-
-*   _techmarketingdemos.zipCode == "92128" – checks the ZIP code on the user's profile.
-
-*   _techmarketingdemos.annualIncome > 100000 – checks the income level from the user's profile.
-
-If all of these criteria are met, the offer gets a score of 40.
+This condition filters decision items (offers) **to include only** the offers tagged with "IncomeLevel."
+These filtered offers will then proceed to the next step — such as ranking or delivery — based on additional logic you define.
+![criteria_one](assets/income-related-formula.png)
 
 
+The following expression is used to create the ranking score
+
+``` pql
+
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+
+```
+
+What the Formula Does
+
+*   If the offer has the same ZIP code as the user, give it a very high score so it gets picked first.
+
+*   If the offer doesn't have a ZIP code at all (it's a general offer), give it a normal score based on the user's income.
+
+*   If the offer has a different ZIP code than the user, give it a very low score so it's not selected.
+
+This way, the system:
+
+*   Always tries to show a ZIP-matching offer first,
+
+*   Falls back to a general offer if no match is found, and avoids showing offers meant for other ZIP codes.
+
+
+If an offer item does not meet any of the filter criteria (like not having the "IncomeLevel" tag), the offer receives a default ranking score of 10.
 
 
 
 
-Criteria 2
-![criteria_two](assets/criteria2.png)
-
-Criteria 2 contain three criteria:
-
-*   offer._techmarketingdemos.offerDetails.zipCode == "92126" – checks the ZIP code associated with the offer.
-
-*   _techmarketingdemos.zipCode == "92126" – checks the ZIP code on the user's profile.
-
-*   _techmarketingdemos.annualIncome < 100000 – checks the income level from the user's profile.
-
-If all of these criteria are met, the offer gets a score of 30.

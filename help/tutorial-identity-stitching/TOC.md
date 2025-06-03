@@ -13,6 +13,7 @@ auto-video-transcripts: true
 
 + [Introduction](./introduction.md)
 + [Import sample data](./import-sample-data.md)
++ [Create schema,dataset etc](./create-schema-and-dataset.md)
 + [Create AEP Tags](./create-aep-tags.md)
 + [Send CRMID from web page](./send-crmid.md)
 + [Test the solution](./test-solution.md)
