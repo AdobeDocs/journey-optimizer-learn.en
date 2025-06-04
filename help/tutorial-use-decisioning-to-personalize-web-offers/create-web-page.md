@@ -6,6 +6,7 @@ level: Beginner
 doc-type: Tutorial
 feature: Decisioning
 last-substantial-update: 2025-05-05
+recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
 ---

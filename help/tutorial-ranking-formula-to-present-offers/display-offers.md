@@ -7,6 +7,7 @@ doc-type: Tutorial
 feature: Decisioning
 last-substantial-update: 2025-05-31
 jira: KT-18188
+recommendations: noDisplay, noCatalog
 exl-id: 6b1eec78-153c-4ea5-acfe-2dcc6f1e6078
 ---
 # Create a Web Page to Test the Solution

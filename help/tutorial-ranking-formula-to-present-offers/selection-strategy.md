@@ -7,6 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-31
 jira: KT-18188
+recommendations: noDisplay, noCatalog
 exl-id: de73025a-5574-4567-b0c7-96ef0ceb2792
 ---
 # Create a selection strategy

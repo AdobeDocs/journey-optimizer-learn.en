@@ -6,6 +6,7 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30
+recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 8bb85ba7-3c50-4596-88f8-e112c48a8253
 ---
