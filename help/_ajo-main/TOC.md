@@ -46,6 +46,7 @@ auto-video-transcripts: true
   + [Update content in a live journey](/help/create-journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
   + [Trigger daily journey runs after batch segmentation](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+  + [Troubleshoot inbound actions in journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
   + Conflict management {#conflict-management}
     + [Identify potential conflicts](/help/create-journeys/identify-potential-conflicts.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
