@@ -47,8 +47,10 @@ auto-video-transcripts: true
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
   + [Trigger daily journey runs after batch segmentation](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
   + [Troubleshoot inbound actions in journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
-  + Conflict management {#conflict-management}
-    + [Identify potential conflicts](/help/create-journeys/identify-potential-conflicts.md)
++ Conflict management {#conflict-management}
+  + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
+  + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
+  + [Journey frequency capping & prioritization](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
   + [Profiles and audiences - Overview](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
   + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
