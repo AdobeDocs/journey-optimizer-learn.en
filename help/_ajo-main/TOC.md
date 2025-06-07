@@ -48,7 +48,7 @@ auto-video-transcripts: true
   + [Trigger daily journey runs after batch segmentation](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
   + [Troubleshoot inbound actions in journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
 + Conflict management {#conflict-management}
-  + [Identify potential conflicts](/help/create-journeys/identify-potential-conflicts.md)
+  + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
   + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
   + [Journey frequency capping & prioritization](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
