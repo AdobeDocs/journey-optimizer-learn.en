@@ -6,6 +6,7 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10
+recommendations: noDisplay, noCatalog
 jira: KT-18258
 
 ---
