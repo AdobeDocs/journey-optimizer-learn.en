@@ -33,11 +33,11 @@ This [video describes the process of creating Adobe Experience Tags](https://exp
 
 Create a new library and add all the modified resources to it, as illustrated in the screenshots below.
 
-Add library
+**Add library**
 
 ![new-library](assets/tag-add-library.png)
 
-Create a library
+**Create a library**
 
 In the create library screen specify the library name and the environment.
 

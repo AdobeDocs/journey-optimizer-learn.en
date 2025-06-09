@@ -5,10 +5,10 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30
+last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
-jira: KT-18188
-exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+jira: KT-18258
+
 ---
 
 # Create offers to test dynamic decisioning and ranking 

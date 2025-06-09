@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30
 recommendations: noDisplay, noCatalog
-jira: KT-18188
-exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+jira: KT-18258
+
 ---
 # Create a campaign
 
