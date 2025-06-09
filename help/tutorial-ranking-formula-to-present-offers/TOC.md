@@ -11,7 +11,7 @@ auto-video-transcripts: true
 # Personalizing offers with Ranking formulas based on user zip code and income {#personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income}
 
 + [Introduction](./introduction.md)
-+ [Create an offers](./create-offers.md)
++ [Create offers](./create-offers.md)
 + [Create a ranking formula](./create-ranking-formula.md)
 + [Create a selection strategy](./selection-strategy.md)
 + [Create a campaign](./create-campaign.md)
