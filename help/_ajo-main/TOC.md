@@ -129,6 +129,7 @@ auto-video-transcripts: true
   + Decisioning {#decisioning}
     + [Introduction to Decisioning](/help/decisioning/introduction-to-decisioning.md)
     + [End-to-end Decisioning walkthrough](/help/decisioning/decisioning-end-to-end.md)
+    + [Navigating the Formula Builder Interface](/help/decisioning/formula-builder-ui.md)
   + Decision Management {#decision-management}
     + [Introduction to Decision Management](/help/decision-management/introduction-to-decision-management.md)
     + [Demo of the Decision Management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
