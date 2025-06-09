@@ -13,8 +13,6 @@ exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
 
 This tutorial builds on a previously created audience segmentation setup using the Adobe Experience Platform (AEP) Web SDK. In the [previous tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction), user preferences, such as interest in Stocks, Bonds, or Certificates of Deposit (CDs) were captured and used to segment individuals into targeted audiences within Experience Platform. This tutorial builds on that foundation by using Adobe Journey Optimizer (AJO) Decisioning to deliver personalized financial offers to those audiences in real time, enhancing both engagement and conversion outcomes.
 
-You can test the personalized AJO offers live using the link below.
-[Click here to view the live demo](https://gbedekar489.github.io/finwise/welcome.html). The page displays real-time offers based on your investment preferences.
 
 ## Pre-requisites for this tutorial
 

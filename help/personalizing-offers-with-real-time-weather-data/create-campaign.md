@@ -51,7 +51,7 @@ When a user visits the website, the system detects their location and fetches th
 
 
 2. **Start a New Campaign**  
-   Navigate to the Campaigns section and create a new scheduled marketing campaign. Nane the campaign appropriately.
+   Navigate to the Campaigns section and create a new scheduled marketing campaign. Name the campaign appropriately.
 
 3. **Add Action**  
    Add code-based-experience action and link the action to a  previously created channel configuration.
