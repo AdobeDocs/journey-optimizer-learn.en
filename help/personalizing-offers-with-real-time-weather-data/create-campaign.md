@@ -41,25 +41,25 @@ When a user visits the website, the system detects their location and fetches th
     - **Experience Type**: `Code-based experience`  
   Offers are not directly injected into the DOM. Instead, AJO returns raw HTML which is parsed using custom JavaScript.
 
-    - **Page URL**: `https://gbedekar489.github.io/weather/weather-offers.html`  
+    *   **Page URL**: `https://gbedekar489.github.io/weather/weather-offers.html`  
   The channel is configured for a specific test page used during development.
 
-    - **Location on Page**: `offerContainer`  
+    *   **Location on Page**: `offerContainer`  
   Returned offers are dynamically parsed and rendered into this container using frontend logic.
 
-    - **Content Format**: `HTML`  
+    *   **Content Format**: `HTML`  
   The offers are delivered as raw HTML fragments, allowing full control over how they're styled, filtered, and displayed.
 
 
-2. **Start a New Campaign**  
+2.  **Start a New Campaign**  
    Navigate to the Campaigns section and create a new scheduled marketing campaign. Name the campaign appropriately.
 
-3. **Add Action**  
+3.  **Add Action**  
    Add code-based-experience action and link the action to a  previously created channel configuration.
 
 
 
-4. **Audience**  
+4.  **Audience**  
    All Visitors (Default).
 
    Identity type: ECID (Experience Cloud ID)
@@ -87,7 +87,7 @@ When a user visits the website, the system detects their location and fetches th
     The  Handlebars code loops through the offers returned by a specific decision policy in Adobe Journey Optimizer.
     ![handle-bar](assets/handlebar-code.png)
 
-7.  **Publish the Campaign**  
+7. **Publish the Campaign**  
    Activate the campaign to begin delivering personalized offers in real time.
 
    
