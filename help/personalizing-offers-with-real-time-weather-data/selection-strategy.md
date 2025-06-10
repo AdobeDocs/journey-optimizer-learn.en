@@ -18,7 +18,7 @@ To create a selection strategy
 
 *   Log in to Journey Optimizer
 
-*   Navigate to Decisioning ->Strategy setup ->Selection strategies ->Create selection strategy
+*   Navigate to _**Decisioning ->Strategy setup ->Selection strategies ->Create selection strategy**_
 
 *   Provide Selection strategy name, Collection, Eligibility and Ranking method as shown in the screenshot
 

@@ -49,7 +49,7 @@ The offer text for cold weather offer
 
 ### Create Collection
 
-Navigate to Decisioning -> Catalogs ->Collection->Create collection
+Navigate to **_Decisioning -> Catalogs ->Collection->Create collection_**
 Name the collection **Weather-Related-Offers**
 
 Group these offers in this collection using the rule builder.
