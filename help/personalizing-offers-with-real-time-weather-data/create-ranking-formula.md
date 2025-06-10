@@ -16,7 +16,7 @@ A ranking formula in Adobe Journey Optimizer is used during offer decisioning, s
 
 *   Log in to Journey Optimizer
 
-*   Decisioning ->Strategy setup ->Ranking formulas ->Create formula
+*   Navigate to _**Decisioning ->Strategy setup ->Ranking formulas ->Create formula**_
 
 Name the formula _**Weather - Related - Offers**_
 
@@ -27,7 +27,7 @@ A criterion in a ranking formula refers to a conditional rule used to assign a s
 The following 3 criteria are defined to filter offers and then assign a ranking score to the qualifying offer. The criteria is defined using the criteria builder. The context data can also be used in defining the criteria as shown in the screenshot below
 ![contxt-data](assets/context-data.png)
 
-All the 3 criteria used an offer attribute(tag) and a context data atttribute(temperatur) in defining the criteria.
+All the 3 criteria used an offer attribute(tag) and a context data atttribute(temperature) in defining the criteria.
 
 ## Criteria One
 

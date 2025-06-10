@@ -16,11 +16,12 @@ To deliver personalized offers to users on the web page, a campaign was created 
 
 Within this campaign, a decision policy was defined to control how offers are selected. The decision policy includes a selection strategy, which consists of:
 
-A collection of offer items (for example, based on weather related tags),
+* A collection of offer items (for example, based on weather related tags),
 
-Eligibility rules that determine which offers apply to a user, and
+* Eligibility rules that determine which offers apply to a user, and
 
-A ranking formula that assigns scores to eligible offers to prioritize the most relevant ones.
+* A ranking formula that assigns scores to eligible offers to prioritize the most relevant ones.
+
 When a user visits the website, the system detects their location and fetches the current temperature using a weather API. This temperature data is then sent to Adobe Experience Platform via the Web SDK (Alloy). Based on this real-time contextual data, Adobe Journey Optimizer evaluates predefined offers that are tagged for specific weather conditions—such as hot, mild, or cold. The most relevant offer using the selection strategy and the ranking formula is automatically rendered on the webpage using Adobe's decisioning engine, ensuring the user receives personalized content aligned with the current weather in their area.
 
 
@@ -30,7 +31,7 @@ When a user visits the website, the system detects their location and fetches th
    Define where and how the offers appear (for example, a web page with code-based experience).
    - Log in to Journey Optmizer
 
-      Navigate to Administration ->Channels->Create channel configuration
+      Navigate to _**Administration ->Channels->Create channel configuration**_
    - **Name**: `offers-by-weather`  
   Identifies this configuration for personalized web offer delivery.
 
