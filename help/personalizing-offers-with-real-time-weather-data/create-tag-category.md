@@ -17,7 +17,7 @@ Collections allow you to categorize and group your decision items according to y
 Steps to create a collection
 
 * Log in to Journey Optimizer
-* Navigate to Tags ->Create tag category(_**WeatherRelatedOffers**_)
+* Navigate to _**Tags ->Create tag category**_(_**WeatherRelatedOffers**_)
 * Click Save
 * Click Create Tags(hot, cold, spring). These tags should be under the _**WeatherRelatedOffers**_ tag category
 

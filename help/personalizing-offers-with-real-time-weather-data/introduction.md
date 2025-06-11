@@ -15,7 +15,7 @@ Using weather-related data in Adobe Journey Optimizer (AJO) to serve offers allo
 
 Deliver relevant offers that align with customer mood and environment
 
-On a hot day, show an offer for cold beverage or AC units. On a rainy day, promote jackes or umbrella's
+On a hot day, show an offer for cold beverage or AC units. On a rainy day, promote jackets or umbrella's
 
 Example of on weather based offer
 
@@ -26,14 +26,14 @@ Example of on weather based offer
 
 ## Pre-requisites for this tutorial
 
-*   Access to Experience Platform
+*   Access to Experience Platform.
 
-*   Basic understanding of Adobe Experience Platform Tags
+*   Basic understanding of Adobe Experience Platform Tags.
 
-*   Basic understanding of Experience Platform concepts (Profiles, Audiences, Datasets)
+*   Basic understanding of Experience Platform concepts (Profiles, Audiences, Datasets).
 
-*   Familiarity with Journey Optimizer
+*   Familiarity with Journey Optimizer.
 
-*   Basic JavaScript knowledge (reading and writing simple functions)
+*   Basic JavaScript knowledge (reading and writing simple functions).
 
-*   Ability to use Browser DevTools (Console and Network tabs)
+*   Ability to use Browser DevTools (Console and Network tabs).
