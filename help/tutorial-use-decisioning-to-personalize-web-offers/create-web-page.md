@@ -53,7 +53,7 @@ The following script is responsible for fetching and displaying a personalized o
 function runPersonalization() {
     console.log("🚀 Sending personalization request to AJO...");
     alloy("sendEvent", {
-        renderDecisions: true,
+        renderDecisions: false,
         personalization: {
             surfaces: ["#ajo-offer"]
         }
