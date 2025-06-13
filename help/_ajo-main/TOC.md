@@ -11,8 +11,8 @@ auto-video-transcripts: true
 + Use Cases {#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
-  + [Personalizing offers with teal-time weather data in Adobe Journey Optimizer using Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-  + [Use ranking formula to deliver personalized offers in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+  + [Personalizing offers with real-time weather data in Adobe Journey Optimizer using Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"} 
+  + [Use ranking formula to deliver personalized offers in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"} 
   + [Enhance customer engagement](/help/use-cases/enhance-customer-engagement.md){target="_blank"} 
   + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
 + Use Case Playbooks {#use-case-playbooks}
