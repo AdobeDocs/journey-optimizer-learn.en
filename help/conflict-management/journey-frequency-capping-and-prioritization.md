@@ -1,5 +1,5 @@
 ---
-title: Journey frequency capping & prioritization
+title: Journey Frequency Capping and Prioritization
 description: Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration.
 feature: Frequency Rules, Journeys
 role: Admin, User
@@ -10,7 +10,7 @@ last-substantial-update: 2025-06-07
 jira: KT-18267
 ---
 
-# Journey Frequency capping & prioritization
+# Journey frequency capping and prioritization
 
 Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration.
 
