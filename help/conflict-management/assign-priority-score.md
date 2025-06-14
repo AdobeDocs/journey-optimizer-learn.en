@@ -1,6 +1,6 @@
 ---
-title: Assign priority scores to inbound actions
-description: Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration
+title: Assign Priority Scores to Inbound Actions
+description: Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration.
 feature: Journeys, Campaigns
 role: User
 level: Intermediate
@@ -12,7 +12,7 @@ jira: KT-18266
 
 # Assign priority scores to inbound actions
 
-Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration
+Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
