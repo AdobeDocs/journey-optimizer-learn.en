@@ -166,7 +166,7 @@ auto-video-transcripts: true
       + [Create and IP pool](/help/set-up-channels/create-ip-pool.md)
       + [Set up a subdomain](/help/set-up-channels/set-up-subdomain.md)
       + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [Configure an email channel ](/help/set-up-channels/configure-email-channel.md)
+      + [Configure an email channel](/help/set-up-channels/configure-email-channel.md)
       + [Set up and execute an IP warm-up plan](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
     + SMS/MMS channel {#sms-mms-channel}
       + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
