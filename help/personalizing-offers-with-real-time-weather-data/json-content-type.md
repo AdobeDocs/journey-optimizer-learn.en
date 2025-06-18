@@ -34,6 +34,7 @@ This loop iterates through all decision items returned by the policy and injects
 This Handlebars template is designed to output a JSON array of offer objects, where each object contains a single offerText field. It loops through the decision items returned by the specified Decision Policy and wraps each offerText in a JSON object format.
 
 ## Parse JSON Offer Response
+
 The response from AJO contains personalized decision items in JSON format under the `propositions[].items[].data.content[]` structure. Each content item includes fields such as offerText.
 
 ```javascript
