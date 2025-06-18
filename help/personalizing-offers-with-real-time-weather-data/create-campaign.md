@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-30
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-
+exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
 ---
 # Create a campaign
 
@@ -77,5 +77,3 @@ When a user visits the website, the system detects their location and fetches th
 
 -   **Publish the Campaign**  
    Activate the campaign to begin delivering personalized offers in real time.
-
-   

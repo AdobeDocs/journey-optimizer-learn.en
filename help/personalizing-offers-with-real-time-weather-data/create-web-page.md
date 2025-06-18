@@ -1,5 +1,5 @@
 ---
-title: Test the solution 
+title: Test the solution
 description: Create a simple web page to test contextual offer personalization using real-time temperature data.
 feature: Decisioning
 role: User
@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-
+exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
 ---
 # Test the solution
 
@@ -77,4 +77,3 @@ The JavaScript dynamically fetches weather information based on the user's locat
     [Web Page](assets/weather-offers.html)
 
     [JavaScript code](assets/weather-related-offers-script.js)
-

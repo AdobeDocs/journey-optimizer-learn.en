@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-
+exl-id: 0a249214-b6a1-4e71-99d9-8a9da0322b15
 ---
 # Create a selection strategy
 

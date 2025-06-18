@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-
+exl-id: 1c7fe9e7-ab72-4d7b-960a-512d0e25808b
 ---
 # Set Up XDM Schema, Dataset and Datastream in AEP
 
