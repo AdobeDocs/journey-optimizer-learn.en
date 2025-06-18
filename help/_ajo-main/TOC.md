@@ -65,7 +65,7 @@ auto-video-transcripts: true
   + [Mobile App Optimization - Overview](/help/channels/mobile-app-optimization-overview.md)
   + Code-based experience channel{#code-based-experience-channel}
     + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
-    + [Add editable fields to Code-Based Experience templates](/help/channels/editable-fields-in-code-based-experiences.md)
+    + [Add form fields to Code-Based Experience Channel templates](/help/channels/form-fields-in-code-based-experiences.md)
     + [Use decisioning in the code based channel](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
   + Direct mail channel{#direct-mail-channel}
     + [Create a direct mail](/help/channels/direct-mail.md)
