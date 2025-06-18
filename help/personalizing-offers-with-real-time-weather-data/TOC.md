@@ -19,4 +19,5 @@ auto-video-transcripts: true
 + [Create selection strategy](./selection-strategy.md)
 + [Create campaign](./create-campaign.md)
 + [Test the solution](./create-web-page.md)
++ [JSON content type](./json-content-type.md)
 
