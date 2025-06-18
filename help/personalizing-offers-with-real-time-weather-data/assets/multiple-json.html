@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+  <title>Weather-Based Offers</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f9fc;
+      color: #333;
+    }
+
+    header {
+      background: #1e88e5;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+      border-radius: 10px;
+    }
+
+    #weatherStatus {
+      font-size: 1.2rem;
+      margin-bottom: 1.5rem;
+    }
+
+    #offerContainer {
+      margin-top: 1.5rem;
+    }
+
+    .offer {
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+      background: #fcfcfc;
+    }
+
+    .offer img {
+      width: 100%;
+      max-width: 400px;
+      border-radius: 10px;
+      margin-bottom: 1rem;
+    }
+
+    footer {
+      margin-top: 4rem;
+      background: #eee;
+      padding: 2rem;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        margin: 1rem;
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Weather-Based Offers</h1>
+    <p>Personalized deals based on your local weather</p>
+  </header>
+
+  <div class="container">
+    <div id="weatherStatus">Detecting weather...</div>
+
+    <div id="offerContainer" data-personalization-region-id="web://gbedekar489.github.io/weather/weather-offers-json.html#offerContainer">
+      <!-- Offers will be injected here -->
+    </div>
+  </div>
+
+  <footer>
+    <p>Offers powered by Adobe Journey Optimizer.</p>
+    <p>© 2025 FinWise Personalization. All rights reserved.</p>
+  </footer>
+   <script src="https://assets.adobedtm.com/b5cbd1a1220e/698e/launch-dfca5f9-development.min.js" async></script>
+<script src="weather-related-offers-script-multiple-json.js"></script>
+
+</body>
+</html>
