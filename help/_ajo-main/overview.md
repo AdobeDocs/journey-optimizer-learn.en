@@ -22,7 +22,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
 
-<div id="events-section">
+
  
 ## Latest Experience League Live events
 
@@ -111,8 +111,6 @@ This user guide contains videos and tutorials on features and capabilities of Ad
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-  
- </div>
 
 <div id="staff-picks-section">
 
