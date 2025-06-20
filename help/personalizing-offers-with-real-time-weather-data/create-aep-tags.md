@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-04-30
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-
+exl-id: 04fad076-e897-4831-9147-768721858a80
 ---
 # Creating AEP Tags
 

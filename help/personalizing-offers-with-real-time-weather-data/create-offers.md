@@ -8,9 +8,8 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-
+exl-id: ee940654-6c6c-42d2-8c33-e0b1dfa5c3ed
 ---
-
 # Create offers to test dynamic decisioning and ranking 
 
 These offers are designed to test dynamic decisioning and ranking based on real-time contextual inputs (like temperature), passed through the Adobe Web SDK (alloy("sendEvent")).
@@ -53,4 +52,3 @@ Navigate to **_Decisioning -> Catalogs ->Collection->Create collection_**
 Name the collection **Weather-Related-Offers**
 
 Group these offers in this collection using the rule builder.
-

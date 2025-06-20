@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-
+exl-id: 23a9d36f-ac2c-42a5-b08d-79c7118920c9
 ---
 # Create Ranking formula
 

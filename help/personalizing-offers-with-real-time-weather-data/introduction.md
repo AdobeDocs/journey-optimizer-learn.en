@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10
 jira: KT-18258
-
+exl-id: f40dd541-470c-4f42-8181-eb1c277ebaa3
 ---
 # Use case description
 

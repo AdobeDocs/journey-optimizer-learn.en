@@ -10,8 +10,8 @@ last-substantial-update: 2025-06-17
 jira: KT-18362
 hidefromtoc: no
 hide: no
+exl-id: 046ba026-a166-4b32-be07-393246e3fd3b
 ---
-
 # Add form fields to code-based experience channel templates
 
 Discover how developers can streamline collaboration with marketing teams by enabling editable fields within code-based experience channels. Learn how to define editable JSON and HTML fields in content templates, allowing marketers to update campaign elements like titles and descriptions without touching code. See how embedded decision policies enhance personalization directly within templates—boosting efficiency, reducing errors, and accelerating campaign delivery.

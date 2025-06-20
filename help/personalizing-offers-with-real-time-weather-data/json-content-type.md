@@ -1,6 +1,6 @@
 ---
 title: Delivering Personalization with JSON Content in Adobe Journey Optimizer
-description:  Leverage the JSON content type in Adobe Journey Optimizer (AJO) to build flexible, data-driven personalization experiences.
+description: Leverage the JSON content type in Adobe Journey Optimizer (AJO) to build flexible, data-driven personalization experiences.
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,6 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-18
 jira: KT-18387
 recommendations: noDisplay, noCatalog
+exl-id: a09beca4-9266-4004-9831-d3c706b631a5
 ---
 # Delivering Personalization with JSON Content in Adobe Journey Optimizer
 
