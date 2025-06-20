@@ -12,7 +12,7 @@ jira: KT-18258
 ---
 # Create a campaign
 
-To deliver personalized offers to users on the web page, a campaign was created in Adobe Journey Optimizer and configured with the correct channel, Web channel. This configuration ensures that the offers are delivered via real-time decisioning to users interacting with the website.
+To deliver personalized offers to users on the web page, a campaign was created in Adobe Journey Optimizer and configured with the correct channel, Code-based experience channel. This configuration ensures that the offers are delivered via real-time decisioning to users interacting with the website.
 
 Within this campaign, a decision policy was defined to control how offers are selected. The decision policy includes a selection strategy, which consists of:
 
@@ -31,11 +31,12 @@ When a user visits the website, the system detects their location and fetches th
     -   Navigate to _**Administration ->Channels->Create channel configuration**_
     -   **Name**: `offers-by-weather`  
   Identifies this configuration for personalized web offer delivery.
-    -   **Platform**: `Web`  
-  Targeted specifically for web browsers. No mobile channels are enabled.
-    -   **Experience Type**:
+  -   **Channel**:
      `Code-based experience`  
       Offers are not directly injected into the DOM. Instead, AJO returns raw HTML which is parsed using custom JavaScript.
+    -   **Platform**: `Web`  
+  Targeted specifically for web browsers. No mobile channels are enabled.
+    
     -   **Page URL**: `https://gbedekar489.github.io/weather/weather-offers.html`  
       The channel is configured for a specific test page used during development.
     -   **Location on Page**: `offerContainer`  
