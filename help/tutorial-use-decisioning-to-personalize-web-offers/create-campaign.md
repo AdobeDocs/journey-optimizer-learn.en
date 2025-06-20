@@ -16,6 +16,8 @@ In Adobe Journey Optimizer (AJO), a campaign serves as a container that brings t
 
 1. Login to Journey Optimizer.
 1. Click **[!UICONTROL Journey Management]** > **[!UICONTROL Campaigns]** > **[!UICONTROL Create campaign]** > **[!UICONTROL Schedule Marketing]**.
+1. Provide a meaningful name to the campaign
+1. Navigate to the _**Action**_ tab
 1. Select **[!UICONTROL Code-based experience]** action, then select the configuration created in the earlier step.
 1. Click **[!UICONTROL Edit content]**.
 
