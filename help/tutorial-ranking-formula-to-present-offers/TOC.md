@@ -15,4 +15,5 @@ auto-video-transcripts: true
 + [Create a ranking formula](./create-ranking-formula.md)
 + [Create a selection strategy](./selection-strategy.md)
 + [Create a campaign](./create-campaign.md)
++ [Create editable field](./editable-fields)
 + [Create a webpage](./display-offers.md)
