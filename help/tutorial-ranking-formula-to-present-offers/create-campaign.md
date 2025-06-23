@@ -32,15 +32,16 @@ The result is a tailored set of offers, returned as HTML content, and displayed 
 1. **Create a Channel Configuration**  
    Define where and how the offers appear (for example, a web page with code-based experience).
     - Log in to Journey Optmizer
-      Navigate to Administration ->Channels->Create channel configuration
+      Navigate to _**Administration ->Channels->Create channel configuration**_
    - **Name**: `finwise-web-personalization`  
   Identifies this configuration for FinWise's personalized web offer delivery.
 
+    - **Experience Type**: `Code-based experience`  
+  Offers are not directly injected into the DOM. Instead, AJO returns raw HTML which is parsed using custom JavaScript.
+  
     - **Platform**: `Web`  
   Targeted specifically for web browsers. No mobile channels are enabled.
 
-    - **Experience Type**: `Code-based experience`  
-  Offers are not directly injected into the DOM. Instead, AJO returns raw HTML which is parsed using custom JavaScript.
 
     - **Page URL**: `http://localhost:3000/formula.html`  
   The channel is configured for a specific test page used during development.
@@ -57,11 +58,13 @@ The result is a tailored set of offers, returned as HTML content, and displayed 
 
 
 3. **Add Action**  
+  Navigate to _**Actions**_ tab
    Add code-based-experience action and link the action to a  previously created channel configuration.
 
 
 
 4. **Audience**  
+  Navigate to _**Audience**_ tab
    All Visitors (Default).
 
    Identity type: ECID (Experience Cloud ID)
@@ -72,23 +75,26 @@ The result is a tailored set of offers, returned as HTML content, and displayed 
     
     The action is linked to a **Decision Policy** that defines how offers are selected and how many offers are returned for display. This policy uses a **Selection Strategy** that was created earlier in the tutorial.
 
-    To insert the decision policy click **_Edit content_** in the Actions sections and then click **_Edit code_** to open the personalization editor.
+    To insert the decision policy click **_Edit content_** in the _**Actions**_ tab and then click **_Edit code_** to open the personalization editor.
 
     Select _**Decision policy**_ icon on the left and click on **Add decision policy** button to open the **Create decision policy** screen. Provide a meaningful name to the decision policy, and select the number of items the decision policy should return. Default is 1.
     Click **_next_**, and add the selection strategy created in the earlier step to the decision policy and click **next** to  complete the process of creating the decision policy. Make sure to select the appropriate fallback offer.
 
 6.  **Insert Decision Policy**
-
-    ![personalization-editor](assets/personalization-editor.png)
-
+    
     Insert the newly created decision policy by clicking on the _**Insert policy**_ button. This inserts a for loop in the personalization editor on the right hand side.
     Place your cursor between the each loop on line two and insert the offerText by navigating to the offer by drilling down the `tenant name`
+
+    Decision Policy inserted in the personalization editor
+    
+    ![personalization-editor](assets/personalization-editor.png)
+
 
 
     The  Handlebars code loops through the offers returned by a specific decision policy in Adobe Journey Optimizer and creates a `<div>` for each offer. Each `<div>` uses a data-tags attribute with the offer's internal name to help the carousel group and organize offers by category for smooth navigation. The content inside each `<div>` displays the personalized offer text, enabling dynamic and visually segmented presentation of multiple offers.
 
+7.  **Save the campaign**
 
-7.  **Publish the Campaign**  
-   Activate the campaign to begin delivering personalized offers in real time.
+    Save the campaign by clicking on _**Review to Activate**_ button
 
-   ![img](assets/personalization-editor.png)
+
