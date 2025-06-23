@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-22
 recommendations: noDisplay, noCatalog
 jira: KT-18416
-
+exl-id: 0ba695d6-becb-440d-b0d0-de5b51b42562
 ---
 # Using Editable Form Fields in AJO Code-Based Experiences
 
@@ -37,4 +37,3 @@ This enables quick updates and ensures compliance across campaigns while leverag
 ## Publish the campaign
 
 Activate the campaign to begin delivering personalized offers in real time.
-
