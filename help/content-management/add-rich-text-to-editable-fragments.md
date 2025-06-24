@@ -18,4 +18,4 @@ Learn how to make HTML components within a fragment editable, allowing for dynam
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
-See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments) for more information about this feature.
+See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} for more information about this feature.
