@@ -107,6 +107,7 @@ auto-video-transcripts: true
   + Work with fragments {#fragments}
     + [Manage fragments](/help/content-management/manage-fragments.md)
     + [Create expression fragments](/help/content-management/expression-fragments.md)
+    + [Add rich text to an editable fragment](/help/content-management/add-rich-text-to-editable-fragments.md)
     + [Use AEM Content Fragments](/help/content-management/aem-content-fragments.md)
   + Content templates{#content-templates}
     + [Create content templates](/help/content-management/templates/create-content-templates.md)
