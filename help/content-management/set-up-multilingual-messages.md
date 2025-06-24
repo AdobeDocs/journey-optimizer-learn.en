@@ -13,8 +13,6 @@ exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
 ---
 # Set up multilingual messaging
 
-{{limited-availability}}
-
 The Adobe Journey Optimizer multilingual message feature allows you to effortlessly create content in multiple languages within a single campaign or journey. You can switch between languages when editing your campaign or your journey, streamline the entire editing process and improve your capability to efficiently manage multilingual content.
 
 Learn how to set up translation projects for automated translation and the required language setting for manual translation and automated translation projects for multilingual messages.
