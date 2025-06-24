@@ -1,5 +1,5 @@
 ---
-title: Add rich text to an editable fragment
+title: Add Rich Text to an Editable Fragment
 description: Learn how to make HTML components within a fragment editable, allowing for dynamic updates to both content and styling. You'll see how to structure your HTML, configure inline editable fields, and connect them to default content and CSS—then test and validate your changes in a live campaign environment.
 feature: Fragments
 topic: Content Management
@@ -11,7 +11,7 @@ last-substantial-update: 2025-06-24
 jira: KT-18432
 ---
 
-# Add rich text to an editable fragment
+# AAdd Rich Text to an Editable Fragment
 
 Learn how to make HTML components within a fragment editable, allowing for dynamic updates to both content and styling. You'll see how to structure your HTML, configure inline editable fields, and connect them to default content and CSS—then test and validate your changes in a live campaign environment.
 
