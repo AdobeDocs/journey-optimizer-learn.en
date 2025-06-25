@@ -23,7 +23,7 @@ This enables quick updates and ensures compliance across campaigns while leverag
 - Navigate to _**Content**_ tab
 - Click on _**Edit code**_ and insert a editable field called legalDisclaimer with a default value  using the following syntax in the personalization editor
 
-- <pre> &#123;&#123;#inline &quot;legalDisclaimer&quot; name=&quot;Legal Disclaimer&quot;&#125;&#125; Legal Disclaimer will go here &#123;&#123;/inline&#125;&#125;  </pre>
+- <pre><code>&#123;&#123;#inline &quot;legalDisclaimer&quot; name=&quot;Legal Disclaimer&quot;&#125;&#125; Legal Disclaimer will go here &#123;&#123;/inline&#125;&#125;</code></pre>
 
 - Use the  <code>&#123;&#123;&#123;legalDisclaimer&#125;&#125;&#125;</code> variable in the template as shown below
 
