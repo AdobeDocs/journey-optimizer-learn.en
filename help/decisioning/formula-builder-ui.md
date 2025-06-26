@@ -1,7 +1,6 @@
 ---
 title: Guide to the Formula Builder Interface in Adobe Journey Optimizer
-description: Learn how to use the AI Formula Builder in Adobe Journey Optimizer to create custom offer ranking strategies.
-This walkthrough explains how to use the AI Formula Builder to combine model scores, profile and offer data, contextual signals, and business rules to personalize decisions and prioritize offers based on your marketing goals.
+description: Learn how to use the AI Formula Builder in Adobe Journey Optimizer to create custom offer ranking strategies. This walkthrough explains how to use the AI Formula Builder to combine model scores, profile and offer data, contextual signals, and business rules to personalize decisions and prioritize offers based on your marketing goals.
 feature: Decisioning
 topic: Integrations
 role: User
