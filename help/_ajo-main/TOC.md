@@ -44,6 +44,7 @@ auto-video-transcripts: true
   + [Use case - Read audience](/help/create-journeys/use-case-read-audience.md)
   + [Use case - Audience qualification](/help/create-journeys/use-case-audience-qualification.md)
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
+  + [Validate the journey logic with Journey Dry run ](/help/create-journeys/journey-dry-run.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
   + [Update content in a live journey](/help/create-journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
