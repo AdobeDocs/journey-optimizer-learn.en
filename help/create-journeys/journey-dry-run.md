@@ -9,8 +9,8 @@ duration: 188
 last-substantial-update: 2025-07-08
 jira: KT-18334
 badge: label="Limited availability" type="Informative"
+exl-id: 2c962e3a-3e30-48de-b645-8eca63c8672f
 ---
-
 # Validate the journey logic with Journey Dry run
 
 >[!AVAILABILITY]
