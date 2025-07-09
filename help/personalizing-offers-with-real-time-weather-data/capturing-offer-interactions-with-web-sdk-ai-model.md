@@ -13,6 +13,12 @@ jira: KT-18451
 
 # Capturing Offer Interactions with Adobe Web SDK for AI Model Training
 
+>[!NOTE]
+>
+> Complete this only if you plan to use AI-based ranking methods in Adobe Journey Optimizer to personalize which offer is shown based on predicted engagement.
+
+
+
 This article demonstrates how to capture offer interaction events (like impressions or clicks) using the Adobe Experience Platform Web SDK by calling alloy("sendEvent", ...) directly in your JavaScript code. The data will be ingested into AEP and used to train AI models in Adobe Journey Optimizer (AJO) for smarter offer ranking based on real-time behavior.
 
 ## Prerequisites
