@@ -20,4 +20,5 @@ auto-video-transcripts: true
 + [Create campaign](./create-campaign.md)
 + [Test the solution](./create-web-page.md)
 + [JSON content type](./json-content-type.md)
++ [Creating AI model for ranking](./capturing-offer-interactions-with-web-sdk-ai-model.md)
 
