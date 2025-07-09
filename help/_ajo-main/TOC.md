@@ -179,6 +179,7 @@ auto-video-transcripts: true
       + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
       + [Configure a custom SMS provider](/help/set-up-channels/configure-custom-sms-provider.md)
       + [Configure MMS API credentials and channel surfaces](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + [Set up RCS for Business](/help/set-up-channels/set-up-rcs.md)
     + Web and mobile channels {#web-and-mobile-channels}
       + [Guided channel setup](/help/set-up-channels/guided-channel-setup.md)
   + Configure journeys {#journey-configuration}

@@ -15,4 +15,4 @@ thumbnail: KT-18333.jpeg
 
 Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider. This tutorial walks through setting up API credentials, webhooks, and channel configurations, then building a journey to deliver rich, personalized messaging experiences—all within the native messaging app.
 
-
+>[!VIDEO](https://video.tv.adobe.com/v/3464754/?learn=on&enablevpops)
