@@ -8,9 +8,8 @@ level: Beginner
 doc-type: Article
 last-substantial-update: 2025-07-08
 jira: KT-18451
-
+exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
 ---
-
 # Capturing Offer Interactions with Adobe Web SDK for AI Model Training
 
 >[!NOTE]
@@ -141,4 +140,4 @@ This AI model is referenced in a ranking formula or selection strategy to determ
 
 ## Test the solution
 
-Include the [updated JavaScript file](assets/ai-model.js) in the [existing web page](assets/weather-offers.html) 
+Include the [updated JavaScript file](assets/ai-model.js) in the [existing web page](assets/weather-offers.html)
