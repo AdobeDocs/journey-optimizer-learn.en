@@ -1,6 +1,6 @@
 ---
 title: Validate the journey logic with Journey Dry run in Adobe Journey Optimizer
-description: This tutorial introduces the Journey Dry Run feature in Adobe Journey Optimizer, which enables marketers to test journey logic without sending real communications. You'll learn how to activate a journey in dry run mode, configure options like disabling wait times and external data sources, and interpret profile flow metrics to validate audience segmentation and conditional logic. The walkthrough also covers how to identify and fix issues—such as typos in condition nodes—and how to access and export dry run reports for further analysis before launching the journey live.
+description: This tutorial introduces the Journey Dry Run feature in Adobe Journey Optimizer, which enables marketers to test journey logic without sending real communications. You'll learn how to activate a journey in dry run mode, configure options like disabling wait times and external data sources, and interpret profile flow metrics to validate audience segmentation and conditional logic. Understand how to identify and fix issues—such as typos in condition nodes—and how to access and export dry run reports for further analysis before launching the journey live.
 feature: Journeys
 role: User
 level: Beginner
@@ -17,7 +17,7 @@ badge: label="Limited availability" type="Informative"
 >
 >This capability is currently only available for set of organizations (Limited Availability), and will be rolled out globally in a future release.
 
-This tutorial introduces the Journey Dry Run feature in Adobe Journey Optimizer, which enables marketers to test journey logic without sending real communications. You'll learn how to activate a journey in dry run mode, configure options like disabling wait times and external data sources, and interpret profile flow metrics to validate audience segmentation and conditional logic. The walkthrough also covers how to identify and fix issues—such as typos in condition nodes—and how to access and export dry run reports for further analysis before launching the journey live.
+This tutorial introduces the Journey Dry Run feature in Adobe Journey Optimizer, which enables marketers to test journey logic without sending real communications. You'll learn how to activate a journey in dry run mode, configure options like disabling wait times and external data sources, and interpret profile flow metrics to validate audience segmentation and conditional logic. Understand how to identify and fix issues—such as typos in condition nodes—and how to access and export dry run reports for further analysis before launching the journey live.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
 
