@@ -88,7 +88,7 @@ auto-video-transcripts: true
   + Push channel{#push-channel}
     + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
-  + SMS channel{#sms-channel}
+  + SMS/MMS channel{#sms-channel}
     + [SMS/MMS messages - Overview](/help/channels/sms-mms-messages-overview.md)
     + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
     + [Author an MMS message](/help/channels/author-mms.md)
@@ -175,7 +175,7 @@ auto-video-transcripts: true
       + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Configure an email channel](/help/set-up-channels/configure-email-channel.md)
       + [Set up and execute an IP warm-up plan](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-    + SMS/MMS channel {#sms-mms-channel}
+    + SMS/MMS/RCS channel {#sms-mms-channel}
       + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
       + [Configure a custom SMS provider](/help/set-up-channels/configure-custom-sms-provider.md)
       + [Configure MMS API credentials and channel surfaces](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
