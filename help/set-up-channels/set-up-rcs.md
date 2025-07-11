@@ -1,6 +1,6 @@
 ---
 title: Set up RCS in Journey Optimizer
-description: Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider. This tutorial walks through setting up API credentials, webhooks, and channel configurations, then building a journey to deliver rich, personalized messaging experiences—all within the native messaging app.
+description: Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider. This tutorial walks through setting up API credentials, webhooks, and channel configurations, then building a journey to deliver rich, personalized messaging experiences - all within the native messaging app.
 feature: SMS
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ exl-id: 64c9012f-8b00-48ec-b35e-42b5f2d878ed
 ---
 # Set up RCS in Journey Optimizer
 
-Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider. This tutorial walks through setting up API credentials, webhooks, and channel configurations, then building a journey to deliver rich, personalized messaging experiences—all within the native messaging app.
+Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider. This tutorial walks through setting up API credentials, webhooks, and channel configurations, then building a journey to deliver rich, personalized messaging experiences — all within the native messaging app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
 
