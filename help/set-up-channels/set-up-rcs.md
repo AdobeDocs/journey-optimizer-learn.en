@@ -1,5 +1,5 @@
 ---
-title: Set up RCS for Business in Journey Optimizer
+title: Set up RCS in Journey Optimizer
 description: Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider. This tutorial walks through setting up API credentials, webhooks, and channel configurations, then building a journey to deliver rich, personalized messaging experiences—all within the native messaging app.
 feature: SMS
 role: User
@@ -11,7 +11,7 @@ jira: KT-18333
 thumbnail: KT-18333.jpeg
 exl-id: 64c9012f-8b00-48ec-b35e-42b5f2d878ed
 ---
-# Set up RCS for Business in Journey Optimizer
+# Set up RCS in Journey Optimizer
 
 Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider. This tutorial walks through setting up API credentials, webhooks, and channel configurations, then building a journey to deliver rich, personalized messaging experiences—all within the native messaging app.
 
