@@ -13,8 +13,6 @@ exl-id: cad09776-b39c-42c3-ba62-28490d5548a3
 ---
 # Create a multilingual message
 
-{{limited-availability}}
-
 The multilingual message feature allows you to create content in multiple languages within a single campaign or journey. Learn how to create multilingual messages in Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
