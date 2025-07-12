@@ -1,6 +1,6 @@
 ---
 title: Unlock journey reentry with supplemental IDs
-description: In this tutorial, you'll learn how to enable and apply a supplemental identifier in Adobe Journey Optimizer. You'll see how it allows profiles to reenter journeys, handle multiple concurrent journey instances, iterate over object arrays, and personalize messages using contextual data like product ID, shipping info, and more.
+description: In this tutorial, you learn how to enable and apply a supplemental identifier in Adobe Journey Optimizer. You'll see how using supplemental identifiers allows profiles to reenter journeys, iterate over object arrays, and personalize messages using contextual data like product ID, shipping info, and more.
 feature: Journeys
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ jira: KT-18442
 
 {{limited-availability}}
 
-In this tutorial, you'll learn how to enable and apply a supplemental identifier in Adobe Journey Optimizer. You'll see how it allows profiles to reenter journeys, handle multiple concurrent journey instances, iterate over object arrays, and personalize messages using contextual data like product ID, shipping info, and more.
+In this tutorial, you learn how to enable and apply a supplemental identifier in Adobe Journey Optimizer. You'll see how using supplemental identifiers allows profiles to reenter journeys, iterate over object arrays, and personalize messages using contextual data like product ID, shipping info, and more.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-For more information on supplemental IDs, please see the (product documentation)[http://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier].
+For more information on supplemental IDs, please see the (product documentation)[https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier].
