@@ -18,7 +18,7 @@ auto-video-transcripts: true
 + Use Case Playbooks {#use-case-playbooks}
   + [Overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
   + [Configure a playbook sandbox](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-  + [Create and publish playbook instances](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+  + [Create and publish playbook instances](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
@@ -50,7 +50,7 @@ auto-video-transcripts: true
   + [Update content in a live journey](/help/create-journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
   + [Trigger daily journey runs after batch segmentation](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-  + [Troubleshoot inbound actions in journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+  + [Troubleshoot inbound actions in journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Conflict management {#conflict-management}
   + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
   + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
@@ -89,7 +89,7 @@ auto-video-transcripts: true
   + Push channel{#push-channel}
     + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
-  + SMS channel{#sms-channel}
+  + SMS/MMS channel{#sms-channel}
     + [SMS/MMS messages - Overview](/help/channels/sms-mms-messages-overview.md)
     + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
     + [Author an MMS message](/help/channels/author-mms.md)
@@ -176,11 +176,11 @@ auto-video-transcripts: true
       + [Delegate CName subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Configure an email channel](/help/set-up-channels/configure-email-channel.md)
       + [Set up and execute an IP warm-up plan](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-    + SMS/MMS channel {#sms-mms-channel}
+    + SMS/MMS/RCS channel {#sms-mms-channel}
       + [Configure SMS API credentials and channel surfaces](/help/set-up-channels/set-up-sms-channel.md)
       + [Configure a custom SMS provider](/help/set-up-channels/configure-custom-sms-provider.md)
       + [Configure MMS API credentials and channel surfaces](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-      + [Set up RCS for Business](/help/set-up-channels/set-up-rcs.md)
+      + [Set up RCS](/help/set-up-channels/set-up-rcs.md)
     + Web and mobile channels {#web-and-mobile-channels}
       + [Guided channel setup](/help/set-up-channels/guided-channel-setup.md)
   + Configure journeys {#journey-configuration}
@@ -202,8 +202,8 @@ auto-video-transcripts: true
   + [Enforce data usage policies in Journey Optimizer channels](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
 + Exercises and challenges {#exercises-and-challenges}
-  + [Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
-  + [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
+  + [Configure a training sandbox](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+  + [Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Experience League Live show recordings](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
   + [2025 Summit lab cheat sheet](/help/summit-lab-assets/l535-assets.md)

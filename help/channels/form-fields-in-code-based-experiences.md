@@ -1,6 +1,6 @@
 ---
-title: Add form fields to code-based experience channel templates
-description: Discover how developers can streamline collaboration with marketing teams by enabling editable fields within code-based experience channels. Learn how to define editable JSON and HTML fields in content templates, allowing marketers to update campaign elements like titles and descriptions without touching code. See how embedded decision policies enhance personalization directly within templates—boosting efficiency, reducing errors, and accelerating campaign delivery.
+title: Add Form Fields to Code-Based Experience Channel Templates
+description: Discover how developers can streamline collaboration with marketing teams by enabling editable fields within code-based experience channels.
 feature: Code-based Experiences
 role: Developer
 level: Beginner, Intermediate
