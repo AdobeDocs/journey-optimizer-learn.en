@@ -18,4 +18,4 @@ In this tutorial, you learn how to enable and apply a supplemental identifier in
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-For more information on supplemental IDs, please see the (product documentation)[https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier].
+For more information on supplemental IDs, please see the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
