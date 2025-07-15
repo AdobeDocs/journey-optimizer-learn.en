@@ -46,6 +46,7 @@ auto-video-transcripts: true
   + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Validate the journey logic with Journey Dry run ](/help/create-journeys/journey-dry-run.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
+  + [Unlock journey reentry with supplemental IDs](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
   + [Update content in a live journey](/help/create-journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
   + [Trigger daily journey runs after batch segmentation](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
