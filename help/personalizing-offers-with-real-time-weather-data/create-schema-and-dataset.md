@@ -18,34 +18,36 @@ To use the Adobe Experience Platform Web SDK (Alloy.js) on a web page, AEP Tags 
 
 To create an XDM schema
 
-*   Log in to Adobe Experience Platform
-*   Navigate to _**Data Management -> Schemas -> Create schema**_
+-   Log in to Adobe Experience Platform
+-   Navigate to _**Data Management -> Schemas -> Create schema**_
 
-*   Create an XDM event based schema called **_Weather-Schema_**. If you are not familiar with creating a schema, please follow this [documentation](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+-   Create an XDM event based schema called **_Weather-Schema_**. If you are not familiar with creating a schema, please follow this [documentation](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
-*   Make sure that the schema has the following fields with appropriate data type.
+-   Make sure that the schema has the following fields with appropriate data type.
 
-![weather-schema](assets/weather-schema.png)
+-   ![weather-schema](assets/weather-schema.png)
+
+-   Add the Field Group _**Web Details**_ to the schema. This field group is required for reporting purposes.
 
 ## Create a Dataset Based on the Schema
 
 A **dataset in Adobe Experience Platform (AEP)** is a structured storage container used to ingest, store, and activate data based on a defined XDM schema.
 
-*   Navigate to _**Data Management -> Datasets -> Create dataset**_
-*  Create a dataset called **_Weather-schema-dataset_** based on the XDM schema(_**Weather-Schema**_) created in the previous step.
+- Navigate to _**Data Management -> Datasets -> Create dataset**_
+- Create a dataset called **_Weather-schema-dataset_** based on the XDM schema(_**Weather-Schema**_) created in the previous step.
 
 
 ## Create a Datastream
 
 A datastream in Adobe Experience Platform is like a secure pipeline (or highway) that connects your website or app to Adobe services, allowing data to flow in and personalized content to flow back.
 
-*   Navigate to _**Data Collection > Datastreams**_, then click New Datastream. Name the datastream **weather-related-datastream**
+-   Navigate to _**Data Collection > Datastreams**_, then click New Datastream. Name the datastream **weather-related-datastream**
 
 
-*   Provide the following details as shown in the screenshot below
+-   Provide the following details as shown in the screenshot below
 ![datastream](assets/datastream.png)
-*   Click Save, then click on Add Mapping and add the Adobe Experience Platform service and the event Dataset with appropriate check boxes selected
+-   Click Save, then click on Add Mapping and add the Adobe Experience Platform service and the event Dataset with appropriate check boxes selected
 ![datastream-mapping](assets/datastream-service.png)
 
-*   Save the datastream.
+-   Save the datastream.

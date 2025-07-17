@@ -12,6 +12,25 @@ exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
 ---
 # Test the solution
 
+To test the solution end-to-end, the [weather-offers.html](assets/weather-offers.html)  and [weather-related-offers-script.js](assets/weather-related-offers-script.js) files must be hosted on a web server or a public hosting service such as Github Pages. This is necessary because:
+    -  The browser's geolocation API only works over HTTPS or localhost
+
+## Download the provided files
+
+[HTML File](assets/weather-offers.html)
+
+[Javascript File](assets/weather-related-offers-script.js)
+
+## Update the Adobe Experience Platform Tags Property
+
+Open the weather-offers.html file in text editor and replace the script tag with the script tag of your Adobe Experience Platform Tag Property created in the earlier step of this tutorial. Make sure to save the file
+
+```
+<script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
+```
+
+## What the webpage does
+
 A web page is built to test contextual offer personalization using real-time temperature data. When a user visits the page, the browser prompts for geolocation access. Upon approval, the page fetches the current weather details—such as temperature, condition, and city—via the OpenWeatherMap API. This contextual data is displayed to the user and sent to Adobe Experience Platform using the Adobe Web SDK (Alloy).
 
 The sendEvent call is configured with renderDecisions: false, meaning offers returned by Adobe Journey Optimizer are handled manually. The script processes the decisioning response, decodes the content, and dynamically inserts the most relevant offer into a designated container (#offerContainer). 
@@ -70,10 +89,3 @@ The JavaScript dynamically fetches weather information based on the user's locat
 
     Dynamically injects the offers into the <div id="offerContainer"> element.
 
-7. **Sample Assets**
-
-    The web page used to test the solution is available for downloading
-
-    [Web Page](assets/weather-offers.html)
-
-    [JavaScript code](assets/weather-related-offers-script.js)

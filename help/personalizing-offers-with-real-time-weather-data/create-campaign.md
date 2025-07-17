@@ -71,10 +71,9 @@ When a user visits the website, the system detects their location and fetches th
     ![personalization-editor](assets/personalization-editor.png)
 
     Insert the newly created decision policy by clicking on the _**Insert policy**_ button. This inserts a for loop in the personalization editor on the right hand side.
-    Place your cursor between the each loop on line two and insert the offerText by navigating to the offer by drilling down the `tenant name`
+    Place your cursor between the each loop on line two and insert the offerText by navigating to the offer by drilling down the `tenant name`. Wrap the offer in a Div with the class offer-item as shown in the screenshot.
 
-    The  Handlebars code loops through the offers returned by a specific decision policy in Adobe Journey Optimizer.
-    ![handle-bar](assets/handlebar-code.png)
-
+    
+    
 -   **Publish the Campaign**  
    Activate the campaign to begin delivering personalized offers in real time.

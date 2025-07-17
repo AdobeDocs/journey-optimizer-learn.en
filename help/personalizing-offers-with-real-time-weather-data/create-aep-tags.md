@@ -16,14 +16,17 @@ Adobe Experience Platform Tags (formerly Adobe Launch) help manage and deploy* m
 
 This [video describes the process of creating Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
-*   Log in to Data Collection
-*   Click on Tags -> New Property
-*   Create an Adobe Experience Platform Tag called _**personalization-on-weather**_.
+-   Log in to Data Collection
+-   Click on _**Tags -> New Property**_
 
-*   Add the following extensions to the Tag
+-   Create an Adobe Experience Platform Tag called _**personalization-on-weather**_.
+
+-   Add the following extensions to the Tag
 ![tags-extensions](assets/tags-extensions1.png)
+-   Add a data element called "ECID" as shown below. This data element is used later in reporting
+![ecid-data-element](assets/ecid-data-element.png)
 
-*   Make sure to configure the Adobe Experience Platform Web SDK to use the correct environment and the **weather-related-datastream** created in the earlier step.
+-   Make sure to configure the Adobe Experience Platform Web SDK to use the correct environment and the **weather-related-datastream** created in the earlier step.
 ![web-sdk-configuration](assets/tags-extensions.png)
 
 

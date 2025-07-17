@@ -1,4 +1,4 @@
-const apiKey = "<use your openweather api key>";
+const apiKey = "02921f56f5e20476dfedbae7b43dfb58";
 
 // Wait until Alloy is available
 function waitForAlloy(callback, interval = 100, retries = 50) {
@@ -65,11 +65,17 @@ function sendWeatherDataToAEP() {
 
           allOffers.forEach(item => {
             const decoded = decodeHtml(item.data?.content || "");
-            const wrapper = document.createElement("div");
-            wrapper.className = "offer";
-            wrapper.innerHTML = decoded;
-            offerDiv.appendChild(wrapper);
-          });
+            const container = document.getElementById("offerContainer");
+          const tempDiv = document.createElement("div");
+          tempDiv.innerHTML = decoded;
+         [...tempDiv.children].forEach(child => {
+            if (child.classList.contains("offer-item")) {
+            container.appendChild(child);
+    }
+  });
+         //const offerItem = tempDiv.firstElementChild; // safely get the offer-item div
+        //container.appendChild(offerItem);
+       });
         }).catch(err => {
           console.error("❌ Personalization failed:", err);
         });
