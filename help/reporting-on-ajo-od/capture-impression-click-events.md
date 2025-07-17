@@ -16,17 +16,18 @@ To enable reporting on AJO offer impressions and clicks, the following component
 >
 > These prerequisites were already completed in the create schema,datset section of [previous tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
- ### 1. Dataset in Adobe Experience Platform (AEP)
+## 1. Dataset in Adobe Experience Platform (AEP)
 
 - A dataset based on an **XDM ExperienceEvent** schema.
-- The schema must include:
-  - `Web Details` field group – captures page URL, referrer, etc.
+
+The schema must include `Web Details` field group which captures page URL, referrer, etc.
  
-### 2. Datastream Configuration
+## 2. Datastream Configuration
+
 - A **Datastream** must be created in Adobe Experience Platform.
 - This datastream must be linked to the dataset configured above to ensure all Web SDK events are properly ingested into the right destination.
 
-### 3. Adobe Experience Platform Tags Property
+## 3. Adobe Experience Platform Tags Property
 
 - AEP Web SDK extension configured to use the datastream created in the earlier step.
 - Experience Cloud ID Service configured
