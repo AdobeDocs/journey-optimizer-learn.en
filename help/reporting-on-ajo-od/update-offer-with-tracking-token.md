@@ -26,7 +26,7 @@ Click on _**Content**_ tab and then click on _**Edit code**_ button to open the 
 Add two new data attributes  to the div as shown in the screenshot
 ![tracking-token](assets/offer-item-with-tracking-code.png)
 
-The tracking token and offer id can be added by clicking on the Decision policy icon in the left navigation and drill down the decisioning tree to select the itemID and trackingToken.
+The trackingToken and ItemID can be added by clicking on the Decision policy icon in the left navigation and drill down the decisioning tree to select the itemID and trackingToken.
 ![tracking-token](assets/insert-tracking-token.png)
 
 This ensures that each rendered offer includes a data-tracking-token, which is essential for accurate impression and click event tracking.
