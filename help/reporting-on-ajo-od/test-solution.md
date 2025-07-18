@@ -1,6 +1,6 @@
 ---
 title: Test the solution
-description: Create a simple web page to test contextual offer personalization using real-time temperature data.
+description: Create a simple web page to capture impression and click events on the offers.
 feature: Decisioning
 role: User
 level: Beginner

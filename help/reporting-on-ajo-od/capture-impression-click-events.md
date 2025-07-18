@@ -1,6 +1,6 @@
 ---
 title: Capture impressions and interactions events
-description: This tutorial extends an existing Adobe Journey Optimizer (AJO) implementation that delivers personalized offers based on contextual data such as temperature. It outlines how to capture impression and interaction events and prepare the data for reporting within Journey Optimizer.
+description: Capture impression and interaction events and prepare the data for reporting within Journey Optimizer.
 feature: Decisioning
 role: User
 level: Beginner
