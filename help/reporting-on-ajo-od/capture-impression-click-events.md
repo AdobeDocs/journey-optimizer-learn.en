@@ -1,20 +1,21 @@
 ---
-title: Track and Report Adobe Jouney Optimizer (AJO) Offers delivered  vi AJO Offer Decisioning
-description: This tutorial extends an existing Adobe Journey Optimizer (AJO) implementation that delivers personalized offers based on contextual data such as temperature. It outlines how to capture impression and interaction events and prepare the data for reporting within Jouney Optimizer.
+title: Capture impressions and interactions events
+description: This tutorial extends an existing Adobe Journey Optimizer (AJO) implementation that delivers personalized offers based on contextual data such as temperature. It outlines how to capture impression and interaction events and prepare the data for reporting within Journey Optimizer.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10
+recommendations: noDisplay, noCatalog
+last-substantial-update: 2025-07-18
 jira: KT-18526
 
 ---
-# Capture impressions and interactions
+# Capture impressions and interactions events
 
 To enable reporting on AJO offer impressions and clicks, the following components must be configured:
 >[!NOTE]
 >
-> These prerequisites were already completed in the create schema,datset section of [previous tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> These prerequisites were already completed in the create schema and dataset section of the [previous tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## 1. Dataset in Adobe Experience Platform (AEP)
 
@@ -25,21 +26,27 @@ The schema must include `Web Details` field group which captures page URL, refer
 ## 2. Datastream Configuration
 
 - A **Datastream** must be created in Adobe Experience Platform.
-- This datastream must be linked to the dataset configured above to ensure all Web SDK events are properly ingested into the right destination.
+- This datastream must be linked to the dataset configured above to ensure that all Web SDK events are properly ingested into the right destination.
 
 ## 3. Adobe Experience Platform Tags Property
 
 - AEP Web SDK extension configured to use the datastream created in the earlier step.
 - Experience Cloud ID Service configured
-- Data element called ECID added to the property
+- A data element called ECID is added to the property
 - Implemented on the site where offers are rendered.
 
 
 To enable reporting on offer performance, the first step is to capture when offers are displayed (impressions) and when they are clicked (interactions). These events provide the foundation for measuring engagement, calculating click-through rates, and analyzing offer effectiveness within Adobe Experience Platform.
 
+The alloy("sendEvent") function is used to log user interactions with offers returned by Adobe Journey Optimizer (AJO).
+
+The sendEvent payload captures offer interactions by including the event type (decisioning.propositionDisplay for impressions or decisioning.propositionInteract for clicks), a unique event ID, timestamp, and user identity (identityMap). It also includes the list of offers (propositions) shown or clicked, along with tracking tokens to ensure accurate attribution. This structure enables reporting and optimization of personalized offer performance in Adobe Journey Optimizer.
+
+Two types of interaction events are captured:
+
 ## Impression Event
 
-An impression occurs when an offer is rendered on the page and becomes visible to the user. This is tracked using the decisioning.propositionDisplay event type.
+An impression occurs when an offer is rendered on the page and becomes visible to the user. The event is tracked using the decisioning.propositionDisplay event type.
 
 
 ```javascript
@@ -72,7 +79,7 @@ An impression occurs when an offer is rendered on the page and becomes visible t
 
 ## Offer Interaction
 
-An interaction is recorded when a user clicks a call-to-action (CTA) inside the rendered offer. This is tracked using the decisioning.propositionInteract event type.
+An interaction is recorded when a user clicks a call-to-action (CTA) inside the rendered offer. The event is tracked using the decisioning.propositionInteract event type.
 
 ```javascript
 alloy("sendEvent", {
@@ -83,7 +90,7 @@ alloy("sendEvent", {
                   identityMap: {
                     ECID: [{
                       id: _satellite.getVar("ECID"),
-                      authenticatedState: "authenticated",
+                      authenticatedState: "ambiguous",
                       primary: true
                     }]
                   },
@@ -103,6 +110,6 @@ alloy("sendEvent", {
               })
 ```
 
-Including propositions in click and impression events is essential for accurate offer reporting in Adobe Journey Optimizer. These propositions represent the exact offers that were presented to the user, allowing Adobe to attribute user interactions (e.g., impressions or clicks) back to the specific decisions made by the system.
+Including propositions in click and impression events is essential for accurate offer reporting in Adobe Journey Optimizer. These propositions represent the exact offers that were presented to the user, allowing Adobe to attribute user interactions (for example, impressions or clicks) back to the specific decisions made by the system.
 
 Each offer within a proposition includes a tracking token, which is a unique identifier generated by Adobe. This token must be passed exactly as received — without alteration — in the corresponding click or impression event. Matching tracking tokens ensure that Adobe can precisely associate the user action with the correct offer decision, enabling downstream reporting and AI-based optimization.

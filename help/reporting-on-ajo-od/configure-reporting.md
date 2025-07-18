@@ -1,11 +1,12 @@
 ---
-title: Track and Report Adobe Jouney Optimizer (AJO) Offers delivered  vi AJO Offer Decisioning
-description: This tutorial extends an existing Adobe Journey Optimizer (AJO) implementation that delivers personalized offers based on contextual data such as temperature. It outlines how to capture impression and interaction events and prepare the data for reporting within Jouney Optimizer.
+title: Setup reporting data sources
+description: This step involves configuring the necessary data sources in Adobe Experience Platform to enable reporting on offer impressions and click interactions. The dataset used for capturing these events must be based on a schema that includes the Web Details field group to support reporting capabilities.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10
+recommendations: noDisplay, noCatalog
+last-substantial-update: 2025-07-18
 jira: KT-18526
 
 ---
@@ -13,14 +14,8 @@ jira: KT-18526
 
 To begin reporting setup for Adobe Journey Optimizer Offer Decisioning
 
--   Login to Jounery Optimizer
+-   Log in to Journey Optimizer
 
 -   Navigate to _**Administration ->Configurations ->Reporting ->Manage ->Add dataset**_
--   Select the _**Weather-schema-dataset**_ dataset. This is the dataset storing the offer impressions and click event created in the earlier tutorial.
-
-## View Report
-
-Navigate to Journey Management ->Campigns
-
-Click on the campaign and then select the appropriate report from the report menu
+-   Select the _**Weather-schema-dataset**_, which stores the offer impression and click events generated in the earlier tutorial.
 

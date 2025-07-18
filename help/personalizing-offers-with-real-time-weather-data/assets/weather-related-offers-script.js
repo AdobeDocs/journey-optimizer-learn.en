@@ -35,10 +35,10 @@ function sendWeatherDataToAEP() {
 
         // Trigger personalization request with weather context
         alloy("sendEvent", {
-          renderDecisions: true,
+          renderDecisions: false,
           personalization: {
             surfaces: [
-              "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
+              "web://yourdomain.com/weather/weather-offers.html#offerContainer"
             ]
           },
           xdm: {
@@ -73,8 +73,7 @@ function sendWeatherDataToAEP() {
             container.appendChild(child);
     }
   });
-         //const offerItem = tempDiv.firstElementChild; // safely get the offer-item div
-        //container.appendChild(offerItem);
+         
        });
         }).catch(err => {
           console.error("❌ Personalization failed:", err);

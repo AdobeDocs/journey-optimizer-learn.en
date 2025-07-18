@@ -10,10 +10,10 @@ breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-tim
 auto-video-transcripts: true
 ---
 
-# Tutorial on identity stitching in AEP{#personalizing-offers-with-real-time-weather-data}
+# Tutorial on personalizing offers with real-time weather data using Web SDK {#personalizing-offers-with-real-time-weather-data}
 
 + [Introduction](./introduction.md)
-+ [Create schema,dataset](./create-schema-and-dataset.md)
++ [Create schema and dataset](./create-schema-and-dataset.md)
 + [Create AEP Tag](./create-aep-tags.md)
 + [Create tag category](./create-tag-category.md)
 + [Create offers](./create-offers.md)

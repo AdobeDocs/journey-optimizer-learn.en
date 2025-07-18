@@ -15,11 +15,20 @@ exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
 To test the solution end-to-end, the [weather-offers.html](assets/weather-offers.html)  and [weather-related-offers-script.js](assets/weather-related-offers-script.js) files must be hosted on a web server or a public hosting service such as Github Pages. This is necessary because:
     -  The browser's geolocation API only works over HTTPS or localhost
 
+To keep things organized and ensure relative paths work correctly, we recommend the following folder structure for hosting the solution:
+
+![folder-structure](assets/folder-structure.png)
+
 ## Download the provided files
 
 [HTML File](assets/weather-offers.html)
 
 [Javascript File](assets/weather-related-offers-script.js)
+
+
+## Update the surface url in the javascript file
+
+Open the `weather-related-offers-script.js` and update the  ` "web://yourdomain.com/weather/weather-offers.html#offerContainer"`bt replacing `yourdomain.com` with the actual domain where the HTML file is hosted.
 
 ## Update the Adobe Experience Platform Tags Property
 
@@ -28,6 +37,8 @@ Open the weather-offers.html file in text editor and replace the script tag with
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
 ```
+
+
 
 ## What the webpage does
 
