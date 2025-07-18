@@ -8,7 +8,7 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18
 jira: KT-18526
-
+exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
 ---
 # Capture impressions and interactions events
 

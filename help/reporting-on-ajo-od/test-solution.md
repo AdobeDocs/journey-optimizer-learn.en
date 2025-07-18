@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18
 recommendations: noDisplay, noCatalog
 jira: KT-18526
-
+exl-id: 6b6c66d3-218d-4f5b-adb0-a2eca05989ab
 ---
 # Test the solution
 

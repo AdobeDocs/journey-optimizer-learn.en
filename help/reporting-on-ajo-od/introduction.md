@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-07-18
 jira: KT-18526
-
+exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
 ---
 # Track and Report Adobe Journey Optimizer (AJO) Offers delivered  via AJO Offer Decisioning
 
@@ -37,4 +37,3 @@ Before beginning, complete the [Personalizing Offers with Real-Time Weather Data
 -   Real-time offer rendering on a webpage
 
 This tutorial builds directly on that implementation and focuses specifically on capturing offer impressions and interactions for reporting and analysis in Journey Optimizer.
-
