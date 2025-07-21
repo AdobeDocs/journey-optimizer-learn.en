@@ -1,4 +1,4 @@
-const apiKey = "<use your openweather api key>";
+const apiKey = "02921f56f5e20476dfedbae7b43dfb58";
 
 // Wait until Alloy is available
 function waitForAlloy(callback, interval = 100, retries = 50) {
@@ -35,10 +35,10 @@ function sendWeatherDataToAEP() {
 
         // Trigger personalization request with weather context
         alloy("sendEvent", {
-          renderDecisions: true,
+          renderDecisions: false,
           personalization: {
             surfaces: [
-              "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
+              "web://yourdomain.com/weather/weather-offers.html#offerContainer"
             ]
           },
           xdm: {
@@ -65,11 +65,16 @@ function sendWeatherDataToAEP() {
 
           allOffers.forEach(item => {
             const decoded = decodeHtml(item.data?.content || "");
-            const wrapper = document.createElement("div");
-            wrapper.className = "offer";
-            wrapper.innerHTML = decoded;
-            offerDiv.appendChild(wrapper);
-          });
+            const container = document.getElementById("offerContainer");
+          const tempDiv = document.createElement("div");
+          tempDiv.innerHTML = decoded;
+         [...tempDiv.children].forEach(child => {
+            if (child.classList.contains("offer-item")) {
+            container.appendChild(child);
+    }
+  });
+         
+       });
         }).catch(err => {
           console.error("❌ Personalization failed:", err);
         });
