@@ -94,9 +94,13 @@ The JavaScript dynamically fetches weather information based on the user's locat
 
 6. **Retrieves and Renders Offers**
 
-    Receives offers returned by AJO.
+    Receives offers returned by AJO Decisioning.
 
     Decodes the HTML content.
 
     Dynamically injects the offers into the <div id="offerContainer"> element.
+
+## Next Steps
+
+[Measure and report the impact of AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 
