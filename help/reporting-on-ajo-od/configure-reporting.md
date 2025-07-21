@@ -14,7 +14,7 @@ exl-id: 5bff884b-17e2-4b86-affb-ea9cf3cc2a60
 
 To begin reporting setup for Adobe Journey Optimizer Offer Decisioning
 
--   Log in to Journey Optimizer
+-   Log in to _**Journey Optimizer**_
 
 -   Navigate to _**Administration ->Configurations ->Reporting ->Manage ->Add dataset**_
 -   Select the _**Weather-schema-dataset**_, which stores the offer impression and click events generated in the earlier tutorial.
