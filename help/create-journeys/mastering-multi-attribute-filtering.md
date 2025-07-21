@@ -2,7 +2,6 @@
 title: Mastering multi-attribute filtering for effective data management
 description: When working with lookup schemas, you may often need to filter a list of objects based on more than one attribute. This video explains how to perform multi-attribute filtering on lookup schemas using nested filter() functions. This is especially useful when you need to narrow down a list of objects based on more than one condition—such as filtering products in a shopping cart by both ID and color.
 feature: Journeys, Data Management
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
 role: User
 level: Beginner
 doc-type: Technical Video
