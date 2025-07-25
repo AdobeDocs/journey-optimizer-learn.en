@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
 ---
-# Creating AEP Tags
+# Creating Adobe Experience Platform Tags
 
 Adobe Experience Platform Tags (formerly Adobe Launch) help manage and deploy* marketing and analytics technologies on your website without needing to change the site's code.
 
