@@ -14,7 +14,7 @@ auto-video-transcripts: true
 
 + [Introduction](./introduction.md)
 + [Create schema and dataset](./create-schema-and-dataset.md)
-+ [Create AEP Tag](./create-aep-tags.md)
++ [Create Experience Platform Tag](./create-aep-tags.md)
 + [Create tag category](./create-tag-category.md)
 + [Create offers](./create-offers.md)
 + [Create ranking formula](./create-ranking-formula.md)

@@ -13,6 +13,6 @@ auto-video-transcripts: true
 + [Introduction](./introduction.md)
 + [Create Schema,Datasets..etc](./create-schema-and-dataset.md)
 + [Create Audience](./create-audiences.md)
-+ [Create AEP Tags](./create-aep-tags.md)
++ [Create Experience Platform Tags](./create-aep-tags.md)
 + [Create web form](./create-web-form.md)
 + [Debug the solution](./debug.md)  

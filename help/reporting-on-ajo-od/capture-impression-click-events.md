@@ -67,6 +67,10 @@ An impression occurs when an offer is rendered on the page and becomes visible t
                   propositionEventType: {
                     display: 1
                   },
+                    propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                  },
                   
                    propositions: window.latestPropositions
                   

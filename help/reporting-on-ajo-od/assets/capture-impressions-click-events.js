@@ -1,3 +1,4 @@
+
 const apiKey = "02921f56f5e20476dfedbae7b43dfb58";
 
 navigator.geolocation.getCurrentPosition(pos => {
@@ -15,7 +16,7 @@ navigator.geolocation.getCurrentPosition(pos => {
         `Current temperature in ${city} is ${temp}°F with ${condition}.`;
 
       alloy("sendEvent", {
-        renderDecisions: false,
+        renderDecisions: true,
         personalization: {
           surfaces: [
             "web://yourdomain.com/weather/weather-offers.html#offerContainer"
@@ -30,23 +31,14 @@ navigator.geolocation.getCurrentPosition(pos => {
           }
         }
       }).then(response => {
-        const allOffers = [];
-        const offerItems = [];
         const offerDiv = document.getElementById("offerContainer");
         offerDiv.innerHTML = "";
         window.latestPropositions = response.propositions || [];
 
+        const allOffers = [];
+
         (response.propositions || []).forEach(p => {
-          const items = p.items || [];
-          allOffers.push(...items);
-          items.forEach(item => {
-            if (item.id) {
-              offerItems.push({
-                id: item.id,
-                trackingToken: item.meta?.trackingToken
-              });
-            }
-          });
+          allOffers.push(...(p.items || []));
         });
 
         if (!allOffers.length) {
@@ -54,25 +46,30 @@ navigator.geolocation.getCurrentPosition(pos => {
           return;
         }
 
+        const impressionItems = [];
+
         allOffers.forEach(item => {
           const decoded = decodeHtml(item.data?.content || "");
-          const container = document.getElementById("offerContainer");
           const tempDiv = document.createElement("div");
           tempDiv.innerHTML = decoded;
 
           [...tempDiv.children].forEach(child => {
             if (child.classList.contains("offer-item")) {
-              container.appendChild(child);
+              const offerId = child.getAttribute("data-offer-id");
+              const trackingToken = child.getAttribute("data-tracking-token");
 
-              // Add click event handler for buttons or links inside the offer-item
+              if (offerId && trackingToken) {
+                impressionItems.push({ id: offerId, token: trackingToken });
+              }
+
+              offerDiv.appendChild(child);
+
+              // Click tracking
               child.querySelectorAll("a, button").forEach(el => {
                 el.addEventListener("click", () => {
-                  const offerId = child.getAttribute("data-offer-id");
-                  const trackingToken = child.getAttribute("data-tracking-token");
                   const ecidValue = getECID();
-
                   if (!ecidValue || !offerId || !trackingToken) {
-                    console.warn("Missing ECID, offerId, or trackingToken. Interaction event not sent.");
+                    console.warn("AJO Error!!!  Missing ECID, offerId, or trackingToken. Interaction event not sent.");
                     return;
                   }
 
@@ -108,29 +105,47 @@ navigator.geolocation.getCurrentPosition(pos => {
           });
         });
 
-        // Send impression if there are displayable offers
-        if (offerItems.length > 0) {
-          alloy("sendEvent", {
-            xdm: {
-              _id: generateUUID(),
-              timestamp: new Date().toISOString(),
-              eventType: "decisioning.propositionDisplay",
-              identityMap: {
-                ECID: [{
-                  id: getECID(),
-                  authenticatedState: "ambiguous",
-                  primary: true
-                }]
-              },
-              _experience: {
-                decisioning: {
-                  propositionEventType: {
-                    display: 1
-                  },
-                  propositions: window.latestPropositions
+        // Impression event after rendering
+        if (impressionItems.length > 0) {
+          const ecidValue = getECID();
+          if (!ecidValue) {
+            console.warn("AJO Error !!! Missing ECID. Skipping impression.");
+            return;
+          }
+
+          // Send impression for each item
+          impressionItems.forEach(({ id, token }) => {
+            if (!id || !token) {
+              console.warn("AJO Error !!! Missing offerId or trackingToken. Skipping impression.");
+              return;
+            }
+
+            alloy("sendEvent", {
+              xdm: {
+                _id: generateUUID(),
+                timestamp: new Date().toISOString(),
+                eventType: "decisioning.propositionDisplay",
+                identityMap: {
+                  ECID: [{
+                    id: ecidValue,
+                    authenticatedState: "ambiguous",
+                    primary: true
+                  }]
+                },
+                _experience: {
+                  decisioning: {
+                    propositionEventType: {
+                      display: 1
+                    },
+                    propositionAction: {
+                      id: id,
+                      tokens: [token]
+                    },
+                    propositions: window.latestPropositions
+                  }
                 }
               }
-            }
+            });
           });
         }
       }).catch(err => {
