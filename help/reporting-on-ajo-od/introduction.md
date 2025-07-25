@@ -18,22 +18,17 @@ By capturing decisioning.propositionDisplay and decisioning.propositionInteract 
 The goal is to provide clear, data-driven insights into how well personalized offers are performing and inform future decisioning strategies.
 
 
-
     
 ![reporting-dashboard](assets/dashboard-reporting.png)
-
 
 
 ## Pre-requisites for this tutorial
 
 Before beginning, complete the [Personalizing Offers with Real-Time Weather Data tutorial.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) It establishes all foundational components, including:
 
--   Web SDK integration
-
--   Offer setup in Adobe Journey Optimizer (AJO)
-
--   Decisioning using contextual attributes such as weather and temperature
-
--   Real-time offer rendering on a webpage
+- Web SDK integration
+- Offer setup in Adobe Journey Optimizer (AJO)
+- Decisioning using contextual attributes such as weather and temperature
+- Real-time offer rendering on a webpage
 
 This tutorial builds directly on that implementation and focuses specifically on capturing offer impressions and interactions for reporting and analysis in Journey Optimizer.

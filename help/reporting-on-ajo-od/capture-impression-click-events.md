@@ -12,7 +12,7 @@ exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
 ---
 # Capture impressions and interactions events
 
-To enable reporting on AJO offer impressions and clicks, the following components must be configured:
+To enable reporting on offer impressions and clicks from AJO decisioning, the following components must be configured:
 >[!NOTE]
 >
 > These prerequisites were already completed in the create schema and dataset section of the [previous tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
