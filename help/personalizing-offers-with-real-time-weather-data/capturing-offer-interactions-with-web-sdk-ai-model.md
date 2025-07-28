@@ -67,26 +67,32 @@ A decisioning.propositionDisplay event is now sent using the Adobe Web SDK (allo
 
 ```javascript
 
-if (offerIds.length > 0) {
-  alloy("sendEvent", {
-    xdm: {
-      _id: generateUUID(),
-      timestamp: new Date().toISOString(),
-      eventType: "decisioning.propositionDisplay",
-      _experience: {
-        decisioning: {
-          propositionEvent: {
-            display: 1
-          },
-          involvedPropositions: offerIds.map(id => ({
-            id,
-            scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-          }))
-        }
-      }
-    }
-  });
-}
+alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
 ```
 
 ## Capture Offer Click Events (Interactions)
@@ -97,32 +103,42 @@ When a click is detected, a decisioning.propositionInteract event is sent using 
 
 ```javascript
 // Attach click tracking to <a> and <button> elements
-wrapper.querySelectorAll("a, button").forEach(el => {
-  el.addEventListener("click", () => {
-    const offerId = el.getAttribute("data-offer-id") || item.id;
-    console.log("Clicked element offerId:", offerId);
+child.querySelectorAll("a, button").forEach(el => {
+                el.addEventListener("click", () => {
+                  const ecidValue = getECID();
+                  if (!ecidValue || !offerId || !trackingToken) {
+                    console.warn("Girish!!!!  Missing ECID, offerId, or trackingToken. Interaction event not sent.");
+                    return;
+                  }
 
-    alloy("sendEvent", {
-      xdm: {
-        _id: generateUUID(),
-        timestamp: new Date().toISOString(),
-        eventType: "decisioning.propositionInteract",
-        _experience: {
-          decisioning: {
-            propositionEvent: {
-              interact: 1
-            },
-            involvedPropositions: [{
-              id: offerId,
-              scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-            }]
-          }
-        }
-      }
-    });
-  });
-});
-
+                  alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
+                });
+              });
 ```
 
 ## Create an AI Model for Offer Ranking in Adobe Journey Optimizer Offer Decisioning
