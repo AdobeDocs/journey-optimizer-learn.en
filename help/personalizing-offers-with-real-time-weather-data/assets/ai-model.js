@@ -31,17 +31,14 @@ navigator.geolocation.getCurrentPosition(pos => {
           }
         }
       }).then(response => {
-        const allOffers = [];
-        const offerIds = [];
         const offerDiv = document.getElementById("offerContainer");
         offerDiv.innerHTML = "";
+        window.latestPropositions = response.propositions || [];
+
+        const allOffers = [];
 
         (response.propositions || []).forEach(p => {
-          const items = p.items || [];
-          allOffers.push(...items);
-          items.forEach(item => {
-            if (item.id) offerIds.push(item.id);
-          });
+          allOffers.push(...(p.items || []));
         });
 
         if (!allOffers.length) {
@@ -49,61 +46,106 @@ navigator.geolocation.getCurrentPosition(pos => {
           return;
         }
 
+        const impressionItems = [];
+
         allOffers.forEach(item => {
-          let decoded = decodeHtml(item.data?.content || "");
-          decoded = decoded.replace("{{item.id}}", item.id);
-          const wrapper = document.createElement("div");
-          wrapper.className = "offer";
-          wrapper.innerHTML = decoded;
+          const decoded = decodeHtml(item.data?.content || "");
+          const tempDiv = document.createElement("div");
+          tempDiv.innerHTML = decoded;
 
-          // Attach click tracking to <a> and <button>
-          wrapper.querySelectorAll("a, button").forEach(el => {
-            el.addEventListener("click", () => {
-              const offerId = el.getAttribute("data-offer-id") || item.id;
-              console.log("Clicked element offerId:", offerId);
-              alloy("sendEvent", {
-                xdm: {
-                  _id: generateUUID(),
-                  timestamp: new Date().toISOString(),
-                  eventType: "decisioning.propositionInteract",
-                  _experience: {
-                    decisioning: {
-                      propositionEvent: {
-                        interact: 1
-                      },
-                      involvedPropositions: [{
-                        id: offerId,
-                        scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-                      }]
-                    }
+          [...tempDiv.children].forEach(child => {
+            if (child.classList.contains("offer-item")) {
+              const offerId = child.getAttribute("data-offer-id");
+              const trackingToken = child.getAttribute("data-tracking-token");
+
+              if (offerId && trackingToken) {
+                impressionItems.push({ id: offerId, token: trackingToken });
+              }
+
+              offerDiv.appendChild(child);
+
+              // Click tracking
+              child.querySelectorAll("a, button").forEach(el => {
+                el.addEventListener("click", () => {
+                  const ecidValue = getECID();
+                  if (!ecidValue || !offerId || !trackingToken) {
+                    console.warn("Girish!!!!  Missing ECID, offerId, or trackingToken. Interaction event not sent.");
+                    return;
                   }
-                }
-              });
-            });
-          });
 
-          offerDiv.appendChild(wrapper);
+                  alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
+                });
+              });
+            }
+          });
         });
 
-        // Send impression tracking event
-        if (offerIds.length > 0) {
-          alloy("sendEvent", {
-            xdm: {
-              _id: generateUUID(),
-              timestamp: new Date().toISOString(),
-              eventType: "decisioning.propositionDisplay",
-              _experience: {
-                decisioning: {
-                  propositionEvent: {
-                    display: 1
-                  },
-                  involvedPropositions: offerIds.map(id => ({
-                    id,
-                    scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-                  }))
+        // Impression event after rendering
+        if (impressionItems.length > 0) {
+          const ecidValue = getECID();
+          if (!ecidValue) {
+            console.warn("Girish Missing ECID. Skipping impression.");
+            return;
+          }
+
+          // Send impression for each item
+          impressionItems.forEach(({ id, token }) => {
+            if (!id || !token) {
+              console.warn("Girish Missing offerId or trackingToken. Skipping impression.");
+              return;
+            }
+
+            alloy("sendEvent", {
+              xdm: {
+                _id: generateUUID(),
+                timestamp: new Date().toISOString(),
+                eventType: "decisioning.propositionDisplay",
+                identityMap: {
+                  ECID: [{
+                    id: ecidValue,
+                    authenticatedState: "ambiguous",
+                    primary: true
+                  }]
+                },
+                _experience: {
+                  decisioning: {
+                    propositionEventType: {
+                      display: 1
+                    },
+                    propositionAction: {
+                      id: id,
+                      tokens: [token]
+                    },
+                    propositions: window.latestPropositions
+                  }
                 }
               }
-            }
+            });
           });
         }
       }).catch(err => {
@@ -125,4 +167,13 @@ function generateUUID() {
   return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c =>
     (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
   );
+}
+
+function getECID() {
+  try {
+    return _satellite.getVar("ECID");
+  } catch (e) {
+    console.warn("ECID not available via _satellite.");
+    return null;
+  }
 }
