@@ -103,6 +103,7 @@ auto-video-transcripts: true
     + [Author a web campaign](/help/channels/author-a-web-campaign.md)
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
   + WhatsApp {#whatsapp}
+    + [Get started with WhatsApp (end-to-end)](/help/channels/get-started-with-whatsapp-in-ajo.md)
     + [Introduction to the WhatsApp channel](/help/channels/whatsapp-introduction.md)
     + [Set up the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)
     + [Create a WhatsApp journey](/help/channels/create-a-whatsapp-journey.md)
