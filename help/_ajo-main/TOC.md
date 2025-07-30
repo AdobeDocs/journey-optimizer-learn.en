@@ -102,6 +102,10 @@ auto-video-transcripts: true
     + [Create a web campaign](/help/channels/create-a-web-campaign.md)
     + [Author a web campaign](/help/channels/author-a-web-campaign.md)
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
+  + WhatsApp {#whatsapp}
+    + [Introduction to the WhatsApp channel](/help/channels/whatsapp-introduction.md)
+    + [Set up the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-whatsapp-channel)
+    + [Create a WhatsApp journey](/help/channels/create-a-whatsapp-journey.md)
 + Content Management{#content-management}
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
   + Manage assets {#assets}
@@ -186,6 +190,8 @@ auto-video-transcripts: true
       + [Set up RCS](/help/set-up-channels/set-up-rcs.md)
     + Web and mobile channels {#web-and-mobile-channels}
       + [Guided channel setup](/help/set-up-channels/guided-channel-setup.md)
+    + WhatsApp channel {#whatsapp-channel}
+      + [Set up the WhatsApp channel](/help/set-up-channels/set-up-whatsapp-channel.md)
   + Configure journeys {#journey-configuration}
     + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
     + [Create events](/help/set-up-journeys/create-events.md)
