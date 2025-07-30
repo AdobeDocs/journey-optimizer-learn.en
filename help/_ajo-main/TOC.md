@@ -104,7 +104,7 @@ auto-video-transcripts: true
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
   + WhatsApp {#whatsapp}
     + [Introduction to the WhatsApp channel](/help/channels/whatsapp-introduction.md)
-    + [Set up the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-whatsapp-channel)
+    + [Set up the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)
     + [Create a WhatsApp journey](/help/channels/create-a-whatsapp-journey.md)
 + Content Management{#content-management}
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
