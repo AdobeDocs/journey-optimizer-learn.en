@@ -1,7 +1,7 @@
 ---
 title: Create a WhatsApp journey
 description: This tutorial walks you through creating a multi-step WhatsApp journey using Adobe Journey Optimizer.
-feature: WHatsapp
+feature: Whatsapp
 role: User
 level: Beginner
 doc-type: Feature Video
