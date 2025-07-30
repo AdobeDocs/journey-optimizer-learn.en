@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 309
 last-substantial-update: 2025-07-30
 jira: KT-18659
+exl-id: ec2df062-4c43-4afc-9ae4-ae98f8c106af
 ---
-
 # Create a WhatsApp journey
 
 This tutorial walks you through creating a multi-step WhatsApp journey using Adobe Journey Optimizer.
