@@ -108,7 +108,7 @@ auto-video-transcripts: true
   + WhatsApp {#whatsapp}
     + [Get started with WhatsApp (end-to-end)](/help/channels/get-started-with-whatsapp-in-ajo.md)
     + [Introduction to the WhatsApp channel](/help/channels/whatsapp-introduction.md)
-    + [Set up the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)
+    + [Set up the WhatsApp channel](/help/channels/set-up-whatsapp.md)
     + [Create a WhatsApp journey](/help/channels/create-a-whatsapp-journey.md)
 + Content Management{#content-management}
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
