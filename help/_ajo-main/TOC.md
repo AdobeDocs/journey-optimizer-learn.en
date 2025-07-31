@@ -30,13 +30,17 @@ auto-video-transcripts: true
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
   + [Get help with the AI-Assistant](/help/ai-assistant.md)
 + Campaigns {#create-campaigns}
-  + [Create a campaign](/help/create-campaigns/create-a-campaign.md)
-  + [Create an in-app campaign](/help/create-campaigns/in-app.md)
-  + [Configure and send a Push Campaign](/help/create-campaigns/push-campaign.md)
-  + [Create a web campaign](/help/create-campaigns/web-campaign.md)
-  + [Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-  + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
-  + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
+  + Action Campaigns {#action-campaigns}
+    + [Create a campaign](/help/create-campaigns/create-a-campaign.md)
+    + [Create an in-app campaign](/help/create-campaigns/in-app.md)
+    + [Configure and send a Push Campaign](/help/create-campaigns/push-campaign.md)
+    + [Create a web campaign](/help/create-campaigns/web-campaign.md)
+    + [Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+    + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
+    + [Leverage message optimization in a campaign](/help/channels/leverage-message-optimization-in-a-campaign.md)
+  + API Triggered Campaigns {#api-triggered-campaigns}
+    + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
+  + Orchestrated Campaigns {#orchestrated-campaigns}
 + Journeys {#create-journeys}
   + [Journey Designer - Overview](/help/create-journeys/journey-designer-overview.md)
   + [Discover the new Journey Designer](/help/create-journeys/new-journey-designer.md)
