@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 143
 last-substantial-update: 2025-07-31
 jira: KT-18674
+hidefromtoc: yes
 ---
 
 # Leverage message optimization in a campaign
