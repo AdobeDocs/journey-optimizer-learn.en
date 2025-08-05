@@ -36,7 +36,6 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
-
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -45,7 +44,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="Master Frequency Capping & Conflict Prioritization (June 18, 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750720617792" alt="Master Frequency Capping & Conflict Prioritization (June 18, 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1754352423711" alt="Master Frequency Capping & Conflict Prioritization (June 18, 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,7 +67,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Agile Workflows for Personalized Content at Scale (June 05, 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750720617807" alt="Agile Workflows for Personalized Content at Scale (June 05, 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1754352423672" alt="Agile Workflows for Personalized Content at Scale (June 05, 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -91,7 +90,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750720617800" alt="Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1754352423584" alt="Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,11 +116,9 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 ## Staff picks
 
 <!-- CARDS
-
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
-
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -130,7 +127,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Key capabilities and the user interface" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1750720618534" alt="Key capabilities and the user interface"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1754352424467" alt="Key capabilities and the user interface"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +150,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" title="Introduction to building a journey" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1750720618508" alt="Introduction to building a journey"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1754352424452" alt="Introduction to building a journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -176,7 +173,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Create an audience using the rule builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1750720618527" alt="Create an audience using the rule builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1754352424460" alt="Create an audience using the rule builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,16 +198,15 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
-
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create content using the AI Assistant for content generation">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create Content Using AI Assistant for Content Generation">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Create content using the AI Assistant for content generation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1750720619194" alt="Create content using the AI Assistant for content generation"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Create Content Using AI Assistant for Content Generation" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1754352425173" alt="Create Content Using AI Assistant for Content Generation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -218,9 +214,9 @@ This user guide contains videos and tutorials on features and capabilities of Ad
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="Create content using the AI Assistant for content generation">Create content using the AI Assistant for content generation</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="Create Content Using AI Assistant for Content Generation">Create Content Using AI Assistant for Content Generation</a>
                     </p>
-                    <p class="is-size-6">Learn how to use the AI Assistant for content generation to generate proactive content variation suggestions for both text and images.</p>
+                    <p class="is-size-6">Learn how to use AI Assistant for content generation to generate proactive content variation suggestions for both text and images.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -233,7 +229,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="Decisioning end-to-end walkthrough" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1750720619211" alt="Decisioning end-to-end walkthrough"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1754352425190" alt="Decisioning end-to-end walkthrough"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -256,7 +252,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Configure content experiments for in-app messages" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1750720619204" alt="Configure content experiments for in-app messages"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1754352425182" alt="Configure content experiments for in-app messages"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
