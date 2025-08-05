@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 143
 last-substantial-update: 2025-07-31
 jira: KT-18674
-hidefromtoc: no
-hide: no
+hidefromtoc: yes
+hide: yes
 exl-id: 12a80ca8-2517-4bbc-950f-18e1dfb8dc72
 ---
 # Leverage message optimization in a campaign
