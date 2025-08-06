@@ -10,8 +10,8 @@ duration: 335
 last-substantial-update: 2025-08-06
 jira: KT-18685
 thumbnail: KT-18685.jpeg
+exl-id: 438f11d7-5d17-4f7d-875d-2e1894b7adca
 ---
-
 # Brand guideline creation and management
 
 Learn how to create and customize your own brands to clearly define your visual and verbal identity across communications. Understand how you can receive real-time feedback on how well your content reflects your brand's tone, style, and guidelines, with the Brand alignment score.
