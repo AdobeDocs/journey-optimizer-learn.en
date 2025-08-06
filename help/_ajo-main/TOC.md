@@ -132,6 +132,7 @@ auto-video-transcripts: true
   + AI Assistant for content generation {#ai-assistant}
     + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+    + [Brand guideline creation and management](/help/content-management/brand-guideline-creation-and-management.md)
   + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
   + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalize content {#personalize-content}
