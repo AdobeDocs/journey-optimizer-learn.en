@@ -18,7 +18,7 @@ In the Mobile Kearning Hub you find
 
 ## Build your foundation
 
-Learn the concepts and how to 
+Learn the concepts and how to    
 
 <table style="table-layout:fixed">
   <tr style="border: 0;">
