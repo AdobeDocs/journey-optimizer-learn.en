@@ -18,4 +18,4 @@ Learn how to leverage message optimization in action or API triggered campaigns.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
 
-For more information about this feature, please see the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization)
+For more information about this feature, please see the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
