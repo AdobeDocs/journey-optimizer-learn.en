@@ -1,5 +1,5 @@
 ---
-title: Track and Report Adobe Journey Optimizer (AJO) Offers delivered  via AJO Decisioning
+title: Track and Report Adobe Journey Optimizer (AJO) Offers delivered via AJO Decisioning
 description: This tutorial extends an existing Adobe Journey Optimizer (AJO) implementation that delivers personalized offers based on contextual data such as temperature. It outlines how to capture impression and interaction events and prepare the data for reporting within Journey Optimizer.
 feature: Decisioning
 role: User
@@ -9,7 +9,7 @@ last-substantial-update: 2025-07-18
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
 ---
-# Track and Report Adobe Journey Optimizer (AJO) Offers delivered  via AJO Decisioning
+# Track and report Journey Optimizer offers delivered via AJO decisioning
 
 This use case focuses on enabling reporting and performance analysis for offers delivered through Adobe Journey Optimizer (AJO). When offers are personalized and delivered based on contextual signals (such as weather or location), it's essential to track both impressions and user interactions to evaluate their effectiveness.
 
