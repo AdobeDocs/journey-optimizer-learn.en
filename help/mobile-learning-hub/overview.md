@@ -9,9 +9,9 @@ last-substantial-update: 2025-08-04
 
 # Journey Optimizer - Mobile Learning Hub
 
-In the Mobile Learning Hub you find 
+Jumpstart or level up with mobile channels in Adobe Journey Optimizer. This is the go-to space for developers, administrators, marketers, and data analysts to discover everything from setting inbound and ouyt bound mobile channels to weaving them into powerful campaigns. Explore best practices,learn how to drive adoption, and master reporting — all in one place — so teams can deliver impactful, data-driven mobile experiences that connect with users anytime, anywhere.
 
-[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
 
 ## Mobile channels
 
@@ -38,40 +38,36 @@ Choose push notifications as your preferred messaging channel when you need to:
 1. **Reach users instantly, even if they're not in the app**
 
   **Why:** Push messages can appear on the lock screen or as banners without requiring the user to open the app.
-
   **Use cases:** Urgent alerts (service outages, safety warnings), time-sensitive offers (flash sales), real-time updates (sports scores, order delivery).
 
-2.**Drive re-engagement**
+1. **Drive re-engagement**
 
-**Why:** Push can bring inactive users back into the app by delivering personalized and relevant prompts.
-
-**Use cases:** Abandoned cart or browse use cases. 
+  **Why:** Push can bring inactive users back into the app by delivering personalized and relevant prompts.
+  **Use cases:** Abandoned cart or browse use cases. 
 "You left items in your cart — checkout now for 10% off."
 
-3. **Reduce dependency on costlier channels**
+1. **Reduce dependency on costlier channels**
 
-**Why:** Push is generally free to send once you've built the infrastructure, unlike SMS or email where there are per-message costs.
+  **Why:** Push is generally free to send once you've built the infrastructure, unlike SMS or email where there are per-message costs.
 
-4. **Deliver rich, interactive content**
+1. **Deliver rich, interactive content**
 
-**Why:** Modern push APIs allow images, videos, quick actions (e.g., "Accept" / "Decline"), or deep links to specific app screens.
+  **Why:** Modern push APIs allow images, videos, quick actions (e.g., "Accept" / "Decline"), or deep links to specific app screens.
+  **Use cases:**
 
-**Use cases:**
+    * Marketing campaigns with visual appeal. 
+    * Quick user actions without fully opening the app.
 
-  * Marketing campaigns with visual appeal. 
-  * Quick user actions without fully opening the app.
+1. **Leverage device-native capabilities**
 
-5. **Leverage device-native capabilities**
+  **Why:** Push notifications integrate with iOS/Android OS features like vibration, sounds, badges, and even geofencing triggers.
+  **Use cases:**
+    * Sending location-based offers when the user is near a store.
+    * Reminders triggered at specific times.
 
-**Why:** Push notifications integrate with iOS/Android OS features like vibration, sounds, badges, and even geofencing triggers.
-
-**Use cases:**
-  * Sending location-based offers when the user is near a store.
-  * Reminders triggered at specific times.
-
-6.**When opt-in is likely**
-
-**Why:** Push only works for users who have explicitly opted in. If the app offers high value or the brand already has trust, opt-in rates can be strong.
+1.**When opt-in is likely**
+  
+  **Why:** Push only works for users who have explicitly opted in. If the app offers high value or the brand already has trust, opt-in rates can be strong.
 
 
 ### When NOT to use push as the primary channel
