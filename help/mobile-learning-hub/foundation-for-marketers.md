@@ -1,6 +1,6 @@
 ---
 title: Foundation for marketers
-description: 
+description: Learn how to confidently plan, build, and manage effective mobile campaigns within Adobe Journey Optimizer. Understand the unique features and limitations of mobile channels like push and in-app messaging, and content cards how to respect user consent while maximizing engagement, and how to measure and optimize campaigns for the best possible results — all with practical, actionable guidance to get started quickly and grow mobile success over time.
 feature: Overview
 role: User
 level: Beginner, Intermediate
@@ -9,12 +9,41 @@ last-substantial-update: 2025-08-04
 
 # Foundation for marketers
 
-Lorem Ipsum
+Learn how to confidently plan, build, and manage effective mobile campaigns within Adobe Journey Optimizer. Understand the unique features and limitations of mobile channels like push and in-app messaging, and content cards how to respect user consent while maximizing engagement, and how to measure and optimize campaigns for the best possible results — all with practical, actionable guidance to get started quickly and grow mobile success over time.
 
-## Understand which mobile capabilities Adobe Journey Optimizer offers marketers.
+## Marketer's Mobile Starter Checklist for Adobe Journey Optimizer (AJO)
+
+### 1. Understand Mobile Channels & User Consent
+- Learn differences between push, in-app messaging, and SMS.  
+- Understand how user opt-in/permissions affect reach and engagement.
+
+### 2. Confirm Mobile App and Audience Readiness
+- Verify app is integrated with AJO SDK and configured for mobile channels.  
+- Ensure customer profiles and audience segments are ready for targeting.
+
+### 3. Create and Launch Mobile Campaigns
+- Design engaging, concise, and personalized mobile messages.  
+- Define audience targeting and triggers (event- or segment-based).  
+- Set scheduling and quiet hours for message delivery.  
+- Conduct tests to ensure message appearance and delivery accuracy.
+
+### 4. Measure Performance and Optimize
+- Track key metrics: deliveries, opens, clicks, and conversions.  
+- Analyze segment performance to understand engagement patterns.  
+- Refine message timing, content, and targeting based on data insights.
+
+### 5. Apply Best Practices
+- Time messages to moments of value for the user.  
+- Personalize content using user data fields.  
+- Control message frequency to avoid user fatigue.  
+- Ensure compliance with privacy laws and platform guidelines.
+
+## Understand Mobile Channels & User Consent
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
 
+- Learn differences between push, in-app messaging, and SMS.  
+- Understand how user opt-in/permissions affect reach and engagement.
 
 ## Journey Optimizer for Marketers
 
