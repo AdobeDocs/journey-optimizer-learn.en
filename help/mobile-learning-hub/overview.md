@@ -95,14 +95,13 @@ In-App messages are great for guiding the user, showing special offers, or expla
 
 
 
-
 In-app messages are notifications that can be sent to users within your app, guiding them to specific points of interest. These notifications can be used for different purposes, such as promoting new features, presenting special offers, or facilitating user onboarding. By leveraging In-app messages, you can effectively engage with your audience and steer them towards important aspects of your application.
 
 >[!TAB Content Cards]
 
 Content cards are a new digital messaging feature in Adobe Journey Optimizer that delivers personalized and engaging content directly within mobile apps and websites. Unlike traditional push notifications, Content Cards integrate seamlessly into the user interface, offering persistent, non-intrusive updates that enhance user interaction and experience.
 
->[TAB Code-Based experience]
+>[!TAB Code-Based experience]
 
 Journey Optimizer allows you to personalize and test the experiences you want to deliver to your customers across all your touchpoints like: web apps, mobile apps, desktop apps, video consoles, TV connected devices, smart TVs, kiosks, ATMs, voice assistants, IoT devices, etc.
 
