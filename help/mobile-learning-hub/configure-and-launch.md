@@ -15,7 +15,6 @@ Configure the mobile channels in Journey Optimizer and Platform, integrate with 
 
 >[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
 
-
 ## Prerequisites
 
 Make sure you have:
