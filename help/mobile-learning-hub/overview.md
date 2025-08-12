@@ -1,6 +1,6 @@
 ---
 title: Mobile learning hub
-description: 
+description: This is the go-to space for developers, administrators, marketers, and data analysts to discover everything from setting inbound and ouyt bound mobile channels to weaving them into powerful campaigns. Explore best practices,learn how to drive adoption, and master reporting — all in one place — so teams can deliver impactful, data-driven mobile experiences that connect with users anytime, anywhere.
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate

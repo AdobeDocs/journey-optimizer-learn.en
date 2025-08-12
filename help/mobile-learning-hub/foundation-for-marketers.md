@@ -165,10 +165,12 @@ Playlist: Getting started with Journey Optimizer for mMbile Marketers
 
 ## Push Notifications
 
+### Documentation
+
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
 <a href="https://git.corp.adobe.com/AdobeDocs/journey-optimizer.en/blob/main/help/using/push/create-push.md">
-<img alt="Lead" src="./assets/create-message.webp">
+<img alt="Create push" src="./assets/create-message.webp">
 </a>
 <div><a href="https://git.corp.adobe.com/AdobeDocs/journey-optimizer.en/blob/main/help/using/push/create-push.md"><strong>Create a push notification</strong>
 </div>
@@ -176,31 +178,25 @@ Playlist: Getting started with Journey Optimizer for mMbile Marketers
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push">
-<img alt="Infrequent" src="../assets/do-not-localize/push-design.jpg">
+<img alt="Design push" src="./assets/configure-message.jpg">
 </a>
-<div>
-<a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push><strong>Design your push notification</strong></a>
-</div>
-<p></td>
-<td>
-<a href="send-push.md">
-<img alt="Validation" src="../assets/do-not-localize/push-sending.jpg">
-</a>
-<div>
-<a href="send-push.md"><strong>Send your push notification</strong></a>
+<div><a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push"><strong>Design your push notification</strong></a>
 </div>
 <p>
 </td>
 <td>
-<a href="push-gs.md">
-<img alt="Validation" src="../assets/do-not-localize/push-config.jpg">
-</a>
-<div>
-<a href="push-gs.md"><strong>Configure push notifications</strong></a>
-</div>
-<p>
-</td>
-</tr></table>
+<a href="ttps://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push">
+<img alt="Send push" src="./assets/mobile-phone.webp">
+    </a>
+    <div>
+    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push"><strong>Send your push notification</strong></a>
+    </div>
+    <p>
+    </td>
+</tr>
+</table>
+
+### Tutorials 
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview

@@ -1,6 +1,6 @@
 ---
 title: Foundation for data analysts
-description: 
+description: Lorem Ipsum
 feature: Overview
 role: User
 level: Beginner, Intermediate
