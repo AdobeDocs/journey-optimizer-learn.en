@@ -2,7 +2,7 @@
 title: Configure and launch
 description: Configure the mobile channels in Journey Optimizer and Platform, integrate with mobile apps, and ensure readiness for marketing campaign execution.
 feature: Overview
-role: Developer, Administrator
+role: Developer, Admin
 level: Beginner, Intermediate
 last-substantial-update: 2025-08-04
 ---
