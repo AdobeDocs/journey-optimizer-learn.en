@@ -17,9 +17,7 @@ Jumpstart or level up with mobile channels in Adobe Journey Optimizer. This is t
 
 Understand which mobile channels are available in Journey Optimizer and what they are used for.
 
->[!BEGINTABS]
-
->[!TAB Push]
++++Push notifications
 
 **Push notifications** are short messages that pop up on a phone, tablet, or computer — even wheny the user is not using the app that sent them. They're a way for apps to "tap you on the shoulder" and get your attention.
 
@@ -82,10 +80,11 @@ Choose push notifications as your preferred messaging channel when you need to:
 * Sensitive or highly private information (push can be seen on lock screens).
 * Users are mostly on desktop and not in the mobile app.
 
++++
 
->[!TAB In-App]
++++In-app messages
 
-In-App messages are messages that appear inside an app while the user is actively using it.
+In-app messages are messages that appear inside an app while the user is actively using it.
 They don't pop up on the lock screen or outside the app — instead, they show up as banners, pop-ups, or small cards while the user is exploring the app.
 
 For example:
@@ -98,21 +97,23 @@ A social media app might show a message suggesting the user follow new accounts.
 
 In-App messages are great for guiding the user, showing special offers, or explaining how to use new features — but they only work if the user is already in the app at that moment.
 
-
-
 In-app messages are notifications that can be sent to users within your app, guiding them to specific points of interest. These notifications can be used for different purposes, such as promoting new features, presenting special offers, or facilitating user onboarding. By leveraging In-app messages, you can effectively engage with your audience and steer them towards important aspects of your application.
 
->[!TAB Content Cards]
++++
+
++++Content Cards
 
 Content cards are a new digital messaging feature in Adobe Journey Optimizer that delivers personalized and engaging content directly within mobile apps and websites. Unlike traditional push notifications, Content Cards integrate seamlessly into the user interface, offering persistent, non-intrusive updates that enhance user interaction and experience.
 
->[!TAB Code-Based experience]
++++
+
++++Code-Based experience
 
 Journey Optimizer allows you to personalize and test the experiences you want to deliver to your customers across all your touchpoints like: web apps, mobile apps, desktop apps, video consoles, TV connected devices, smart TVs, kiosks, ATMs, voice assistants, IoT devices, etc.
 
 With the code-based experience capability, you can define inbound experiences using a simple and intuitive non-visual editor. It allows you to insert and edit specific elements at individual and more granular locations of your apps or web pages, no matter the type of applications you have - rather than applying modifications to an entire content.
 
->[!ENDTABS]
++++
 
 ## Customer use cases
 
