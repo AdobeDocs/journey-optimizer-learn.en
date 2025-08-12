@@ -33,45 +33,14 @@ For example:
 
 Choose push notifications as your preferred messaging channel when you need to:
 
-#### 1. Reach users instantly, even if they're not in the app
-
-**Why:** Push messages can appear on the lock screen or as banners without requiring the user to open the app.
-
-**Use cases:** Urgent alerts (service outages, safety warnings), time-sensitive offers (flash sales), real-time updates (sports scores, order delivery).
-
-#### 2. Drive re-engagement
-
-**Why:** Push can bring inactive users back into the app by delivering personalized and relevant prompts.
-
-**Use cases:** Abandoned cart or browse use cases. 
-"You left items in your cart — checkout now for 10% off."
-
-#### 3. **Reduce dependency on costlier channels**
-
-**Why:** Push is generally free to send once you've built the infrastructure, unlike SMS or email where there are per-message costs.
-
-#### 4.**Deliver rich, interactive content**
-
-**Why:** Modern push APIs allow images, videos, quick actions (e.g., "Accept" / "Decline"), or deep links to specific app screens.
-
-**Use cases:**
-
-* Marketing campaigns with visual appeal. 
-* Quick user actions without fully opening the app.
-
-#### 5. Leverage device-native capabilities
-
-**Why:** Push notifications integrate with iOS/Android OS features like vibration, sounds, badges, and even geofencing triggers.
-
-**Use cases:**
-  
-  * Sending location-based offers when the user is near a store.
-  * Reminders triggered at specific times.
-
-#### 6.**When opt-in is likely**
-  
-**Why:** Push only works for users who have explicitly opted in. If the app offers high value or the brand already has trust, opt-in rates can be strong.
-
+| # | Benefit | Why | Example Use Cases |
+|---|---------|-----|-------------------|
+| 1 | Reach users instantly, even if they're not in the app | Push messages can appear on the lock screen or as banners without requiring the user to open the app. | Urgent alerts (service outages, safety warnings), time-sensitive offers (flash sales), real-time updates (sports scores, order delivery). |
+| 2 | Drive re-engagement | Push can bring inactive users back into the app by delivering personalized and relevant prompts. | Abandoned cart or browse reminders — e.g., "You left items in your cart — checkout now for 10% off." |
+| 3 | Reduce dependency on costlier channels | Push is generally free to send once you've built the infrastructure, unlike SMS or email where there are per-message costs. | Use push instead of paid SMS for frequent updates. |
+| 4 | Deliver rich, interactive content | Modern push APIs allow images, videos, quick actions (e.g., "Accept" / "Decline"), or deep links to specific app screens. | Marketing campaigns with visual appeal; quick user actions without fully opening the app. |
+| 5 | Leverage device-native capabilities | Push notifications integrate with iOS/Android OS features like vibration, sounds, badges, and geofencing triggers. | Location-based offers when near a store; reminders triggered at specific times. |
+| 6 | When opt-in is likely | Push only works for users who have explicitly opted in. If the app offers high value or the brand already has trust, opt-in rates can be strong. | Apps with loyal user bases; onboarding flows that explain the value of notifications. |
 
 ### When NOT to use push as the primary channel
 
