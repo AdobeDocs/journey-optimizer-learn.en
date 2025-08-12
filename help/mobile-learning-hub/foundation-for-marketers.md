@@ -185,7 +185,7 @@ Playlist: Getting started with Journey Optimizer for mMbile Marketers
 <p>
 </td>
 <td>
-<a href="ttps://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push">
+<a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push">
 <img alt="Send push" src="./assets/mobile-phone.webp">
     </a>
     <div>

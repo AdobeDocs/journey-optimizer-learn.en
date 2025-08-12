@@ -120,7 +120,7 @@ Learn the concepts and how to
 <table style="table-layout:fixed">
   <tr style="border: 0;">
     <td>
-    <a href="foundation-for-mobile-developers.md"><img src="./assets/configure-message.webp"></a>
+    <a href="foundation-for-mobile-developers.md"><img src="./assets/configure-message.jpg"></a>
     <div><strong>Developer</strong><br/>Learn how to implement mobile channels for use with Journey Optimizer.</div>
     </td>
     <td>
