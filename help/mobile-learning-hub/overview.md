@@ -123,11 +123,11 @@ Learn the concepts and how to
     <div><strong>Developer</strong><br/>Learn how to implement mobile channels for use with Journey Optimizer.</div>
     </td>
     <td>
-    <a href="foundation-for-marketer.md"><img src="./assets/create-message.webp"></a>
+    <a href="foundation-for-marketers.md"><img src="./assets/create-message.webp"></a>
     <div><strong>Marketer</strong><br/>Learn how to utilize mobile messaging in your marketing campaigns.</div>
     </td>
     <td>
-    <a href="oundation-for-data-analysts.md"><img src="./assets/reports.webp"></a>
+    <a href="foundation-for-data-analysts.md"><img src="./assets/reports.webp"></a>
     <div><strong>Data Analyst</strong><br/>Learn how to report on and analyze your mobile initiatives and campaigns. 
     </div>
     </td>
