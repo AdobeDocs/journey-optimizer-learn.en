@@ -94,20 +94,22 @@ Learn the concepts and how to
 <table style="table-layout:fixed">
   <tr style="border: 0;">
     <td>
-    <a href="foundation-for-mobile-developers.md"><img src="./assets/configure-message.jpg"></a>
-    <div><strong>Developer</strong><br/>Learn how to implement mobile channels for use with Journey Optimizer.</div>
+    <a href="configure-and-launch.md"><img src="./assets/configure-message.jpg"></a>
+    <div><strong>Configure & Launch</strong><br/>Configure the mobile channeles and integrate with mobile apps.</div>
     </td>
     <td>
-    <a href="foundation-for-marketers.md"><img src="./assets/create-message.webp"></a>
-    <div><strong>Marketer</strong><br/>Learn how to utilize mobile messaging in your marketing campaigns.</div>
+    <a href="design-and-deliver.md"><img src="./assets/create-message.webp"></a>
+    <div><strong>Design & Deliver</strong><br/>Use mobile channels to build personalized journeys and campaigns that engage customers in real time.</div>
     </td>
     <td>
-    <a href="foundation-for-data-analysts.md"><img src="./assets/reports.webp"></a>
-    <div><strong>Data Analyst</strong><br/>Learn how to report on and analyze your mobile initiatives and campaigns. 
+    <a href="measure-and-optimize.md"><img src="./assets/reports.webp"></a>
+    <div><strong>Measure & Optimize</strong><br/>Access reports, analyze performance, and refine strategies for better outcomes.
     </div>
     </td>
   </tr>
 </table>
 
 ## Use Cases
+
+
 

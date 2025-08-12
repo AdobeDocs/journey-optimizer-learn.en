@@ -10,8 +10,8 @@ auto-video-transcripts: true
 
 # Mobile learning hub {#mobile-learning-hub}
 
-+ [Mobile Hub](/help/mobile-learning-hub/overview.md)
-+ [Foundation for mobile developers](/help/mobile-learning-hub/foundation-for-mobile-developers.md)
-+ [Foundation for marketers](/help/mobile-learning-hub/foundation-for-marketers.md)
-+ [Foundation for data analysts](/help/mobile-learning-hub/foundation-for-data-analysts.md)
++ [AJO Mobile Lerning Hub](/help/mobile-learning-hub/overview.md)
++ [Configure and launch](/help/mobile-learning-hub/configure-and-launch.md)
++ [Design and deliver](/help/mobile-learning-hub/design-and-deliver.md)
++ [Measure and optimize](/help/mobile-learning-hub/measure-and-optimize.md)
 + [Use cases](/help/mobile-learning-hub/use-cases.md)
