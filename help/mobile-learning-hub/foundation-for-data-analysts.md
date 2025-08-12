@@ -32,7 +32,7 @@ Make sure you have:
 
 ### Admin Tasks – Adobe Journey Optimizer Setup
 
-These are mostly done in pAdmin Console] and Data Collection UI.
+These are mostly done in Admin Console and Data Collection UI.
 
 A. Configure a Mobile Property
 Log in to Adobe Experience Platform Data Collection.

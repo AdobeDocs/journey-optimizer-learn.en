@@ -56,8 +56,8 @@ Choose push notifications as your preferred messaging channel when you need to:
 
 **Use cases:**
 
-  * Marketing campaigns with visual appeal. 
-  * Quick user actions without fully opening the app.
+* Marketing campaigns with visual appeal. 
+* Quick user actions without fully opening the app.
 
 #### 5. Leverage device-native capabilities
 

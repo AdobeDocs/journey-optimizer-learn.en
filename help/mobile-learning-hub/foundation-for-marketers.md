@@ -11,8 +11,6 @@ last-substantial-update: 2025-08-04
 
 Learn how to confidently plan, build, and manage effective mobile campaigns within Adobe Journey Optimizer. Understand the unique features and limitations of mobile channels like push and in-app messaging, and content cards how to respect user consent while maximizing engagement, and how to measure and optimize campaigns for the best possible results — all with practical, actionable guidance to get started quickly and grow mobile success over time.
 
-## Marketer's Mobile Starter Checklist for Adobe Journey Optimizer (AJO)
-
 ### 1. Understand Mobile Channels
 
 Understand which mobile channels Journey Optimizer supports and how to use them.
@@ -165,13 +163,6 @@ Understand how to create and send in-app messages that are relevant to individua
 - Control message frequency to avoid user fatigue.  
 - Ensure compliance with privacy laws and platform guidelines.
 
-
-## Content creation and management
-
-### In-App
-
-
-## Push Notifications
 
 ### Documentation
 
