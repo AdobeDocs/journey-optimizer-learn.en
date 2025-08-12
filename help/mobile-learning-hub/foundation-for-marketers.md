@@ -13,52 +13,23 @@ Learn how to confidently plan, build, and manage effective mobile campaigns with
 
 ## Marketer's Mobile Starter Checklist for Adobe Journey Optimizer (AJO)
 
-### 1. Understand Mobile Channels & User Consent
+### 1. Understand Mobile Channels
 
-- Learn differences between push, in-app messaging, and SMS.  
-- Understand how user opt-in/permissions affect reach and engagement.
-
-### 2. Confirm Mobile App and Audience Readiness
-
-- Verify app is integrated with AJO SDK and configured for mobile channels.  
-- Ensure customer profiles and audience segments are ready for targeting.
-
-### 3. Create and Launch Mobile Campaigns
-
-- Design engaging, concise, and personalized mobile messages.  
-- Define audience targeting and triggers (event- or segment-based).  
-- Set scheduling and quiet hours for message delivery.  
-- Conduct tests to ensure message appearance and delivery accuracy.
-
-### 4. Measure Performance and Optimize
-
-- Track key metrics: deliveries, opens, clicks, and conversions.  
-- Analyze segment performance to understand engagement patterns.  
-- Refine message timing, content, and targeting based on data insights.
-
-### 5. Apply Best Practices
-
-- Time messages to moments of value for the user.  
-- Personalize content using user data fields.  
-- Control message frequency to avoid user fatigue.  
-- Ensure compliance with privacy laws and platform guidelines.
-
-## Understand Mobile Channels & User Consent
+Understand which mobile channels Journey Optimizer supports and how to use them.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
 
-- Learn differences between push, in-app messaging, and SMS.  
-- Understand how user opt-in/permissions affect reach and engagement.
++++Push
 
-## Journey Optimizer for Marketers
+Understand how to build push notifications, to engage mobile app users at any time with personalized targeted messages.
 
-Get a foundational understanding of Journey Optimizer to help you get started, before deep diving into the mobile channels.
+>[!VIDEO](https://video.tv.adobe.com/v/3432679/?learn=on)
 
-Playlist: Getting started with Journey Optimizer for mMbile Marketers
++++
 
-## Content creation and management
+++In-app
 
-### In-App
+Understand how to create and send in-app messages that are relevant to individual customers.
 
 <!-- CARDS
 * https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html
@@ -162,6 +133,43 @@ Playlist: Getting started with Journey Optimizer for mMbile Marketers
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
++++
+
++++Content cards
+
+
++++
+
+### 2. Confirm Mobile App and Audience Readiness
+
+- Verify app is integrated with AJO SDK and configured for mobile channels.  
+- Ensure customer profiles and audience segments are ready for targeting.
+
+### 3. Create and Launch Mobile Campaigns
+
+- Design engaging, concise, and personalized mobile messages.  
+- Define audience targeting and triggers (event- or segment-based).  
+- Set scheduling and quiet hours for message delivery.  
+- Conduct tests to ensure message appearance and delivery accuracy.
+
+### 4. Measure Performance and Optimize
+
+- Track key metrics: deliveries, opens, clicks, and conversions.  
+- Analyze segment performance to understand engagement patterns.  
+- Refine message timing, content, and targeting based on data insights.
+
+### 5. Apply Best Practices
+
+- Time messages to moments of value for the user.  
+- Personalize content using user data fields.  
+- Control message frequency to avoid user fatigue.  
+- Ensure compliance with privacy laws and platform guidelines.
+
+
+## Content creation and management
+
+### In-App
+
 
 ## Push Notifications
 
