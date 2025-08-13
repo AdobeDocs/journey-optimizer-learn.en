@@ -76,6 +76,12 @@ In-app messages are notifications that can be sent to users within your app, gui
 
 +++
 
++++SMS/MMS/RCS
+
+Lorem Ipsum
+
++++
+
 +++Content Cards
 
 Content cards are a new digital messaging feature in Adobe Journey Optimizer that delivers personalized and engaging content directly within mobile apps and websites. Unlike traditional push notifications, Content Cards integrate seamlessly into the user interface, offering persistent, non-intrusive updates that enhance user interaction and experience.
@@ -120,83 +126,14 @@ Learn the concepts and how to
   </tr>
 </table>
 
-## Use Cases
+## Common Mobile Business Use Cases
 
-Here's your content formatted in GitHub-flavored Markdown, ready to be added to a GitHub page:
-
-# Common Mobile Business Use Cases
-
-## 1. App Onboarding and Adoption
-**Use Case Description**  
-Guides new users through the initial stages of app engagement—installing the app, completing setup, and discovering key features. The goal is to maximize retention and long-term usage.
-
-**Mobile Channel Usage**
-- Push notifications and SMS welcome users and prompt profile completion.
-- In-app messages highlight features and encourage first actions.
-- Deep links in emails or ads direct users to specific app screens for seamless onboarding.
-
----
-
-## 2. Location-Based Engagement
-**Use Case Description**  
-Delivers personalized, timely messages to users based on their physical proximity to stores, events, or other relevant locations.
-
-**Mobile Channel Usage**
-- Geo-fencing and beacon tech trigger push notifications when users enter targeted zones.
-- SMS/MMS deliver localized offers and updates.
-- In-app banners and cards adapt content based on real-time location.
-
----
-
-## 3. Abandonment Re-Engagement
-**Use Case Description**  
-Targets users who abandon carts, forms, or browsing sessions, aiming to bring them back and complete the intended action.
-
-**Mobile Channel Usage**
-- Push notifications remind users of abandoned carts or incomplete actions.
-- SMS follow-ups include incentives or direct links to resume.
-- In-app prompts appear when users return, offering personalized recommendations.
-
----
-
-## 4. Upsell and Cross-Sell Campaigns
-**Use Case Description**  
-Promotes additional products or upgrades to existing customers based on their behavior, preferences, or purchase history.
-
-**Mobile Channel Usage**
-- Push notifications highlight relevant upsell opportunities.
-- In-app messages and content cards showcase complementary items.
-- SMS campaigns target segmented audiences with exclusive offers.
-
----
-
-## 5. Churn Prevention
-**Use Case Description**  
-Identifies users at risk of leaving and engages them with personalized retention strategies to maintain loyalty.
-
-**Mobile Channel Usage**
-- Predictive analytics trigger mobile outreach to at-risk users.
-- Push notifications and SMS offer loyalty rewards or personalized content.
-- In-app surveys gather feedback to improve retention strategies.
-
----
-
-## 6. Multi-Channel Messaging
-**Use Case Description**  
-Orchestrates consistent messaging across multiple mobile channels to ensure users receive timely and relevant communications.
-
-**Mobile Channel Usage**
-- Push, in-app, SMS, and email are coordinated for unified messaging.
-- SDKs enable real-time personalization across channels.
-- Content cards persist across sessions to reinforce key messages.
-
----
-
-## 7. Mobile SDK Personalization
-**Use Case Description**  
-Uses mobile SDKs to dynamically personalize app experiences without requiring app store updates, enabling agile experimentation and optimization.
-
-**Mobile Channel Usage**
-- SDKs allow updates to app UI elements without app releases.
-- Experiences are personalized based on user segments and behavior.
-- A/B testing is conducted directly within the app to optimize layouts and messaging.
+| Use Case | Description | Mobile Channel Usage |
+|---------|-------------|----------------------|
+| **App Onboarding and Adoption** | Guides new users through the initial stages of app engagement—installing the app, completing setup, and discovering key features. The goal is to maximize retention and long-term usage. | - Push notifications and SMS welcome users and prompt profile completion.<br>- In-app messages highlight features and encourage first actions.<br>- Deep links in emails or ads direct users to specific app screens for seamless onboarding. |
+| **Location-Based Engagement** | Delivers personalized, timely messages to users based on their physical proximity to stores, events, or other relevant locations. | - Geo-fencing and beacon tech trigger push notifications when users enter targeted zones.<br>- SMS/MMS deliver localized offers and updates.<br>- In-app banners and cards adapt content based on real-time location. |
+| **Abandonment Re-Engagement** | Targets users who abandon carts, forms, or browsing sessions, aiming to bring them back and complete the intended action. | - Push notifications remind users of abandoned carts or incomplete actions.<br>- SMS follow-ups include incentives or direct links to resume.<br>- In-app prompts appear when users return, offering personalized recommendations. |
+| **Upsell and Cross-Sell Campaigns** | Promotes additional products or upgrades to existing customers based on their behavior, preferences, or purchase history. | - Push notifications highlight relevant upsell opportunities.<br>- In-app messages and content cards showcase complementary items.<br>- SMS campaigns target segmented audiences with exclusive offers. |
+| **Churn Prevention** | Identifies users at risk of leaving and engages them with personalized retention strategies to maintain loyalty. | - Predictive analytics trigger mobile outreach to at-risk users.<br>- Push notifications and SMS offer loyalty rewards or personalized content.<br>- In-app surveys gather feedback to improve retention strategies. |
+| **Multi-Channel Messaging** | Orchestrates consistent messaging across multiple mobile channels to ensure users receive timely and relevant communications. | - Push, in-app, SMS, and email are coordinated for unified messaging.<br>- SDKs enable real-time personalization across channels.<br>- Content cards persist across sessions to reinforce key messages. |
+| **Mobile SDK Personalization** | Uses mobile SDKs to dynamically personalize app experiences without requiring app store updates, enabling agile experimentation and optimization. | - SDKs allow updates to app UI elements without app releases.<br>- Experiences are personalized based on user segments and behavior.<br>- A/B testing is conducted directly within the app to optimize layouts and messaging. |
