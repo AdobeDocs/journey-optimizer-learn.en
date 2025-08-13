@@ -55,3 +55,9 @@ Make sure you have:
 * WhatsApp
     * Configure the WhatsApp Business API account in AJO Channels.
     * Add approved WhatsApp message templates in AJO Assets.
+
+
+## Blog posts
+
+* [Using CDN based client side personalization (ODD) on mobile for faster personalizations.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
+* [Mobile Activation for Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)

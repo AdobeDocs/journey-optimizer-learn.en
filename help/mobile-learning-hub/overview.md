@@ -80,6 +80,8 @@ In-app messages are notifications that can be sent to users within your app, gui
 
 Content cards are a new digital messaging feature in Adobe Journey Optimizer that delivers personalized and engaging content directly within mobile apps and websites. Unlike traditional push notifications, Content Cards integrate seamlessly into the user interface, offering persistent, non-intrusive updates that enhance user interaction and experience.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+
 +++
 
 +++Code-Based experience
@@ -91,6 +93,9 @@ With the code-based experience capability, you can define inbound experiences us
 +++
 
 ## Customer use cases
+
+* [Take Flight with Personalization: How Airlines Can Elevate Offers with Adobe Journey Optimizer](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+
 
 
 ## Build your foundation
