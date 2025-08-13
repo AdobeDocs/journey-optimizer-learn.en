@@ -13,6 +13,12 @@ Jumpstart or level up with mobile channels in Adobe Journey Optimizer. This is t
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
 
+If you are new to Journey Optimizer, familiarize yourself with the concepts and functionality (REPLACE WITH LINKS TO COURSES!):
+
+* [Introduction to Adobe Jounrey Optimizer for Marketers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-introduction-to-adobe-journey-optimizer-for-marketers)
+* [Configure and Manage Data in Journey Optimizer for Data Engineers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
+
+
 ## Mobile channels
 
 Understand which mobile channels are available in Journey Optimizer and what they are used for.

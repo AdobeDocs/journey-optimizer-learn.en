@@ -332,6 +332,15 @@ Understand how to create and send in-app messages that are relevant to individua
 - Set scheduling and quiet hours for message delivery.  
 - Conduct tests to ensure message appearance and delivery accuracy.
 
+Learn to create Journeys: 
+
+<!-- CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/push-campaign
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign?lang=en
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/leverage-message-optimization-in-a-campaign
+-->
+
 ## 4. Measure Performance and Optimize
 
 - Track key metrics: deliveries, opens, clicks, and conversions.  
