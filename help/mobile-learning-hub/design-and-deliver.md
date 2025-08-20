@@ -84,7 +84,7 @@ Understand how to build push notifications, to engage mobile app users at any t
 
 ### Documentation
 
-| [![Create push](./assets/create-message.webp)](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"}<br>[**Create a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | [![Design push](./assets/configure-message.jpg)](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"}<br>[**Design your push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | [![Send push](./assets/mobile-phone.webp)](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"}<br>[**Send your push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| [![Create push](./assets/configuration.svg)][**Create a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | [![Design push](./assets/content-management.svg)][**Design your push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | [![Send push](./assets/communication-channel.svg)][**Send your push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
@@ -154,6 +154,53 @@ Understand how to create and send in-app messages that are relevant to individua
 * https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html
 * https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html
 -->
+
+## Documentation
+
+:::: landing-cards-container
+
+:::
+![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+
+Create Mobile In-app Messages
+
+Learn how to create, configure, and publish mobile In-app messages using triggers, campaigns, and journeys.
+
+[Create your first message](../using/in-app/create-in-app.md)
+:::
+
+:::
+![icon](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+
+Create Web In-app Messages
+
+Configure and create Web In-app messaging campaigns with triggers, audience targeting, and delivery frequency.
+
+[Set up web messages](../using/in-app/create-in-app-web.md)
+:::
+
+:::
+![icon](https://cdn.experienceleague.adobe.com/icons/paint-brush.svg)
+
+Design and Customize In-app Content
+
+Explore layout options, personalize content, and use advanced formatting to enhance your In-app messages.
+
+[Design your message](../using/in-app/design-in-app.md)
+:::
+
+:::
+![icon](https://cdn.experienceleague.adobe.com/icons/paper-plane.svg)
+
+Check and Send Your In-app Notification
+
+Preview, test, review, and activate your In-app notifications with Adobe Journey Optimizer.
+
+[Send your notification](../using/in-app/send-in-app.md)
+:::
+
+::::
+
 
 >[!TAB SMS/MMS/RCS]
 
