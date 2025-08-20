@@ -13,11 +13,17 @@ Learn how to confidently plan, build, and manage effective mobile campaigns with
 
 ## 1. Understand and configure mobile messages
 
+Learn how to configure mobile messages per channel:
+
+>[!BEGINTABS]
+
+>[!TAB Overview]
+
 Understand which mobile channels Journey Optimizer supports and how to configure and send messages using these channels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
 
-+++Push
+>[!TAB Push]
 
 Understand how to build push notifications, to engage mobile app users at any time with personalized targeted messages.
 
@@ -107,9 +113,7 @@ Understand how to build push notifications, to engage mobile app users at any t
 </tr>
 </table>
 
-+++
-
-+++In-app
+>[!TAB In-app]
 
 Understand how to create and send in-app messages that are relevant to individual customers.
 
@@ -215,9 +219,8 @@ Understand how to create and send in-app messages that are relevant to individua
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-+++
 
-+++SMS/MMS/RCS
+>[!TAB SMS/MMS/RCS]
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview
@@ -322,9 +325,7 @@ Understand how to create and send in-app messages that are relevant to individua
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-+++
-
-+++Content cards
+>[!TAB Content Cards]
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
@@ -357,9 +358,7 @@ Understand how to create and send in-app messages that are relevant to individua
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-+++
-
-+++ Code-based experiences
+>[!TAB Code-based experiences]
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign
@@ -416,9 +415,7 @@ Understand how to create and send in-app messages that are relevant to individua
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-+++
-
-+++Whats App
+>[!TAB Whats App]
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
@@ -475,21 +472,21 @@ Understand how to create and send in-app messages that are relevant to individua
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-+++
+>[!ENDTABS]
 
 ## 2. Confirm Mobile App and Audience Readiness
 
 - Verify app is integrated with AJO SDK and configured for mobile channels.  
 - Ensure customer profiles and audience segments are ready for targeting.
 
-## 3. Create and Launch Mobile Campaigns
+## 3. Create and Launch Mobile Campaigns and Journeys
 
 - Design engaging, concise, and personalized mobile messages.  
 - Define audience targeting and triggers (event- or segment-based).  
 - Set scheduling and quiet hours for message delivery.  
 - Conduct tests to ensure message appearance and delivery accuracy.
 
-Learn to create Journeys: 
+Learn how to create Journeys: 
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app

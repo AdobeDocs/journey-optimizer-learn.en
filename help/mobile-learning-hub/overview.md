@@ -13,7 +13,7 @@ Jumpstart or level up with mobile channels in Adobe Journey Optimizer. This is t
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
 
-If you are new to Journey Optimizer, familiarize yourself with the concepts and functionality (REPLACE WITH LINKS TO COURSES!):
+If you are new to Journey Optimizer, familiarize yourself with the concepts and functionality (REPLACE WITH LINKS TO MMobile SPECIFIC COURSES!):
 
 * [Introduction to Adobe Jounrey Optimizer for Marketers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-introduction-to-adobe-journey-optimizer-for-marketers)
 * [Configure and Manage Data in Journey Optimizer for Data Engineers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
@@ -21,36 +21,16 @@ If you are new to Journey Optimizer, familiarize yourself with the concepts and 
 
 ## Mobile channel overview
 
-Understand which mobile channels are available in Journey Optimizer and what they are used for.
+Understand which mobile channels are available in Journey Optimizer, what they are used for and how they differ (click on the links for more details).
 
 | ![Push Notifications](/help/mobile-learning-hub/assets/mobile-phone.webp){width="250", height="250"}<br> **[Push Notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![In-App Messages](/help/mobile-learning-hub/assets/frescopa-in-app.png){width="250",height="50%"}<br> **[In-App Messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Content Cards](/help/mobile-learning-hub/assets/content-card.jpeg){width="250", height="250"}<br> **[Content Cards](/help/mobile-learning-hub/channels/content-cards-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
-| Time-sensitive updates, re-engagement, interactive content | Messages inside app, contextual & real-time, high engagement | Persistent inbox content, non-intrusive, visual and CTA-rich |
+| Sent outside the app, push messages grab attention immediately. They're ideal for time-sensitive updates and encouraging users to return to your app.| Delivered while users are actively using your app, these messages are real-time and interactive. They're perfect for engaging customers in the moment.| Non-intrusive, persistent messages users can access anytime within the app. Content cards work well for sharing ongoing offers or helpful information.|
 
 | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width="250", height="250"}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width="250", height="250"}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![Code-Based Experience](/help/mobile-learning-hub/assets/code-based.png){width="250", height="250"}<br> **[Code-Based Experience](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
-| Direct mobile messaging, high visibility | Conversational, rich media, two-way communication | Custom logic & APIs, deep personalization |
+| Direct messages sent to users' mobile phones without needing the app. Great for urgent alerts, reminders, and rich media content like images or videos.| Conversational channel through a widely used messaging app, allowing personalized, two-way communication and interactive campaigns.| Custom-coded messages enable highly personalized and dynamic campaigns, integrating real-time data and complex customer journeys.|
 
-
-### How do the mobile channels differ
-
-* **In-app messages**  
-  Delivered while users are actively using your app, these messages are real-time and interactive. They're perfect for engaging customers "in the moment."
-
-* **Push notifications**  
-  Sent outside the app, push messages grab attention immediately. They're ideal for time-sensitive updates and encouraging users to return to your app.
-
-* **Content cards**  
-  These are non-intrusive, persistent messages users can access anytime within the app. Content cards work well for sharing ongoing offers or helpful information.
-
-* **SMS/MMS/RCS**  
-  Direct messages sent to users' mobile phones without needing the app. Great for urgent alerts, reminders, and rich media content like images or videos.
-
-* **WhatsApp**  
-  A conversational channel through a widely used messaging app, allowing personalized, two-way communication and interactive campaigns.
-
-* **Code-based experiences**  
-  Custom-coded messages enable highly personalized and dynamic campaigns, integrating real-time data and complex customer journeys.
 
 ### How can mobile channels work together
 
@@ -72,7 +52,7 @@ By combining these channels, you can create a seamless and effective customer ex
 
 ## Customer use cases
 
-* [Take Flight with Personalization: How Airlines Can Elevate Offers with Adobe Journey Optimizer](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [Take flight with personalization: How airlines can elevate offers with Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## Build your foundation
