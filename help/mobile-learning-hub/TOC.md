@@ -10,7 +10,7 @@ auto-video-transcripts: true
 
 # Mobile learning hub {#mobile-learning-hub}
 
-+ [AJO Mobile Learning Hub][/help/mobile-learning-hub/overview.md]
++ [AJO Mobile Learning Hub](/help/mobile-learning-hub/overview.md)
 + Mobile Channels Overview {#mobile-channels-overview}
     + [Push notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md)
     + [In-app messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md)
