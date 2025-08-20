@@ -80,10 +80,10 @@ Understand how to build push notifications, to engage mobile app users at any t
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
-<a href="https://git.corp.adobe.com/AdobeDocs/journey-optimizer.en/blob/main/help/using/push/create-push.md">
+<a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push">
 <img alt="Create push" src="./assets/create-message.webp">
 </a>
-<div><a href="https://git.corp.adobe.com/AdobeDocs/journey-optimizer.en/blob/main/help/using/push/create-push.md"><strong>Create a push notification</strong>
+<div><a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push"><strong>Create a push notification</strong>
 </div>
 <p>
 </td>

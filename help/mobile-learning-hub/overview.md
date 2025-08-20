@@ -23,7 +23,7 @@ If you are new to Journey Optimizer, familiarize yourself with the concepts and 
 
 Understand which mobile channels are available in Journey Optimizer and what they are used for.
 
-| ![Push Notifications](/help/mobile-learning-hub/assets/mobile-phone.webp){width="250", height="250"}<br> **[Push Notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![In-App Messages](/help/mobile-learning-hub/assets/frescopa-in-app.png){width="250",height="50%"}<br> **[In-App Messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Content Cards](/help/mobile-learning-hub/channels/content-card.jpeg){width="250", height="250"}<br> **[Content Cards](/help/mobile-learning-hub/channels/content-cards-overview.md)** |
+| ![Push Notifications](/help/mobile-learning-hub/assets/mobile-phone.webp){width="250", height="250"}<br> **[Push Notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![In-App Messages](/help/mobile-learning-hub/assets/frescopa-in-app.png){width="250",height="50%"}<br> **[In-App Messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Content Cards](/help/mobile-learning-hub/assets/content-card.jpeg){width="250", height="250"}<br> **[Content Cards](/help/mobile-learning-hub/channels/content-cards-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Time-sensitive updates, re-engagement, interactive content | Messages inside app, contextual & real-time, high engagement | Persistent inbox content, non-intrusive, visual and CTA-rich |
 
