@@ -99,7 +99,8 @@ Access reports, analyze performance, and refine strategies for better outcomes:
 
 ## Apply Best Practices
 
-### Time messages to moments of value for the user. 
+### Time messages to moments of value for the user.
+ 
 <!--Cards
 *https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
 --> 
