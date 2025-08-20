@@ -32,7 +32,7 @@ Choose **Content Cards** as your preferred messaging channel when you need to:
 
 Not every message belongs in a card. Avoid this channel when urgency or external reach is key.
 
-* **Time-sensitive alerts** — use push or email for urgency (e.g., downtime, safety, payment issues). 
-* **Inactive users** — cards only work when users are *inside* the app.
-* **Sensitive or secure info** — use secure email or in-app modals for privacy-critical communication.
-* **Urgent CTAs** — if it needs immediate action (e.g., flash sale expiring in 1 hour), cards are too passive.
+- **Time-sensitive alerts** — use push or email for urgency (e.g., downtime, safety, payment issues). 
+- **Inactive users** — cards only work when users are *inside* the app.
+- **Sensitive or secure info** — use secure email or in-app modals for privacy-critical communication.
+- **Urgent CTAs** — if it needs immediate action (e.g., flash sale expiring in 1 hour), cards are too passive.
