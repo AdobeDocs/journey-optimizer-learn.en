@@ -9,30 +9,36 @@ last-substantial-update: 2025-08-04
 
 # Journey Optimizer - Mobile Learning Hub
 
-Jumpstart or level up with mobile channels in Adobe Journey Optimizer. This is the go-to space for developers, administrators, marketers, and data analysts to discover everything from setting inbound and ouyt bound mobile channels to weaving them into powerful campaigns. Explore best practices,learn how to drive adoption, and master reporting — all in one place — so teams can deliver impactful, data-driven mobile experiences that connect with users anytime, anywhere.
+Jumpstart or level up with mobile channels in Adobe Journey Optimizer (AJO). This is the go-to space for developers, administrators, marketers, and data analysts to discover everything from setting inbound and ouyt bound mobile channels to weaving them into powerful campaigns. Explore best practices,learn how to drive adoption, and master reporting — all in one place — so teams can deliver impactful, data-driven mobile experiences that connect with users anytime, anywhere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
-
-If you are new to Journey Optimizer, familiarize yourself with the concepts and functionality (REPLACE WITH LINKS TO MMobile SPECIFIC COURSES!):
-
-* [Introduction to Adobe Jounrey Optimizer for Marketers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-introduction-to-adobe-journey-optimizer-for-marketers)
-* [Configure and Manage Data in Journey Optimizer for Data Engineers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
 
 
 ## Mobile channel overview
 
-Understand which mobile channels are available in Journey Optimizer, what they are used for and how they differ (click on the links for more details).
+Journey Optimizer support both inbound and outbound mobile channels:
 
-| ![Push Notifications](/help/mobile-learning-hub/assets/mobile-phone.webp){width="250", height="250"}<br> **[Push Notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![In-App Messages](/help/mobile-learning-hub/assets/frescopa-in-app.png){width="250",height="50%"}<br> **[In-App Messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Content Cards](/help/mobile-learning-hub/assets/content-card.jpeg){width="250", height="250"}<br> **[Content Cards](/help/mobile-learning-hub/channels/content-cards-overview.md)** |
+### Outbound Channels
+
+Outbound channels are used to **proactively deliver messages** to customers without requiring prior interaction. These are ideal for campaigns, promotions, and transactional communications.
+
+| ![Push Notifications](/help/mobile-learning-hub/assets/mobile-phone.webp){width="250", height="250"}<br> **[Push Notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width="250", height="250"}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width="250", height="250"}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
-| Sent outside the app, push messages grab attention immediately. They're ideal for time-sensitive updates and encouraging users to return to your app.| Delivered while users are actively using your app, these messages are real-time and interactive. They're perfect for engaging customers in the moment.| Non-intrusive, persistent messages users can access anytime within the app. Content cards work well for sharing ongoing offers or helpful information.|
+| Sent outside the app, push messages grab attention immediately. They're ideal for time-sensitive updates and encouraging users to return to your app.| Direct messages sent to users' mobile phones without needing the app. Great for urgent alerts, reminders, and rich media content like images or videos.| Conversational channel through a widely used messaging app, allowing personalized, two-way communication and interactive campaigns.|
 
-| ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width="250", height="250"}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width="250", height="250"}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![Code-Based Experience](/help/mobile-learning-hub/assets/code-based.png){width="250", height="250"}<br> **[Code-Based Experience](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
+> Outbound channels enforce **Custom Consent Policies** at message send time. If consent is not granted for a specific marketing action, the message is blocked from delivery.
+
+## Inbound Channels
+
+Inbound channels are designed for **customer-initiated interactions**, enabling personalized experiences when users engage with your brand.
+
+| ![In-App Messages](/help/mobile-learning-hub/assets/frescopa-in-app.png){width="250",height="50%"}<br> **[In-App Messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Content Cards](/help/mobile-learning-hub/assets/content-card.jpeg){width="250", height="250"}<br> **[Content Cards](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Code-Based Experience](/help/mobile-learning-hub/assets/code-based.png){width="250", height="250"}<br> **[Code-Based Experience](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
-| Direct messages sent to users' mobile phones without needing the app. Great for urgent alerts, reminders, and rich media content like images or videos.| Conversational channel through a widely used messaging app, allowing personalized, two-way communication and interactive campaigns.| Custom-coded messages enable highly personalized and dynamic campaigns, integrating real-time data and complex customer journeys.|
+| Delivered while users are actively using your app, these messages are real-time and interactive. They're perfect for engaging customers in the moment.| Non-intrusive, persistent messages users can access anytime within the app. Content cards work well for sharing ongoing offers or helpful information.|Custom-coded messages enable highly personalized and dynamic campaigns, integrating real-time data and complex customer journeys.|
 
+> Inbound channels support **real-time personalization** and **data capture**, such as landing page forms that feed into Adobe Experience Platform (AEP) for segmentation and targeting.
 
-### How can mobile channels work together
+## How can mobile channels work together
 
 By combining these channels, you can create a seamless and effective customer experience:
 
@@ -47,7 +53,6 @@ By combining these channels, you can create a seamless and effective customer ex
 5. Engage customers in meaningful conversations through **WhatsApp**, ideal for customer support or interactive campaigns.
 
 6. Leverage **code-based experiences** to tailor every message based on user behavior and preferences, creating a truly personalized journey across channels.
-
 
 
 ## Customer use cases
@@ -87,5 +92,5 @@ Learn the concepts and how to
 | **Upsell and Cross-Sell Campaigns** | Promotes additional products or upgrades to existing customers based on their behavior, preferences, or purchase history. | - Push notifications highlight relevant upsell opportunities.<br>- In-app messages and content cards showcase complementary items.<br>- SMS campaigns target segmented audiences with exclusive offers. |
 | **Churn Prevention** | Identifies users at risk of leaving and engages them with personalized retention strategies to maintain loyalty. | - Predictive analytics trigger mobile outreach to at-risk users.<br>- Push notifications and SMS offer loyalty rewards or personalized content.<br>- In-app surveys gather feedback to improve retention strategies. |
 | **Multi-Channel Messaging** | Orchestrates consistent messaging across multiple mobile channels to ensure users receive timely and relevant communications. | - Push, in-app, SMS, and email are coordinated for unified messaging.<br>- SDKs enable real-time personalization across channels.<br>- Content cards persist across sessions to reinforce key messages. |
-| **Mobile SDK Personalization** | Uses mobile SDKs to dynamically personalize app experiences without requiring app store updates, enabling agile experimentation and optimization. | - SDKs allow updates to app UI elements without app releases.<br>- Experiences are personalized based on user segments and behavior.<br>- A/B testing is conducted directly within the app to optimize layouts and messaging. |
+
 
