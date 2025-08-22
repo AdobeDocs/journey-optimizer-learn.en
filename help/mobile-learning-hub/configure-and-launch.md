@@ -24,7 +24,9 @@ Configure the mobile channels in Journey Optimizer and Experience Platform, inte
 
 >[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
 
-## Mobile SDK and app configuration
+## Mobile SDK and app configuration 
+
+BREAK DOWN PER CHANNEL?
 
 ### Prerequisites
 
