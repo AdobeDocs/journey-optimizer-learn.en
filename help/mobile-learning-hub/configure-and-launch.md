@@ -11,6 +11,15 @@ last-substantial-update: 2025-08-04
 
 Configure the mobile channels in Journey Optimizer and Experience Platform, integrate with mobile apps, and ensure readiness for marketing campaign execution.
 
+>[!NOTE]
+>
+>If you are new to Journey Optimizer and Experience Platform, familiarize yourself with the core concepts by watching these playlists:
+>
+>* [Get started with Journey Optimizer for Journey Administrators and Managers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
+>* [Configure Journey Optimizer for Journey Administrators](https://experienceleague.adobe.com/en/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
+>* [Configure and Manage Data in Journey Optimizer for Data Engineers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
+
+
 ## Mobile capabilities in Adobe Journey Optimizer
 
 >[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}

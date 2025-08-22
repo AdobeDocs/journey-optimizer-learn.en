@@ -10,6 +10,9 @@ last-substantial-update: 2025-08-20
 
 Discover how to build and deliver impactful mobile communications using Adobe Journey Optimizer. Learn to create, design, and send a variety of message types—including push notifications, in-app messages, content cards, SMS/MMS/RCS, WhatsApp marketing messages, and code-based experiences—tailored to your audience and optimized for mobile engagement.
 
+>[!NOTE]
+>
+>If you are new to Journey Optimizer, start by familiarizing yourself with Journey Optimizer by watching this playlist: [Get started with Journey Optimizer for Journey Administrators and Managers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
 
 ## 1. Configure mobile messages
 
@@ -44,7 +47,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview" title="Push notifications- Overview" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432679/?format=jpeg&nocache=1755793005459" alt="Push notifications- Overview"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432679/?format=jpeg&nocache=1755891402383" alt="Push notifications- Overview"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -67,7 +70,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="Configure and send a push campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1755793005469" alt="Configure and send a push campaign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1755891402391" alt="Configure and send a push campaign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -115,7 +118,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html" title="Author an in-app message" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410471?format=jpeg&nocache=1755793006338" alt="Author an in-app message"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410471?format=jpeg&nocache=1755891403133" alt="Author an in-app message"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -138,7 +141,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="Create an in-app campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1755793005963" alt="Create an in-app campaign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1755891402919" alt="Create an in-app campaign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +194,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" title="Create content cards" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1755793006914" alt="Create content cards"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1755891403581" alt="Create content cards"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,7 +241,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview" title="SMS/MMS messages - Overview" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432680/?format=jpeg&nocache=1755793007394" alt="SMS/MMS messages - Overview"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432680/?format=jpeg&nocache=1755891404155" alt="SMS/MMS messages - Overview"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -261,7 +264,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="Configure, author, and deliver SMS messages" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1755793007380" alt="Configure, author, and deliver SMS messages"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1755891404139" alt="Configure, author, and deliver SMS messages"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -284,7 +287,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Double opt-in for Sinch and Infobip" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1755793007388" alt="Double opt-in for Sinch and Infobip"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1755891404148" alt="Double opt-in for Sinch and Infobip"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -318,7 +321,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="Author an MMS message" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1755793007860" alt="Author an MMS message"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1755891404669" alt="Author an MMS message"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -341,7 +344,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Set up RCS in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755793007868" alt="Set up RCS in Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755891404682" alt="Set up RCS in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -387,7 +390,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" title="Create a code-based experience campaign." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1755793008331" alt="Create a code-based experience campaign."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1755891405190" alt="Create a code-based experience campaign."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -410,7 +413,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="Add Form Fields to Code-Based Experience Channel Templates" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1755793008337" alt="Add Form Fields to Code-Based Experience Channel Templates"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1755891405203" alt="Add Form Fields to Code-Based Experience Channel Templates"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -456,7 +459,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" title="Introduction to the WhatsApp channel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1755793008791" alt="Introduction to the WhatsApp channel"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1755891405738" alt="Introduction to the WhatsApp channel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -479,7 +482,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" title="Create a WhatsApp journey" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1755793008783" alt="Create a WhatsApp journey"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1755891405726" alt="Create a WhatsApp journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -509,21 +512,121 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ## Apply Best Practices
 
-### Time messages to moments of value for the user.
+* Time messages to moments of value for the user:
 
-<!--Cards
-*https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
---> 
+<!-- CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Identify potential conflicts">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" title="Identify potential conflicts" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435528/?format=jpeg&nocache=1755891406215" alt="Identify potential conflicts"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" target="_blank" rel="referrer" title="Identify potential conflicts">Identify potential conflicts</a>
+                    </p>
+                    <p class="is-size-6">Discover how to identify and manage potential conflicts - such as overlapping audiences, concurrent timelines, shared communication channels, and frequency constraints across journeys and campaigns to ensure a seamless and customer-friendly communication experience.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND --> 
 
-### Personalize content.
+* Personalize content:
 
-<!--Cards
+<!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
-*https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library
 -->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Personalization editor - Overview">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview" title="Personalization editor - Overview" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434964/?format=jpeg&nocache=1755891406853" alt="Personalization editor - Overview"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview" target="_blank" rel="referrer" title="Personalization editor - Overview">Personalization editor - Overview</a>
+                    </p>
+                    <p class="is-size-6">Understand which content can be personalized in Journey Optimizer.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Use helper functions for personalization">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="Use helper functions for personalization" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334244?format=jpeg&nocache=1755891406861" alt="Use helper functions for personalization"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" title="Use helper functions for personalization">Use helper functions for personalization</a>
+                    </p>
+                    <p class="is-size-6">Learn how to transform personalization values using personalization helper functions and understand different use cases for helper functions.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Use and manage saved expressions in the personalization library">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="Use and manage saved expressions in the personalization library" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1755891406844" alt="Use and manage saved expressions in the personalization library"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" title="Use and manage saved expressions in the personalization library">Use and manage saved expressions in the personalization library</a>
+                    </p>
+                    <p class="is-size-6">Learn how to use saved personalization library items in a message and how to create and manage personalization library items.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Control message frequency to avoid user fatigue. 
+* Control message frequency to avoid user fatigue:
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score
@@ -536,7 +639,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" title="Assign Priority Scores to Inbound Actions" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1755793009258" alt="Assign Priority Scores to Inbound Actions"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1755891407584" alt="Assign Priority Scores to Inbound Actions"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -559,7 +662,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" title="Journey Frequency Capping and Prioritization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1755793009250" alt="Journey Frequency Capping and Prioritization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1755891407596" alt="Journey Frequency Capping and Prioritization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -579,4 +682,3 @@ Understand which mobile channels Journey Optimizer supports and how to configure
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
