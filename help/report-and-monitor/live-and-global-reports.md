@@ -8,6 +8,8 @@ doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
+hide: yes
+hide from TOC: yes
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
 ---
 # Live and global reports

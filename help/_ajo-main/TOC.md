@@ -176,6 +176,7 @@ auto-video-transcripts: true
 + Report and monitor {#report-and-monitor}
   + [Measurement and reporting - Overview](/help/report-and-monitor/measurement-and-reporting-overview.md)
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
+  + [Monitor and analyze your journey with live reports](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
   + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-csv-format.md)
   + [Use alerts](/help/administration/alerts.md)
