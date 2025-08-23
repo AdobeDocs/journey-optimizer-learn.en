@@ -131,7 +131,7 @@ auto-video-transcripts: true
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
   + AI Assistant for content generation {#ai-assistant}
     + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-for-content-generation-overview.md)
-    + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+    + [Create content using AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [Brand guideline creation and management](/help/content-management/brand-guideline-creation-and-management.md)
   + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
   + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
@@ -175,7 +175,7 @@ auto-video-transcripts: true
   + [Export datasets to cloud storage locations](/help/data-management/export-datasets.md)
 + Report and monitor {#report-and-monitor}
   + [Measurement and reporting - Overview](/help/report-and-monitor/measurement-and-reporting-overview.md)
-  + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
+  + [Monitor and analyze your journey with live reports](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
   + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-csv-format.md)
   + [Use alerts](/help/administration/alerts.md)
