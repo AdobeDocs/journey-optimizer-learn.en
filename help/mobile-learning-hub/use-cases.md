@@ -4,7 +4,9 @@ description: Understand the use cases
 feature: Overview
 role: User
 level: Beginner, Intermediate
-last-substantial-update: 2025-08-04
+hide: yes
+index: no
+last-substantial-update: 2025-08-22
 ---
 
 # Use Cases

@@ -4,7 +4,9 @@ description: Content Cards are persistent, in-app messages that live inside a de
 feature: Content Cards
 role: User, Developer, Admin
 level: Beginner
-last-substantial-update: 2025-08-19
+hide: yes
+index: no
+last-substantial-update: 2025-08-22
 ---
 
 # Content cards - overview

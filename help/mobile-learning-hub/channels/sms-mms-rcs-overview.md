@@ -4,7 +4,9 @@ description: SMS (Short Message Service), MMS (Multimedia Messaging Service), an
 feature: SMS
 role: User, Developer, Admin
 level: Beginner
-last-substantial-update: 2025-08-19
+hide: yes
+index: no
+last-substantial-update: 2025-08-22
 ---
 
 # SMS/MMS/RCS - Overview

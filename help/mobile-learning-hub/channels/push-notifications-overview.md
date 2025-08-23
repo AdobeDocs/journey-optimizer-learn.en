@@ -4,7 +4,9 @@ description: Push notifications are short messages that pop up on a phone, table
 feature: Push
 role: User, Developer, Admin
 level: Beginner
-last-substantial-update: 2025-08-04
+hide: yes
+index: no
+last-substantial-update: 2025-08-22
 ---
 
 # Push notifications - overview

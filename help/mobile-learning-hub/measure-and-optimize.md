@@ -4,7 +4,9 @@ description: Access reports, analyze performance, and refine strategies for bett
 feature: Reporting, Governance, Privacy
 role: User
 level: Beginner, Intermediate
-last-substantial-update: 2025-08-04
+hide: yes
+index: no
+last-substantial-update: 2025-08-22
 ---
 
 # Measure Performance and Optimize
