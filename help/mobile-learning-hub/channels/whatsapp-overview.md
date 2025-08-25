@@ -7,8 +7,8 @@ level: Beginner
 hide: yes
 index: no
 last-substantial-update: 2025-08-22
+exl-id: d2ac4614-df04-4e20-be88-3bde491cf75f
 ---
-
 # Whatsapp - Overview
 
 {{$include /help/_includes/inc-whatsapp-overview.md}}

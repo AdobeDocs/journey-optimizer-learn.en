@@ -7,8 +7,8 @@ level: Beginner
 hide: yes
 index: no
 last-substantial-update: 2025-08-22
+exl-id: aab6af06-86bd-4d30-847f-fbf60b6bab34
 ---
-
 # Push notifications - overview
 
 {{$include /help/_includes/inc-push-notifications-overview.md}}

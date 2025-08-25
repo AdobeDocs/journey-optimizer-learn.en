@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 hide: yes
 index: no
 last-substantial-update: 2025-08-22
+exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
 ---
-
 # Configure and launch
 
 Configure the mobile channels in Journey Optimizer and Experience Platform, integrate with mobile apps, and ensure readiness for marketing campaign execution.
@@ -318,4 +318,3 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
