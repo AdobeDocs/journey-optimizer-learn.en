@@ -16,9 +16,9 @@ Discover how to build and deliver impactful mobile communications using Adobe Jo
 >
 >If you are new to Journey Optimizer, start by familiarizing yourself with Journey Optimizer by watching this playlist: [Get started with Journey Optimizer for Journey Administrators and Managers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
 
-## 1. Design and deliver mobile messages
+## Design and deliver mobile messages
 
-Learn how to configure mobile messages per channel:
+Learn how to design, author, and deliver mobile messages per channel:
 
 >[!BEGINTABS]
 
