@@ -16,7 +16,7 @@ Discover how to build and deliver impactful mobile communications using Adobe Jo
 >
 >If you are new to Journey Optimizer, start by familiarizing yourself with Journey Optimizer by watching this playlist: [Get started with Journey Optimizer for Journey Administrators and Managers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
 
-## 1. Configure mobile messages
+## 1. Design and deliver mobile messages
 
 Learn how to configure mobile messages per channel:
 
@@ -24,19 +24,23 @@ Learn how to configure mobile messages per channel:
 
 >[!TAB Overview]
 
+### Overview
+
 Understand which mobile channels Journey Optimizer supports and how to configure and send messages using these channels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
 
 >[!TAB Push]
 
-### Prerequisites
+### Design and deliver push notifications
+
+#### Prerequisites
 
 1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
 2. Make sure that the [Push channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) has been configured.  
 3. Ensure that the customer profiles and audience segments are ready for targeting.
 
-### Tutorials
+#### Tutorials
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview
@@ -93,20 +97,22 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Product Documentation
+#### Product Documentation
 
 |![Create Push](./assets/configuration.svg)[  **Create a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} |![Design push](./assets/content-management.png){width="50"}[**Design a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Send push](./assets/communication-channel.svg)[**Send a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB In-app]
 
-### Prerequisites
+### Design and deliver
+
+#### Prerequisites
 
 1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
 2. Make sure that the In-App channel has been configured.  
 3. Ensure that customer profiles and audience segments are ready for targeting.
 
-### Tutorials
+#### Tutorials
 
 <!-- CARDS
 *https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview
@@ -164,27 +170,29 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Create in-app journeys
+#### Create in-app journeys
 
 <!--CARDS
 * https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html
 * https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html
 -->
 
-### Documentation
+#### Documentation
 
 |![Create message](./assets/configuration.svg)[**Create Mobile In-app Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} |![Design Content](./assets/content-management.png){width="50"}[**Design In-app Content**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Send notification](./assets/communication-channel.svg)[**Send an In-app Notifications**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Content Cards]
 
-### Prerequisites
+### Design and deliver content cards
+
+#### Prerequisites
 
 1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
 2. Make sure the [in-app channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) has been configured.  
 3. Ensure that customer profiles and audiencea are ready for targeting.
 
-### Tutorials
+#### Tutorials
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
@@ -217,19 +225,21 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Product Documentation
+#### Product Documentation
 
 |![Create and Configure Content Cards](./assets/configuration.svg)[**Create and Configure Content Cards**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} |![Design Content Cards](./assets/content-management.png){width="50"}[**Design Content Cards**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} | 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
 
-### Prerequisites
+### Design and deliver SMS/MMS/RCS messages
+
+#### Prerequisites
 
 1. Make sure the [SMS credentials and channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel) and/or [MMS credentials and channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces) and have been configured -> the RCS configuration is explained in the tutorial below.  
 2. Ensure that customer profiles and audience segments are ready for targeting.
 
-### SMS Tutorials
+#### SMS Tutorials
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview
@@ -310,7 +320,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### MMS and RCS Tutorials
+#### MMS and RCS Tutorials
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms
@@ -367,19 +377,21 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Product Documentation
+#### Product Documentation
 
 |![Get started with text messaging](./assets/configuration.svg)[**Get started with text messaging**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} |![Design Content](./assets/content-management.png){width="50"}[**Create SMS, MMS, and RCS Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Send notification](./assets/communication-channel.svg)[**Check and Send Text Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Code-based experiences]
 
-### Prerequisites
+### Design and deliver code-based experiences
+
+#### Prerequisites
 
 1. Make sure that the code-based channel has been configured.
 2. Ensure that customer profiles and audiences are ready for targeting.
 
-### Tutorials
+#### Tutorials
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign
@@ -436,19 +448,21 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Product Documentation
+#### Product Documentation
 
 |![Create Code-Based Experiences](./assets/content-management.png){width="50"}[**Create Code-Based Experiences**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} | 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
 
-### Prerequisites
+### Design and deliver WhatsApp messages
+
+#### Prerequisites
 
 1. Make sure the [WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) has been configured.  
 2. Ensure that customer profiles and audiences are ready for targeting.
 
-### Tutorials
+#### Tutorials
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
@@ -505,7 +519,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Product Documentation
+#### Product Documentation
 
 |![Create WhatsApp Messages](./assets/configuration.svg)[**Create WhatsApp Messages*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} |![Preview, Validate, and Send WhatsApp Messages](./assets/communication-channel.svg){width="50"}[**Preview, Validate, and Send WhatsApp Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} | 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
