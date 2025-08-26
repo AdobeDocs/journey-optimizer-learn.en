@@ -10,7 +10,9 @@ exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
 ---
 # Journey Optimizer - Mobile Learning Hub
 
-Jumpstart or level up with mobile channels in Adobe Journey Optimizer (AJO). This is the go-to space for developers, administrators, marketers, and data analysts to discover everything from setting inbound and ouyt bound mobile channels to weaving them into powerful campaigns. Explore best practices,learn how to drive adoption, and master reporting — all in one place — so teams can deliver impactful, data-driven mobile experiences that connect with users anytime, anywhere.
+Jumpstart or level up with mobile channels in Adobe Journey Optimizer (AJO). This is the go-to space for developers, administrators, marketers, and data analysts to discover everything from setting up inbound and outbound mobile channels to weaving them into powerful campaigns. 
+
+Explore best practices,learn how to drive adoption, and master reporting — all in one place — so teams can deliver impactful, data-driven mobile experiences that connect with users anytime, anywhere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
 
