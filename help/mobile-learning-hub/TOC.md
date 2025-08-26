@@ -3,7 +3,7 @@ user-guide-title: Mobile Learning Hub
 user-guide-description: 
 role: User, Admin, Devloper
 level: Beginner,Intermediate
-breadcrumb-title: mobile-learning-hub
+breadcrumb-title: AJO Mobile Learning Hub
 breadcrumb-url: /docs/journey-optimizer-learn/mobile-learning-hub/overview
 auto-video-transcripts: true
 ---
