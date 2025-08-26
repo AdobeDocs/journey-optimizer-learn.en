@@ -26,7 +26,7 @@ Choose push notifications as your preferred messaging channel when you need to:
 | 5 | Leverage device-native capabilities | Push notifications integrate with iOS/Android OS features like vibration, sounds, badges, and geofencing triggers. | <ul><li> Location-based offers when near a store</li><li> Reminders triggered at specific times.</li></ul> |
 | 6 | When opt-in is likely | Push only works for users who have explicitly opted in. If the app offers high value or the brand already has trust, opt-in rates can be strong. |<ul><li> Apps with loyal user bases</li><li> Onboarding flows that explain the value of notifications.</li></ul> |
 
-## When NOT to use push as the primary channel
+## When *not* to use push as the primary channel
 
 * Low opt-in rates or user resistance to notifications.
 * Need for long-form content (email may be better).

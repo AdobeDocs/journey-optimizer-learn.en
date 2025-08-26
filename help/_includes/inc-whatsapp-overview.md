@@ -25,7 +25,7 @@ Choose WhatsApp as your preferred channel when you need to:
 | 4 | Maintain compliance and trust | Messages are delivered via an official API with strict opt-in requirements | <ul><li>Subscription confirmations</li><li>Regulatory notifications</li></ul> |
 | 5 | Integrate with other channels | Combine with email, push, or SMS for seamless multi-channel journeys | <ul><li>Cross-channel re-engagement</li><li>Follow-up on abandoned carts</li></ul> |
 
-## When not to use WhatsApp
+## When *not* to use WhatsApp
 
 * If your audience does not actively use WhatsApp.
 * When users have not explicitly opted in to receive WhatsApp messages.
