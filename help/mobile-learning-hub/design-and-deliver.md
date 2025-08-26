@@ -32,7 +32,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 >[!TAB Push]
 
-### Design and deliver push notifications
+### Push notifications
 
 #### Prerequisites
 
@@ -104,7 +104,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 >[!TAB In-app]
 
-### Design and deliver
+### In-app messages
 
 #### Prerequisites
 
@@ -184,7 +184,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 >[!TAB Content Cards]
 
-### Design and deliver content cards
+### Content cards
 
 #### Prerequisites
 
@@ -232,7 +232,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 >[!TAB SMS/MMS/RCS]
 
-### Design and deliver SMS/MMS/RCS messages
+### SMS/MMS/RCS messages
 
 #### Prerequisites
 
@@ -384,7 +384,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 >[!TAB Code-based experiences]
 
-### Design and deliver code-based experiences
+### Code-based experiences
 
 #### Prerequisites
 
@@ -455,7 +455,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 >[!TAB WhatsApp]
 
-### Design and deliver WhatsApp messages
+### WhatsApp messages
 
 #### Prerequisites
 

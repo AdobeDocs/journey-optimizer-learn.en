@@ -19,7 +19,7 @@ Jumpstart or level up with mobile channels in Adobe Journey Optimizer (AJO). Thi
 
 Journey Optimizer support both inbound and outbound mobile channels:
 
-### Outbound Channels
+### Outbound channels
 
 Outbound channels are used to **proactively deliver messages** to customers without requiring prior interaction. These are ideal for campaigns, promotions, and transactional communications.
 
@@ -29,7 +29,7 @@ Outbound channels are used to **proactively deliver messages** to customers with
 
 > Outbound channels enforce **Custom Consent Policies** at message send time. If consent is not granted for a specific marketing action, the message is blocked from delivery.
 
-## Inbound Channels
+### Inbound channels
 
 Inbound channels are designed for **customer-initiated interactions**, enabling personalized experiences when users engage with your brand.
 
@@ -39,7 +39,7 @@ Inbound channels are designed for **customer-initiated interactions**, enabling 
 
 > Inbound channels support **real-time personalization** and **data capture**, such as landing page forms that feed into Adobe Experience Platform (AEP) for segmentation and targeting.
 
-## How can mobile channels work together
+### How can mobile channels work together
 
 By combining these channels, you can create a seamless and effective customer experience:
 
