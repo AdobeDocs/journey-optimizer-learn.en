@@ -6,8 +6,8 @@ role: User, Admin, Developer
 hide: yes
 index: no
 last-substantial-update: 2025-08-22
+exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
 ---
-
 # Journey Optimizer - Mobile Learning Hub
 
 Jumpstart or level up with mobile channels in Adobe Journey Optimizer (AJO). This is the go-to space for developers, administrators, marketers, and data analysts to discover everything from setting inbound and ouyt bound mobile channels to weaving them into powerful campaigns. Explore best practices,learn how to drive adoption, and master reporting — all in one place — so teams can deliver impactful, data-driven mobile experiences that connect with users anytime, anywhere.
@@ -93,5 +93,3 @@ Learn the concepts and how to
 | **Upsell and Cross-Sell Campaigns** | Promotes additional products or upgrades to existing customers based on their behavior, preferences, or purchase history. | - Push notifications highlight relevant upsell opportunities.<br>- In-app messages and content cards showcase complementary items.<br>- SMS campaigns target segmented audiences with exclusive offers. |
 | **Churn Prevention** | Identifies users at risk of leaving and engages them with personalized retention strategies to maintain loyalty. | - Predictive analytics trigger mobile outreach to at-risk users.<br>- Push notifications and SMS offer loyalty rewards or personalized content.<br>- In-app surveys gather feedback to improve retention strategies. |
 | **Multi-Channel Messaging** | Orchestrates consistent messaging across multiple mobile channels to ensure users receive timely and relevant communications. | - Push, in-app, SMS, and email are coordinated for unified messaging.<br>- SDKs enable real-time personalization across channels.<br>- Content cards persist across sessions to reinforce key messages. |
-
-

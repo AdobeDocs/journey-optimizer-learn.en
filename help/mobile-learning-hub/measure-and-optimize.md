@@ -1,5 +1,5 @@
 ---
-title:  Measure Performance and Optimize
+title: Measure Performance and Optimize
 description: Access reports, analyze performance, and refine strategies for better outcomes.
 feature: Reporting, Governance, Privacy
 role: User
@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 hide: yes
 index: no
 last-substantial-update: 2025-08-22
+exl-id: fb06f781-3370-4825-a815-14ef33ad2322
 ---
-
 # Measure Performance and Optimize
 
 Access reports, analyze performance, and refine strategies for better outcomes:
@@ -95,5 +95,3 @@ Access reports, analyze performance, and refine strategies for better outcomes:
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
