@@ -21,39 +21,39 @@ Journey Optimizer support both inbound and outbound mobile channels:
 
 ### Outbound channels
 
-Outbound channels are used to **proactively deliver messages** to customers without requiring prior interaction. These are ideal for campaigns, promotions, and transactional communications.
+Outbound channels are used to **proactively deliver messages** to customers without requiring prior interaction. These are ideal for campaigns, promotions, and transactional communications. 
+
+These channels enforce **Custom Consent Policies** at message send time. If consent is not granted for a specific marketing action, the message is blocked from delivery.
 
 | ![Push Notifications](/help/mobile-learning-hub/assets/mobile-phone.webp){width="250", height="250"}<br> **[Push Notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width="250", height="250"}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width="250", height="250"}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Sent outside the app, push messages grab attention immediately. They're ideal for time-sensitive updates and encouraging users to return to your app.| Direct messages sent to users' mobile phones without needing the app. Great for urgent alerts, reminders, and rich media content like images or videos.| Conversational channel through a widely used messaging app, allowing personalized, two-way communication and interactive campaigns.|
 
-> Outbound channels enforce **Custom Consent Policies** at message send time. If consent is not granted for a specific marketing action, the message is blocked from delivery.
-
 ### Inbound channels
 
-Inbound channels are designed for **customer-initiated interactions**, enabling personalized experiences when users engage with your brand.
+Inbound channels are designed for **customer-initiated interactions**, enabling personalized experiences when users engage with your brand. They support **real-time personalization** and **data capture**, such as landing page forms that feed into Adobe Experience Platform (AEP) for segmentation and targeting.
+
 
 | ![In-App Messages](/help/mobile-learning-hub/assets/frescopa-in-app.png){width="250",height="50%"}<br> **[In-App Messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Content Cards](/help/mobile-learning-hub/assets/content-card.jpeg){width="250", height="250"}<br> **[Content Cards](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Code-Based Experience](/help/mobile-learning-hub/assets/code-based.png){width="250", height="250"}<br> **[Code-Based Experience](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Delivered while users are actively using your app, these messages are real-time and interactive. They're perfect for engaging customers in the moment.| Non-intrusive, persistent messages users can access anytime within the app. Content cards work well for sharing ongoing offers or helpful information.|Custom-coded messages enable highly personalized and dynamic campaigns, integrating real-time data and complex customer journeys.|
 
-> Inbound channels support **real-time personalization** and **data capture**, such as landing page forms that feed into Adobe Experience Platform (AEP) for segmentation and targeting.
 
-### How can mobile channels work together
+### How can mobile channels work together?
 
 By combining these channels, you can create a seamless and effective customer experience:
 
-1. Use **push notifications** to quickly grab attention and bring users back to your app (e.g., "Sale starts now!").
+1. Use [push notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md) to quickly grab attention and bring users back to your app (e.g., "Sale starts now!").
 
-2. Once inside, deliver **in-app messages** with personalized promotions (e.g., "Here's your 15% discount for today's sale").
+2. Once inside, deliver [in-app messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md) with personalized promotions (e.g., "Here's your 15% discount for today's sale").
 
-3. Offer **content cards** so users can revisit the promotion anytime before it expires (e.g., "Your 15% discount ends Friday").
+3. Offer [content cards](/help/mobile-learning-hub/channels/content-cards-overview.md) so users can revisit the promotion anytime before it expires (e.g., "Your 15% discount ends Friday").
 
-4. Use **SMS/MMS/RCS** to send timely reminders or rich media offers directly to users who may not be in the app.
+4. Use [SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md) to send timely reminders or rich media offers directly to users who may not be in the app.
 
-5. Engage customers in meaningful conversations through **WhatsApp**, ideal for customer support or interactive campaigns.
+5. Engage customers in meaningful conversations through [WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md), ideal for customer support or interactive campaigns.
 
-6. Leverage **code-based experiences** to tailor every message based on user behavior and preferences, creating a truly personalized journey across channels.
+6. Leverage [code-based experiences](/help/mobile-learning-hub/channels/code-based-experience-overview.md) to tailor every message based on user behavior and preferences, creating a truly personalized journey across channels.
 
 
 ## Customer use cases
