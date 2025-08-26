@@ -528,7 +528,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ## Apply Best Practices
 
-* Time messages to moments of value for the user:
+### Time messages to moments of value for the user
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
@@ -561,7 +561,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND --> 
 
-* Personalize content:
+### Personalize content
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
@@ -642,7 +642,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-* Control message frequency to avoid user fatigue:
+### Control message frequency to avoid user fatigue:
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score
