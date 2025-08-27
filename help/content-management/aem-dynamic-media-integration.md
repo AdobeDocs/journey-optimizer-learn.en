@@ -21,3 +21,5 @@ Learn how to integrate Adobe Experience Managr Dynamic Media with Adobe Journey 
 This tutorial covers how to modify images directly within AJO, add text overlays using HTML mode, create dynamic media templates in AEM for hyper-personalization, and personalize campaigns by tailoring content for different audience segments. This integration allows marketers to efficiently create engaging and personalized campaigns without switching between applications.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
+
+For more information on this feature, please see the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
