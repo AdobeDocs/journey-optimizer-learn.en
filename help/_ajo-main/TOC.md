@@ -37,7 +37,7 @@ auto-video-transcripts: true
     + [Create a web campaign](/help/create-campaigns/web-campaign.md)
     + [Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
     + [Create content experiments for email campaigns](/help/create-campaigns/content-experiments.md)
-    + [Leverage message optimization in a campaign](/help/channels/leverage-message-optimization-in-a-campaign.md)
+    + [Leverage message optimization in a campaign](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
   + API Triggered Campaigns {#api-triggered-campaigns}
     + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
   + Orchestrated Campaigns {#orchestrated-campaigns}
@@ -132,7 +132,8 @@ auto-video-transcripts: true
     + [Create a multilingual message](/help/content-management/create-multilingual-messages.md)
   + AI Assistant for content generation {#ai-assistant}
     + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-for-content-generation-overview.md)
-    + [Create content using the AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+    + [Create content using AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+    + [Brand guideline creation and management](/help/content-management/brand-guideline-creation-and-management.md)
   + [Experimentation - Overview](/help/content-management/experimentation-overview.md)
   + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalize content {#personalize-content}
@@ -174,8 +175,10 @@ auto-video-transcripts: true
   + [Configure a dataset export destination](/help/data-management/configure-dataset-export-destination.md)
   + [Export datasets to cloud storage locations](/help/data-management/export-datasets.md)
 + Report and monitor {#report-and-monitor}
-  + [Measurement and reporting - Overview](/help/report-and-monitor/measurement-and-reporting-overview.md)
-  + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
+  + [Report and monitor](/help/report-and-monitor/report-and-monitor.md)
+  + [Introduction to reporting with Journey Optimizer](/help/report-and-monitor/measurement-and-reporting-overview.md)
+  + [Monitor and analyze your journey with live reports](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
+  + [Monitor and analyze your journey with Journey Reports](/help/report-and-monitor/journey-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
   + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-csv-format.md)
   + [Use alerts](/help/administration/alerts.md)
