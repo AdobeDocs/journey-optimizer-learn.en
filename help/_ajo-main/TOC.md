@@ -28,7 +28,7 @@ auto-video-transcripts: true
   + [Architecture](/help/introduction/architecture.md)
   + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
-  + [Get help with the AI-Assistant](/help/ai-assistant.md)
+  + [Get help with the AI-Assistant](/help/ai-agents/ai-assistant.md)
 + Campaigns {#create-campaigns}
   + Action Campaigns {#action-campaigns}
     + [Create a campaign](/help/create-campaigns/create-a-campaign.md)
@@ -115,7 +115,7 @@ auto-video-transcripts: true
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
   + Manage assets {#assets}
     + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
-    + [Manage Assets](/help/assets-essentials-overview.md)
+    + [Manage Assets](/help/content-management/assets-essentials-overview.md)
     + [AEM Dynamic Media integration](/help/content-management/aem-dynamic-media-integration.md)
     + [Edit assets with Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
   + Work with fragments {#fragments}
@@ -221,7 +221,7 @@ auto-video-transcripts: true
 + Exercises and challenges {#exercises-and-challenges}
   + [Configure a training sandbox](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
   + [Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Experience League Live show recordings](/help/experience-league-live-show-recordings.md)
++ [Experience League Live show recordings](/help/_ajo-main/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
   + [2025 Summit lab cheat sheet](/help/summit-lab-assets/l535-assets.md)
   + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"} 
