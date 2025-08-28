@@ -16,6 +16,7 @@ Reporting in Adobe Journey Optimizer is all about turning raw data into actionab
 Whether you're a beginner or a seasoned marketer, these tools deliver clarity and help you optimize for meaningful business outcomes.
 
 ## Tutorials
+
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
