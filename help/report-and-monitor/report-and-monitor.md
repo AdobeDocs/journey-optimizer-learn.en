@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 doc-type: Feature Video
 duration: 395
 last-substantial-update: 2025-08-28
+exl-id: 5bac9b73-9c68-4901-90f8-07949639bd69
 ---
-
 # Report and monitor
 
 Reporting in Adobe Journey Optimizer is all about turning raw data into actionable insights to help you refine your customer journeys and marketing strategies. Learn to access overview metrics, dive into campaign and journey-specific reporting, and unlock advanced analysis through Customer Journey Analytics.
