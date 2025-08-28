@@ -13,7 +13,7 @@ last-substantial-update: 2025-08-28
 
 Reporting in Adobe Journey Optimizer is all about turning raw data into actionable insights to help you refine your customer journeys and marketing strategies. Learn to access overview metrics, dive into campaign and journey-specific reporting, and unlock advanced analysis through Customer Journey Analytics.
 
-Whether you're a beginner or seasoned marketer, these tools deliver clarity and help you optimize for meaningful business outcomes.
+Whether you're a beginner or a seasoned marketer, these tools deliver clarity and help you optimize for meaningful business outcomes.
 
 ## Tutorials
 <!-- CARDS
@@ -169,4 +169,4 @@ Whether you're a beginner or seasoned marketer, these tools deliver clarity and 
 
 
 
-See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reporting-landing-page) for more information on reporting in adobe Journey Optimizer.
+See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reporting-landing-page) for more information on reporting in Adobe Journey Optimizer.
