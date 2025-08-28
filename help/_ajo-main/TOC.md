@@ -176,7 +176,7 @@ auto-video-transcripts: true
   + [Export datasets to cloud storage locations](/help/data-management/export-datasets.md)
 + Report and monitor {#report-and-monitor}
   + [Report and monitor](/help/report-and-monitor/report-and-monitor.md)
-  + [Introduction to reporting with Journey Optimizer](/help/report-and-monitor/measurement-and-reporting-overview.md)
+  + [Introduction to reporting with Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
   + [Monitor and analyze your journey with live reports](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
   + [Monitor and analyze your journey with Journey Reports](/help/report-and-monitor/journey-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
