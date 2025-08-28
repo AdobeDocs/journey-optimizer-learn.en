@@ -1,5 +1,5 @@
 ---
-title: Experimentation - Overview
+title: Introduction to Experimentation
 description: Understand how to run tests and simulations in Journey Optimizer to refine your content to optimize the customer's journey based on data driven insights.
 feature: Experimentation
 role: User
@@ -10,7 +10,7 @@ last-substantial-update: 2024-10-08
 jira: KT-16298
 exl-id: 016488db-6ecb-4bab-a9b2-c65f1075411a
 ---
-# Experimentation - Overview
+# Introduction to Experimentation
 
 Understand how to run tests and simulations in Journey Optimizer to refine your content to optimize the customer's journey based on data driven insights.
 
