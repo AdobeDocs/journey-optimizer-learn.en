@@ -23,12 +23,11 @@ auto-video-transcripts: true
     + [Configure and send a Push Campaign](/help/campaigns/action-campaigns/push-campaign.md)
     + [Create a web campaign](/help/campaigns/action-campaigns/web-campaign.md)
     + [Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-    + [Leverage message optimization in a campaign](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-  + API Triggered Campaigns {#api-triggered-campaigns}
+    + [Leverage message optimization in a campaign](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
     + [Trigger campaigns using APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
   + Orchestrated Campaigns {#orchestrated-campaigns}
     + [Introduction to Orchestrated Campaigns](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-    + [Understand relational schemas](/help/orchestrated-campaigns/understand-relational-schemas.md)
+    + [Understand relational schemas](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
 + Journeys {#create-journeys}
   + [Journey Designer - Overview](/help/create-journeys/journey-designer-overview.md)
   + [Discover the new Journey Designer](/help/create-journeys/new-journey-designer.md)
@@ -72,7 +71,6 @@ auto-video-transcripts: true
     + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
-    + [Configure content experiments for emails](/help/experimentation/content-experiments-for-emails.md)
   + Content Cards{#content-cards}
     + [Create content cards](/help/channels/create-content-cards.md)
   + In App channel{#in-app-channel}
