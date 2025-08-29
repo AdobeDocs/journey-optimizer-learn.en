@@ -8,9 +8,6 @@ auto-video-transcripts: true
 # Journey Optimizer Tutorials {#tutorials}
 
 + [Journey Optimizer Tutorials](/help/_ajo-main/overview.md)
-  + [Overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-  + [Configure a playbook sandbox](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-  + [Create and publish playbook instances](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
@@ -28,7 +25,7 @@ auto-video-transcripts: true
     + [Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
     + [Leverage message optimization in a campaign](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
   + API Triggered Campaigns {#api-triggered-campaigns}
-    + [Trigger campaigns using APIs](/help/create-campaigns/api-triggered-campaigns.md)
+    + [Trigger campaigns using APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
   + Orchestrated Campaigns {#orchestrated-campaigns}
     + [Introduction to Orchestrated Campaigns](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
     + [Understand relational schemas](/help/orchestrated-campaigns/understand-relational-schemas.md)
