@@ -11,8 +11,8 @@ hide: yes
 hidefromtoc: yes
 index: no
 jira: KT-18519
+exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
 ---
-
 # Understand relational schemas in Experience Platform
 
 In this tutorial, you gain a solid understanding of how relational schemas—specific to orchestrated campaigns in Journey Optimizer—work alongside Real-Time Customer Profiles. Learn the core concepts behind data ingestion, schema modeling, segmentation, and campaign execution, giving you the foundation to design structured, scalable, and personalized customer journeys.
