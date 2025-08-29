@@ -22,4 +22,4 @@ In this lesson, you apply content experimentation to the push message.
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
 
 
-See [Experimentation - Overview](/help/content-management/experimentation-overview.md), [Configure content experiments for email campaigns](/help/create-campaigns/content-experiments.md) and [Push notifications- Overview](/help/channels/push-notifications-overview.md) for more guidance on this topic.
+See [Experimentation - Overview](/help/experimentation/introduction-to-experimentation.md), [Configure content experiments for email campaigns](/help/experimentation/content-experiments-for-emails.md) and [Push notifications- Overview](/help/channels/push-notifications-overview.md) for more guidance on this topic.
