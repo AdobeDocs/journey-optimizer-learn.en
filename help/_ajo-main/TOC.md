@@ -24,6 +24,7 @@ auto-video-transcripts: true
     + [Create a web campaign](/help/campaigns/action-campaigns/web-campaign.md)
     + [Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
     + [Leverage message optimization in a campaign](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
+  + API Triggered Campaigns {#api-triggered-campaigns}
     + [Trigger campaigns using APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
   + Orchestrated Campaigns {#orchestrated-campaigns}
     + [Introduction to Orchestrated Campaigns](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
