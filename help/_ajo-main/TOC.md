@@ -28,7 +28,7 @@ auto-video-transcripts: true
     + [Trigger campaigns using APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
   + Orchestrated Campaigns {#orchestrated-campaigns}
     + [Introduction to Orchestrated Campaigns](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-    + [Understand relational schemas](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
+    + [Relational Store basics](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Journeys {#create-journeys}
   + [Journey Designer - Overview](/help/create-journeys/journey-designer-overview.md)
   + [Discover the new Journey Designer](/help/create-journeys/new-journey-designer.md)
