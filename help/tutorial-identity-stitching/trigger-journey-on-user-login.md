@@ -42,4 +42,10 @@ In this extension of the Identity Stitching tutorial, Adobe Journey Optimizer jo
 * Drag and drop Email from the actions menu. Configure the email action to use the email channel configuration created earlier
 * Publish the journey
 
+## How the journey is triggered
+>[!NOTE]
+>
+> The journey is triggered by the event payload sent via Web SDK,specifically when the incoming event and event type matches what is configured in the journey. In this example the event and event type is **UserLoggedIn**
+
+
 
