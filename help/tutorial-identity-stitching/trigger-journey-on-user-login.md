@@ -45,7 +45,7 @@ In this extension of the Identity Stitching tutorial, Adobe Journey Optimizer jo
 ## How the journey is triggered
 >[!NOTE]
 >
-> The journey is triggered by the event payload sent via Web SDK,specifically when the incoming event and event type matches what is configured in the journey. In this example the event and event type is **UserLoggedIn**
+> The journey is triggered when the event payload sent via the Web SDK, matches what is configured in the journey. In this example, the event and event type is **UserLoggedIn**
 
 
 
