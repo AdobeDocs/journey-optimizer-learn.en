@@ -16,4 +16,5 @@ auto-video-transcripts: true
 + [Create schema,dataset etc](./create-schema-and-dataset.md)
 + [Create AEP Tags](./create-aep-tags.md)
 + [Send CRMID from web page](./send-crmid.md)
++ [Trigger Journey](./trigger-journey-on-user-login.md)
 + [Test the solution](./test-solution.md)
