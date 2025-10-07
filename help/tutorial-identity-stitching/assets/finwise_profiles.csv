@@ -1,6 +1,6 @@
-crmId,firstName,lastName,email,loyaltyStatus,zipCode,annualIncome
-FIN001,Alice,Wong,alice.wong@example.com,Gold,92128,120000
-FIN002,Bob,Smith,bob.smith@example.com,Silver,92126,85000
-FIN003,Charlie,Kim,charlie.kim@example.com,Platinum,60614,175000
-FIN004,Diana,Lee,diana.lee@example.com,Gold,30303,98000
-FIN005,Ethan,Brown,ethan.brown@example.com,Bronze,75201,60000
+crmId,firstName,lastName,email,loyaltyStatus,zipCode,annualIncome,emailConsent
+FIN001,Alice,Wong,alice.wong@example.com,Gold,92128,120000,y
+FIN002,Bob,Smith,bob.smith@example.com,Silver,92126,85000,y
+FIN003,Charlie,Kim,charlie.kim@example.com,Platinum,60614,175000,y
+FIN004,Diana,Lee,diana.lee@example.com,Gold,30303,98000,y
+FIN005,Ethan,Brown,ethan.brown@example.com,Bronze,75201,60000,y
