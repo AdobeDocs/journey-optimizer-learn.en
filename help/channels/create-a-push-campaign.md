@@ -12,4 +12,4 @@ exl-id: abd47e24-0878-437d-b5d0-e0d9dd1873bc
 ---
 # Configure and send a push campaign
 
-{{$include /help/_includes/inc-configure-and-send-a-push-campaign.md}}
+{{$include /help/_ajo-main/_includes/inc-configure-and-send-a-push-campaign.md}}

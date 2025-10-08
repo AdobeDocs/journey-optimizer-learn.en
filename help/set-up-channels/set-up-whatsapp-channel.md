@@ -12,4 +12,4 @@ exl-id: 5c6daebd-2e42-4b8c-8cac-27ef801459d7
 ---
 # Set up the WhatsApp channel
 
-{{$include /help/_includes/inc-set-up-whatsapp.md}}
+{{$include /help/_ajo-main/_includes/inc-set-up-whatsapp.md}}

@@ -1,16 +1,14 @@
 ---
-title: AI Assistant
-description: Learn what you can do with AI Assistant in Adobe Experience Platform-based applications like Real-Time Customer Data Platform, Journey Optimizer, and Customer Journey Analytics.
-feature: Overview
-role: Admin, Developer, User
+title: Journey Agent overview
+description: Journey Agent uses AI to create, analyze, and optimize B2B/B2C journeys through a conversational interface.
+feature: AI Assistant, Journeys
+feature-set: Journey Optimizer, Experience Platform
+role: User, Developer, Leader, Admin
 level: Beginner
-doc-type: Feature Video
-duration: 143
-last-substantial-update: 2024-06-27
-jira: KT-15789
-exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
+last-substantial-update: 2025-10-08
+jira: KT-19109
 ---
-# AI Assistant
+# Journey Agent overview
 
 Learn what you can do with AI Assistant in Adobe Experience Platform-based applications like Real-Time Customer Data Platform, Journey Optimizer, and Customer Journey Analytics.
 

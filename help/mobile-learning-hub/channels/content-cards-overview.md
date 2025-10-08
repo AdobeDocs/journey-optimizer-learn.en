@@ -11,4 +11,4 @@ exl-id: 85b83379-1aac-4983-b261-3738b299c129
 ---
 # Content cards - overview
 
-{{$include /help/_includes/inc-content-cards-overview.md}}
+{{$include /help/_ajo-main/_includes/inc-content-cards-overview.md}}

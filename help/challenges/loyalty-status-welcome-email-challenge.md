@@ -13,7 +13,7 @@ exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 |Challenge|Create a loyalty status welcome email|
 |---|---|
 |Persona|Journey Manager|
-|Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segment qualification](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Import HTML content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul>|
+|Required skills|<ul><li>[Create segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segment qualification](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[Import HTML content](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul>|
 |Assets to download|[StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)|
 
 {style="table-layout:auto"}

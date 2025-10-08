@@ -11,4 +11,4 @@ exl-id: 8b9a73c3-3c36-43ec-a870-a3b113689e22
 ---
 # Configure content experiments for email campaigns
 
-{{$include /help/_includes/inc-experimentation.md}}
+{{$include /help/_ajo-main/_includes/inc-experimentation.md}}

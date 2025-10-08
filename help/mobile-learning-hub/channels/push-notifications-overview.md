@@ -11,4 +11,4 @@ exl-id: aab6af06-86bd-4d30-847f-fbf60b6bab34
 ---
 # Push notifications - overview
 
-{{$include /help/_includes/inc-push-notifications-overview.md}}
+{{$include /help/_ajo-main/_includes/inc-push-notifications-overview.md}}

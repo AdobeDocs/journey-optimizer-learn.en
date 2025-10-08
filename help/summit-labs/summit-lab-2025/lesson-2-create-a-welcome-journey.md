@@ -17,4 +17,4 @@ In this exercise, you start building the welcome journey, based on an existing j
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
 
-See [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md) and [Use Case - Audience qualification](/help/create-journeys/use-case-audience-qualification.md) for more guidance on this topic.
+See [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md) and [Use Case - Audience qualification](/help/journeys/use-case-audience-qualification.md) for more guidance on this topic.

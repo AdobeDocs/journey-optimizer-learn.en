@@ -29,22 +29,23 @@ auto-video-transcripts: true
   + Orchestrated Campaigns {#orchestrated-campaigns}
     + [Introduction to Orchestrated Campaigns](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
     + [Relational Store basics](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
-+ Journeys {#create-journeys}
-  + [Journey Designer - Overview](/help/create-journeys/journey-designer-overview.md)
-  + [Discover the new Journey Designer](/help/create-journeys/new-journey-designer.md)
-  + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
-  + [Create a test profile](/help/create-journeys/test-a-journey.md)
-  + [Publish a journey](/help/create-journeys/publish-a-journey.md)
-  + [Use case - Transactional journey](/help/create-journeys/use-case-transactional-journey.md)
-  + [Use case - Business event](/help/create-journeys/use-case-business-event.md)
-  + [Use case - Read audience](/help/create-journeys/use-case-read-audience.md)
-  + [Use case - Audience qualification](/help/create-journeys/use-case-audience-qualification.md)
-  + [Mastering multi-attribute filtering](/help/create-journeys/mastering-multi-attribute-filtering.md)
-  + [Validate the journey logic with Journey Dry run ](/help/create-journeys/journey-dry-run.md)
-  + [Unlock journey reentry with supplemental IDs](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
-  + [Update content in a live journey](/help/create-journeys/update-content-in-live-journey.md)
-  + [Copy a journey to another sandbox](/help/create-journeys/copy-a-journey.md)
-  + [Trigger daily journey runs after batch segmentation](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ Journeys {#journeys}
+  + [Journey Designer - Overview](/help/journeys/journey-designer-overview.md)
+  + [Journey Agent - Overview](/help/ai-agents/journey-agent-overview.md)
+  + [Discover the new Journey Designer](/help/journeys/new-journey-designer.md)
+  + [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md)
+  + [Create a test profile](/help/journeys/test-a-journey.md)
+  + [Publish a journey](/help/journeys/publish-a-journey.md)
+  + [Use case - Transactional journey](/help/journeys/use-case-transactional-journey.md)
+  + [Use case - Business event](/help/journeys/use-case-business-event.md)
+  + [Use case - Read audience](/help/journeys/use-case-read-audience.md)
+  + [Use case - Audience qualification](/help/journeys/use-case-audience-qualification.md)
+  + [Mastering multi-attribute filtering](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Validate the journey logic with Journey Dry run ](/help/journeys/journey-dry-run.md)
+  + [Unlock journey reentry with supplemental IDs](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
+  + [Update content in a live journey](/help/journeys/update-content-in-live-journey.md)
+  + [Copy a journey to another sandbox](/help/journeys/copy-a-journey.md)
+  + [Trigger daily journey runs after batch segmentation](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
   + [Troubleshoot inbound actions in journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Conflict management & prioritization {#conflict-management}
   + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
@@ -133,6 +134,7 @@ auto-video-transcripts: true
 + Experimentation {#experimentation}
   + [Introduction to Experimentation](/help/experimentation/introduction-to-experimentation.md)
   + [Create content experiments for email campaigns](/help/experimentation/content-experiments-for-emails.md)
+  + [Experimentation Agent](/help/ai-agents/experimentation-agent-overview.md)
 + Decision Capabilities{#decision-capabilities}
   + Decisioning {#decisioning}
     + [Introduction to Decisioning](/help/decisioning/introduction-to-decisioning.md)
@@ -207,6 +209,9 @@ auto-video-transcripts: true
   + [Create data usage policies](/help/privacy/create-data-usage-policies.md)
   + [Enforce data usage policies in Journey Optimizer channels](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
++ AI Assistant {#ai-assistant}
+  + [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)   
+  + [AI assistant for content generation](/https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
 + Use cases & best practices{#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
