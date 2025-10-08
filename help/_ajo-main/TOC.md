@@ -134,7 +134,7 @@ auto-video-transcripts: true
 + Experimentation {#experimentation}
   + [Introduction to Experimentation](/help/experimentation/introduction-to-experimentation.md)
   + [Create content experiments for email campaigns](/help/experimentation/content-experiments-for-emails.md)
-  + [Experimentation Agent](/help/ai-agents/experimentation-agent-overview.md)
+  + [Experimentation Agent - Overview](/help/ai-agents/experimentation-agent-overview.md)
 + Decision Capabilities{#decision-capabilities}
   + Decisioning {#decisioning}
     + [Introduction to Decisioning](/help/decisioning/introduction-to-decisioning.md)
@@ -211,7 +211,9 @@ auto-video-transcripts: true
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
 + AI Assistant {#ai-assistant}
   + [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)   
-  + [AI assistant for content generation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+  + [AI Assistant for Content Generation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+  + [Journey Agent - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+  + [Experimentation Agent - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Use cases & best practices{#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
