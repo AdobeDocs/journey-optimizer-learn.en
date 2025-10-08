@@ -11,4 +11,4 @@ exl-id: 0ddfaef4-cac2-43e4-a0e1-1aee0a3a3b0d
 ---
 # SMS/MMS/RCS - Overview
 
-{{$include /help/_ajo-main/_includes/inc-sms-mms-rcs-overview.md}}
+{{$include /help/_includes/inc-sms-mms-rcs-overview.md}}

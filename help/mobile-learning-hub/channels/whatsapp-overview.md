@@ -11,4 +11,4 @@ exl-id: d2ac4614-df04-4e20-be88-3bde491cf75f
 ---
 # Whatsapp - Overview
 
-{{$include /help/_ajo-main/_includes/inc-whatsapp-overview.md}}
+{{$include /help/_includes/inc-whatsapp-overview.md}}

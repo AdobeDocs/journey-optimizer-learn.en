@@ -12,4 +12,4 @@ exl-id: d5896682-b845-4991-bf64-e405bbd79ab6
 ---
 # Configure content experiments for emails
 
-{{$include /help/_ajo-main/_includes/inc-experimentation.md}}
+{{$include /help/_includes/inc-experimentation.md}}

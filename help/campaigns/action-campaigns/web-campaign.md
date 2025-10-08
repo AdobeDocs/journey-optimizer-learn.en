@@ -12,4 +12,4 @@ exl-id: b95274e6-95f1-4ba8-a26b-32a4c5341015
 ---
 # Create a web campaign
 
-{{$include /help/_ajo-main/_includes/inc-create-a-web-campaign.md}}
+{{$include /help/_includes/inc-create-a-web-campaign.md}}

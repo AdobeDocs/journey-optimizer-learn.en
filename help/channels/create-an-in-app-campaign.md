@@ -11,4 +11,4 @@ exl-id: 8c061df6-4c46-47b2-921d-6e16546e6e93
 ---
 # Create an in-app campaign
 
-{{$include /help/_ajo-main/_includes/inc-create-an-in-app-campaign.md}}
+{{$include /help/_includes/inc-create-an-in-app-campaign.md}}

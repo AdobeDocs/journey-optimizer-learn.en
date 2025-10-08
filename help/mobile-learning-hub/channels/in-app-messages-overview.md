@@ -11,4 +11,4 @@ exl-id: 679fd26a-f6e9-4130-973f-8c0e1353c813
 ---
 # In-app messages - Overview
 
-{{$include /help/_ajo-main/_includes/inc-in-app-messages-overview.md}}
+{{$include /help/_includes/inc-in-app-messages-overview.md}}
