@@ -211,7 +211,7 @@ auto-video-transcripts: true
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
 + AI Assistant {#ai-assistant}
   + [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)   
-  + [AI assistant for content generation](/https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+  + [AI assistant for content generation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
 + Use cases & best practices{#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
