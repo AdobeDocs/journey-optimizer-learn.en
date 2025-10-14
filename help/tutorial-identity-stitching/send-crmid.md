@@ -32,7 +32,7 @@ function attachLoginHandler() {
             window.adobeDataLayer = window.adobeDataLayer || [];
             debugger;
             window.adobeDataLayer.push({
-                event: "userloggedin",
+                event: "UserLoggedIn",
                 user: {
                     crmid: crmid,
                     authenticatedState: "authenticated"

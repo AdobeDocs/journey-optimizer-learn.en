@@ -34,15 +34,15 @@ Create the following Data Elements
 
 ## Create Rule
 
-Create a rule called userLoggedin with the following event and actions
+Create a rule called LoginEvent with the following event and actions
 
 Event
-![event](assets/data-pushed-event.png)
+![event](assets/data-pushed-event1.png)
 
 Update Variable Action
-![update-variable](assets/update-variable.png)
+![update-variable](assets/update-variable1.png)
 Send Event Action
-![send-event](assets/send-event.png)
+![send-event](assets/send-event1.png)
 
 ## Save and Build
 
