@@ -29,9 +29,9 @@ In this extension of the Identity Stitching tutorial, Adobe Journey Optimizer jo
 *   Log in to _**Journey Optimizer**_
 *   Navigate to _**Administration -> Configurations**_
 *   Click on the Manage button of the Events card and click on Create Event. Specify the values as shown below
-*   ![journey-event](assets/journey-event.png)
+*   ![journey-event](assets/journey-event1.png)
 
-*   Check whether the event's eventType equals UserLoggedIn. In this case for simplicity the event name and event type are the same.`in(@event{event1.eventType}, ['UserLoggedIn'])`
+*   Check whether the event's eventType equals LoginEvent. The `LoginEvent` type is set in the Adobe Experience Platform Tag. 
 *   Save the event
 
 ## Create Journey
@@ -39,12 +39,16 @@ In this extension of the Identity Stitching tutorial, Adobe Journey Optimizer jo
 * Log in to _**Journey Optimizer**_
 * Navigate to _**Journey Management -> Journeys -> Create Journey**_
 * Drag and drop the _**UserLoggedIn**_ event on to the canvas
-* Drag and drop Email from the actions menu. Configure the email action to use the email channel configuration created earlier
-* Publish the journey
+* Drag and drop Email from the actions menu. Configure the email action to use the email channel configuration created earlier.
+* Publish the journey.
 
 ## How the journey is triggered
 
-The journey is triggered when the event payload sent via the Web SDK, matches what is configured in the journey. In this example, the event and event type are **UserLoggedIn**
+The journey is triggered when the event payload sent via the Web SDK, matches what is configured in the journey. In this example, the event is `UserLoggedIn` event type is `LoginEvent`.
+
+* Verify this by viewing the journey report
+* ![journey-report](assets/journey-triggered-report.png)
+
 
 
 

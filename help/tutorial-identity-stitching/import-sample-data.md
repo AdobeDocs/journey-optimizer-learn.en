@@ -24,26 +24,25 @@ To begin the identity stitching, import sample CRM profile data into a dataset t
 
 Create an individual profile schema called **_FinWiseProfileSchema_**. Include fields, such as annualIncome, email,firstName,lastName and loyaltyStatus.
 Add an identity field **_crmid_** as shown. Mark the crmid field as identity and primary.
-Add the _**Consents and Preferences Details**_ field group to the schema. [Consents and Preferences](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/profile/consents) is a standard field group for the XDM Individual Profile class that captures consent and preference information for an individual customer.The preferences stored here determine channel level communication preferences.
 
 
 ![profile-schema](assets/finwise-profile-schema.png)
 
 ## Prepare sample data
 
-Update the dummy email addresses to real ones. These will be used later when sending messages with Adobe Journey Optimizer. Set emailConsent to y to enable email delivery for the profiles.
+Update the dummy email addresses to real ones. These will be used later when sending messages with Adobe Journey Optimizer.
 
-|   | crmId  | firstName | lastName | email                   | loyaltyStatus | zipCode | annualIncome | emailConsent |
-|---|--------|-----------|----------|-------------------------|---------------|---------|--------------|--------------|
-|   | FIN001 | Alice     | Wong     | alice.wong@example.com  | Gold          | 92128   | 120000       | y            |
-|   | FIN002 | Bob       | Smith    | bob.smith@example.com   | Silver        | 92126   | 85000        | y            |
-|   | FIN003 | Charlie   | Kim      | charlie.kim@example.com | Platinum      | 60614   | 175000       | y            |
-|   | FIN004 | Diana     | Lee      | diana.lee@example.com   | Gold          | 30303   | 98000        | y            |
-|   | FIN005 | Ethan     | Brown    | ethan.brown@example.com | Bronze        | 75201   | 60000        | y            |
+|   | crmId  | firstName | lastName | email                   | loyaltyStatus | zipCode | annualIncome | 
+|---|--------|-----------|----------|-------------------------|---------------|---------|--------------|
+|   | FIN001 | Alice     | Wong     | alice.wong@example.com  | Gold          | 92128   | 120000       |
+|   | FIN002 | Bob       | Smith    | bob.smith@example.com   | Silver        | 92126   | 85000        |
+|   | FIN003 | Charlie   | Kim      | charlie.kim@example.com | Platinum      | 60614   | 175000       |
+|   | FIN004 | Diana     | Lee      | diana.lee@example.com   | Gold          | 30303   | 98000        |
+|   | FIN005 | Ethan     | Brown    | ethan.brown@example.com | Bronze        | 75201   | 60000        |
 
 ## Ingest the CSV file
 
-*   Create a dataset called **_FinWiseCustomerDataSetWithAnnualIncome_** based on the **_FinWiseProfileSchema_** created in the earlier step
+*   Create a dataset called **_FinWiseCustomerDataSetWithAnnualIncome_** based on the **_FinWiseProfileSchema_** created in the earlier .Make sure the dataset is enabled for profile.
 
 *   Navigate to Connections -> Sources -> Local system
 *   Select the **_Add Data_** under the Local file upload. Make sure to select the _**FinWiseCustomerDataSetWithAnnualIncome**_ as the target dataset.
