@@ -141,6 +141,7 @@ auto-video-transcripts: true
     + [Introduction to Decisioning](/help/decisioning/introduction-to-decisioning.md)
     + [End-to-end Decisioning walkthrough](/help/decisioning/decisioning-end-to-end.md)
     + [Navigating the Formula Builder Interface](/help/decisioning/formula-builder-ui.md)
+    + [Reusable rules](/help/decisioning/reusable-targeting-rules.md)
     + [Personalizing offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
     + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
   + Decision Management {#decision-management}
@@ -171,6 +172,7 @@ auto-video-transcripts: true
   + [Monitor and analyze your journey with live reports](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
   + [Monitor and analyze your journey with Journey Reports](/help/report-and-monitor/journey-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
+  + [Analyze your journey's overall performance with all time reports](/help/report-and-monitor/all-time-reports.md)
   + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-csv-format.md)
   + [Use alerts](/help/administration/alerts.md)
   + [Enhanced reporting with Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)

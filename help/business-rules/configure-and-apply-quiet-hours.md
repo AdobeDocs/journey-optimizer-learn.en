@@ -8,9 +8,9 @@ doc-type: Feature Video
 duration: 158
 last-substantial-update: 2025-10-15
 jira: KT-19403
-hide: Yes
-hidefromtoc: Yes
-index: No
+hide: No
+hidefromtoc: No
+index: Yes
 ---
 
 # Configure and apply quiet hours
