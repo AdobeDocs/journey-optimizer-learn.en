@@ -1,6 +1,6 @@
 ---
-title: Create an Action Campaign
-description: Learn how to create and optimize Action Campaigns in Adobe Journey Optimizer to deliver one‑time or recurring communications with precision and impact.
+title: Create an action campaign
+description: Learn how to create and optimize action campaigns in Adobe Journey Optimizer to deliver one‑time or recurring communications with precision and impact.
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -11,9 +11,9 @@ level: Beginner
 last-substantial-update: 2025-11-14
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 ---
-# Create an Action Campaign
+# Create an action campaign
 
-Learn how to create and optimize Action Campaigns in Adobe Journey Optimizer to deliver one‑time or recurring communications with precision and impact.
+Learn how to create and optimize action campaigns in Adobe Journey Optimizer to deliver one‑time or recurring communications with precision and impact.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
