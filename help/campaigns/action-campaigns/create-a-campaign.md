@@ -1,6 +1,6 @@
 ---
-title: Create a campaign
-description: Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.
+title: Create an Action Campaign
+description: Learn how to create and optimize Action Campaigns in Adobe Journey Optimizer to deliver one‑time or recurring communications with precision and impact.
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -8,16 +8,13 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+last-substantial-update: 2025-11-14
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 ---
-# Create a campaign
+# Create an Action Campaign
 
->[!IMPORTANT]
->
->This feature is only available to users with access to a Campaign related Product Profile such as Campaign administrator, Campaign approver, Campaign manager and/or Campaign viewer. For more information on how to assign product profiles, refer to [this video](/help/set-up-access/access-management.md).
+Learn how to create and optimize Action Campaigns in Adobe Journey Optimizer to deliver one‑time or recurring communications with precision and impact.
 
-Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.
+>[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
-
-Please refer to the [product documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en) for more information about this feature.
+Please refer to the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns) for more information about this feature.
