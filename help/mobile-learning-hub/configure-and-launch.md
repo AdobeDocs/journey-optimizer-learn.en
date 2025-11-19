@@ -184,16 +184,16 @@ You can create and configure this mobile property manually, or use **[Guided Cha
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-* [Adobe Experience Platform Mobile SDK Documentation](https://experienceleague.adobe.com/en/docs/mobile)
+For more information also see the [Adobe Experience Platform Mobile SDK Documentation](https://experienceleague.adobe.com/en/docs/mobile)
 
 #### Developer references:
 
-* [Mobile SDK developer portal (home)](https://developer.adobe.com/client-sdks/home/)
-* [Current SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/)
-* [Getting started with a mobile property (tags)](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
-* [Get the SDK (install in your app)](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
-* [Track events with the Mobile SDK](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
-* [Validate with Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)
+- [Mobile SDK developer portal (home)](https://developer.adobe.com/client-sdks/home/)
+- [Current SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/)
+- [Getting started with a mobile property (tags)](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
+- [Get the SDK (install in your app)](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
+- [Track events with the Mobile SDK](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
+- [Validate with Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)
 
 #### Mobile SDK readiness checklist
 
@@ -379,8 +379,8 @@ Configure **SMS/MMS/RCS channels** with the standard providers (Twilio,Synch or 
 
 ## Blog posts
 
-* [Using CDN based client side personalization (ODD) on mobile for faster personalizations.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
-* [Mobile Activation for Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
+- [Using CDN based client side personalization (ODD) on mobile for faster personalizations.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
+- [Mobile Activation for Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
 
 ## Ensure compliance with privacy laws and platform guidelines.
 
