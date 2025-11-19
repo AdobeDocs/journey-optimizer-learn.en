@@ -14,4 +14,4 @@ exl-id: d52bd1f3-3c47-4401-97b1-8b2bc4308363
 
 Discover how Adobe Journey Optimizer's mobile app capabilities transform your customer engagement using real-time personalized experiences.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432681/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)
