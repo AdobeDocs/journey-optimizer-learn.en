@@ -14,7 +14,7 @@ Jumpstart or level up with mobile channels in Adobe Journey Optimizer (AJO). Thi
 
 Explore best practices,learn how to drive adoption, and master reporting — all in one place — so teams can deliver impactful, data-driven mobile experiences that connect with users anytime, anywhere.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Mobile channel overview
