@@ -57,12 +57,6 @@ By combining these channels, you can create a seamless and effective customer ex
 
 6. Leverage [code-based experiences](/help/mobile-learning-hub/channels/code-based-experience-overview.md) to tailor every message based on user behavior and preferences, creating a truly personalized journey across channels.
 
-
-## Customer use cases
-
-* [Take flight with personalization: How airlines can elevate offers with Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
-
-
 ## Build your foundation
 
 Learn the concepts and how to    
@@ -95,3 +89,7 @@ Learn the concepts and how to
 | **Upsell and Cross-Sell Campaigns** | Promotes additional products or upgrades to existing customers based on their behavior, preferences, or purchase history. | - Push notifications highlight relevant upsell opportunities.<br>- In-app messages and content cards showcase complementary items.<br>- SMS campaigns target segmented audiences with exclusive offers. |
 | **Churn Prevention** | Identifies users at risk of leaving and engages them with personalized retention strategies to maintain loyalty. | - Predictive analytics trigger mobile outreach to at-risk users.<br>- Push notifications and SMS offer loyalty rewards or personalized content.<br>- In-app surveys gather feedback to improve retention strategies. |
 | **Multi-Channel Messaging** | Orchestrates consistent messaging across multiple mobile channels to ensure users receive timely and relevant communications. | - Push, in-app, SMS, and email are coordinated for unified messaging.<br>- SDKs enable real-time personalization across channels.<br>- Content cards persist across sessions to reinforce key messages. |
+
+## Customer use cases
+
+* [Take flight with personalization: How airlines can elevate offers with Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
