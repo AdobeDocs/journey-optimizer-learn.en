@@ -14,7 +14,7 @@ exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
 
 Configure the mobile channels in Adobe Journey Optimizer and Adobe Experience Platform, integrate with mobile apps, and ensure readiness for marketing campaign execution.
 
-> **Note**  
+> [!NOTE] 
 > If you are new to Journey Optimizer and Experience Platform, familiarize yourself with the core concepts by taking these course:
 > - [Configure and administer Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*In this course, you will learn to configure and manage the Journey Optimizer environment, including user roles, permissions, sandboxes, and email channels, ensuring efficient and secure operations.*
@@ -47,15 +47,15 @@ Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably
 - Use real‑time in‑app behavior to trigger journeys and personalize experiences.
 
 
-### Prerequisites
-
-Make sure you have:
-
-- Adobe Journey Optimizer (AJO) provisioned for your org.
-- Adobe Experience Platform access with Data Collection and Journey Optimizer permissions.
-- Admin rights in AJO for channel and configuration setup.
-- Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
-- Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
+>[!PREREQUISITES]
+>
+>Make sure you have:
+>
+> - Adobe Journey Optimizer (AJO) provisioned for your org.
+> - Adobe Experience Platform access with Data Collection and Journey Optimizer permissions.
+> - Admin rights in AJO for channel and configuration setup.
+> - Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
+>- Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
 
 
 ### Required Mobile SDK components for Journey Optimizer
@@ -97,7 +97,7 @@ You configure these extensions in a **[mobile tag property](https://developer.ad
 - Which events in your app trigger calls to the Edge Network.
 - How data is mapped into XDM and forwarded to Adobe solutions (Journey Optimizer, Analytics, etc.).
 
-You can create and configure this mobile property manually, or use **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** to auto‑create the required tag property, datastream, and channel configuration for iOS or Android.
+You can create and [configure this mobile property manually](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property), or for Mobile In-App and Push you can use the **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** to auto‑create the required tag property, datastream, and channel configuration for iOS and Android.
 
 > **Tip**  
 > For new implementations, **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** is the recommended starting point. It reduces the risk of misconfigured datastreams or missing extensions and walks you through SDK validation with Assurance.
@@ -195,15 +195,17 @@ For more information also see the [Adobe Experience Platform Mobile SDK Document
 - [Track events with the Mobile SDK](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
 - [Validate with Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)
 
-#### Mobile SDK readiness checklist
-
-> - [ ] Core SDK installed (Core, Edge, Identity, Consent, Assurance).
-> - [ ] Journey Optimizer mobile extensions added for the channels you will use (push, in‑app, content cards, code‑based).
-> - [ ] Datastream correctly configured to event and profile datasets.
-> - [ ] Identity and consent implemented and validated with Assurance.
-> - [ ] Push token registration and tracking validated end‑to‑end.
-> - [ ] In‑app and/or content cards display validated on a device.
-> - [ ] Guided Channel Setup used for new implementations, or configuration manually aligned to the documented steps.
+>[!SUCCESS]
+>
+>**Mobile SDK readiness checklist**
+>
+> [ ] Core SDK installed (Core, Edge, Identity, Consent, Assurance).
+> [ ] Journey Optimizer mobile extensions added for the channels you will use (push, in‑app, content cards, code‑based).
+> [ ] Datastream correctly configured to event and profile datasets.
+> [ ] Identity and consent implemented and validated with Assurance.
+> [ ] Push token registration and tracking validated end‑to‑end.
+> [ ] In‑app and/or content cards display validated on a device.
+> [ ] Guided Channel Setup used for new implementations, or configuration manually aligned to the documented steps.
 
 
 
@@ -646,13 +648,14 @@ See:
 
 </details>
 
-
-## One-line readiness checklist
-
-Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)** that: 
-
-- Core SDK + Journey Optimizer extensions are loaded,  
-- Events are flowing on the correct datastream and datasets,  
-- Identity and consent are present on all key events,  
-- Push tokens and interactions are tracked, and  
-- At least one test in‑app message or content card has been displayed and recorded as an 
+>[!SUCCESS]
+>
+> **One-line readiness checklist**
+>
+> Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)** that: 
+> 
+> [ ] Core SDK + Journey Optimizer extensions are loaded,  
+> [ ] Events are flowing on the correct datastream and datasets,  
+> [ ]Identity and consent are present on all key events,  
+> [ ] Push tokens and interactions are tracked, and  
+> [ ] At least one test in‑app message or content card has been displayed and recorded as an impression.
