@@ -14,8 +14,10 @@ exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
 
 Configure the mobile channels in Adobe Journey Optimizer and Adobe Experience Platform, integrate with mobile apps, and ensure readiness for marketing campaign execution.
 
-> [!NOTE] 
+>[!NOTE]
+>
 > If you are new to Journey Optimizer and Experience Platform, familiarize yourself with the core concepts by taking these course:
+>
 > - [Configure and administer Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*In this course, you will learn to configure and manage the Journey Optimizer environment, including user roles, permissions, sandboxes, and email channels, ensuring efficient and secure operations.*
 > - [Engineer Data for Intelligent Journey Activation in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation)
@@ -55,7 +57,7 @@ Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably
 > - Adobe Experience Platform access with Data Collection and Journey Optimizer permissions.
 > - Admin rights in AJO for channel and configuration setup.
 > - Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
->- Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
+> - Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
 
 
 ### Required Mobile SDK components for Journey Optimizer
