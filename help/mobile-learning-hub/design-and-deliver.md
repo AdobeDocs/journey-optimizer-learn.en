@@ -12,9 +12,14 @@ exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
 
 Discover how to build and deliver impactful mobile communications using Adobe Journey Optimizer. Learn to create, design, and send a variety of message types—including push notifications, in-app messages, content cards, SMS/MMS/RCS, WhatsApp marketing messages, and code-based experiences—tailored to your audience and optimized for mobile engagement.
 
+>[!VIDEO](https://video.tv.adobe.com/v/333745/?learn=on&enablevpops)
+
 >[!NOTE]
 >
->If you are new to Journey Optimizer, start by familiarizing yourself with Journey Optimizer by watching this playlist: [Get started with Journey Optimizer for Journey Administrators and Managers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
+>If you are new to Journey Optimizer, start by familiarizing yourself with Journey Optimizer by completing these courses: 
+>1. [Build and activate audiences in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-build-and-activate-audiences)
+>2. [Orchestrate journeys and action campaigns in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-design-and-manage-journeys-and-action-campaigns)
+
 
 ## Design and deliver mobile messages
 
@@ -521,7 +526,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 #### Product Documentation
 
-|![Create WhatsApp Messages](./assets/configuration.svg)[**Create WhatsApp Messages*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} |![Preview, Validate, and Send WhatsApp Messages](./assets/communication-channel.svg){width="50"}[**Preview, Validate, and Send WhatsApp Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} | 
+|![Create WhatsApp Messages](./assets/configuration.svg)[*Create WhatsApp Messages*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} |![Preview, Validate, and Send WhatsApp Messages](./assets/communication-channel.svg){width="50"}[**Preview, Validate, and Send WhatsApp Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} | 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]

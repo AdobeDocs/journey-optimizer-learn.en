@@ -9,48 +9,213 @@ index: no
 last-substantial-update: 2025-08-22
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
 ---
+
 # Configure and launch
 
-Configure the mobile channels in Journey Optimizer and Experience Platform, integrate with mobile apps, and ensure readiness for marketing campaign execution.
+Configure the mobile channels in Adobe Journey Optimizer and Adobe Experience Platform, integrate with mobile apps, and ensure readiness for marketing campaign execution.
 
->[!NOTE]
->
->If you are new to Journey Optimizer and Experience Platform, familiarize yourself with the core concepts by watching these playlists:
->
->* [Get started with Journey Optimizer for Journey Administrators and Managers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
->* [Configure Journey Optimizer for Journey Administrators](https://experienceleague.adobe.com/en/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
->* [Configure and Manage Data in Journey Optimizer for Data Engineers](https://experienceleague.adobe.com/en/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
+> **Note**  
+> If you are new to Journey Optimizer and Experience Platform, familiarize yourself with the core concepts by taking these course:
+> - [Configure and administer Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
+>*In this course, you will learn to configure and manage the Journey Optimizer environment, including user roles, permissions, sandboxes, and email channels, ensuring efficient and secure operations.*
+> - [Engineer Data for Intelligent Journey Activation in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation)
+>*In this course, you will learn how to set up and manage real-time customer profile data for Journey Optimizer using Experience Platform. Understand data modeling, identity mapping, and data ingestion to create unified profiles for personalized customer journeys.*
 
 
 ## Mobile capabilities in Adobe Journey Optimizer
 
+Understand which mobile capabilities Adobe Journey Optimizer offers for developers, marketers, and product teams, including push messaging, in‑app messaging, and content personalization.
+
 >[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
+
 
 ## Mobile SDK and app configuration 
 
-BREAK DOWN PER CHANNEL?
+Mobile implementations in Journey Optimizer begin with the **Adobe Experience Platform Mobile SDK** integration in your app. SDKs are essential for data collection and interaction with Adobe Experience Platform (AEP) and its applications, such as Adobe Journey Optimizer (AJO).
+
+The Mobile SDK:
+
+- Collects app events (screen views, taps, purchases, lifecycle events, etc.) and sends them to the **Adobe Experience Platform Edge Network**.
+- Manages **identity** and **consent**, so Journey Optimizer can safely build and use customer profiles.
+- Registers and updates **push tokens**, and sends **push and in‑app tracking events** back to Adobe Experience Platform.
+- Integrates with **Journey Optimizer mobile extensions** (push, in‑app, content cards, decisioning) so messages can be delivered, rendered, and measured end‑to‑end.
+
+Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably:
+
+- Deliver and track mobile push and in‑app messages.
+- Render and track content cards.
+- Use real‑time in‑app behavior to trigger journeys and personalize experiences.
+
 
 ### Prerequisites
 
 Make sure you have:
 
-* Adobe Journey Optimizer (AJO) provisioned for your org.
-* Adobe Experience Platform (AEP) SDK credentials.
-* Admin rights in AJO for configuration.
-* Access to your app's source code.
-* Your app has the required OS-level capabilities enabled (push permissions, notification service extensions, etc.)
+- Adobe Journey Optimizer (AJO) provisioned for your org.
+- Adobe Experience Platform access with Data Collection and Journey Optimizer permissions.
+- Admin rights in AJO for channel and configuration setup.
+- Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
+- Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
 
-### Configure a Mobile Property
 
-LINKS to tutorials
+### Required Mobile SDK components for Journey Optimizer
+
+To use Journey Optimizer mobile channels (push, in‑app, content cards, code‑based experiences), you must install and configure a set of **core** and **channel‑specific** extensions in your mobile app:
+
+>[!BEGINTABS]
+
+>[!TAB Core]
+
+#### Core extensions (required for all mobile use cases)
+
+| Purpose              | Extension examples (iOS / Android)           | Notes |
+|----------------------|-----------------------------------------------|-------|
+| Event hub & services | Mobile Core / AEP Core, AEP Services         | Foundation for all other extensions. Provides event hub, networking, storage, and shared state. |
+| Edge Network         | Adobe Experience Platform Edge Network       | Sends app events to the Adobe Experience Platform Edge Network. |
+| Identity             | Identity for Edge Network                    | Manages ECID and other identities used for profile and segmentation. |
+| Consent              | Consent for Edge Network                     | Collects and enforces user consent preferences. |
+| Assurance            | Adobe Experience Platform Assurance          | Used to validate and debug SDK and channel configuration end‑to‑end. |
+
+>[!TAB Channel-specific]
+
+#### Channel‑specific extensions for Journey Optimizer
+
+| Channel / capability   | Additional key extensions (on top of core)                          | What they enable |
+|------------------------|---------------------------------------------------------------------|------------------|
+| Push notifications     | Journey Optimizer mobile extension (push)                           | Register and update push tokens, send push tracking events, connect to AJO push configuration. |
+| In‑app messaging       | Journey Optimizer mobile extension (in‑app), Messaging UI components | Fetch and display in‑app messages in context, send impressions and interaction events. |
+| Content cards          | Messaging SDK with content card support                             | Fetch, render, and track content cards for accurate Journey Optimizer reporting. |
+| Code‑based experiences | Journey Optimizer / decisioning extensions, or Edge Server API      | Fetch decisions for specific "surfaces" in your app; your app controls how content is rendered. |
+
+>[!ENDTABS]
+
+#### Mobile tag property and configuration
+
+You configure these extensions in a **[mobile tag property](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)** in AEP Data Collection (tags). This property controls:
+
+- Which Mobile SDK extensions are installed.
+- Which events in your app trigger calls to the Edge Network.
+- How data is mapped into XDM and forwarded to Adobe solutions (Journey Optimizer, Analytics, etc.).
+
+You can create and configure this mobile property manually, or use **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** to auto‑create the required tag property, datastream, and channel configuration for iOS or Android.
+
+> **Tip**  
+> For new implementations, **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** is the recommended starting point. It reduces the risk of misconfigured datastreams or missing extensions and walks you through SDK validation with Assurance.
+
+#### Get started with the Mobile SDK:
+
+<!-- CARDS
+* https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview
+    {description = Learn how Adobe Experience Platform Mobile SDK powers end-to-end engagement in your mobile applications.}
+* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview
+* https://experienceleague.adobe.com/en/docs/mobile
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Experience Platform Mobile SDK overview">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" title="Adobe Experience Platform Mobile SDK overview" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28948?format=jpeg&nocache=1763594622398" alt="Adobe Experience Platform Mobile SDK overview"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDK overview">Adobe Experience Platform Mobile SDK overview</a>
+                    </p>
+                    <p class="is-size-6">Learn how Adobe Experience Platform Mobile SDK powers end-to-end engagement in your mobile applications.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Implement Adobe Experience Cloud in mobile apps tutorial">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" title="Implement Adobe Experience Cloud in mobile apps tutorial" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="Implement Adobe Experience Cloud in mobile apps tutorial"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="Implement Adobe Experience Cloud in mobile apps tutorial">Implement Adobe Experience Cloud in mobile apps tutorial</a>
+                    </p>
+                    <p class="is-size-6">Learn how to implement the Adobe Experience Cloud mobile applications. This tutorial guides you through an implementation of Experience Cloud applications in a sample Swift or Android app.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Experience Platform Mobile SDK Documentation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/mobile" title="Adobe Experience Platform Mobile SDK Documentation" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Adobe Experience Platform Mobile SDK Documentation"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/mobile" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDK Documentation">Adobe Experience Platform Mobile SDK Documentation</a>
+                    </p>
+                    <p class="is-size-6">Search for self-help articles and tutorials on Experience Platform Mobile SDKs. Learn strategies and best practices from experts in live and on-demand video events.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/mobile" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+For more information also see the [Adobe Experience Platform Mobile SDK Documentation](https://experienceleague.adobe.com/en/docs/mobile)
+
+#### Developer references:
+
+- [Mobile SDK developer portal (home)](https://developer.adobe.com/client-sdks/home/)
+- [Current SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/)
+- [Getting started with a mobile property (tags)](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
+- [Get the SDK (install in your app)](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
+- [Track events with the Mobile SDK](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
+- [Validate with Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)
+
+#### Mobile SDK readiness checklist
+
+> - [ ] Core SDK installed (Core, Edge, Identity, Consent, Assurance).
+> - [ ] Journey Optimizer mobile extensions added for the channels you will use (push, in‑app, content cards, code‑based).
+> - [ ] Datastream correctly configured to event and profile datasets.
+> - [ ] Identity and consent implemented and validated with Assurance.
+> - [ ] Push token registration and tracking validated end‑to‑end.
+> - [ ] In‑app and/or content cards display validated on a device.
+> - [ ] Guided Channel Setup used for new implementations, or configuration manually aligned to the documented steps.
+
 
 
 ## Adobe Journey Optimizer Channel Configuration
 
-Learn how the channel configure your **mobile channels** using the guided channel setuo functionality. Understand how to configure the **WhatsApp channel**:
+### In-App, Push, and WhatsApp
+
+Configure your **mobile channels** using the guided channel setuo functionality. Understand how to configure the **WhatsApp channel**:
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
+ {description = Learn how to quickly set up and validate web and mobile channels across Experience Platform, Journey Optimizer, and Data Collection, and configure a push notification for a sample iOS marketing app.}
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -60,7 +225,7 @@ Learn how the channel configure your **mobile channels** using the guided channe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Guided channel setup" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1755888511558" alt="Guided channel setup"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1763594622823" alt="Guided channel setup"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -70,7 +235,7 @@ Learn how the channel configure your **mobile channels** using the guided channe
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="Guided channel setup">Guided channel setup</a>
                     </p>
-                    <p class="is-size-6">The guided channel setup helps you rapidly set up and validate web and mobile channels with the necessary resources across Experience Platform, Journey Optimizer, and Data Collection so that your marketing team can start building Campaigns and Journeys. Learn how to set up and validate a push channel notification on a sample iOS mobile marketing app.</p>
+                    <p class="is-size-6">Learn how to quickly set up and validate web and mobile channels across Experience Platform, Journey Optimizer, and Data Collection, and configure a push notification for a sample iOS marketing app.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -83,7 +248,7 @@ Learn how the channel configure your **mobile channels** using the guided channe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Set up the WhatsApp channel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1755888511569" alt="Set up the WhatsApp channel"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1763594622814" alt="Set up the WhatsApp channel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -104,12 +269,14 @@ Learn how the channel configure your **mobile channels** using the guided channe
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
  
+### SMS/MMS/RCS
 
-Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twilio,Synch or Infobip) or using a custom SMS provider:
+Configure **SMS/MMS/RCS channels** with the standard providers (Twilio,Synch or Infobip) or using a custom SMS provider:
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
+{description = Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.}
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
@@ -120,7 +287,7 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="Configure SMS API credentials and channel surfaces" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1755888512031" alt="Configure SMS API credentials and channel surfaces"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1763594624036" alt="Configure SMS API credentials and channel surfaces"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,7 +310,7 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" title="Configure a custom SMS provider" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431625/?format=jpeg&nocache=1755888512068" alt="Configure a custom SMS provider"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431625/?format=jpeg&nocache=1763594624067" alt="Configure a custom SMS provider"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +320,7 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" title="Configure a custom SMS provider">Configure a custom SMS provider</a>
                     </p>
-                    <p class="is-size-6">Learn how to configure an SMS provider other than Sinch, Twilio, or Infobip in Adobe Journey Optimizer, set up API credentials and webhooks for inbound messaging, manage opt-in/opt-out keywords, and launch personalized SMS campaigns using native tools and custom payloads.</p>
+                    <p class="is-size-6">Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -166,7 +333,7 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Configure MMS API credentials and channel surfaces" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1755888512061" alt="Configure MMS API credentials and channel surfaces"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1763594624083" alt="Configure MMS API credentials and channel surfaces"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -189,7 +356,7 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Set up RCS in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755888512073" alt="Set up RCS in Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1763594624043" alt="Set up RCS in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,10 +376,11 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ## Blog posts
 
-* [Using CDN based client side personalization (ODD) on mobile for faster personalizations.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
-* [Mobile Activation for Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
+- [Using CDN based client side personalization (ODD) on mobile for faster personalizations.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
+- [Mobile Activation for Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
 
 ## Ensure compliance with privacy laws and platform guidelines.
 
@@ -252,7 +420,7 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Data Governance Framework Overview" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1755888512557" alt="Data Governance Framework Overview"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1763594624934" alt="Data Governance Framework Overview"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -275,7 +443,7 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Classify data using labels" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1755888512540" alt="Classify data using labels"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1763594624932" alt="Classify data using labels"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -298,7 +466,7 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Create Data Usage Policies" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1755888512550" alt="Create Data Usage Policies"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1763594624933" alt="Create Data Usage Policies"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -318,3 +486,173 @@ Learn how to configure **SMS/MMS/RCS channels** with the standard providers (Twi
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Common implementation pitfalls and how to avoid them
+
+Most mobile issues originate in **SDK or data collection configuration**, not in the Journey Optimizer journeys or campaigns themselves. Use the table below to identify what's going wrong, then expand the corresponding section for details.
+
+### Pitfalls at a glance
+
+| # | Issue / symptom                               | Common pitfall                                      | Fix at a glance                          |
+|---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
+| 1 | Guided Channel Setup fails; no or low traffic | [SDK versions or extensions not aligned](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | Update SDK/extension versions; validate in Assurance |
+| 2 | Tracking batches fail; errors in AEP          | [Datastreams or datasets misconfigured](#2-misconfigured-datastreams-or-datasets) | Map events to event dataset & profiles to profile dataset |
+| 3 | Journeys don't fire; odd personalization      | [Identity or consent missing / inconsistent](#3-missing-or-inconsistent-identity-and-consent) | Implement Edge Identity & Consent; verify in Assurance |
+| 4 | No push delivery or opens in reports          | [Push token registration or tracking broken](#4-push-token-registration-and-tracking-not-wired-correctly) | Fix token registration & interaction tracking via SDK |
+| 5 | No in‑app impressions despite active campaigns | [In‑app messages or content cards not displaying](#5-in-app-messages-or-content-cards-not-displaying) | Check messaging extensions, triggers, and Assurance decision responses |
+
+### Detailed guidance per pitfall
+
+Open the pitfall that matches your symptoms to see what to check and how to fix it.
+
+<details id="1-sdk-versions-and-extensions-not-aligned-with-channel-requirements">
+<summary><strong>1. SDK versions and extensions not aligned with channel requirements</strong></summary>
+
+**What you'll notice**
+
+- Push or in‑app activities do not reach the device.  
+- Guided Channel Setup or channel validation fails.  
+- Assurance shows missing Journey Optimizer, Edge, or Identity extensions.
+
+**What to check**
+
+- Are you using the minimum **Mobile Core** and **Journey Optimizer** extension versions required by Guided Channel Setup?  
+- In **Assurance**, under extensions and events:  
+  - Do you see the expected extensions loaded?  
+  - Are events being sent to the Edge Network and acknowledged?
+
+**How to fix**
+
+- Upgrade to the supported Mobile SDK and Journey Optimizer extension versions.  
+- Rebuild the app, reconnect to Assurance, and re‑run Guided Channel Setup.
+
+See: [Set up mobile and web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
+
+</details>
+
+
+<details id="2-misconfigured-datastreams-or-datasets">
+<summary><strong>2. Misconfigured datastreams or datasets</strong></summary>
+
+**What you'll notice**
+
+- Events or push tracking batches fail in Platform datasets.  
+- Data ingestion errors (for example, "Updates are not supported for events").  
+- Push or in‑app reports show little or no tracking.
+
+**What to check**
+
+- Did anyone change **system schemas or datasets** created for Journey Optimizer tracking?  
+- In your **datastream**:  
+  - Are experience events mapped to an **event dataset**?  
+  - Are profile attributes mapped to a **profile dataset**?
+
+**How to fix**
+
+- Do not edit system datasets/schemas created by AJO.  
+- Correct the datastream mapping (events → event dataset, profiles → profile dataset).  
+- Prefer Guided Channel Setup or the documented datastream steps instead of ad‑hoc changes.
+
+See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+
+</details>
+
+
+<details id="3-missing-or-inconsistent-identity-and-consent">
+<summary><strong>3. Missing or inconsistent identity and consent</strong></summary>
+
+**What you'll notice**
+
+- Journeys don't trigger as expected for app users.  
+- Personalization doesn't match the user's behavior in other channels.  
+- Events appear in Experience Platform, but profiles look fragmented.
+
+**What to check**
+
+- Is **Identity for Edge Network** implemented and sending a stable primary ID (for example, login ID)?  
+- Is **Consent for Edge Network** implemented and updated when preferences change?  
+- In **Assurance**:  
+  - Do outbound events include consent values?  
+  - Do they include ECID and your primary IDs consistently?
+
+**How to fix**
+
+- Implement or correct **Identity for Edge Network** in the app.  
+- Implement **Consent for Edge Network** and connect it to your app's consent UI.  
+- Retest in Assurance until identity and consent appear on all relevant events.
+
+See: [Implement consent for Platform Mobile SDK implementations](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
+
+</details>
+
+
+<details id="4-push-token-registration-and-tracking-not-wired-correctly">
+<summary><strong>4. Push token registration and tracking not wired correctly</strong></summary>
+
+**What you'll notice**
+
+- Users never receive push notifications, even though campaigns or journeys run.  
+- Push reports show no opens, dismisses, or interactions.
+
+**What to check**
+
+- Does the app register the push token with the Journey Optimizer extension:  
+  - On first install?  
+  - After each app update?  
+  - Whenever the OS refreshes the token?  
+- When a user opens or dismisses a notification, do you see tracking events in Assurance?
+
+**How to fix**
+
+- Add or correct the code that:  
+  - Registers the token via the Journey Optimizer mobile extension whenever it is created or refreshed.  
+  - Sends push interaction events (open, dismiss, custom actions) via the Mobile SDK.  
+- Use Assurance to confirm registration and tracking events are firing as expected.
+
+See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+
+</details>
+
+
+<details id="5-in-app-messages-or-content-cards-not-displaying">
+<summary><strong>5. In‑app messages or content cards not displaying</strong></summary>
+
+**What you'll notice**
+
+- In‑app messages or content cards never appear, despite active campaigns or journeys.  
+- Reporting shows 0 impressions.
+
+**What to check**
+
+- Are the **Journey Optimizer mobile messaging / in‑app extension** and **Messaging SDK** installed and registered in the app?  
+- In your **tags** configuration:  
+  - Do you have rules that trigger requests on the correct events (for example, screen views or custom events)?  
+- In **Assurance**:  
+  - When those events fire, do you see in‑app or content‑card decision requests going out?  
+  - Do you see responses coming back from the Edge Network?
+
+**How to fix**
+
+- Install and register the required messaging extensions.  
+- Add or correct rules that trigger decisions on your target events (screens, custom events).  
+- For content cards, ensure you:  
+  - Fetch cards via the Messaging SDK APIs.  
+  - Render them in your UI.  
+  - Track interactions back via the SDK.
+
+See:  
+- [Create and send in‑app messages](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp)  
+- [Configure content cards support in Mobile SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp)
+
+</details>
+
+
+## One-line readiness checklist
+
+Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)** that: 
+
+- Core SDK + Journey Optimizer extensions are loaded,  
+- Events are flowing on the correct datastream and datasets,  
+- Identity and consent are present on all key events,  
+- Push tokens and interactions are tracked, and  
+- At least one test in‑app message or content card has been displayed and recorded as an 
