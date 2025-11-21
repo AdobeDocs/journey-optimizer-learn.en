@@ -18,7 +18,7 @@ Configure the mobile channels in Adobe Journey Optimizer and Adobe Experience Pl
 >
 > If you are new to Journey Optimizer and Experience Platform, familiarize yourself with the core concepts data management in Journey Optimizer by taking this course:
 >
-> [Engineer Data for Intelligent Journey Activation in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation)
+> [Engineer Data for Intelligent Journey Activation in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
 >*Learn how to set up and manage real-time customer profile data for Journey Optimizer using Experience Platform. Understand data modeling, identity mapping, and data ingestion to create unified profiles for personalized customer journeys.*
 
 
@@ -91,7 +91,7 @@ To use Journey Optimizer mobile channels (push, in‑app, content cards, code‑
 
 #### Mobile tag property and configuration
 
-You configure these extensions in a **[mobile tag property](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)** in AEP Data Collection -> Tags. 
+You configure these extensions in a **[mobile tag property](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/){target="_blank"}** in AEP Data Collection -> Tags. 
 
 This property controls:
 
@@ -99,11 +99,11 @@ This property controls:
 - Which events in your app trigger calls to the Edge Network.
 - How data is mapped into XDM and forwarded to Adobe solutions (Journey Optimizer, Analytics, etc.).
 
-You can [create and configure this mobile property manually](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property), or for Mobile In-App and Push you can use the **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** to auto‑create the required tag property, datastream, and channel configuration for iOS and Android.
+You can [create and configure this mobile property manually](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}, or for Mobile In-App and Push you can use the **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}** to auto‑create the required tag property, datastream, and channel configuration for iOS and Android.
 
 >[!TIP]
 >  
-> For new implementations, **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** is the recommended starting point. It reduces the risk of misconfigured datastreams or missing extensions and walks you through SDK validation with Assurance.
+> For new implementations, **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}** is the recommended starting point. It reduces the risk of misconfigured datastreams or missing extensions and walks you through SDK validation with Assurance.
 
 #### Get started with the Mobile SDK:
 
@@ -643,7 +643,7 @@ Open the pitfall that matches your symptoms to see what to check and how to fix 
 - Upgrade to the supported Mobile SDK and Journey Optimizer extension versions.  
 - Rebuild the app, reconnect to Assurance, and re‑run Guided Channel Setup.
 
-See: [Set up mobile and web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
+See: [Set up mobile and web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
 
 </details>
 
@@ -670,7 +670,7 @@ See: [Set up mobile and web](https://experienceleague.adobe.com/en/docs/journey-
 - Correct the datastream mapping (events → event dataset, profiles → profile dataset).  
 - Prefer Guided Channel Setup or the documented datastream steps instead of ad‑hoc changes.
 
-See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 </details>
 
@@ -698,7 +698,7 @@ See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleagu
 - Implement **Consent for Edge Network** and connect it to your app's consent UI.  
 - Retest in Assurance until identity and consent appear on all relevant events.
 
-See: [Implement consent for Platform Mobile SDK implementations](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
+See: [Implement consent for Platform Mobile SDK implementations](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
 
 </details>
 
@@ -726,7 +726,7 @@ See: [Implement consent for Platform Mobile SDK implementations](https://experie
   - Sends push interaction events (open, dismiss, custom actions) via the Mobile SDK.  
 - Use Assurance to confirm registration and tracking events are firing as expected.
 
-See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 </details>
 
@@ -758,8 +758,8 @@ See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleagu
   - Track interactions back via the SDK.
 
 See:  
-- [Create and send in‑app messages](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp)  
-- [Configure content cards support in Mobile SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp)
+- [Create and send in‑app messages](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}  
+- [Configure content cards support in Mobile SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 </details>
 
@@ -767,7 +767,7 @@ See:
 >
 > **One-line readiness checklist**
 >
-> Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)** that: 
+> Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** that: 
 > 
 > [ ] Core SDK + Journey Optimizer extensions are loaded,  
 > [ ] Events are flowing on the correct datastream and datasets,  
@@ -777,5 +777,5 @@ See:
 
 ## Blog posts
 
-- [Using CDN based client side personalization (ODD) on mobile for faster personalizations.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
-- [Mobile Activation for Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
+- [Using CDN based client side personalization (ODD) on mobile for faster personalizations.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [Mobile Activation for Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595){target="_blank"}

@@ -17,8 +17,8 @@ Discover how to build and deliver impactful mobile communications using Adobe Jo
 >[!NOTE]
 >
 >If you are new to Journey Optimizer, start by familiarizing yourself with Journey Optimizer by completing these courses: 
->1. [Build and activate audiences in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-build-and-activate-audiences)
->2. [Orchestrate journeys and action campaigns in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-design-and-manage-journeys-and-action-campaigns)
+>1. [Build and activate audiences in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-build-and-activate-audiences){target="_blank"}
+>2. [Orchestrate journeys and action campaigns in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-design-and-manage-journeys-and-action-campaigns){target="_blank"}
 
 
 ## Design and deliver mobile messages
@@ -39,11 +39,12 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ### Push notifications
 
-#### Prerequisites
 
-1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
-2. Make sure that the [Push channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) has been configured.  
-3. Ensure that the customer profiles and audience segments are ready for targeting.
+>[!PREREQUISITES]
+>
+> 1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
+> 2. Make sure that the [Push channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"} has been configured.  
+> 3. Ensure that the customer profiles and audience segments are ready for targeting.
 
 #### Tutorials
 
@@ -111,11 +112,11 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ### In-app messages
 
-#### Prerequisites
-
-1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
-2. Make sure that the In-App channel has been configured.  
-3. Ensure that customer profiles and audience segments are ready for targeting.
+>[!PREREQUISITES]
+>
+> 1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
+> 2. Make sure that the In-App channel has been configured.  
+> 3. Ensure that customer profiles and audience segments are ready for targeting.
 
 #### Tutorials
 
@@ -191,11 +192,12 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ### Content cards
 
-#### Prerequisites
 
-1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
-2. Make sure the [in-app channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) has been configured.  
-3. Ensure that customer profiles and audiencea are ready for targeting.
+>[!PREREQUISITES]
+>
+> 1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
+> 2. Make sure the [in-app channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) has been configured.  
+> 3. Ensure that customer profiles and audiencea are ready for targeting.
 
 #### Tutorials
 
@@ -239,10 +241,10 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ### SMS/MMS/RCS messages
 
-#### Prerequisites
-
-1. Make sure the [SMS credentials and channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel) and/or [MMS credentials and channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces) and have been configured -> the RCS configuration is explained in the tutorial below.  
-2. Ensure that customer profiles and audience segments are ready for targeting.
+>[!PREREQUISITES]
+>
+> 1. Make sure the [SMS credentials and channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel){target="_blank"} and/or [MMS credentials and channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces){target="_blank"} and have been configured -> the RCS configuration is explained in the tutorial below.  
+> 2. Ensure that customer profiles and audience segments are ready for targeting.
 
 #### SMS Tutorials
 
@@ -391,10 +393,9 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ### Code-based experiences
 
-#### Prerequisites
-
-1. Make sure that the code-based channel has been configured.
-2. Ensure that customer profiles and audiences are ready for targeting.
+>[!PREREQUISITES]
+> 1. Make sure that the code-based channel has been configured.
+> 2. Ensure that customer profiles and audiences are ready for targeting.
 
 #### Tutorials
 
@@ -462,10 +463,11 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ### WhatsApp messages
 
-#### Prerequisites
 
-1. Make sure the [WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) has been configured.  
-2. Ensure that customer profiles and audiences are ready for targeting.
+>[!PREREQUISITES]
+>
+> 1. Make sure the [WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) has been configured.  
+> 2. Ensure that customer profiles and audiences are ready for targeting.
 
 #### Tutorials
 
