@@ -12,5 +12,5 @@ auto-video-transcripts: true
 
 + [Introduction](./introduction.md)
 + [Ingest profiles](./ingest-profile-create-audience.md)
-+ [Offers,selection strategy,etc](./create-offers-selection-strategy-ranking-formula.md)
++ [Decisioning](./create-offers-selection-strategy-ranking-formula.md)
 + [Create email campaign](./create-email-campaign.md)
