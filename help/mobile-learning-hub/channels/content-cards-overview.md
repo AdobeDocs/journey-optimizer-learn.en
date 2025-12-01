@@ -9,6 +9,6 @@ index: no
 last-substantial-update: 2025-08-22
 exl-id: 85b83379-1aac-4983-b261-3738b299c129
 ---
-# Content cards - overview
+# Content cards - Overview
 
 {{$include /help/_includes/inc-content-cards-overview.md}}
