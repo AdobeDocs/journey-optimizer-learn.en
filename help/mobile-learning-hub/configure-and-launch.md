@@ -57,7 +57,7 @@ Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably
 - Render and track content cards.
 - Use real‑time in‑app behavior to trigger journeys and personalize experiences.
 
-**[-> Click here to dee the current SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
+**[-> Click here for the current SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
 
 ### Required Mobile SDK components for Journey Optimizer
 
@@ -169,7 +169,7 @@ You can [create and configure this mobile property manually](https://experiencel
 
 #### Product documentation and developer references
 
-|![Guided channel setup](./assets/configuration.svg){width="50"}|[**Guided channel setup**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |![Get the Adobe Experience Platform Mobile SDK](./assets/configuration.svg){width="50"}|[**Get the Adobe Experience Platform Mobile SDK**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"} |![Adobe Experience Platform Assurance overview](./assets/experience.svg){width="50"}|[**Adobe Experience Platform Assurance overview**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
+|![Guided channel setup](./assets/configuration.svg)|[**Guided channel setup**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |![Get the Adobe Experience Platform Mobile SDK](./assets/configuration.svg)|[**Get the Adobe Experience Platform Mobile SDK**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"} |![Adobe Experience Platform Assurance overview](./assets/experience.svg)|[**Adobe Experience Platform Assurance overview**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
