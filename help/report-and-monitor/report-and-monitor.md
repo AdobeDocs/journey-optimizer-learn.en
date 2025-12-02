@@ -1,6 +1,6 @@
 ---
 title: Report and monitor
-description: Gain comprehensive visibility into your marketing efforts with Adobe Journey Optimizer's (AJO) reporting functionality. Learn to access overview metrics, dive into campaign and journey-specific reporting, and unlock advanced analysis through Customer Journey Analytics.
+description: Discover how Adobe Journey Optimizer (AJO) reporting helps you track, analyze, and act on customer journeys with ease. These tutorials give marketers and analysts the tools to monitor performance in real time, dive into detailed journey and channel insights, export data, set alerts, and leverage advanced analytics for smarter decisions.
 feature: Reporting
 role: User
 level: Beginner, Intermediate
@@ -11,9 +11,10 @@ exl-id: 5bac9b73-9c68-4901-90f8-07949639bd69
 ---
 # Report and monitor
 
-Reporting in Adobe Journey Optimizer is all about turning raw data into actionable insights to help you refine your customer journeys and marketing strategies. Learn to access overview metrics, dive into campaign and journey-specific reporting, and unlock advanced analysis through Customer Journey Analytics.
+Discover how Adobe Journey Optimizer reporting helps you track, analyze, and act on customer journeys with ease.
 
-Whether you're a beginner or a seasoned marketer, these tools deliver clarity and help you optimize for meaningful business outcomes.
+These tutorials give marketers the tools to monitor performance in real time, dive into detailed journey and channel insights, export data, set alerts, and leverage advanced analytics for smarter decisions.
+
 
 ## Tutorials
 
