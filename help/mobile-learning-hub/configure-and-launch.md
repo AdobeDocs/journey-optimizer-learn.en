@@ -32,6 +32,8 @@ Understand which mobile capabilities Adobe Journey Optimizer offers for develope
 
 ## Mobile SDK and app configuration 
 
+Mobile implementations in Journey Optimizer begin with the **Adobe Experience Platform Mobile SDK** integration in your app. SDKs are essential for data collection and interaction with Adobe Experience Platform (AEP) and its applications, such as Adobe Journey Optimizer (AJO).
+
 >[!PREREQUISITES]
 >
 >Make sure you have:
@@ -41,8 +43,6 @@ Understand which mobile capabilities Adobe Journey Optimizer offers for develope
 > - Admin rights in AJO for channel and configuration setup.
 > - Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
 > - Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
-
-Mobile implementations in Journey Optimizer begin with the **Adobe Experience Platform Mobile SDK** integration in your app. SDKs are essential for data collection and interaction with Adobe Experience Platform (AEP) and its applications, such as Adobe Journey Optimizer (AJO).
 
 The Mobile SDK:
 
@@ -57,7 +57,7 @@ Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably
 - Render and track content cards.
 - Use real‑time in‑app behavior to trigger journeys and personalize experiences.
 
-[!BADGE Current SDK versions]{type=Positive url="https://developer.adobe.com/client-sdks/home/current-sdk-versions/" tooltip="Go to https://developer.adobe.com/client-sdks/home/current-sdk-versions"}
+[!BADGE See the current SDK versions]{type=Informative url="https://developer.adobe.com/client-sdks/home/current-sdk-versions/" tooltip="Go to https://developer.adobe.com/client-sdks/home/current-sdk-versions"}
 
 ### Required Mobile SDK components for Journey Optimizer
 
@@ -103,7 +103,7 @@ The property controls:
 A property is a container that you fill with extensions, rules, data elements, and libraries. To use these resources, you need to create and configure a mobile property in the Data Collection UI. You will typically create a mobile property for each mobile application you want to manage.
 
 
-You can [create and configure this mobile property manually](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}, or **for mobile In-App and Push you can use the [Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}** to auto‑create the required tag property, datastream, and channel configuration for iOS and Android.
+You can [create and configure this mobile property manually](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}, or for mobile In-App and Push you can use the [Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"} to auto‑create the required tag property, datastream, and channel configuration for iOS and Android. 
 
 >[!TIP]
 >  
@@ -112,7 +112,7 @@ You can [create and configure this mobile property manually](https://experiencel
 #### Get started with the Mobile SDK:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview
+* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview {image = /help/mobile-learning-hub/assets/mobile-sdk-tutorial.webp}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -166,7 +166,18 @@ You can [create and configure this mobile property manually](https://experiencel
 
 ## Adobe Journey Optimizer Channel Configuration
 
+Configuring mobile channels in Adobe Journey Optimizer ensures that push notifications and in-app messages reach your app users securely and reliably. As an administrator, you'll establish the technical foundations—such as app credentials, SDK integration, and authentication keys—that enable personalized, compliant, and optimized mobile engagement. Proper setup is critical for delivering seamless experiences across mobile touchpoints.
 
+>[!PREREQUISITES]
+>
+> - App registration completed in Adobe Experience Platform for mobile channels.
+> - Adobe Experience Platform Mobile SDK integrated into your app.
+> - Push credentials configured for iOS (APNs) and Android (FCM).
+> - SMS/MMS/RCS provider accounts set up and credentials available.
+> - WhatsApp Business API credentials configured and verified.
+> - Authentication keys, certificates, and API tokens for all channels.
+> - Consent and opt-in policies defined for each channel (push, SMS, WhatsApp).
+> - Testing environments prepared for validating configurations before launch.
 
 ### In-App, Push, and WhatsApp
 
