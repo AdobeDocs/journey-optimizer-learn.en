@@ -57,7 +57,7 @@ Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably
 - Render and track content cards.
 - Use real‑time in‑app behavior to trigger journeys and personalize experiences.
 
-[!BADGE See the current SDK versions]{type=Informative url="<https://developer.adobe.com/client-sdks/home/current-sdk-versions/{target="_blank"}>" tooltip="Go to https://developer.adobe.com/client-sdks/home/current-sdk-versions" }
+**[-> Click here to dee the current SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
 
 ### Required Mobile SDK components for Journey Optimizer
 
