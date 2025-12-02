@@ -170,12 +170,8 @@ You can [create and configure this mobile property manually](https://experiencel
 
 #### Product documentation and developer references
 
-|![Guided channel setup](./assets/configuration.svg)|[**Guided channel setup documentation**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
-
-|![Get the Adobe Experience Platform Mobile SDK](./assets/configuration.svg)|[**Get the Adobe Experience Platform Mobile SDK**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"}| 
-
-|![Adobe Experience Platform Assurance overview](./assets/experience.svg)|[**Adobe Experience Platform Assurance overview**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
-
+|![Guided channel setup documentation](./assets/configuration.svg)|[**Guided channel setup documentation**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |![Get the Mobile SDK](./assets/configuration.svg)|[**Get the Adobe Experience Platform Mobile SDK**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"}|![Assurance overview](./assets/experience.svg)|[**Adobe Experience Platform Assurance overview**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!SUCCESS]
 >
