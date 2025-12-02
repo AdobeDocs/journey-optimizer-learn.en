@@ -217,7 +217,7 @@ You can [create and configure this mobile property manually](https://experiencel
 
 #### Product documentation
 
-|![Guided channel setup documentation](./assets/configuration.svg)|[**Guided channel setup documentation**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}|
+|![Guided channel setup documentation](./assets/configuration.svg){width="50"}[**Guided channel setup documentation**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} | 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!SUCCESS]
