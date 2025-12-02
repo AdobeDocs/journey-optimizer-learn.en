@@ -109,7 +109,7 @@ You can [create and configure this mobile property manually](https://experiencel
 >  
 > For new Mobile In-App and Push implementations, **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}** is the recommended starting point. It reduces the risk of misconfigured datastreams or missing extensions and walks you through SDK validation with Assurance.
 
-#### Get started:
+#### Get started
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
@@ -167,10 +167,14 @@ You can [create and configure this mobile property manually](https://experiencel
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+
 #### Product documentation and developer references
 
-|![Guided channel setup](./assets/configuration.svg)|[**Guided channel setup**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |![Get the Adobe Experience Platform Mobile SDK](./assets/configuration.svg)|[**Get the Adobe Experience Platform Mobile SDK**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"} |![Adobe Experience Platform Assurance overview](./assets/experience.svg)|[**Adobe Experience Platform Assurance overview**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|![Guided channel setup](./assets/configuration.svg)|[**Guided channel setup documentation**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
+
+|![Get the Adobe Experience Platform Mobile SDK](./assets/configuration.svg)|[**Get the Adobe Experience Platform Mobile SDK**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"}| 
+
+|![Adobe Experience Platform Assurance overview](./assets/experience.svg)|[**Adobe Experience Platform Assurance overview**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
 
 
 >[!SUCCESS]
