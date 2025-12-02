@@ -14,11 +14,12 @@ exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
 
 For **administrators** and **mobile app developers**, this section shows how to configure and launch mobile and web channels in Adobe Journey Optimizer. It covers prerequisites, permissions, and platform support, then guides you through creating app-specific configurations.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 > If you are new to Journey Optimizer and Experience Platform, familiarize yourself with the core concepts data management in Journey Optimizer by taking this course:
 >
 > [Engineer Data for Intelligent Journey Activation in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
+>
 >*Learn how to set up and manage real-time customer profile data for Journey Optimizer using Experience Platform. Understand data modeling, identity mapping, and data ingestion to create unified profiles for personalized customer journeys.*
 
 
@@ -31,7 +32,15 @@ Understand which mobile capabilities Adobe Journey Optimizer offers for develope
 
 ## Mobile SDK and app configuration 
 
-[!BADGE Developer]{type=Informative}
+>[!PREREQUISITES]
+>
+>Make sure you have:
+>
+> - Adobe Journey Optimizer (AJO) provisioned for your org.
+> - Adobe Experience Platform access with Data Collection and Journey Optimizer permissions.
+> - Admin rights in AJO for channel and configuration setup.
+> - Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
+> - Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
 
 Mobile implementations in Journey Optimizer begin with the **Adobe Experience Platform Mobile SDK** integration in your app. SDKs are essential for data collection and interaction with Adobe Experience Platform (AEP) and its applications, such as Adobe Journey Optimizer (AJO).
 
@@ -48,16 +57,7 @@ Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably
 - Render and track content cards.
 - Use real‑time in‑app behavior to trigger journeys and personalize experiences.
 
-
->[!PREREQUISITES]
->
->Make sure you have:
->
-> - Adobe Journey Optimizer (AJO) provisioned for your org.
-> - Adobe Experience Platform access with Data Collection and Journey Optimizer permissions.
-> - Admin rights in AJO for channel and configuration setup.
-> - Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
-> - Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
+[!BADGE Current SDK versions]{type=Positive url="https://developer.adobe.com/client-sdks/home/current-sdk-versions/" tooltip="Go to https://developer.adobe.com/client-sdks/home/current-sdk-versions"}
 
 ### Required Mobile SDK components for Journey Optimizer
 
@@ -90,15 +90,18 @@ To use Journey Optimizer mobile channels (push, in‑app, content cards, code‑
 
 >[!ENDTABS]
 
-### Mobile tag property configuration
+### Set up a Mobile Tag Property
 
-Extensions are configured in a **[mobile tag property](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/){target="_blank"}**. *Navigate to Exerience Platform -> Data Collection -> Tags* 
+Extensions are configured in a **Mobile Tag Property** in **Data Collection**. 
 
-This property controls:
+The property controls:
 
 - Which Mobile SDK extensions are installed.
 - Which events in your app trigger calls to the Edge Network.
 - How data is mapped into XDM and forwarded to Adobe solutions (Journey Optimizer, Analytics, etc.).
+
+A property is a container that you fill with extensions, rules, data elements, and libraries. To use these resources, you need to create and configure a mobile property in the Data Collection UI. You will typically create a mobile property for each mobile application you want to manage.
+
 
 You can [create and configure this mobile property manually](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property){target="_blank"}, or **for mobile In-App and Push you can use the [Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}** to auto‑create the required tag property, datastream, and channel configuration for iOS and Android.
 
@@ -141,12 +144,12 @@ You can [create and configure this mobile property manually](https://experiencel
 
 #### Developer references: 
 
-* [Mobile SDK overview](https://developer.adobe.com/client-sdks/home)
-* [Current SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions)
-* [Set up a mobile property](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property)
-* [Get the Adobe Experience Platform Mobile SDK](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk)
-* [Track events](https://developer.adobe.com/client-sdks/home/getting-started/track-events)
-* [Adobe Experience Platform Assurance overview](https://developer.adobe.com/client-sdks/home/base/assurance)
+- [Get the Adobe Experience Platform Mobile SDK](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk)
+*The Adobe Experience Platform SDK is available for Apple iOS (includes iOS, iPadOS, and tvOS) via Cocoapods and Swift Package Manager, and for Google Android via Gradle.*
+- [Track events](https://developer.adobe.com/client-sdks/home/getting-started/track-events)
+*The SDK provides three event tracking APIs to log events for reporting, segmentation, and various other data collection use cases.*
+- [Adobe Experience Platform Assurance overview](https://developer.adobe.com/client-sdks/home/base/assurance)
+*Validate that specific actions and experiences work as intended*
 
 >[!SUCCESS]
 >
@@ -163,7 +166,7 @@ You can [create and configure this mobile property manually](https://experiencel
 
 ## Adobe Journey Optimizer Channel Configuration
 
-[!BADGE Administrator]{type=Informative}
+
 
 ### In-App, Push, and WhatsApp
 
