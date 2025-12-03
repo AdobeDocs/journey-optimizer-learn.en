@@ -515,8 +515,7 @@ Most mobile issues originate in **SDK or data collection configuration**, not in
 
 Open the pitfall that matches your symptoms to see what to check and how to fix it.
 
-<details id="1-sdk-versions-and-extensions-not-aligned-with-channel-requirements">
-<summary><strong>1. SDK versions and extensions not aligned with channel requirements</strong></summary>
++++1 SDK versions and extensions not aligned with channel requirements
 
 **What you'll notice**
 
@@ -538,11 +537,9 @@ Open the pitfall that matches your symptoms to see what to check and how to fix 
 
 See: [Set up mobile and web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
 
-</details>
++++
 
-
-<details id="2-misconfigured-datastreams-or-datasets">
-<summary><strong>2. Misconfigured datastreams or datasets</strong></summary>
++++2 Misconfigured datastreams or datasets
 
 **What you'll notice**
 
@@ -565,11 +562,9 @@ See: [Set up mobile and web](https://experienceleague.adobe.com/en/docs/journey-
 
 See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
-</details>
++++
 
-
-<details id="3-missing-or-inconsistent-identity-and-consent">
-<summary><strong>3. Missing or inconsistent identity and consent</strong></summary>
++++3 Missing or inconsistent identity and consent
 
 **What you'll notice**
 
@@ -592,12 +587,9 @@ See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleagu
 - Retest in Assurance until identity and consent appear on all relevant events.
 
 See: [Implement consent for Platform Mobile SDK implementations](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
++++
 
-</details>
-
-
-<details id="4-push-token-registration-and-tracking-not-wired-correctly">
-<summary><strong>4. Push token registration and tracking not wired correctly</strong></summary>
++++4 Push token registration and tracking not wired correctly
 
 **What you'll notice**
 
@@ -621,8 +613,9 @@ See: [Implement consent for Platform Mobile SDK implementations](https://experie
 
 See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
-</details>
++++
 
++++5 In‑app messages or content cards not displaying
 
 <details id="5-in-app-messages-or-content-cards-not-displaying">
 <summary><strong>5. In‑app messages or content cards not displaying</strong></summary>
@@ -655,6 +648,8 @@ See:
 - [Configure content cards support in Mobile SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 </details>
+
++++
 
 >[!SUCCESS]
 >
