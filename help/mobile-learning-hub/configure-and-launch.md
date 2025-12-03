@@ -617,9 +617,6 @@ See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleagu
 
 +++5 In‑app messages or content cards not displaying
 
-<details id="5-in-app-messages-or-content-cards-not-displaying">
-<summary><strong>5. In‑app messages or content cards not displaying</strong></summary>
-
 **What you'll notice**
 
 - In‑app messages or content cards never appear, despite active campaigns or journeys.  
@@ -647,9 +644,8 @@ See:
 - [Create and send in‑app messages](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}  
 - [Configure content cards support in Mobile SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
-</details>
-
 +++
+
 
 >[!SUCCESS]
 >
