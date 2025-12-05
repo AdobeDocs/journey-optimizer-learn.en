@@ -49,7 +49,7 @@ The Mobile SDK:
 - Collects app events (screen views, taps, purchases, lifecycle events, etc.) and sends them to the **Adobe Experience Platform Edge Network**.
 - Manages **identity** and **consent**, so Journey Optimizer can safely build and use customer profiles.
 - Registers and updates **push tokens**, and sends **push and in‑app tracking events** back to Adobe Experience Platform.
-- Integrates with **Journey Optimizer mobile extensions** (push, in‑app, content cards, decisioning) so messages can be delivered, rendered, and measured end‑to‑end.
+- Integrates with the **[Journey Optimizer mobile extension](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)** so messages can be delivered, rendered, and measured end‑to‑end.
 
 Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably:
 
@@ -214,18 +214,12 @@ You can [create and configure this mobile property manually](https://experiencel
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-
-#### Product documentation
-
-|![Guided channel setup documentation](./assets/configuration.svg){width="50"}[**Guided channel setup documentation**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} | 
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 >[!SUCCESS]
 >
 >**Mobile SDK readiness checklist**
 >
 > [ ] Core SDK installed (Core, Edge, Identity, Consent, Assurance).
-> [ ] Journey Optimizer mobile extensions added for the channels you will use (push, in‑app, content cards, code‑based).
+> [ ] [Journey Optimizer mobile extension](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer/) added for the channels you will use (push, in‑app, content cards, code‑based).
 > [ ] Datastream correctly configured to event and profile datasets.
 > [ ] Identity and consent implemented and validated with Assurance.
 > [ ] Push token registration and tracking validated end‑to‑end.
