@@ -645,7 +645,7 @@ See:
 
 >[!SUCCESS]
 >
-> **One-line readiness checklist**
+> **Readiness checklist**
 >
 > Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** that: 
 > 
