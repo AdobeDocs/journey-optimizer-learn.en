@@ -59,36 +59,12 @@ Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably
 
 **[-> Click here for the current SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
 
-### Required Mobile SDK components for Journey Optimizer
+### Required Mobile SDK components for Journey Optimizer mobile use cases
 
-To use Journey Optimizer mobile channels (push, in‑app, content cards, code‑based experiences), you must install and configure a set of **core** and **channel‑specific** extensions in your mobile app:
+To use Journey Optimizer mobile channels (push, in‑app, content cards, code‑based experiences), you must install and configure the following extensions:
 
->[!BEGINTABS]
+![Required Extensions](/help/mobile-learning-hub/assets/extensions.png)
 
->[!TAB Core]
-
-#### Core extensions (required for all mobile use cases)
-
-| Purpose              | Extension examples (iOS / Android)           | Notes |
-|----------------------|-----------------------------------------------|-------|
-| Event hub & services | Mobile Core / AEP Core, AEP Services         | Foundation for all other extensions. Provides event hub, networking, storage, and shared state. |
-| Edge Network         | Adobe Experience Platform Edge Network       | Sends app events to the Adobe Experience Platform Edge Network. |
-| Identity             | Identity for Edge Network                    | Manages ECID and other identities used for profile and segmentation. |
-| Consent              | Consent for Edge Network                     | Collects and enforces user consent preferences. |
-| Assurance            | Adobe Experience Platform Assurance          | Used to validate and debug SDK and channel configuration end‑to‑end. |
-
->[!TAB Channel-specific]
-
-#### Channel‑specific extensions for Journey Optimizer
-
-| Channel / capability   | Additional key extensions (on top of core)                          | What they enable |
-|------------------------|---------------------------------------------------------------------|------------------|
-| Push notifications     | Journey Optimizer mobile extension (push)                           | Register and update push tokens, send push tracking events, connect to AJO push configuration. |
-| In‑app messaging       | Journey Optimizer mobile extension (in‑app), Messaging UI components | Fetch and display in‑app messages in context, send impressions and interaction events. |
-| Content cards          | Messaging SDK with content card support                             | Fetch, render, and track content cards for accurate Journey Optimizer reporting. |
-| Code‑based experiences | Journey Optimizer / decisioning extensions, or Edge Server API      | Fetch decisions for specific "surfaces" in your app; your app controls how content is rendered. |
-
->[!ENDTABS]
 
 ### Set up a Mobile Tag Property
 
@@ -649,7 +625,6 @@ See:
 > [ ] Push tokens and interactions are tracked, and  
 > [ ] At least one test in‑app message or content card has been displayed and recorded as an impression.
 
-## Blog posts
+## Additional ressources
 
-- [Using CDN based client side personalization (ODD) on mobile for faster personalizations.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
-- [Mobile Activation for Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595){target="_blank"}
+- [Using CDN based client side personalization (ODD) on mobile for faster personalizations (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
