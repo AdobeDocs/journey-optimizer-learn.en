@@ -2,8 +2,9 @@
 
 ## What is it
 
-**Code-based experiences** refer to personalized, dynamic content or messaging built using custom code (JavaScript, APIs, or templating languages) within platforms like Adobe Journey Optimizer.  
-This allows you to create highly tailored, data-driven customer journeys and messaging beyond standard drag-and-drop tools.
+Code-based experiences allow you to deliver personalized, dynamic content and messaging using custom code — such as JavaScript, APIs, or templating languages — within Adobe Journey Optimizer.
+
+This channel is ideal for building highly tailored, data-driven interactions that extend beyond standard visual authoring tools (WYSIWYG editors), giving developers and optimization managers full flexibility to design custom personalization logic and content layouts.
 
 Examples:
 

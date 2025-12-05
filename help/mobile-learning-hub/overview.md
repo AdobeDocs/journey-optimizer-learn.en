@@ -10,22 +10,22 @@ exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
 ---
 # Journey Optimizer - Mobile Learning Hub
 
-Jumpstart or level up with mobile channels in Adobe Journey Optimizer (AJO). This is the go-to space for developers, administrators, marketers, and data analysts to discover everything from setting up inbound and outbound mobile channels to weaving them into powerful campaigns. 
+Jumpstart or elevate your mobile engagement strategy with Adobe Journey Optimizer. This mobile learning hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys.
 
-Explore best practices,learn how to drive adoption, and master reporting — all in one place — so teams can deliver impactful, data-driven mobile experiences that connect with users anytime, anywhere.
+Explore best practices, learn how to drive adoption, and setup centralized reporting workflows — all in one place — to deliver impactful, data-driven mobile experiences that reach customers anytime, anywhere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Mobile channel overview
 
-Journey Optimizer support both inbound and outbound mobile channels:
+Journey Optimizer supports both inbound and outbound mobile channels:
 
 ### Outbound channels
 
-Outbound channels are used to **proactively deliver messages** to customers without requiring prior interaction. These are ideal for campaigns, promotions, and transactional communications. 
+Outbound channels let you proactively deliver messages to customers without requiring a prior interaction. These interactions are ideal for campaigns, promotions, or transactional events.
 
-These channels enforce **Custom Consent Policies** at message send time. If consent is not granted for a specific marketing action, the message is blocked from delivery.
+All outbound channels in Adobe Journey Optimizer enforce Custom Consent Policies at message send time. If consent is not granted for a specific marketing action, the message is automatically suppressed to ensure compliant delivery.
 
 | ![Push Notifications](/help/mobile-learning-hub/assets/mobile-phone.webp){width="250", height="250"}<br> **[Push Notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width="250", height="250"}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width="250", height="250"}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
@@ -33,7 +33,7 @@ These channels enforce **Custom Consent Policies** at message send time. If cons
 
 ### Inbound channels
 
-Inbound channels are designed for **customer-initiated interactions**, enabling personalized experiences when users engage with your brand. They support **real-time personalization** and **data capture**, such as landing page forms that feed into Adobe Experience Platform (AEP) for segmentation and targeting.
+Inbound channels support customer-initiated interactions, allowing you to deliver personalized experiences the moment users engage with your brand. They enable real-time personalization and data capture—such as landing page forms or on-site behaviors—that feed directly into Adobe Experience Platform (AEP) for segmentation, targeting, and activation across journeys.
 
 
 | ![In-App Messages](/help/mobile-learning-hub/assets/frescopa-in-app.png){width="250",height="50%"}<br> **[In-App Messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Content Cards](/help/mobile-learning-hub/assets/content-card.jpeg){width="250", height="250"}<br> **[Content Cards](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Code-Based Experience](/help/mobile-learning-hub/assets/code-based.png){width="250", height="250"}<br> **[Code-Based Experience](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |

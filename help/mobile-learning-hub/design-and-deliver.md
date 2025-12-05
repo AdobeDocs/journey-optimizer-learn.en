@@ -115,7 +115,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 >[!PREREQUISITES]
 >
 > 1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
-> 2. Make sure that the In-App channel has been configured.  
+> 2. Make sure that the [In-App channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup?lang=en) has been configured.  
 > 3. Ensure that customer profiles and audience segments are ready for targeting.
 
 #### Tutorials
