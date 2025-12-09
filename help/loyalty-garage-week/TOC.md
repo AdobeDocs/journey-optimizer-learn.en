@@ -1,6 +1,6 @@
 ---
-user-guide-title: LoyaltyGarageWeek
-user-guide-description: 
+user-guide-title: Loyalty Garage Week
+user-guide-description: This is a dummy guide for the Winter Garage Week 2026 Loyalty project.
 role: User, Admin, Devloper
 level: Beginner,Intermediate
 breadcrumb-title: Loyalty Garage Week
@@ -10,7 +10,7 @@ auto-video-transcripts: true
 
 # Loyalty Garage Week {#loyalty-garage-week}
 
-+ [Loyalty Garage Week](help/loyaltygarageweek/overview.md)
++ [Loyalty Garage Week](help/loyalty-garage-week/overview.md)
 
    
 
