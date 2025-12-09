@@ -81,7 +81,7 @@ This following guides walk you through everything you need to manually configure
 {target = _blank}
 
 * https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration
-{image = https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=2000&format=webply&optimize=medium}
+{image = https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=2000&format=webply&optimize=small}
 {target = _blank}
 * https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview 
 {target = _blank}
@@ -160,7 +160,7 @@ This following guides walk you through everything you need to manually configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Additional ressources
+#### Additional ressources
 
 
 <!-- CARDS
@@ -239,6 +239,7 @@ Before handing the app to marketers, confirm in **[Assurance](https://developer.
 * https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp
 {title = Configure content cards support in Mobile SDK}
 {description = Learn how to integrate content cards in your mobile application using Messaging SDK.}
+{image = https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/media_17623afb1c5e280b7fb6861b4003d0ef8f8bea24d.jpg?width=2000&format=webply&optimize=medium}
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -421,6 +422,7 @@ Configure **SMS/MMS/RCS channels** with the standard providers (Twilio,Synch or 
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
+{image = help/mobile-learning-hub/assets/privacy.webp}
 {target = _blank}
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
 {target = _blank}
