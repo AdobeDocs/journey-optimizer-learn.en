@@ -57,11 +57,11 @@ For new Mobile In-App and Push implementations, Guided Channel Setup is the reco
 >Make sure you have:
 >
 > - **Adobe Journey Optimizer** (AJO) provisioned for your org.
-> - Adobe Experience Platform access with [Data Collection** and Journey Optimizer permissions](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions).
+> - Adobe Experience Platform access with [Data Collection and Journey Optimizer permissions](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions).
 > - Admin rights in AJO for channel and configuration setup.
 > - Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
 > - Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
-> - If you are using the existing configuration option, please ensure that you are using the [current Adobe Experience Platform Mobile SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
+> - If you are using the existing configuration option, please ensure that you are using the [current Adobe Experience Platform Mobile SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
