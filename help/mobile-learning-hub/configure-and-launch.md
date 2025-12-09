@@ -33,7 +33,7 @@ Understand which mobile capabilities Adobe Journey Optimizer offers for develope
 
 Mobile implementations in Journey Optimizer begin with the **Adobe Experience Platform Mobile SDK** integration in your app. SDKs are essential for data collection and interaction with Adobe Experience Platform (AEP) and its applications, such as Adobe Journey Optimizer (AJO).
 
-### What is the Mobile SDK:
+#### What is the Mobile SDK:
 
 The mobile SDK: 
 
@@ -48,7 +48,7 @@ Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably
 - Render and track content cards.
 - Use real‑time in‑app behavior to trigger journeys and personalize experiences.
 
-### Guided channel setup for new implementations
+#### Guided channel setup for new implementations
 
 For new Mobile In-App and Push implementations, Guided Channel Setup is the recommended starting point. It reduces the risk of misconfigured datastreams or missing extensions and walks you through SDK validation with Assurance.
 
@@ -69,7 +69,7 @@ For new Mobile In-App and Push implementations, Guided Channel Setup is the reco
 For more information see [Get started with guided channel setup](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html){target="_blank"}
 
 
-### Manual configuration of the push channel
+#### Manual configuration of the push channel
 
 This following guides walk you through everything you need to manually configure and use push notifications effectively, from understanding the data flow and integrating with services like Firebase and Apple Push Notification Service (APNs) to setting up mobile apps and testing notifications.
 
@@ -220,33 +220,18 @@ This following guides walk you through everything you need to manually configure
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+#### Mobile SDK readiness checklist
+
+Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** that: 
+
 >[!SUCCESS]
->
->**Mobile SDK readiness checklist**
->
-> [ ] Core SDK installed (Core, Edge, Identity, Consent, Assurance).
-> [ ] [Journey Optimizer mobile extension](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer/) added for the channels you will use (push, in‑app, content cards, code‑based).
-> [ ] Datastream correctly configured to event and profile datasets.
-> [ ] Identity and consent implemented and validated with Assurance.
-> [ ] Push token registration and tracking validated end‑to‑end.
-> [ ] In‑app and/or content cards display validated on a device.
-> [ ] Guided Channel Setup used for new implementations, or configuration manually aligned to the documented steps.
+> 
+> [ ] Core SDK + Journey Optimizer extensions are loaded,  
+> [ ] Events are flowing on the correct datastream and datasets,  
+> [ ]Identity and consent are present on all key events,  
+> [ ] Push tokens and interactions are tracked, and  
+> [ ] At least one test in‑app message or content card has been displayed and recorded as an impression.
 
-
-## Adobe Journey Optimizer Channel Configuration
-
-Configuring mobile channels in Adobe Journey Optimizer ensures that push notifications and in-app messages reach your app users securely and reliably. As an administrator, you'll establish the technical foundations—such as app credentials, SDK integration, and authentication keys—that enable personalized, compliant, and optimized mobile engagement. Proper setup is critical for delivering seamless experiences across mobile touchpoints.
-
->[!PREREQUISITES]
->
-> - App registration completed in Adobe Experience Platform for mobile channels.
-> - Adobe Experience Platform Mobile SDK integrated into your app.
-> - Push credentials configured for iOS (APNs) and Android (FCM).
-> - SMS/MMS/RCS provider accounts set up and credentials available.
-> - WhatsApp Business API credentials configured and verified.
-> - Authentication keys, certificates, and API tokens for all channels.
-> - Consent and opt-in policies defined for each channel (push, SMS, WhatsApp).
-> - Testing environments prepared for validating configurations before launch.
 
 ### Content Cards
 
@@ -542,6 +527,7 @@ Configure **SMS/MMS/RCS channels** with the standard providers (Twilio,Synch or 
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+
 ## Common implementation pitfalls and how to avoid them
 
 Most mobile issues originate in **SDK or data collection configuration**, not in the Journey Optimizer journeys or campaigns themselves. Use the table below to identify what's going wrong, then expand the corresponding section for details.
@@ -560,7 +546,7 @@ Most mobile issues originate in **SDK or data collection configuration**, not in
 
 Open the pitfall that matches your symptoms to see what to check and how to fix it.
 
-+++1 SDK versions and extensions not aligned with channel requirements
++++ 1. SDK versions and extensions not aligned with channel requirements
 **What you'll notice**
 
 - Push or in‑app activities do not reach the device.  
@@ -583,7 +569,7 @@ See: [Set up mobile and web](https://experienceleague.adobe.com/en/docs/journey-
 
 +++
 
-+++2 Misconfigured datastreams or datasets
++++ 2. Misconfigured datastreams or datasets
 **What you'll notice**
 
 - Events or push tracking batches fail in Platform datasets.  
@@ -607,7 +593,7 @@ See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleagu
 
 +++
 
-+++3 Missing or inconsistent identity and consent
++++ 3. Missing or inconsistent identity and consent
 **What you'll notice**
 
 - Journeys don't trigger as expected for app users.  
@@ -632,7 +618,7 @@ See: [Implement consent for Platform Mobile SDK implementations](https://experie
 
 +++
 
-+++4 Push token registration and tracking not wired correctly
++++ 4. Push token registration and tracking not wired correctly
 **What you'll notice**
 
 - Users never receive push notifications, even though campaigns or journeys run.  
@@ -657,7 +643,7 @@ See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleagu
 
 +++
 
-+++5 In‑app messages or content cards not displaying
++++ 5. In‑app messages or content cards not displaying
 **What you'll notice**
 
 - In‑app messages or content cards never appear, despite active campaigns or journeys.  
@@ -687,19 +673,7 @@ See:
 
 +++
 
-
->[!SUCCESS]
->
-> **Readiness checklist**
->
-> Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** that: 
-> 
-> [ ] Core SDK + Journey Optimizer extensions are loaded,  
-> [ ] Events are flowing on the correct datastream and datasets,  
-> [ ]Identity and consent are present on all key events,  
-> [ ] Push tokens and interactions are tracked, and  
-> [ ] At least one test in‑app message or content card has been displayed and recorded as an impression.
-
 ## Additional ressources
 
 - [Using CDN based client side personalization (ODD) on mobile for faster personalizations (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [The Secret to Next-Level Mobile App Engagement and Growth (Summit Session)](https://business.adobe.com/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
