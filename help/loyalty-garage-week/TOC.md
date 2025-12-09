@@ -10,7 +10,4 @@ auto-video-transcripts: true
 
 # Loyalty Garage Week {#loyalty-garage-week}
 
-+ [Loyalty Garage Week](help/loyalty-garage-week/overview.md)
-
-   
-
++ [Loyalty Garage Week](/help/loyalty-garage-week/overview.md)
