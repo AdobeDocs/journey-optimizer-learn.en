@@ -7,10 +7,11 @@ hide: yes
 index: no
 ---
 
+# Loyalty in an Omnichannel World 
 
-# Loyalty in an Omnichannel World -  Building a Unified, Predictive, Real-Time Loyalty Experience Across All Customer Touchpoints
+## Building a Unified, Predictive, Real-Time Loyalty Experience Across All Customer Touchpoints
 
-## Executive Summary
+### Executive Summary
 
 The modern customer journey is fractured, nonlinear, and intensely cross-channel. Consumers fluidly transition between mobile apps, desktop browsers, in-store experiences, call centers, email, SMS, push notifications, social channels, connected devices, and paid media retargeting. Yet most loyalty programs still operate using siloed systems, channel-centric incentives, and batch-based processing that cannot keep up with customer expectations of immediacy, continuity, and personalization. The result is a disjointed loyalty experience: email says a reward is available, while the app displays outdated information; in-store staff cannot see tier or benefit eligibility; push notifications fire out of sync with email journeys; customers receive conflicting offers; identity mismatches cause progress loss; and loyalty value is inconsistently visible across brand surfaces.
 

@@ -7,9 +7,9 @@ hide: yes
 index: no
 ---
 
-# Article 2: Challenge-Based Loyalty
+# Challenge-Based Loyalty
 
-## Challenge-Based Loyalty — Designing Behavioral Gamification Systems That Drive Long-Term Engagement
+## Designing Behavioral Gamification Systems That Drive Long-Term Engagement
 
 ### Executive Summary
 

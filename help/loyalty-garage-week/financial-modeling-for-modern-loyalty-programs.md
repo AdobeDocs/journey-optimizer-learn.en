@@ -9,9 +9,9 @@ index: no
 
 # Financial Modeling for Modern Loyalty Programs
 
-A Comprehensive, CFO-Ready Framework for Forecasting Liability, Reward Economics, and Incremental Value.
+## A Comprehensive, CFO-Ready Framework for Forecasting Liability, Reward Economics, and Incremental Value.
 
-## Executive Summary
+### Executive Summary
 
 Modern loyalty programs operate at the intersection of marketing, finance, and data science. As these programs evolve beyond simple points and discounts, they increasingly resemble complex financial products—complete with variable liabilities, fluctuating earn/burn rates, inflation exposure, partner economics, and multi-layered ROI calculations. Yet many loyalty teams still struggle to speak to executives and CFOs in the financial language required to secure investment or demonstrate value. The result is a disconnect: marketing sees loyalty as a customer strategy; finance sees it as a cost center.
 
