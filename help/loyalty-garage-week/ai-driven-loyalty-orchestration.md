@@ -1,12 +1,12 @@
 ---
-title: AI-Driven Loyalty Orchestration: From RFM to Real-Time Personalization
+title: AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization
 description: Modern loyalty programs are undergoing an AI-powered revolution. Brands are evolving from simple, rule-based segmentation (like RFM models) to predictive analytics and autonomous decision engines that orchestrate the next best action for each customer in real time.
 feature: Overview
 role: User, Admin, Developer
 hide: yes
 index: no
 ---
-# Article 1: AI-Driven Loyalty Orchestration: From RFM to Real-Time Personalization
+# Article 1: AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization
 
 ### Executive Summary
 
