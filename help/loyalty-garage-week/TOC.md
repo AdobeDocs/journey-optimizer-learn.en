@@ -11,3 +11,4 @@ auto-video-transcripts: true
 # Loyalty Garage Week {#loyalty-garage-week}
 
 + [Loyalty Garage Week](/help/loyalty-garage-week/overview.md)
++[AI-Driven Loyalty Orchestration](/help/loyalty-garage-week/ai-driven-loyalty-orchestration.md)
