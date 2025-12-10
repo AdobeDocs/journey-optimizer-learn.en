@@ -8,5 +8,3 @@ index: no
 ---
 
 # Loyalty Garage Week - Overview
-
-Add a description here! 

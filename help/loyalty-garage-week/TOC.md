@@ -15,3 +15,4 @@ auto-video-transcripts: true
 + [Challenge-Based Loyalty](/help/loyalty-garage-week/challenge-based-loyalty.md)
 + [Loyalty in an Omnichannel World](/help/loyalty-garage-week/loyalty-in-an-omnichannel-world.md)
 + [Emotional Loyalty & Community Building](/help/loyalty-garage-week/emotional-loyalty-and-community-building.md)
++ [Financial Modeling for Modern Loyalty Programs](/help/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.md)
