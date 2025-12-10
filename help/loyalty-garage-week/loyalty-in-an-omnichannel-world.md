@@ -33,8 +33,6 @@ The fourth failure point is **loyalty experiences that are not embedded across a
 
 The combination of these failures leads to what can be called **loyalty dissonance**—the psychological gap between what the customer expects and what the brand delivers. Omnichannel loyalty solves this by aligning identity, data, decisioning, journey orchestration, and user experience around a single continuous narrative.
 
----
-
 ## 2. What Omnichannel Loyalty Really Means
 
 Omnichannel loyalty is not about using more channels or sending more messages. It is the discipline of creating a seamless experience across all brand surfaces, anchored by a single customer identity, with real-time continuity of loyalty value.
