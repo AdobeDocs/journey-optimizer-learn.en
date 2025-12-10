@@ -2,7 +2,7 @@
 title: Loyalty in an Omnichannel World
 description: Building a Unified, Predictive, Real-Time Loyalty Experience Across All Customer Touchpoints.
 feature: Overview
-role: User, Admin, Developer
+role: User
 hide: yes
 index: no
 ---
