@@ -13,3 +13,4 @@ auto-video-transcripts: true
 + [Loyalty Garage Week](/help/loyalty-garage-week/overview.md)
 + [AI-Driven Loyalty Orchestration](/help/loyalty-garage-week/ai-driven-loyalty-orchestration.md)
 + [Challenge-Based Loyalty](/help/loyalty-garage-week/challenge-based-loyalty.md)
++ [Loyalty in an Omnichannel World](/help/loyalty-garage-week/loyalty-in-an-omnichannel-world.md)
