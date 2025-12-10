@@ -1,6 +1,6 @@
 ---
 title: AI-Driven Loyalty Orchestration: From RFM to Real-Time Personalization
-description: Modern loyalty programs are undergoing an AI-powered revolution. Brands are evolving from simple, rule-based segmentation (like RFM models) to predictive analytics and autonomous decision engines that orchestrate the _next best action_ for each customer in real time.
+description: Modern loyalty programs are undergoing an AI-powered revolution. Brands are evolving from simple, rule-based segmentation (like RFM models) to predictive analytics and autonomous decision engines that orchestrate the next best action for each customer in real time.
 feature: Overview
 role: User, Admin, Developer
 hide: yes
@@ -147,7 +147,3 @@ By executing these steps, loyalty marketers will lay the groundwork for successf
 - [AI-powered next best experience for customer retention – McKinsey](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/next-best-experience-how-ai-can-power-every-customer-interaction)
 - [Salesforce releases agentic maturity model for enterprises – Salesforce](https://www.salesforce.com/news/stories/agentic-maturity-model/)
 - [Identity Resolution Gets in the Way of Customer Centricity – Total Retail](https://www.mytotalretail.com/article/identity-resolution-gets-in-the-way-of-customer-centricity/)
-
-*(Additional references are included as inline links throughout the article.)*
-
-
