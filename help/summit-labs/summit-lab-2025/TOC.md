@@ -4,11 +4,11 @@ user-guide-description: In this lab, you'll learn how to transform business comm
 role: User
 level: Beginner,Intermediate
 breadcrumb-title: scaling-orchestration-to-omnichannel-engagement
-breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/scaling-orchestration-to-omnichannel-engagement/introduction
 auto-video-transcripts: true
 ---
 
-# Scaling orchestration to omnichannel engagement{#scaling-orchestration-to-omnichannel-engagement}
+# Scaling orchestration to omnichannel engagement {#scaling-orchestration-to-omnichannel-engagement}
 
 + [Introduction](/help/summit-labs/summit-lab-2025/introduction.md)
 + [Lesson 1 - Experience the journey](/help/summit-labs/summit-lab-2025/lesson-1-experience-the-journey.md)
