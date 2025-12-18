@@ -4,9 +4,9 @@ description: Access reports, analyze performance, and refine strategies for bett
 feature: Reporting, Governance, Privacy
 role: User
 level: Beginner, Intermediate
-hide: yes
-index: no
-last-substantial-update: 2025-08-22
+hide: no
+index: yes
+last-substantial-update: 2025-12-18
 exl-id: fb06f781-3370-4825-a815-14ef33ad2322
 ---
 # Measure Performance and Optimize
