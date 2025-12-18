@@ -57,7 +57,7 @@ auto-video-transcripts: true
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Create an audience by uploading a CSV file](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
   + [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"} 
-  + [Evaluate audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+  + [Evaluate audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Channels {#channels}
   + [Mobile App Optimization - Overview](/help/channels/mobile-app-optimization-overview.md)
@@ -233,7 +233,7 @@ auto-video-transcripts: true
   + [Configure a training sandbox](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
   + [Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + Summit Labs {#summit-labs}
-    + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"} 
-    + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
+    + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](/help/summit-labs/summit-lab-2024/l820-lab-workbook/lab-overview.md){target="_blank"} 
+    + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](/help/summit-labs/summit-lab-2025/introduction.md){target="_blank"} 
 + Live Sessions & Deep Dives {#live-sessions-and-deep-dives} 
   + [Experience League Live show recordings](/help/_ajo-main/experience-league-live-show-recordings.md)
