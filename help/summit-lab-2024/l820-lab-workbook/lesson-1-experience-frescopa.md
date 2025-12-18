@@ -28,11 +28,11 @@ In this lesson you will experience the interaction with the brand as a consumer,
 
 1. On the Fréscopa homepage, click **[!UICONTROL Sign In]**.
    
-   ![Fréscopa homepage](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
+   ![Fréscopa homepage](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
 
 1. On the sign-in page, select **[!UICONTROL Create an account]**.
  
-    ![Fréscopa sign-in page](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa sign-in")
+    ![Fréscopa sign-in page](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa sign-in")
 
 1. On the next page fill in your details:
    
@@ -51,19 +51,19 @@ In this lesson you will experience the interaction with the brand as a consumer,
    
    1. Enter your **seat number**. (You can find it on your lab machine's desktop.)
             
-         ![Lab machine desktop](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+         ![Lab machine desktop](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
     
    1. To specify whether you have a Fréscopa machine, choose either **Yes** or **No**.
    
 1. Click **Register**.
    
-    ![Fréscopa registration page](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
+    ![Fréscopa registration page](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
 ## Exercise 1.2 - Download and install the Fréscopa app
 
 Install the mobile app on your iOS or Android&trade; device by either scanning the QR code from the message that you receive when you register or from below:
 
-![Fréscopa mobile app QR codes](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa mobile app QR codes")
+![Fréscopa mobile app QR codes](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa mobile app QR codes")
 
 Device-specific installation:
 
@@ -77,23 +77,23 @@ After installing the app, you must trust the Adobe enterprise developer:
 
 1. Go to **Settings** > **General** > **VPN & Device Management**. 
 
-    ![Device management settings screen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Device management settings screen"){width="250" align="center" zoomable="yes"}
+    ![Device management settings screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Device management settings screen"){width="250" align="center" zoomable="yes"}
 
 1. Select **Adobe Systems Inc** and **Trust Adobe Systems Inc**.
 
-    ![Adobe Systems selection screen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems selection screen"){width="250" align="center" zoomable="yes"}
+    ![Adobe Systems selection screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems selection screen"){width="250" align="center" zoomable="yes"}
     <br>
 
-    ![Trust Adobe Systems screen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+    ![Trust Adobe Systems screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * You should now be able to launch the **Fréscopa app** on your iPhone: ![Fréscopa App Icon](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   * You should now be able to launch the **Fréscopa app** on your iPhone: ![Fréscopa App Icon](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
 1. Open the app.
 
 1. On the pop-up, click **Allow**, to allow the DX Demo app to send you notifications.
 
-     ![notification pop up](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
+     ![notification pop up](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
@@ -101,11 +101,11 @@ After installing the app, you must trust the Adobe enterprise developer:
 
 On Android, download and install the APK by following the alert instructions shown here:
 
-![Android download screen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android download screen"){width="250" align="center" zoomable="yes"}
+![Android download screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android download screen"){width="250" align="center" zoomable="yes"}
 <br>
-![Android installation screen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Android installation screen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* You should now be able to launch the **Fréscopa app** on your Android device: ![Fréscopa App Icon](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+* You should now be able to launch the **Fréscopa app** on your Android device: ![Fréscopa App Icon](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
@@ -138,12 +138,12 @@ You receive badges for each of these activities.
 >
 >On the Frescopa homepage, click **Adobe Summit Lab Challenge Progress** (bottom of the page).
 > 
->  ![Challenge progress button](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
+>  ![Challenge progress button](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
 >
 > You can see which badges you have earned:
 > 
-> ![Badges](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
+> ![Badges](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
 
 In the following lessons, you will learn how to create mobile and web experiences in Adobe Journey Optimizer.
 
-[def]: /help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
+[def]: /help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG

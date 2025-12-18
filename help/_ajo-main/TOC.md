@@ -234,7 +234,7 @@ auto-video-transcripts: true
   + [Configure a training sandbox](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
   + [Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + Summit Labs {#summit-labs}
-    + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](/help/summit-labs/summit-lab-2024/l820-lab-workbook/lab-overview.md){target="_blank"} 
-    + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](/help/summit-labs/summit-lab-2025/introduction.md){target="_blank"} 
+    + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](/help/summit-lab-2024/l820-lab-workbook/lab-overview.md){target="_blank"} 
+    + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](/help/summit-lab-2025/introduction.md){target="_blank"} 
 + Live Sessions & Deep Dives {#live-sessions-and-deep-dives} 
   + [Experience League Live show recordings](/help/_ajo-main/experience-league-live-show-recordings.md)

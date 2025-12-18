@@ -10,10 +10,10 @@ auto-video-transcripts: true
 
 # Scaling orchestration to omnichannel engagement {#scaling-orchestration-to-omnichannel-engagement}
 
-+ [Introduction](/help/summit-labs/summit-lab-2025/introduction.md)
-+ [Lesson 1 - Experience the journey](/help/summit-labs/summit-lab-2025/lesson-1-experience-the-journey.md)
-+ [Lesson 2 - Create a welcome journey](/help/summit-labs/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
-+ [Lesson 3 - Create dynamic content](/help/summit-labs/summit-lab-2025/lesson-3-create-dynamic-content.md)
-+ [Lesson 4 – Create a content experiment](/help/summit-labs/summit-lab-2025/lesson-4-create-a-content-experiment.md)
-+ [Lesson 5 – Test your Journey](/help/summit-labs/summit-lab-2025/lesson-5-test-your-journey.md)
-+ [Lesson 6 - Create a content card campaign](/help/summit-labs/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)
++ [Introduction](/help/summit-lab-2025/introduction.md)
++ [Lesson 1 - Experience the journey](/help/summit-lab-2025/lesson-1-experience-the-journey.md)
++ [Lesson 2 - Create a welcome journey](/help/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
++ [Lesson 3 - Create dynamic content](/help/summit-lab-2025/lesson-3-create-dynamic-content.md)
++ [Lesson 4 – Create a content experiment](/help/summit-lab-2025/lesson-4-create-a-content-experiment.md)
++ [Lesson 5 – Test your Journey](/help/summit-lab-2025/lesson-5-test-your-journey.md)
++ [Lesson 6 - Create a content card campaign](/help/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)
