@@ -1,6 +1,6 @@
 ---
 title: Mobile learning hub
-description: Jumpstart or elevate your mobile engagement strategy with Adobe Journey Optimizer. This mobile learning hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys. Explore best practices, learn how to drive adoption, and setup centralized reporting workflows — all in one place — to deliver impactful, data-driven mobile experiences that reach customers anytime, anywhere.
+description: The mobile learning hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys in Journey Optimizer.
 feature: Overview
 role: User, Admin, Developer
 hide: no
