@@ -225,7 +225,7 @@ auto-video-transcripts: true
   + [Generating reports on offer impressions and clicks](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"} 
   + [Use ranking formula to deliver personalized offers in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"} 
   + [Enhance customer engagement](/help/use-cases/enhance-customer-engagement.md){target="_blank"} 
-  + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/exercises-and-challenges/summit-labs/introduction){target="_blank"} 
+  + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"} 
   + Use Case Playbooks {#use-case-playbooks}
     + [Overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
     + [Configure a playbook sandbox](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
