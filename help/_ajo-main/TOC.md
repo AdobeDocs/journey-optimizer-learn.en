@@ -16,7 +16,7 @@ auto-video-transcripts: true
   + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
   + [Get help with the AI-Assistant](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
++ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"} 
 + Campaigns {#create-campaigns}
   + Action Campaigns {#action-campaigns}
     + [Create a campaign](/help/campaigns/action-campaigns/create-a-campaign.md)
