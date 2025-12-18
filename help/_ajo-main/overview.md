@@ -15,6 +15,14 @@ Journey Optimizer enables companies to create cohesive, contextual, and personal
 
 This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer. Practice what you have learned by taking the [Journey Optimizer Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
 
+ 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
 ## Mobile Learning Hub 
 
 <!-- CARDS
@@ -49,16 +57,6 @@ This user guide contains videos and tutorials on features and capabilities of Ad
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
- 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
-
  
 ## Latest Experience League Live events
 
