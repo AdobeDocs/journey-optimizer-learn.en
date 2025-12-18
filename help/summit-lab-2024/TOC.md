@@ -3,7 +3,7 @@ user-guide-title: Adobe Summit Lab 2024 - Build Personalized Mobile Moments - WO
 breadcrumb-title: Adobe Summit Lab 2024- Build Personalized Mobile Moments - WORKBOOK
 role: User
 level: Beginner,Intermediate
-breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/summit-lab-2024/build-personalized-mobile-moments/lab-overview
+breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/summit-lab-2024/l820-lab-workbook/lab-overview.md
 auto-video-transcripts: true
 ---
 
