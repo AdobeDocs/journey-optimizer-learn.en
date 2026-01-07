@@ -31,7 +31,7 @@ In this exercise, you create the push campaign, design, and customize the push n
 
 1. Click **[!UICONTROL Create Campaign]**.
    
-   ![Create Campaign](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![Create Campaign](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
    
 1. On the **[!UICONTROL Create Campaign]** page, in the  **[!UICONTROL Action]** section, select the **[!UICONTROL Push notification]** check box.
 
@@ -39,12 +39,12 @@ In this exercise, you create the push campaign, design, and customize the push n
 
 1. Click **[!UICONTROL Create]** to create a push campaign.
    
-   ![App surface](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
+   ![App surface](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
 >[!SUCCESS]
 >
 >You should now be on the Campaign properties page:
-> ![Campaign properties](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![Campaign properties](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Exercise 4.2 - Configure your campaign
 
@@ -60,7 +60,7 @@ Give your campaign a name. Make sure to start the name with your seat number, so
    
 1. In the audience section, click **[!UICONTROL Select audience]**.
 
-   ![audience section](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
+   ![audience section](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
    
 1. On the **[!UICONTROL Select audience]** screen, search for the audience:
   
@@ -68,7 +68,7 @@ Give your campaign a name. Make sure to start the name with your seat number, so
    
 1. Select the audience, then click **[!UICONTROL Save]**.
 
-   ![audience selection](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
+   ![audience selection](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
 ### 4.2.3 Edit the content of the push notification
 
@@ -76,7 +76,7 @@ In this exercise, you design and customize the push notification.
 
 1. In the **[!UICONTROL Action]** section, click the **[!UICONTROL Edit Content] button**.
 
-   ![Edit content button](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
+   ![Edit content button](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
 1. On the next screen, depending on the mobile device you have, select either the [!DNL iOS&trade;] or [!DNL Android&trade;] tab to configure your content. 
 
@@ -84,11 +84,11 @@ In this exercise, you design and customize the push notification.
 
 >[!TAB iOS]
 
-![iOS tab](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
+![iOS tab](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB Android]
 
-![Android tab](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
+![Android tab](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
@@ -99,7 +99,7 @@ In this exercise, you design and customize the push notification.
    * Title: `Get 10% off today!`
    * Body text: `Today only! Get 10% off on your House Blend coffee purchase!` 
    
-      ![Compose message](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
+      ![Compose message](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
 
 #### 4.2.3.2 Change the on click behavior of the message to **open a product page**
 
@@ -109,13 +109,13 @@ In this exercise, you design and customize the push notification.
    
       `dxdemo://exoticVibes`
 
-      ![deep link](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
+      ![deep link](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
 
 #### 4.2.3.3 Add an image to the message
 
 1. In the **[!UICONTROL Add media]** section, click **[!UICONTROL Add media]**.
       
-   ![add media buttons](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+   ![add media buttons](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
 1. On the **[!UICONTROL Select Assets]** screen, in the left navigation, open the **Fréscopa folder** and select an image from that folder. 
 
@@ -123,7 +123,7 @@ In this exercise, you design and customize the push notification.
 
 1. Click the image and click the **[!UICONTROL Select] button** to add the image to your push notification.
 
-   ![select image](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
+   ![select image](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
@@ -131,7 +131,7 @@ In this exercise, you design and customize the push notification.
    > 1. Preview your message.
    > <br>
    >
-   > ![expand view](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![expand view](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 ### Bonus Exercise
 
@@ -143,25 +143,25 @@ If you completed this part of the exercise and still have some time, try the bon
 
 1. Click **personalization dialogue** next to the **[!UICONTROL Body]** field.
 
-   ![personalization button](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
+   ![personalization button](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
 1. On the **personalization dialogue** screen, place the cursor where you want to add the first name in the text.
 
 1. Ensure that the **Profile attributes** are selected in the left navigation.
 
-   ![Profile attribute](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   ![Profile attribute](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
   
 1. In the **Search field**, search for: `first name`.
 
 1. Click **+** next to the **First name (Profile attributes>Person>Full name)** to add the personalization field to your text. 
    
-   ![Search for first name](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   ![Search for first name](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
    
    >[!SUCCESS]
    >
    > This is what your text should look like:
    > 
-   >![Personalization token](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![Personalization token](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
    
 1. Click **[!UICONTROL Save]** to save the personalization.
    
@@ -171,7 +171,7 @@ If you completed this part of the exercise and still have some time, try the bon
    > 1. On the preview screen, click **[!UICONTROL Expand View]**.
    > 1. Preview your message.
    > 
-   > ![expand view](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![expand view](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 +++
 
@@ -181,21 +181,21 @@ If you are happy with the content of your message, you can activate the message:
 
 1. Click **[!UICONTROL Review to activate]**.
    
-   ![review and activate button](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![review and activate button](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
 1. On the **[!UICONTROL Review to activate]** screen, click **[!UICONTROL Activate]**.
 
-   ![review to activate screen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
+   ![review to activate screen](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
 > On the **Campaigns overview page**, find your campaign and check the status. 
 >
-> ![campaign status](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
+> ![campaign status](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > The status changes from processing to live, to completed - this might take a couple of minutes.
 > Once the status has changed to completed:
 >
-> ![push results](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> ![push results](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
 ## Additional resources
 

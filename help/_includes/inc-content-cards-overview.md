@@ -4,10 +4,9 @@
 
 ## What is it?
 
-**Content Cards** are persistent, in-app messages that live inside a dedicated inbox or feed within your app. Unlike push notifications, they don't interrupt the user and can be viewed at the user's convenience.  
-They're ideal for delivering **non-urgent**, **informative**, or **promotional content** that benefits from visibility over time.
+**Content Cards** are persistent, in-app messages messages displayed within a dedicated inbox or feed inside your app. Unlike push notifications, they do not interrupt the user and can be viewed whenever the user chooses.
 
-Think of Content Cards as an in-app "message center" or personalized newsfeed.
+They are ideal for **non-urgent**, **informative**, or **promotional content** that benefits from longer visibility and repeated exposure. Think of Content Cards as an in-app "message center" or personalized content feed where users can browse updates at their own pace."
 
 ### Examples:
 

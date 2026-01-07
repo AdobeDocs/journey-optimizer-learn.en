@@ -16,6 +16,7 @@ auto-video-transcripts: true
   + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
   + [Get help with the AI-Assistant](/help/ai-agents/ai-assistant.md)
++ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"} 
 + Campaigns {#create-campaigns}
   + Action Campaigns {#action-campaigns}
     + [Create a campaign](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -57,7 +58,7 @@ auto-video-transcripts: true
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Create an audience by uploading a CSV file](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
   + [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"} 
-  + [Evaluate audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+  + [Evaluate audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Channels {#channels}
   + [Mobile App Optimization - Overview](/help/channels/mobile-app-optimization-overview.md)
@@ -224,7 +225,7 @@ auto-video-transcripts: true
   + [Generating reports on offer impressions and clicks](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"} 
   + [Use ranking formula to deliver personalized offers in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"} 
   + [Enhance customer engagement](/help/use-cases/enhance-customer-engagement.md){target="_blank"} 
-  + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
+  + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"} 
   + Use Case Playbooks {#use-case-playbooks}
     + [Overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
     + [Configure a playbook sandbox](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
@@ -234,6 +235,6 @@ auto-video-transcripts: true
   + [Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + Summit Labs {#summit-labs}
     + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"} 
-    + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
+    + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"} 
 + Live Sessions & Deep Dives {#live-sessions-and-deep-dives} 
   + [Experience League Live show recordings](/help/_ajo-main/experience-league-live-show-recordings.md)

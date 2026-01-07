@@ -1,16 +1,16 @@
 ---
 title: Design and deliver
-description: Learn how to create, design, and deliver personalized mobile communications using Adobe Journey Optimizer. This comprehensive guide covers push notifications, in-app messages, content cards, SMS, MMS, RCS, WhatsApp marketing messages, and code-based experiences. Enhance customer engagement, streamline campaign workflows, and drive results with real-time, cross-channel mobile messaging strategies.
+description: Discover how to build and deliver impactful mobile communications using Adobe Journey Optimizer. Learn to create, design, and send a variety of message types—including push notifications, in-app messages, content cards, SMS/MMS/RCS, WhatsApp marketing messages, and code-based experiences—tailored to your audience and optimized for mobile engagement.
 role: User
 level: Beginner, Intermediate
-hide: yes
-index: no
-last-substantial-update: 2025-08-22
+hide: no
+index: yes
+last-substantial-update: 2025-12-18
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
 ---
 # Design and deliver
 
-Discover how to build and deliver impactful mobile communications using Adobe Journey Optimizer. Learn to create, design, and send a variety of message types—including push notifications, in-app messages, content cards, SMS/MMS/RCS, WhatsApp marketing messages, and code-based experiences—tailored to your audience and optimized for mobile engagement.
+Discover how to build and deliver impactful mobile communications using Adobe Journey Optimizer. Learn to create, design, and send a variety of message types—including push notifications, in-app messages, content cards, SMS/MMS/RCS, WhatsApp marketing messages, and code-based experiences tailored to your audience and optimized for mobile engagement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745/?learn=on&enablevpops)
 
@@ -115,7 +115,7 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 >[!PREREQUISITES]
 >
 > 1. Verify that the app is integrated with the Mobile SDK and configured for mobile channels.
-> 2. Make sure that the In-App channel has been configured.  
+> 2. Make sure that the [In-App channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup?lang=en) has been configured.  
 > 3. Ensure that customer profiles and audience segments are ready for targeting.
 
 #### Tutorials

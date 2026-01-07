@@ -28,7 +28,7 @@ In this exercise you create the campaign and define which web page the in-app me
 
 1. Click **Create Campaign**.
 
-    ![CreateCampaign](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
+    ![CreateCampaign](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
 
 1. On the **Create Campaign** page, in the **Action** section, select the **In-app message** check box.
 
@@ -36,7 +36,7 @@ In this exercise you create the campaign and define which web page the in-app me
 
 1. Enter the following URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *This is the web page your message will appear on.*
 
-    ![In-app URL](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+    ![In-app URL](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. Click **[!UICONTROL Create]**.
 
@@ -54,7 +54,7 @@ On this page, you define the properties of the campaign and the event that trigg
     > 
     > For example, if your seat number is 99: 
     >
-    > ![Properties Name](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+    > ![Properties Name](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 Set up your custom trigger rule
@@ -63,18 +63,18 @@ In this section you define what triggers for the message to appear on the websit
 
 1. Scroll down to the **[!UICONTROL Triggers section]**, then click **[!UICONTROL Edit triggers]**.
 
-    ![modify](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+    ![modify](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. In the rule builder, click on **[!UICONTROL Application Launch]** and from the dropdown select  *Sent data to Platform*.
-    ![trigger event drop-down](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+    ![trigger event drop-down](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. Add a condition by clicking **[!UICONTROL + Add condition]**.
 
-   ![add condition button](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![add condition button](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. From the **[!UICONTROL Select a trait]** drop down, select **[!UICONTROL XDM event type]**.
 
-   ![XDM event type](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM event type](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
 1. In the following text field, add a *`<custom string value>`* that you can remember, and press **[!UICONTROL Add]** `<custom string value>` to save the value. 
@@ -87,7 +87,7 @@ In this section you define what triggers for the message to appear on the websit
    > For example: `99web`
    > 
 
-   ![add custom trigger string value](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![add custom trigger string value](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
 1. Press the **[!UICONTROL Done]** button in the top right.
 
@@ -95,7 +95,7 @@ In this section you define what triggers for the message to appear on the websit
 >
 >You have now defined your web in-app message with a custom trigger event.
 >
->![Web campaign with custom trigger defined](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>![Web campaign with custom trigger defined](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3 Edit the content of the in-app message
@@ -104,7 +104,7 @@ In this section you define what triggers for the message to appear on the websit
 
 1. Click the **Edit content** button in the **Action** section to access the authoring construct.
     
-    ![Edit content button](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+    ![Edit content button](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. The authoring process is the same process that you completed in the above Mobile In-app exercises. Take time to freely edit your message with your own title, body, and media content.
     
@@ -122,13 +122,13 @@ In this section you define what triggers for the message to appear on the websit
 
 1. Go to the Fréscopa website and navigate to the **Exercise** page on your browser.
 
-    ![Web exercises link](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+    ![Web exercises link](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. Make sure to refresh the web page.
 
 1. Type your unique string value that you defined in your campaign.
 
-    ![exercise page](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
+    ![exercise page](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. Click **[!UICONTROL Send]**.
 

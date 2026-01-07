@@ -4,9 +4,9 @@ description: In-app messages are messages that appear inside an app while the us
 feature: In App
 role: User, Developer, Admin
 level: Beginner
-hide: yes
-index: no
-last-substantial-update: 2025-08-22
+hide: no
+index: yes
+last-substantial-update: 2025-12-18
 exl-id: 679fd26a-f6e9-4130-973f-8c0e1353c813
 ---
 # In-app messages - Overview

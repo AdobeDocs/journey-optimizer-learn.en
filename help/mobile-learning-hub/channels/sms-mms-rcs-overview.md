@@ -4,9 +4,9 @@ description: SMS (Short Message Service), MMS (Multimedia Messaging Service), an
 feature: SMS
 role: User, Developer, Admin
 level: Beginner
-hide: yes
-index: no
-last-substantial-update: 2025-08-22
+hide: no
+index: yes
+last-substantial-update: 2025-12-18
 exl-id: 0ddfaef4-cac2-43e4-a0e1-1aee0a3a3b0d
 ---
 # SMS/MMS/RCS - Overview

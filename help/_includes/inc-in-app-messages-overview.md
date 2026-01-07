@@ -2,16 +2,16 @@
 
 ## What are in-app messages?
 
-In-app messages are messages that appear inside an app while the user is actively using it. They are overlay-type messages that sit on top of your app. They don't pop up on the lock screen or outside the app — instead, they show up as banners, pop-ups, or small cards while the user is exploring the app. 
+In-app messages appear inside your mobile app while a user is actively engaged. These overlay-style messages display as banners, pop-ups, or cards directly on top of the app interface. They do not appear on the lock screen or outside the app environment.
 
-In-app messages are triggered by specific user actions or conditions, such as viewing a certain page, completing a purchase, or being part of a targeted audience segment.
+In-app messages are triggered by specific user actions or conditions — such as viewing a particular screen, completing a purchase, or qualifying for a targeted audience segment.
 
 
-For example:
+Examples include:
 
-* A game might show a pop-up explaining a new feature the moment the user unlocks it.
-* A shopping app might display a banner with a coupon code while the user is browsing items.
-* A social media app might show a message suggesting the user follow new accounts.
+* A game showing a pop-up introducing a new feature the moment the user unlocks it.
+* A shopping app displaying a banner with a coupon code while the user browses products.
+* A social app suggesting new accounts to follow based on current activity
 
 ## Use Cases
 
