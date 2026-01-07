@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Financial Freedom Portal</title>
+  <style>
+    /* Ensure padding/border included in width */
+    *, *::before, *::after {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+      background-color: #0073e6;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+      font-size: 24px;
+      font-weight: bold;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 15px 0;
+      text-align: center;
+      margin-top: auto;
+      font-size: 14px;
+    }
+
+    .main-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: stretch; /* Equal height columns */
+      flex-wrap: nowrap;    /* Prevent wrapping */
+      width: 100%;
+      margin: 20px 0;
+      padding: 0 10px;
+      gap: 2%;              /* spacing between columns */
+    }
+
+    .left-column {
+      flex: 8 1 0; /* 80% width */
+      background: #fff;
+      padding: 30px 20px;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .right-column {
+      flex: 2 1 0; /* 20% width */
+      background: #fff;
+      padding: 30px 20px;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .left-column img {
+      max-width: 200px;
+      margin-bottom: 20px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    h2 {
+      color: #333;
+      margin-bottom: 15px;
+    }
+
+    .intro, .extra-text {
+      color: #555;
+      font-size: 15px;
+      line-height: 1.6;
+      text-align: left;
+      margin-bottom: 15px;
+    }
+
+    label {
+      font-weight: bold;
+      display: block;
+      margin-top: 15px;
+      color: #555;
+    }
+
+    input, select {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+
+    button {
+      width: 100%;
+      padding: 12px;
+      margin-top: 20px;
+      background-color: #0073e6;
+      border: none;
+      color: white;
+      font-size: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #005bb5;
+    }
+
+    #response {
+      margin-top: 15px;
+      text-align: center;
+      font-weight: bold;
+      word-break: break-word;
+    }
+
+    #response.success { color: green; }
+    #response.error { color: red; }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .main-container {
+        flex-direction: column;
+        gap: 0;
+      }
+
+      .left-column, .right-column {
+        flex: 1 1 100%;
+        max-width: 100%;
+        margin: 10px 0;
+      }
+
+      .left-column img {
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    Financial Freedom Portal
+  </header>
+
+  <div class="main-container">
+    <!-- Left Column: Image + Text -->
+    <div class="left-column">
+      <img src="https://cdn-icons-png.flaticon.com/512/2331/2331970.png" alt="Financial Growth Illustration">
+      
+      <h2>Welcome to Your Path to Financial Freedom</h2>
+      <p class="intro">
+        Every journey to financial independence starts with knowledge and informed decisions.
+        Investing wisely in Stocks, Bonds, and CDs can help you grow your wealth steadily and
+        reach your goals faster.
+      </p>
+      <p class="intro">
+        Here, we provide insights and guidance to help you choose the right investment vehicle
+        based on your preferences and risk tolerance. Track your progress, receive personalized
+        recommendations, and make smarter decisions for your financial future.
+      </p>
+      <p class="intro">
+        Take the first step today by filling out the form to the right. Once submitted, our
+        system will capture your investment preference and guide you with tailored content
+        and offers designed for your financial success.
+      </p>
+
+      <!-- Extra text -->
+      <p class="extra-text">
+        Our platform also provides tools to monitor your portfolio, calculate expected returns, 
+        and simulate different investment strategies. Knowledge is power, and informed decisions 
+        lead to financial freedom.
+      </p>
+      <p class="extra-text">
+        Whether you are just starting or an experienced investor, we provide valuable insights 
+        to make your money work smarter for you. Explore the options and take control of your 
+        financial future today.
+      </p>
+    </div>
+
+    <!-- Right Column: Form -->
+    <div class="right-column">
+      <h2>Submit Your Investment Choice</h2>
+
+      <!-- Text above the form -->
+      <p class="extra-text">
+        Please fill out the form below so we can provide personalized investment guidance.
+      </p>
+
+      <form id="eventForm">
+        <label>Customer Name:</label>
+        <input type="text" id="customerName" required>
+
+        <label>Customer Email:</label>
+        <input type="email" id="customerEmail" required>
+
+        <label>Asset Class:</label>
+        <select id="assetClass">
+          <option value="Stocks">Stocks</option>
+          <option value="Bonds">Bonds</option>
+          <option value="CD">CD</option>
+        </select>
+
+        <button type="submit">Submit</button>
+      </form>
+
+      <!-- Text below the form -->
+      <p class="extra-text">
+        Once submitted, you will receive personalized insights and recommendations directly 
+        in your inbox. Take the first step towards smarter investing today!
+      </p>
+
+      <p id="response"></p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Your Company. All rights reserved.
+  </footer>
+
+  <script>
+    document.getElementById("eventForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      const payload = {
+        customerName: document.getElementById("customerName").value,
+        customerEmail: document.getElementById("customerEmail").value,
+        assetClass: document.getElementById("assetClass").value
+      };
+
+      const responseField = document.getElementById("response");
+      responseField.textContent = "Sending event...";
+      responseField.className = "";
+
+      try {
+        const res = await fetch("/sendEvent", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload)
+        });
+
+        const data = await res.json();
+
+        if (res.ok && data.success) {
+          responseField.textContent = "Event sent successfully! AEP Response: " + JSON.stringify(data.aepResponse);
+          responseField.className = "success";
+        } else {
+          responseField.textContent = "Error sending event: " + JSON.stringify(data.error);
+          responseField.className = "error";
+        }
+      } catch (err) {
+        responseField.textContent = "Network error: " + err.message;
+        responseField.className = "error";
+      }
+    });
+  </script>
+
+</body>
+</html>
