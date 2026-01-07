@@ -1,7 +1,7 @@
 ---
 title: Create a custom event
-description: Configure
-feature: Decisioning
+description: Configure custom event to trigger a journey
+feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
