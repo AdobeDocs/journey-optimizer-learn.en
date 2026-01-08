@@ -1,7 +1,7 @@
 ---
 title: Trigger journey on form submission
 description: Learn how to trigger a journey on HTML form submission
-feature: Decisioning
+feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial

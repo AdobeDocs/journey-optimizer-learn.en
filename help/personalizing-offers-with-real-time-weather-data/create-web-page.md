@@ -12,7 +12,7 @@ exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
 ---
 # Test the solution
 
-To test the solution end-to-end, the [weather-offers.html](assets/weather-offers.html)  and [weather-related-offers-script.js](assets/weather-related-offers-script.js) files must be hosted on a web server or a public hosting service such as Github Pages. This is necessary because:
+To test the solution end-to-end, extract the weather-offers.html and weather-related-offers-script.js from [weather-offers.zip].(assets/weather-offers.zip) These files must be hosted on a web server or a public hosting service such as Github Pages. This is necessary because:
     -  The browser's geolocation API only works over HTTPS or localhost
 
 To keep things organized and ensure relative paths work correctly, we recommend the following folder structure for hosting the solution:
@@ -21,9 +21,8 @@ To keep things organized and ensure relative paths work correctly, we recommend 
 
 ## Download the provided files
 
-[HTML File](assets/weather-offers.html)
+Download and extract the HTML and the javascript file from [weather-offers.zip].(assets/weather-offers.zip)
 
-[Javascript File](assets/weather-related-offers-script.js)
 
 
 ## Update the surface url in the javascript file

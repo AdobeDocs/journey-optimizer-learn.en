@@ -1,7 +1,7 @@
 ---
 title: Test the solution
 description: Create journey to send email on form submission
-feature: Decisioning
+feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial

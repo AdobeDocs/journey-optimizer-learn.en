@@ -1,7 +1,7 @@
 ---
 title: Create HTTP Streaming connection
 description: Configure HTTP Streaming connection
-feature: Decisioning
+feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
