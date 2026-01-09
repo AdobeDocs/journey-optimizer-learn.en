@@ -6,6 +6,7 @@ role: User, Developer, Admin
 level: Beginner
 hide: no
 index: yes
+jira: KT-19866
 last-substantial-update: 2025-12-18
 exl-id: 5446b6f6-94b5-4723-a9c5-607c021ebafb
 ---
