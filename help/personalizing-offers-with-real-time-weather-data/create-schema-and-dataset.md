@@ -51,3 +51,8 @@ A datastream in Adobe Experience Platform is like a secure pipeline (or highway)
 ![datastream-mapping](assets/datastream-service.png)
 
 -   Save the datastream.
+
+
+>[!NOTE]
+>
+>Please note that newly created datasets may take up to 24 hours before they are available for selection in the Ranking Formula or Personalization Editor.
