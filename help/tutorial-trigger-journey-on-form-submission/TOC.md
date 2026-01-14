@@ -15,3 +15,5 @@ auto-video-transcripts: true
 + [Create HTTP Streaming](./http-streaming.md)
 + [Create journey](./create-journey.md)
 + [Test the solution](./test-solution.md)
++ [Create lookup dataset](./lookup-dataset.md)
+

@@ -46,8 +46,8 @@ Create a new directory for the sample app using the following commands:
 *   Unzip and place the contents of [project-root.zip](assets/project-root.zip) in the `trigger-journey` folder.
 
 *   Create a folder called `public` in the `trigger-journey` folder
-*   Unzip the contents of [index.zip] into the public folder
-*   update the `.env` file with the appropriate values. These values are available from the cURL command downloaded while creating the HTTP Source connection
+*   update the `.env` file with the appropriate values. These values are available from the cURL command downloaded while creating the HTTP Source connection.
+*   Unzip the contents of [index.zip](assets/index.zip) into the `public` folder
 
 ## Run the server
 
