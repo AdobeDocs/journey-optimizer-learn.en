@@ -5,8 +5,8 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25
-jira: KT-20014
+last-substantial-update: 2026-01-15
+jira: KT-20124
 
 ---
 # Create a lookup dataset
