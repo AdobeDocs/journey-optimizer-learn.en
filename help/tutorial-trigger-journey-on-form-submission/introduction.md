@@ -29,6 +29,7 @@ This use case demonstrates how a customer form submission triggers an Adobe Jour
 * Configure email channel
 * Build a Journey Triggered by the Custom Event
 * Send form submission data to Adobe Experience Platform
+* Configure dataset lookup to include reference data in the email
 
 Use case introduction and event schema creation
 >[!VIDEO](https://video.tv.adobe.com/v/3478471)
