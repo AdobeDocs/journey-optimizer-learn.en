@@ -17,3 +17,4 @@ hidefromtoc: Yes
 Learn how the content decision activity in the Journey Canvas allows users to leverage AJO Decisioning for personalized content offers. Use this feature to route profiles based on retrieved offers or send offers to external systems, enhancing your journey's effectiveness and personalization.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+
