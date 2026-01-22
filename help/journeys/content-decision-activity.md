@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 123
 last-substantial-update: 2026-01-22
 jira: KT-20141
-hide: Yes
-hidefromtoc: Yes
+hide: true
+hidefromtoc: true
 ---
 
 # Content decision activity
