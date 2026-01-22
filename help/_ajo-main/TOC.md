@@ -37,6 +37,7 @@ auto-video-transcripts: true
   + [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md)
   + [Create a test profile](/help/journeys/test-a-journey.md)
   + [Publish a journey](/help/journeys/publish-a-journey.md)
+  + [Content decision activity](/help/journeys/content-decision-activity.md)
   + [Use case - Transactional journey](/help/journeys/use-case-transactional-journey.md)
   + [Use case - Business event](/help/journeys/use-case-business-event.md)
   + [Use case - Read audience](/help/journeys/use-case-read-audience.md)
