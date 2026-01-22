@@ -145,6 +145,7 @@ auto-video-transcripts: true
     + [Reusable rules](/help/decisioning/reusable-targeting-rules.md)
     + [Personalizing offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
     + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+    + [Content decision activity in journeys](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
   + Decision Management {#decision-management}
     + [Introduction to Decision Management](/help/decision-management/introduction-to-decision-management.md)
     + [Demo of the Decision Management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
