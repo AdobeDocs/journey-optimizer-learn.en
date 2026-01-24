@@ -1,0 +1,20 @@
+---
+title: Optimize Push Notifications with AJO Decisioning
+description: Enhance engagement with personalized push notifications using AJO decisioning. Create tailored offers and analyze campaign performance.
+feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
+topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+role: User
+level: Intermediate
+doc-type: Feature Video
+duration: 177
+last-substantial-update: 2026-01-24
+jira: KT-20180
+hidefromtoc: Yes
+hide: Yes
+---
+
+# Optimize Push Notifications with AJO Decisioning
+
+Learn how to use AJO decisioning to personalize push notifications for your audience. Create compelling offers based on recipient profiles to drive sales. Understand decisioning strategies, test campaigns, and analyze metrics for effective communication. Enhance engagement and deliver the most relevant promotions to your customers.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
