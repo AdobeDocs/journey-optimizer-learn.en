@@ -14,6 +14,6 @@ hide: Yes
 
 # Optimize Push Notifications with AJO Decisioning
 
-Learn how to use AJO decisioning to personalize push notifications for your audience. Create compelling offers based on recipient profiles to drive sales. Understand decisioning strategies, test campaigns, and analyze metrics for effective communication. Enhance engagement and deliver the most relevant promotions to your customers.
+Learn how to use AJO Decisioning to personalize push notifications for your audience. Create compelling offers based on recipient profiles to drive sales. Understand decisioning strategies, test campaigns, and analyze metrics for effective communication. Enhance engagement and deliver the most relevant promotions to your customers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
