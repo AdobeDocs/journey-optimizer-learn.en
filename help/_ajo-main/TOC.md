@@ -69,6 +69,7 @@ auto-video-transcripts: true
     + [Use decisioning in the code based channel](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
   + Direct mail channel{#direct-mail-channel}
     + [Create a direct mail](/help/channels/direct-mail.md)
+    + [Send direct mail messages with journeys](/help/channels/direct-mail-in-journeys.md)
   + Email channel{#email-channel}
     + [Email Channel - Overview](/help/channels/email-channel-overview.md)
     + [Email design & personalization- Overview](/help/channels/email-design-and-personalization-overview.md)
