@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 188
 last-substantial-update: 2026-01-24
 jira: KT-20176
-hide: yes
-hidefromtoc: yes
+hide: no
+hidefromtoc: no
 ---
 
 # Send direct mail messages with journeys
