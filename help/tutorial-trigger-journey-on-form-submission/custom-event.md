@@ -14,6 +14,7 @@ jira: KT-20014
 Using the event schema, define a custom event in Adobe Journey Optimizer. This event listens for form submission data arriving in Adobe Experience Platform.
 
 Define a custom event called **_InvestmentPreference_**
+
 >[!VIDEO](https://video.tv.adobe.com/v/3478483)
 
 

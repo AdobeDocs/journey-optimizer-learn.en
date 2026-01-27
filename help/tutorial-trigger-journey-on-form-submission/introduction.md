@@ -31,7 +31,8 @@ This use case demonstrates how a customer form submission triggers an Adobe Jour
 * Send form submission data to Adobe Experience Platform
 * Configure dataset lookup to include reference data in the email
 
-Use case introduction and event schema creation
+**Use case introduction and event schema creation**
+
 >[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 

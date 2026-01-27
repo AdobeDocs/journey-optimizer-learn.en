@@ -13,7 +13,8 @@ jira: KT-20014
 
 Configure the form to send submission data to Adobe Experience Platform in real time using an HTTP-based integration, ensuring the event payload aligns with the schema.
 
-Define HTTP streaming end point
+**Define HTTP streaming end point**
+
 >[!VIDEO](https://video.tv.adobe.com/v/3478496)
 
 
