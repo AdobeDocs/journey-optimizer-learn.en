@@ -37,6 +37,7 @@ auto-video-transcripts: true
   + [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md)
   + [Create a test profile](/help/journeys/test-a-journey.md)
   + [Publish a journey](/help/journeys/publish-a-journey.md)
+  + [Content decision activity](/help/journeys/content-decision-activity.md)
   + [Use case - Transactional journey](/help/journeys/use-case-transactional-journey.md)
   + [Use case - Business event](/help/journeys/use-case-business-event.md)
   + [Use case - Read audience](/help/journeys/use-case-read-audience.md)
@@ -68,6 +69,7 @@ auto-video-transcripts: true
     + [Use decisioning in the code based channel](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
   + Direct mail channel{#direct-mail-channel}
     + [Create a direct mail](/help/channels/direct-mail.md)
+    + [Send direct mail messages with journeys](/help/channels/direct-mail-in-journeys.md)
   + Email channel{#email-channel}
     + [Email Channel - Overview](/help/channels/email-channel-overview.md)
     + [Email design & personalization- Overview](/help/channels/email-design-and-personalization-overview.md)
@@ -85,6 +87,7 @@ auto-video-transcripts: true
   + Push channel{#push-channel}
     + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
+    + [Optimize Push Notifications with AJO Decisioning](/help/decisioning/decisioning-in-push-notifications.md)
   + SMS/MMS channel{#sms-channel}
     + [SMS/MMS messages - Overview](/help/channels/sms-mms-messages-overview.md)
     + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
