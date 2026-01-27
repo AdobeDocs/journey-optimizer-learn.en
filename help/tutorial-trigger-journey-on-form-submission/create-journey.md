@@ -15,12 +15,14 @@ Create a journey in Adobe Journey Optimizer that starts when the **_AssetClassSe
 
 Creating a journey involves creating the following configurations
 
-Creating email channel configuration
+**Creating email channel configuration**
+
 >[!VIDEO](https://video.tv.adobe.com/v/3478510)
 
 
 
-Create a journey
+**Create a journey**
+
 >[!VIDEO](https://video.tv.adobe.com/v/3478558)
 
 
