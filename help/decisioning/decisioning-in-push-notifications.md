@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 177
 last-substantial-update: 2026-01-24
 jira: KT-20180
-hidefromtoc: Yes
-hide: Yes
+hidefromtoc: no
+hide: no
 ---
 
 # Optimize Push Notifications with AJO Decisioning
