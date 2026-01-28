@@ -87,7 +87,8 @@ auto-video-transcripts: true
   + Push channel{#push-channel}
     + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
-    + [Optimize Push Notifications with AJO Decisioning](/help/decisioning/decisioning-in-push-notifications.md)
+    + [Optimize push notifications with AJO Decisioning](/help/decisioning/decisioning-in-push-notifications.md)
+    +[Create web push Notifications](/help/channels/create-web-push-notifications.md)
   + SMS/MMS channel{#sms-channel}
     + [SMS/MMS messages - Overview](/help/channels/sms-mms-messages-overview.md)
     + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
