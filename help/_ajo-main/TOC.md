@@ -87,7 +87,7 @@ auto-video-transcripts: true
   + Push channel{#push-channel}
     + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
-    + [Optimize Push Notifications with AJO Decisioning](/help/decisioning/decisioning-in-push-notifications.md)
+    + [Create web push Notifications](/help/channels/create-web-push-notifications.md)
   + SMS/MMS channel{#sms-channel}
     + [SMS/MMS messages - Overview](/help/channels/sms-mms-messages-overview.md)
     + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
@@ -149,6 +149,7 @@ auto-video-transcripts: true
     + [Personalizing offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
     + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
     + [Use decisioning in email channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+    + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
   + Decision Management {#decision-management}
     + [Introduction to Decision Management](/help/decision-management/introduction-to-decision-management.md)
     + [Demo of the Decision Management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
