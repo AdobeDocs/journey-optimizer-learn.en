@@ -150,6 +150,7 @@ auto-video-transcripts: true
     + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
     + [Use decisioning in email channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
     + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
+    + [Use decisioning in and SMS message](/help/decisioning/use-decisioning-in-an-SMS-message.md)
   + Decision Management {#decision-management}
     + [Introduction to Decision Management](/help/decision-management/introduction-to-decision-management.md)
     + [Demo of the Decision Management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
