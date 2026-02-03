@@ -179,6 +179,7 @@ auto-video-transcripts: true
   + [Monitor and analyze your journey with live reports](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
   + [Monitor and analyze your journey with Journey Reports](/help/report-and-monitor/journey-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
+  + [Monitor your custom actions](/help/report-and-monitor/custom-action-monitoring-report.md)
   + [Analyze your journey's overall performance with all time reports](/help/report-and-monitor/all-time-reports.md)
   + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-csv-format.md)
   + [Use alerts](/help/administration/alerts.md)
