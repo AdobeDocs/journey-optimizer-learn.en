@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 187
-last-substantial-update: 2026-01-30
+last-substantial-update: 2026-02-03
 jira: KT-20237
-hidefromtoc: no
-hide: no
+hidefromtoc: No
+hide: No
 ---
 
 # Use Decisioning in an SMS message
