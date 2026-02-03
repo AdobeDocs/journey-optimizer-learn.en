@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 187
 last-substantial-update: 2026-01-30
 jira: KT-20237
-hidefromtoc: yes
-hide: yes
+hidefromtoc: no
+hide: no
 ---
 
 # Use Decisioning in an SMS message
