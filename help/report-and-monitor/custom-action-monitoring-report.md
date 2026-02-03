@@ -19,3 +19,4 @@ This report helps identify issues, enhance journey performance, and ensure smoot
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
 See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) for more information about this feature.
+
