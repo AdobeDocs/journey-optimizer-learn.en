@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-01-21
 jira: KT-18526
-
+exl-id: 34027499-0037-4ea1-813b-51be15eafe24
 ---
 # Enable Frequency Capping for an AJO Campaign
 
@@ -42,5 +42,3 @@ Activate the modified campaign.
 ## Send impression and tracking events
 
 Modify the existing JavaScript code to capture and send offer impression and interaction events to Adobe Experience Platform using the Adobe Web SDK. Refer to the [sample code provided here.](capture-impression-click-events.md)
-
-

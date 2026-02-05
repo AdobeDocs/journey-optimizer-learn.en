@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25
 jira: KT-20014
-
+exl-id: 9b4a3e0c-d153-4a6b-a7de-b926bd669f6a
 ---
 # Test the solution
 
@@ -55,5 +55,3 @@ Make sure you are in the `trigger-journey` directory.
 Execute the command `node server.js`
 Point your browser to [web page](http://localhost:3000/)
 Fill and submit the form. The journey gets triggered, and an email is sent to the email id entered in the form.
-
-

@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-10-31
 jira: KT-19558
-
+exl-id: 03c8c6a7-399b-4d4d-aff1-0500a2de356e
 ---
 # Create offers, selection strategy, ranking formula
 

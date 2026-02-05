@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25
 jira: KT-20014
-
+exl-id: 52a506d0-cc1b-4d8d-a634-b66c7c7673ed
 ---
 # Trigger journey on form submission 
 
@@ -34,6 +34,3 @@ This use case demonstrates how a customer form submission triggers an Adobe Jour
 **Use case introduction and event schema creation**
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478471)
-
-
-

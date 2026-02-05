@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2026-02-03
 jira: KT-20238
+exl-id: ec9745d1-714a-4934-aa93-a37815f6b26f
 ---
-
 # Monitor your custom actions
 
 Explore how to effectively monitor the operational health and performance of HTTP calls made from your journeys to third-party endpoints via custom actions. Gain visibility into HTTP errors, latency bottlenecks, and capping issues that may affect the delivery. 
@@ -19,4 +19,3 @@ This report helps identify issues, enhance journey performance, and ensure smoot
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
 See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) for more information about this feature.
-

@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-10-31
 jira: KT-19414
-
+exl-id: 80c86b66-876e-4040-a141-7a9c12391007
 ---
 # Create an email campaign using AJO Decisioning
 

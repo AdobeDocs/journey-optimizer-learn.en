@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-10-31
 jira: KT-19558
-
+exl-id: 1f861559-addd-48b6-999a-f01d4959771f
 ---
 # Ingest profile and create an audience 
 

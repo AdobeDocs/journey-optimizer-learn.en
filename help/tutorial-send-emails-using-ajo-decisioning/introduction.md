@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-10-31
 jira: KT-19414
-
+exl-id: c2b8a85c-8f64-40c5-87eb-6d836d832c44
 ---
 # Use Decisioning to personalize emails 
 
@@ -21,6 +21,3 @@ Throughout the tutorial, we'll go step-by-step — from creating profiles in Ado
 *   Basic understanding of Experience Platform concepts (Profiles, Audiences, Datasets)
 
 *   Familiarity with Journey Optimizer
-
-
-

@@ -1,12 +1,12 @@
 ---
 title: Emotional Loyalty and Community Building
-description: How Brands Create Identity, Belonging, and Advocacy Through Experience-Based Loyalty 
+description: How Brands Create Identity, Belonging, and Advocacy Through Experience-Based Loyalty
 feature: Overview
 role: User
 hide: yes
 index: no
+exl-id: 3706c5ad-9a80-4799-8880-c45eda082f22
 ---
-
 # Emotional Loyalty & Community Building 
 
 ## How Brands Create Identity, Belonging, and Advocacy Through Experience-Based Loyalty

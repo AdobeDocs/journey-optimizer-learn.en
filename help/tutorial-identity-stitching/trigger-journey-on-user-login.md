@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-09-24
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-
+exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
 ---
 # Trigger Adobe Journey Optimizer Journey using Adobe Web SDK
 
@@ -48,7 +48,3 @@ The journey is triggered when the event payload sent via the Web SDK, matches wh
 
 * Verify this by viewing the journey report
 * ![journey-report](assets/journey-triggered-report.png)
-
-
-
-

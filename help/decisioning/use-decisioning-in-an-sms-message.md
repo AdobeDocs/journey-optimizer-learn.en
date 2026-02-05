@@ -10,8 +10,8 @@ last-substantial-update: 2026-02-03
 jira: KT-20237
 hidefromtoc: No
 hide: No
+exl-id: 60b29c0c-c3a5-4a20-9298-68119f4d4cc6
 ---
-
 # Use Decisioning in an SMS message
 
 Learn how to use AJO Decisioning to personalize and optimize SMS content. Enhance your SMS messages to improve engagement and meet business goals.
