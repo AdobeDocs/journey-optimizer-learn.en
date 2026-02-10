@@ -229,7 +229,6 @@ auto-video-transcripts: true
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
   + [Intelligent re-engagement - Abandoned Browse](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"} 
   + [Personalizing offers with real-time weather data in Adobe Journey Optimizer using Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-  + [Generating reports on offer impressions and clicks](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"} 
   + [Use ranking formula to deliver personalized offers in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"} 
   + [Enhance customer engagement](/help/use-cases/enhance-customer-engagement.md){target="_blank"} 
   + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"} 

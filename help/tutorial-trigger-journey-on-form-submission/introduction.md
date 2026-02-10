@@ -16,11 +16,9 @@ This use case demonstrates how a customer form submission triggers an Adobe Jour
 
 ## Pre-requisites for this tutorial
 
-*   Access to Experience Platform
-
-*   Basic understanding of Experience Platform concepts (Profiles, Audiences, Datasets)
-
-*   Familiarity with Journey Optimizer
+* Access to Experience Platform
+* Basic understanding of Experience Platform concepts (Profiles, Audiences, Datasets)
+* Familiarity with Journey Optimizer
 
 ## Implementation steps
 
