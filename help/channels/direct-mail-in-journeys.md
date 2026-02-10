@@ -18,4 +18,4 @@ Explore how to leverage the Direct Mail channel in Adobe Journey Optimizer to au
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys) for more information.
+See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail) for more information.

@@ -24,4 +24,4 @@ Learn how to subscribe to pre-defined alerts for unexpected journey behaviors an
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/alerts){target="_blank"} for more information.
+See the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"} for more information.

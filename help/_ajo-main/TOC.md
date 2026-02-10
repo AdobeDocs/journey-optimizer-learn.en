@@ -107,7 +107,6 @@ auto-video-transcripts: true
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
   + Manage assets {#assets}
     + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
-    + [Manage Assets](/help/content-management/assets-essentials-overview.md)
     + [AEM Dynamic Media integration](/help/content-management/aem-dynamic-media-integration.md)
     + [Edit assets with Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
   + Work with fragments {#fragments}
