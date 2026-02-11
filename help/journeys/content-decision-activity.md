@@ -12,8 +12,9 @@ hide: no
 hidefromtoc: no
 exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
 ---
-# Content decision activity
+# Content decision activity in the journey canvas
 
 Learn how the content decision activity in the Journey Canvas allows users to leverage Adobe Journey Optimizer Decisioning for personalized content offers. Use this feature to route profiles based on retrieved offers or send offers to external systems, enhancing your journey's effectiveness and personalization.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+
