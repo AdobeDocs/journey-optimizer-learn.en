@@ -6,7 +6,7 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 123
-last-substantial-update: 2026-01-22
+last-substantial-update: 2026-02-11
 jira: KT-20141
 hide: no
 hidefromtoc: no
