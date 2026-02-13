@@ -11,8 +11,8 @@ hidefromtoc: Yes
 hide: Yes
 last-substantial-update: 2026-02-12
 jira: KT-20305
+exl-id: f474f1bb-efeb-44fd-9c62-09afdf81ee03
 ---
-
 # iOS Live Activities
 
 Discover how to configure iOS Live Activities with Adobe Journey Optimizer to deliver rich, real-time updates on the iPhone Lock Screen and Dynamic Island.
