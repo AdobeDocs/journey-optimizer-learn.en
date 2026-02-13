@@ -149,6 +149,7 @@ auto-video-transcripts: true
     + [Trigger journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
     + [Personalizing offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
     + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+    + [AI model insights](/help/decisioning/ai-model-insights.md)
     + [Use decisioning in email channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
     + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
     + [Use decisioning in an SMS message](/help/decisioning/use-decisioning-in-an-sms-message.md)
