@@ -18,3 +18,4 @@ jira: KT-20313
 Understand how to analyze AI model training status, traffic allocation, and performance to optimize personalized decisioning in Journey Optimizer. Learn how to identify issues, troubleshoot models, and enhance conversion rates using AI capabilities. This video will guide you through managing AI models effectively to drive business impact.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+
