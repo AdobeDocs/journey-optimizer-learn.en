@@ -1,6 +1,6 @@
 ---
 title: Create a loyalty challenge
-description: Learn how to quickly create a loyalty challenge, from setting tasks, rewards, and schedules to configuring content, messaging, and audiences, while automatically generating a complete customer journey behind the scenes.
+description: Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
 feature: Setup
 role: Leader, User
 level: Beginner
@@ -16,6 +16,6 @@ badgeBet: label="Beta" type="Informative"
 
 # Create a loyalty challenge
 
-Learn how to quickly create a loyalty challenge, from setting tasks, rewards, and schedules to configuring content, messaging, and audiences, while automatically generating a complete customer journey behind the scenes.
+Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
