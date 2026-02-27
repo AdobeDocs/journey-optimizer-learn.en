@@ -48,6 +48,8 @@ auto-video-transcripts: true
   + [Update content in a live journey](/help/journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/journeys/copy-a-journey.md)
   + [Trigger daily journey runs after batch segmentation](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ Loyalty {#loyalty}
+  +[Create a loyalty challenge](/help/loyalty/create-a-loyalty-challenge.md)
 + Conflict management & prioritization {#conflict-management}
   + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
   + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
