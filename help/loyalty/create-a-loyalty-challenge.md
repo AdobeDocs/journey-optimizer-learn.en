@@ -1,7 +1,7 @@
 ---
 title: Create a loyalty challenge
 description: Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
-feature: Setup
+feature: Get Started
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
