@@ -12,8 +12,8 @@ hide: Yes
 hidefromtoc: Yes
 index: no
 badgeBet: label="Beta" type="Informative"
+exl-id: f6c373be-aeae-4d52-a4b1-84a312399f5e
 ---
-
 # Create a loyalty challenge
 
 Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
