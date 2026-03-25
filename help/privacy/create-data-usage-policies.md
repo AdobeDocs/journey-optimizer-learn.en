@@ -24,4 +24,4 @@ Learn how to create and manage data usage policies. Data usage policies allow yo
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-See the product documentation for more information on how to [work with consent policies](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer.
+See the product documentation for more information on how to [work with consent policies](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer.

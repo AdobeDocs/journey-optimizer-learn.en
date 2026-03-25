@@ -1,7 +1,7 @@
 ---
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: These are Journey Optimizer Tutorials.
+user-guide-description: These are Journey Optimizer tutorials.
 auto-video-transcripts: true
 ---
 
@@ -48,6 +48,8 @@ auto-video-transcripts: true
   + [Update content in a live journey](/help/journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/journeys/copy-a-journey.md)
   + [Trigger daily journey runs after batch segmentation](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ Loyalty {#loyalty}
+  +[Create a loyalty challenge](/help/loyalty/create-a-loyalty-challenge.md)
 + Conflict management & prioritization {#conflict-management}
   + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
   + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
@@ -85,10 +87,12 @@ auto-video-transcripts: true
     + [Create an in-app message in a journey](/help/channels/create-an-in-app-message-in-a-journey.md)
     + [Author an in-app message](/help/channels/author-in-app-messages.md)
     + [Configure content experiments for in-app messages](/help/experimentation/content-experiments-for-in-app-messages.md)
+  + Live activities {#live-activities}
+    + [iOS live activities](/help/channels/ios-live-activities.md) 
   + Push channel{#push-channel}
     + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
-    + [Optimize Push Notifications with AJO Decisioning](/help/decisioning/decisioning-in-push-notifications.md)
+    + [Create web push notifications](/help/channels/create-web-push-notifications.md)
   + SMS/MMS channel{#sms-channel}
     + [SMS/MMS messages - Overview](/help/channels/sms-mms-messages-overview.md)
     + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
@@ -108,7 +112,6 @@ auto-video-transcripts: true
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
   + Manage assets {#assets}
     + [Digital asset management - Overview](/help/content-management/digital-asset-management-overview.md)
-    + [Manage Assets](/help/content-management/assets-essentials-overview.md)
     + [AEM Dynamic Media integration](/help/content-management/aem-dynamic-media-integration.md)
     + [Edit assets with Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
   + Work with fragments {#fragments}
@@ -149,7 +152,10 @@ auto-video-transcripts: true
     + [Trigger journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
     + [Personalizing offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
     + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+    + [AI model insights](/help/decisioning/ai-model-insights.md)
     + [Use decisioning in email channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+    + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
+    + [Use decisioning in an SMS message](/help/decisioning/use-decisioning-in-an-sms-message.md)
   + Decision Management {#decision-management}
     + [Introduction to Decision Management](/help/decision-management/introduction-to-decision-management.md)
     + [Demo of the Decision Management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -178,6 +184,7 @@ auto-video-transcripts: true
   + [Monitor and analyze your journey with live reports](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
   + [Monitor and analyze your journey with Journey Reports](/help/report-and-monitor/journey-reports.md)
   + [Channel level reports](/help/report-and-monitor/channel-level-reports.md)
+  + [Monitor your custom actions](/help/report-and-monitor/custom-action-monitoring-report.md)
   + [Analyze your journey's overall performance with all time reports](/help/report-and-monitor/all-time-reports.md)
   + [Export reports in CSV format](/help/report-and-monitor/export-reports-in-csv-format.md)
   + [Use alerts](/help/administration/alerts.md)
@@ -228,7 +235,6 @@ auto-video-transcripts: true
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
   + [Intelligent re-engagement - Abandoned Browse](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"} 
   + [Personalizing offers with real-time weather data in Adobe Journey Optimizer using Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-  + [Generating reports on offer impressions and clicks](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"} 
   + [Use ranking formula to deliver personalized offers in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"} 
   + [Enhance customer engagement](/help/use-cases/enhance-customer-engagement.md){target="_blank"} 
   + [Scaling orchestration to omnichannel engagement](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"} 
@@ -244,3 +250,5 @@ auto-video-transcripts: true
     + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
 + Live Sessions & Deep Dives {#live-sessions-and-deep-dives} 
   + [Experience League Live show recordings](/help/_ajo-main/experience-league-live-show-recordings.md)
+
+

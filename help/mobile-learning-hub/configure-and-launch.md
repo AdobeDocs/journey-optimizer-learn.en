@@ -20,7 +20,6 @@ For **administrators** and **mobile app developers**, this section shows how to 
 > If you are new to Journey Optimizer and Experience Platform, familiarize yourself with the core concepts data management in Journey Optimizer by taking this course: [Engineer Data for Intelligent Journey Activation in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
 >
 
-
 ## Mobile capabilities in Adobe Journey Optimizer
 
 Understand which mobile capabilities Adobe Journey Optimizer offers for developers, marketers, and product teams, including push messaging, in‑app messaging, and content personalization.
@@ -38,16 +37,16 @@ Mobile implementations in Journey Optimizer begin with the **Adobe Experience Pl
 
 The mobile SDK: 
 
-- Collects app events (screen views, taps, purchases, lifecycle events, etc.) and sends them to the **Adobe Experience Platform Edge Network**.
-- Manages **identity** and **consent**, so Journey Optimizer can safely build and use customer profiles.
-- Registers and updates **push tokens**, and sends **push and in‑app tracking events** back to Adobe Experience Platform.
-- Integrates with the **[Journey Optimizer mobile extension](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)** so messages can be delivered, rendered, and measured end‑to‑end.
+* Collects app events (screen views, taps, purchases, lifecycle events, etc.) and sends them to the **Adobe Experience Platform Edge Network**.
+* Manages **identity** and **consent**, so Journey Optimizer can safely build and use customer profiles.
+* Registers and updates **push tokens**, and sends **push and in‑app tracking events** back to Adobe Experience Platform.
+* Integrates with the **[Journey Optimizer mobile extension](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)** so messages can be delivered, rendered, and measured end‑to‑end.
 
 Without the Mobile SDK integrated in your app, Journey Optimizer cannot reliably:
 
-- Deliver and track mobile push and in‑app messages.
-- Render and track content cards.
-- Use real‑time in‑app behavior to trigger journeys and personalize experiences.
+* Deliver and track mobile push and in‑app messages.
+* Render and track content cards.
+* Use real‑time in‑app behavior to trigger journeys and personalize experiences.
 
 #### Guided channel setup for new implementations
 
@@ -57,12 +56,12 @@ For new Mobile In-App and Push implementations, Guided Channel Setup is the reco
 >
 >Make sure you have:
 >
-> - **Adobe Journey Optimizer** (AJO) provisioned for your org.
-> - Adobe Experience Platform access with [Data Collection and Journey Optimizer permissions](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions).
-> - Admin rights in AJO for channel and configuration setup.
-> - Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
-> - Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
-> - If you are using the existing configuration option, please ensure that you are using the [current Adobe Experience Platform Mobile SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}
+> * **Adobe Journey Optimizer** (AJO) provisioned for your org.
+> * Adobe Experience Platform access with [Data Collection and Journey Optimizer permissions](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions).
+> * Admin rights in AJO for channel and configuration setup.
+> * Access to your mobile app's source code (iOS, Android, or cross‑platform framework).
+> * Your app has the required OS‑level capabilities enabled (for example, push permissions, notification service extensions, background modes).
+> * If you are using the existing configuration option, please ensure that you are using the [current Adobe Experience Platform Mobile SDK versions](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
@@ -575,21 +574,21 @@ Open the pitfall that matches your symptoms to see what to check and how to fix 
 +++ 1. SDK versions and extensions not aligned with channel requirements
 **What you'll notice**
 
-- Push or in‑app activities do not reach the device.  
-- Guided Channel Setup or channel validation fails.  
-- Assurance shows missing Journey Optimizer, Edge, or Identity extensions.
+* Push or in‑app activities do not reach the device.  
+* Guided Channel Setup or channel validation fails.  
+* Assurance shows missing Journey Optimizer, Edge, or Identity extensions.
 
 **What to check**
 
-- Are you using the minimum **Mobile Core** and **Journey Optimizer** extension versions required by Guided Channel Setup?  
-- In **Assurance**, under extensions and events:  
-  - Do you see the expected extensions loaded?  
-  - Are events being sent to the Edge Network and acknowledged?
+* Are you using the minimum **Mobile Core** and **Journey Optimizer** extension versions required by Guided Channel Setup?  
+* In **Assurance**, under extensions and events:  
+    * Do you see the expected extensions loaded?
+    * Are events being sent to the Edge Network and acknowledged?
 
 **How to fix**
 
-- Upgrade to the supported Mobile SDK and Journey Optimizer extension versions.  
-- Rebuild the app, reconnect to Assurance, and re‑run Guided Channel Setup.
+* Upgrade to the supported Mobile SDK and Journey Optimizer extension versions.  
+* Rebuild the app, reconnect to Assurance, and re‑run Guided Channel Setup.
 
 See: [Set up mobile and web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
 
@@ -598,22 +597,22 @@ See: [Set up mobile and web](https://experienceleague.adobe.com/en/docs/journey-
 +++ 2. Misconfigured datastreams or datasets
 **What you'll notice**
 
-- Events or push tracking batches fail in Platform datasets.  
-- Data ingestion errors (for example, "Updates are not supported for events").  
-- Push or in‑app reports show little or no tracking.
+* Events or push tracking batches fail in Platform datasets.  
+* Data ingestion errors (for example, "Updates are not supported for events").  
+* Push or in‑app reports show little or no tracking.
 
 **What to check**
 
-- Did anyone change **system schemas or datasets** created for Journey Optimizer tracking?  
-- In your **datastream**:  
-  - Are experience events mapped to an **event dataset**?  
-  - Are profile attributes mapped to a **profile dataset**?
+* Did anyone change **system schemas or datasets** created for Journey Optimizer tracking?  
+* In your **datastream**:  
+  * Are experience events mapped to an **event dataset**?  
+  * Are profile attributes mapped to a **profile dataset**?
 
 **How to fix**
 
-- Do not edit system datasets/schemas created by AJO.  
-- Correct the datastream mapping (events → event dataset, profiles → profile dataset).  
-- Prefer Guided Channel Setup or the documented datastream steps instead of ad‑hoc changes.
+* Do not edit system datasets/schemas created by AJO.  
+* Correct the datastream mapping (events → event dataset, profiles → profile dataset).  
+* Prefer Guided Channel Setup or the documented datastream steps instead of ad‑hoc changes.
 
 See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
@@ -622,23 +621,23 @@ See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleagu
 +++ 3. Missing or inconsistent identity and consent
 **What you'll notice**
 
-- Journeys don't trigger as expected for app users.  
-- Personalization doesn't match the user's behavior in other channels.  
-- Events appear in Experience Platform, but profiles look fragmented.
+* Journeys don't trigger as expected for app users.  
+* Personalization doesn't match the user's behavior in other channels.  
+* Events appear in Experience Platform, but profiles look fragmented.
 
 **What to check**
 
-- Is **Identity for Edge Network** implemented and sending a stable primary ID (for example, login ID)?  
-- Is **Consent for Edge Network** implemented and updated when preferences change?  
-- In **Assurance**:  
-  - Do outbound events include consent values?  
-  - Do they include ECID and your primary IDs consistently?
+* Is **Identity for Edge Network** implemented and sending a stable primary ID (for example, login ID)?  
+* Is **Consent for Edge Network** implemented and updated when preferences change?  
+* In **Assurance**:  
+  * Do outbound events include consent values?  
+  * Do they include ECID and your primary IDs consistently?
 
 **How to fix**
 
-- Implement or correct **Identity for Edge Network** in the app.  
-- Implement **Consent for Edge Network** and connect it to your app's consent UI.  
-- Retest in Assurance until identity and consent appear on all relevant events.
+* Implement or correct **Identity for Edge Network** in the app.  
+* Implement **Consent for Edge Network** and connect it to your app's consent UI.  
+* Retest in Assurance until identity and consent appear on all relevant events.
 
 See: [Implement consent for Platform Mobile SDK implementations](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
 
@@ -647,23 +646,23 @@ See: [Implement consent for Platform Mobile SDK implementations](https://experie
 +++ 4. Push token registration and tracking not wired correctly
 **What you'll notice**
 
-- Users never receive push notifications, even though campaigns or journeys run.  
-- Push reports show no opens, dismisses, or interactions.
+* Users never receive push notifications, even though campaigns or journeys run.  
+* Push reports show no opens, dismisses, or interactions.
 
 **What to check**
 
-- Does the app register the push token with the Journey Optimizer extension:  
-  - On first install?  
-  - After each app update?  
-  - Whenever the OS refreshes the token?  
-- When a user opens or dismisses a notification, do you see tracking events in Assurance?
+* Does the app register the push token with the Journey Optimizer extension:  
+  * On first install?  
+  * After each app update?  
+  * Whenever the OS refreshes the token?  
+* When a user opens or dismisses a notification, do you see tracking events in Assurance?
 
 **How to fix**
 
-- Add or correct the code that:  
-  - Registers the token via the Journey Optimizer mobile extension whenever it is created or refreshed.  
-  - Sends push interaction events (open, dismiss, custom actions) via the Mobile SDK.  
-- Use Assurance to confirm registration and tracking events are firing as expected.
+* Add or correct the code that:  
+  * Registers the token via the Journey Optimizer mobile extension whenever it is created or refreshed.  
+  * Sends push interaction events (open, dismiss, custom actions) via the Mobile SDK.  
+* Use Assurance to confirm registration and tracking events are firing as expected.
 
 See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
@@ -672,34 +671,34 @@ See: [Push Notification flow in Adobe Journey Optimizer](https://experienceleagu
 +++ 5. In‑app messages or content cards not displaying
 **What you'll notice**
 
-- In‑app messages or content cards never appear, despite active campaigns or journeys.  
-- Reporting shows 0 impressions.
+* In‑app messages or content cards never appear, despite active campaigns or journeys.  
+* Reporting shows 0 impressions.
 
 **What to check**
 
-- Are the **Journey Optimizer mobile messaging / in‑app extension** and **Messaging SDK** installed and registered in the app?  
-- In your **tags** configuration:  
-  - Do you have rules that trigger requests on the correct events (for example, screen views or custom events)?  
-- In **Assurance**:  
-  - When those events fire, do you see in‑app or content‑card decision requests going out?  
-  - Do you see responses coming back from the Edge Network?
+* Are the **Journey Optimizer mobile messaging / in‑app extension** and **Messaging SDK** installed and registered in the app?  
+* In your **tags** configuration:  
+  * Do you have rules that trigger requests on the correct events (for example, screen views or custom events)?  
+* In **Assurance**:  
+  * When those events fire, do you see in‑app or content‑card decision requests going out?  
+  * Do you see responses coming back from the Edge Network?
 
 **How to fix**
 
-- Install and register the required messaging extensions.  
-- Add or correct rules that trigger decisions on your target events (screens, custom events).  
-- For content cards, ensure you:  
-  - Fetch cards via the Messaging SDK APIs.  
-  - Render them in your UI.  
-  - Track interactions back via the SDK.
+* Install and register the required messaging extensions.  
+* Add or correct rules that trigger decisions on your target events (screens, custom events).  
+* For content cards, ensure you:  
+  * Fetch cards via the Messaging SDK APIs.  
+  * Render them in your UI.  
+  * Track interactions back via the SDK.
 
 See:  
-- [Create and send in‑app messages](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}  
-- [Configure content cards support in Mobile SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
+* [Create and send in‑app messages](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}  
+* [Configure content cards support in Mobile SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 +++
 
 ## Additional ressources
 
-- [Using CDN based client side personalization (ODD) on mobile for faster personalizations (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
-- [The Secret to Next-Level Mobile App Engagement and Growth (Summit Session)](https://business.adobe.com/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
+* [Using CDN based client side personalization (ODD) on mobile for faster personalizations (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+* [The Secret to Next-Level Mobile App Engagement and Growth (Summit Session)](https://business.adobe.com/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)

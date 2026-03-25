@@ -37,8 +37,6 @@ Open the weather-offers.html file in text editor and replace the script tag with
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
 ```
 
-
-
 ## What the webpage does
 
 A web page is built to test contextual offer personalization using real-time temperature data. When a user visits the page, the browser prompts for geolocation access. Upon approval, the page fetches the current weather details—such as temperature, condition, and city—via the OpenWeatherMap API. This contextual data is displayed to the user and sent to Adobe Experience Platform using the Adobe Web SDK (Alloy).
@@ -49,15 +47,15 @@ The sendEvent call is configured with renderDecisions: false, meaning offers ret
 
 The JavaScript dynamically fetches weather information based on the user's location and uses Adobe Experience Platform (AEP) to deliver personalized offers. Here's a breakdown of the steps:
 
-1.  **Waits for Alloy to Load**
+1. **Waits for Alloy to Load**
 
     The script ensures the Adobe Web SDK (Alloy) is fully loaded before making any personalization requests.
 
-2.  **Gets the User's Location**
+2. **Gets the User's Location**
 
     It uses the browser's Geolocation API to retrieve the user's current latitude and longitude.
 
-3.  **Fetches Weather Data**
+3. **Fetches Weather Data**
 
     It calls the OpenWeatherMap API to get current weather details:
 
@@ -69,13 +67,13 @@ The JavaScript dynamically fetches weather information based on the user's locat
 
     Humidity
 
-4.  **Display Weather Info on the Web Page**
+4. **Display Weather Info on the Web Page**
 
     Updates the DOM with a message like:
 
     "Current temperature in San Diego is 72°F with Clear skies."
 
-5.  **Sends Weather Context to AEP**
+5. **Sends Weather Context to AEP**
 
     Uses alloy("sendEvent") to send contextual weather data to AEP
 
@@ -93,13 +91,13 @@ The JavaScript dynamically fetches weather information based on the user's locat
 
 6. **Retrieves and Renders Offers**
 
-    Receives offers returned by AJO Decisioning.
+* Receives offers returned by AJO Decisioning.
 
-    Decodes the HTML content.
+* Decodes the HTML content.
 
-    Dynamically injects the offers into the <div id="offerContainer"> element.
+* Dynamically injects the offers into the <div id="offerContainer"> element.
 
 ## Next Steps
 
-[Measure and report the impact of AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[Measure and report the impact of AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 

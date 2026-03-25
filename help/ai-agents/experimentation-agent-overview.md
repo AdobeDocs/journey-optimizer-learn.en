@@ -7,6 +7,7 @@ role: User, Developer, Leader, Admin
 level: Beginner
 last-substantial-update: 2025-10-08
 jira: KT-19110
+exl-id: a3e79c87-6771-47ad-b21b-701f2be3638e
 ---
 # Experimentation Agent overview
 

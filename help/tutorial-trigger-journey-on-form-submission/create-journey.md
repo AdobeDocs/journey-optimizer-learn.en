@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25
 jira: KT-20014
-
+exl-id: d7960708-493d-434e-8f1b-46a1423c1fec
 ---
 # Create a journey
 
@@ -24,7 +24,3 @@ Creating a journey involves creating the following configurations
 **Create a journey**
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478558)
-
-
-
-

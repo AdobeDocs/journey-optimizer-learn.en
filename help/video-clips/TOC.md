@@ -24,7 +24,6 @@ auto-video-transcripts: true
     + [Video short](summit/2025/human-ai-collaboration-adobe-agents-enhancing-productivity.md)
     + [Video short](summit/2025/introducing-the-adobe-journey-optimizer-experimentation-accelerator.md)
     + [Video short](summit/2025/introduction-to-content-cards-in-adobe-journey-optimizer.md)
-    + [Video short](summit/2025/live-demo-creating-and-publishing-a-content-card-campaign.md)
     + [Video short](summit/2025/new-channels-and-integrations-in-adobe-journey-optimizer.md)
     + [Video short](summit/2025/overcoming-barriers-to-experimentation-at-scale.md)
     + [Video short](summit/2025/rcs-messaging-the-future-of-rich-communication.md)

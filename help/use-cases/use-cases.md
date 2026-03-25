@@ -17,7 +17,6 @@ Explore real-world marketing scenarios powered by Adobe Journey Optimizer. These
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
 * https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
@@ -29,7 +28,7 @@ Explore real-world marketing scenarios powered by Adobe Journey Optimizer. These
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="Use Case - Customer Onboarding (Tutorial)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1756417587791" alt="Use Case - Customer Onboarding (Tutorial)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1770161593376" alt="Use Case - Customer Onboarding (Tutorial)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -52,7 +51,7 @@ Explore real-world marketing scenarios powered by Adobe Journey Optimizer. These
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="Use Case Playbook - Abandoned shopping cart" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1756417587818" alt="Use Case Playbook - Abandoned shopping cart"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1770161593189" alt="Use Case Playbook - Abandoned shopping cart"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,7 +74,7 @@ Explore real-world marketing scenarios powered by Adobe Journey Optimizer. These
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="Intelligent Re-engagement Luma examples" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1756417587792" alt="Intelligent Re-engagement Luma examples"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1770161592925" alt="Intelligent Re-engagement Luma examples"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,29 +110,6 @@ Explore real-world marketing scenarios powered by Adobe Journey Optimizer. These
                     <p class="is-size-6">This tutorial demonstrates how to deliver dynamic, weather-aware offers in Adobe Journey Optimizer using real-time contextual data and the Adobe Web SDK Personalization API. You'll learn how to pass weather attributes (like temperature and conditions) from your website into Adobe Experience Platform, map them to your event schema, and use them in decision rules and ranking formulas to personalize offers at the moment of page load. Ideal for marketers and developers looking to enhance digital experiences with real-time environmental context.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Track and Report Adobe Journey Optimizer (AJO) Offers delivered via AJO Decisioning">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction" title="Track and Report Adobe Journey Optimizer (AJO) Offers delivered via AJO Decisioning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction./media_1fb3a58c60be3873b773f9ba694350319c4b8dc4f.png?width=400&format=png&optimize=medium" alt="Track and Report Adobe Journey Optimizer (AJO) Offers delivered via AJO Decisioning"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction" target="_blank" rel="referrer" title="Track and Report Adobe Journey Optimizer (AJO) Offers delivered via AJO Decisioning">Track and Report Adobe Journey Optimizer (AJO) Offers delivered via AJO Decisioning</a>
-                    </p>
-                    <p class="is-size-6">This tutorial extends an existing Adobe Journey Optimizer (AJO) implementation that delivers personalized offers based on contextual data such as temperature. It outlines how to capture impression and interaction events and prepare the data for reporting within Journey Optimizer.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
@@ -190,7 +166,7 @@ Explore real-world marketing scenarios powered by Adobe Journey Optimizer. These
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction" title="Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer - Introduction" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457828/?format=jpeg&nocache=1756417587802" alt="Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer - Introduction"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457828/?format=jpeg&nocache=1770161593112" alt="Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer - Introduction"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
