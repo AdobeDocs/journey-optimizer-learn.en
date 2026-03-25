@@ -54,6 +54,7 @@ auto-video-transcripts: true
   + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
   + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
   + [Journey frequency capping & prioritization](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
+  + [Using dataset lookup in a journey](/help/journeys/lookup-dataset.md)
   + [Quiet hours](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
   + [Profiles and audiences - Overview](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
