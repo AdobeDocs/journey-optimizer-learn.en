@@ -4,7 +4,7 @@ description: Create a lookup dataset for use in journey
 feature: Journeys
 role: User
 level: Beginner
-doc-type: Tutorial
+doc-type: Feature Video
 last-substantial-update: 2026-01-15
 jira: KT-20124
 
