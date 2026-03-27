@@ -3,7 +3,7 @@ title: Testing Custom Actions in Adobe Journey Optimizer
 description: Discover how to test custom actions directly in Adobe Journey Optimizer without needing to run a full journey, saving time and effort.
 doc-type: Short Video
 duration: 40
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

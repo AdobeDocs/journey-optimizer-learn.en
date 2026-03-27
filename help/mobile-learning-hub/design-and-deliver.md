@@ -4,7 +4,7 @@ description: Discover how to build and deliver impactful mobile communications u
 role: User
 level: Beginner, Intermediate
 hide: no
-index: yes
+index: true
 jira: KT-19870
 last-substantial-update: 2025-12-18
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be

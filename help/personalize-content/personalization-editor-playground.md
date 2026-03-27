@@ -10,7 +10,7 @@ last-substantial-update: 2025-04-28
 jira: KT-17185
 hidefromtoc: no
 hide: no
-index: yes
+index: true
 exl-id: 4d2ec542-e148-4ee3-ba7f-99296b581c37
 ---
 # Personalization editor playground

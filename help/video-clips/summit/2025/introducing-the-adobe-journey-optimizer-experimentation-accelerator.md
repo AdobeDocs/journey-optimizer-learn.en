@@ -3,7 +3,7 @@ title: Introducing the Adobe Journey Optimizer Experimentation Accelerator
 description: Explore the new GenAI-powered Experimentation Accelerator, designed to optimize testing, surface insights, and drive business impact.
 doc-type: Short Video
 duration: 101
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

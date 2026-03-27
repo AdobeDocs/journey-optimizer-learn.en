@@ -3,7 +3,7 @@ title: AI-Powered Decisioning in Adobe Journey Optimizer
 description: Learn how Adobe Journey Optimizer leverages AI and machine learning for next-best actions, journey optimization, and decisioning to deliver personalized customer experiences.
 doc-type: Short Video
 duration: 185
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

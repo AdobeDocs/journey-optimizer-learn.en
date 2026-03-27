@@ -3,7 +3,7 @@ title: AI Decisioning and Next Best Actions in AJO
 description: Explore how Adobe Journey Optimizer uses AI to optimize journeys, paths, and channels for personalized customer experiences.
 doc-type: Short Video
 duration: 185
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

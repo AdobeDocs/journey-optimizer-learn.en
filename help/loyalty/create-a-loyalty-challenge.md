@@ -10,7 +10,7 @@ last-substantial-update: 2026-02-26
 jira: KT-20417
 hide: Yes
 hidefromtoc: Yes
-index: no
+index: false
 badgeBet: label="Beta" type="Informative"
 exl-id: f6c373be-aeae-4d52-a4b1-84a312399f5e
 ---

@@ -4,7 +4,7 @@ description: The mobile learning hub equips developers, administrators, marketer
 feature: Overview
 role: User, Admin, Developer
 hide: no
-index: yes
+index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc

@@ -9,7 +9,7 @@ duration: 443
 last-substantial-update: 2025-08-01
 hide: no
 hidefromtoc: no
-index: yes
+index: true
 jira: KT-18519
 exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
 ---

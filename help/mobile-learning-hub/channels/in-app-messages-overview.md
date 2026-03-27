@@ -5,7 +5,7 @@ feature: In App
 role: User, Developer, Admin
 level: Beginner
 hide: no
-index: yes
+index: true
 jira: KT-19862
 last-substantial-update: 2025-12-18
 exl-id: 679fd26a-f6e9-4130-973f-8c0e1353c813

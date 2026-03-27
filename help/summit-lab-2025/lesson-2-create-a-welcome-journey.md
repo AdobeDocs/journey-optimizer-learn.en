@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 295
 last-substantial-update: 2025-05-01
 jira: KT-17874
-index: no
+index: false
 exl-id: c4f9447b-e79f-45ea-bd93-ed299da7aef6
 ---
 # Lesson 2 - Create a welcome journey

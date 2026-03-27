@@ -3,7 +3,7 @@ title: Audience Agent - Proactive Monitoring and Optimization
 description: See how the Audience Agent in Adobe Journey Optimizer proactively monitors audience health, identifies issues, and suggests actionable solutions to enhance engagement.
 doc-type: Short Video
 duration: 204
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

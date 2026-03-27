@@ -12,7 +12,7 @@ jira: KT-17599
 exl-id: e404a36c-117e-492f-8f15-2a48642c9c91
 hidefromtoc: no
 hide: no
-index: yes
+index: true
 ---
 # Use Adobe Experience Manager Content Fragments
 

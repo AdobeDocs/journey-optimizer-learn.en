@@ -5,7 +5,7 @@ feature: Reporting, Governance, Privacy
 role: User
 level: Beginner, Intermediate
 hide: no
-index: yes
+index: true
 jira: KT-19871
 last-substantial-update: 2025-12-18
 exl-id: fb06f781-3370-4825-a815-14ef33ad2322
