@@ -2,7 +2,7 @@
 title: Relational Store Basics in Journey Optimizer
 description: Learn the foundational concepts of the relational store used in Journey Optimizer's campaign orchestration—covering schema design, data ingestion, supported sources, and key differences from the real-time profile store.
 feature: Campaigns
-role: Data Engineer
+role: Developer
 level: Beginner
 doc-type: Feature Video
 duration: 443

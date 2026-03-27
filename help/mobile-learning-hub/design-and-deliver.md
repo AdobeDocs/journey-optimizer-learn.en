@@ -206,7 +206,8 @@ CARDS
 
 #### Create in-app journeys
 
-<!--CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html
 * https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html
 -->
@@ -263,7 +264,7 @@ CARDS
 
 #### Product Documentation
 
-|![Create and Configure Content Cards](./assets/configuration.svg)[**Create and Configure Content Cards**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} |![Design Content Cards](./assets/content-management.png){width="50"}[**Design Content Cards**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} | 
+|![Create and Configure Content Cards](./assets/configuration.svg)[**Create and Configure Content Cards**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} |![Design Content Cards](./assets/content-management.png){width="50"}[**Design Content Cards**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -488,7 +489,7 @@ CARDS
 
 #### Product Documentation
 
-|![Create Code-Based Experiences](./assets/content-management.png){width="50"}[**Create Code-Based Experiences**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} | 
+|![Create Code-Based Experiences](./assets/content-management.png){width="50"}[**Create Code-Based Experiences**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
@@ -561,7 +562,7 @@ CARDS
 
 #### Product Documentation
 
-|![Create WhatsApp Messages](./assets/configuration.svg)[*Create WhatsApp Messages*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} |![Preview, Validate, and Send WhatsApp Messages](./assets/communication-channel.svg){width="50"}[**Preview, Validate, and Send WhatsApp Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} | 
+|![Create WhatsApp Messages](./assets/configuration.svg)[*Create WhatsApp Messages*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} |![Preview, Validate, and Send WhatsApp Messages](./assets/communication-channel.svg){width="50"}[**Preview, Validate, and Send WhatsApp Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
