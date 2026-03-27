@@ -73,7 +73,8 @@ For more information see [Get started with guided channel setup](https://experie
 
 This following guides walk you through everything you need to manually configure and use push notifications effectively, from understanding the data flow and integrating with services like Firebase and Apple Push Notification Service (APNs) to setting up mobile apps and testing notifications.
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs
 {title = Push notification data flow and components}
 {description = Learn how to setup and understand key services and workflows involved with push notifications in Journey Optimizer.}
@@ -163,7 +164,8 @@ This following guides walk you through everything you need to manually configure
 #### Additional ressources
 
 
-<!-- CARDS
+<!--
+CARDS
 * https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk
 {target = _blank}
 * https://developer.adobe.com/client-sdks/home/base/assurance
@@ -235,7 +237,8 @@ Before handing the app to marketers, confirm in **[Assurance](https://developer.
 
 ### Content Cards
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp
 {title = Configure content cards support in Mobile SDK}
 {description = Learn how to integrate content cards in your mobile application using Messaging SDK.}
@@ -274,7 +277,8 @@ Before handing the app to marketers, confirm in **[Assurance](https://developer.
 
 Understand how to configure the **WhatsApp channel**:
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
 {target = _blank}
 -->
@@ -310,7 +314,8 @@ Understand how to configure the **WhatsApp channel**:
 
 Configure **SMS/MMS/RCS channels** with the standard providers (Twilio,Synch or Infobip) or using a custom SMS provider:
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
 {target = _blank}
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
@@ -420,7 +425,8 @@ Configure **SMS/MMS/RCS channels** with the standard providers (Twilio,Synch or 
 
 ## Ensure compliance with privacy laws and platform guidelines.
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent
 * https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
 {target = _blank}

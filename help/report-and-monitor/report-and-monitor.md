@@ -18,7 +18,8 @@ These tutorials give marketers the tools to monitor performance in real time, di
 
 ## Tutorials
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports

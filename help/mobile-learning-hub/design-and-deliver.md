@@ -49,7 +49,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 #### Tutorials
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications
@@ -146,7 +147,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 #### Tutorials
 
-<!-- CARDS
+<!--
+CARDS
 *https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview
 * https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app
@@ -227,7 +229,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 #### Tutorials
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -274,7 +277,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 #### SMS Tutorials
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in
@@ -355,7 +359,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 #### MMS and RCS Tutorials
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
@@ -425,7 +430,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 #### Tutorials
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences
 -->
@@ -497,7 +503,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 #### Tutorials
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey
 -->
@@ -563,7 +570,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ### Time messages to moments of value for the user
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -597,7 +605,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ### Personalize content
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library
@@ -678,7 +687,8 @@ Understand which mobile channels Journey Optimizer supports and how to configure
 
 ### Control message frequency to avoid user fatigue:
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization
 -->

@@ -12,7 +12,8 @@ last-substantial-update: 2025-08-28
 
 Explore real-world marketing scenarios powered by Adobe Journey Optimizer. These use cases show how brands can build smarter customer journeys—from onboarding and re-engagement to personalized offers and cross-channel orchestration. Each example connects strategy with hands-on execution, helping you apply product features to real business goals.
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
 * https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma

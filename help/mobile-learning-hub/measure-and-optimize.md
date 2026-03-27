@@ -18,7 +18,8 @@ Access reports, analyze performance, and refine strategies for better outcomes:
 2. Analyze audience performance to understand engagement patterns.  
 3. Refine message timing, content, and targeting based on data insights.
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
 * https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
