@@ -3,7 +3,7 @@ title: Future Enhancements for Content Cards
 description: Get a sneak peek at upcoming features for Content Cards, including new templates, message inboxes, and more.
 doc-type: Short Video
 duration: 84
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

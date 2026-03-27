@@ -2,7 +2,7 @@
 title: Enforce data usage policies in Journey Optimizer channels
 description: Learn how data usage labeling is enforced in Journey Optimizer channels.
 feature: Governance, Privacy
-role: Data Architect, Admin, User
+role: Developer, Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 164

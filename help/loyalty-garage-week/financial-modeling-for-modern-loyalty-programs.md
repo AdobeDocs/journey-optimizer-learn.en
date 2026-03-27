@@ -4,7 +4,7 @@ description: A Comprehensive, CFO-Ready Framework for Forecasting Liability, Rew
 feature: Overview
 role: User
 hide: yes
-index: no
+index: false
 exl-id: de51792e-2cac-410f-b32e-7d443721ff81
 ---
 # Financial Modeling for Modern Loyalty Programs

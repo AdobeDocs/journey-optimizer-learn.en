@@ -8,7 +8,7 @@ doc-type: Technical Video
 duration: 279
 last-substantial-update: 2025-05-01
 jira: KT-17877
-index: no
+index: false
 exl-id: adb08379-a76a-418d-b669-ce54175bdcd2
 ---
 # Lesson 5 – Test your journey

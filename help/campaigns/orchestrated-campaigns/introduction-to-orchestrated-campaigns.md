@@ -2,7 +2,7 @@
 title: Introduction to Orchestrated Campaigns in Adobe Journey Optimizer
 description: Discover how orchestrated campaigns in Adobe Journey Optimizer empower marketers to manage brand-initiated, audience-based campaigns using advanced data management capabilities.
 feature: Campaigns
-role: Data Engineer, User
+role: Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
 duration: 595

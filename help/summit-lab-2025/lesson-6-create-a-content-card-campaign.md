@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 193
 last-substantial-update: 2025-05-01
 jira: KT-17945
-index: no
+index: false
 exl-id: d2ac4c55-b40c-448a-bf88-cd85b47320ac
 ---
 # Lesson 6 - Create a content card campaign

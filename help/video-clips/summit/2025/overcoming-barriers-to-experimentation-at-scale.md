@@ -3,7 +3,7 @@ title: Overcoming Barriers to Experimentation at Scale
 description: Learn how Adobe identified and addressed key barriers to scaling experimentation, from ideation to execution, using platform-driven solutions.
 doc-type: Short Video
 duration: 166
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

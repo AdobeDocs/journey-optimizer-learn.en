@@ -3,7 +3,7 @@ title: Enhancing Personalization with AJO Lookups
 description: Explore how to use record-based datasets for personalized messaging without bloating customer profiles in Adobe Journey Optimizer.
 doc-type: Short Video
 duration: 71
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

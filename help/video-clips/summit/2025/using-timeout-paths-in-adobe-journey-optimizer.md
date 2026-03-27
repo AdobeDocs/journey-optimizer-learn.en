@@ -3,7 +3,7 @@ title: Using Timeout Paths in Adobe Journey Optimizer
 description: Learn how to handle timeouts and errors in Adobe Journey Optimizer by setting up timeout paths to keep profiles moving along their journey.
 doc-type: Short Video
 duration: 37
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

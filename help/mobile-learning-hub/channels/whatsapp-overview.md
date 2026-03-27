@@ -5,7 +5,7 @@ feature: Whatsapp
 role: User, Developer, Admin
 level: Beginner
 hide: no
-index: yes
+index: true
 jira: KT-19868
 last-substantial-update: 2025-12-18
 exl-id: d2ac4614-df04-4e20-be88-3bde491cf75f

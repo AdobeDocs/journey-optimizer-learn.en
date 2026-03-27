@@ -2,7 +2,7 @@
 title: Export datasets to cloud storage locations (Beta)
 description: Learn how to export a dataset from Journey Optimizer to an Amazon S3 destination.
 feature: Datasets
-role: Data Engineer
+role: Developer
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-04-21

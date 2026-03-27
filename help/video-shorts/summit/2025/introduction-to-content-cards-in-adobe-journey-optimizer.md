@@ -3,7 +3,7 @@ title: Introduction to Content Cards in Adobe Journey Optimizer
 description: Learn how Content Cards in Adobe Journey Optimizer can deliver personalized and engaging content directly within your mobile app.
 doc-type: Short Video
 duration: 63
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

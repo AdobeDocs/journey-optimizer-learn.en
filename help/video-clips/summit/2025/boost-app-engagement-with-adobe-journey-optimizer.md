@@ -3,7 +3,7 @@ title: Boost App Engagement with Adobe Journey Optimizer
 description: Learn how Adobe Journey Optimizer helps deliver personalized content across apps and devices to enhance user engagement and retention.
 doc-type: Short Video
 duration: 33
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

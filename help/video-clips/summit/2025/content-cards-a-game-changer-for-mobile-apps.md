@@ -3,7 +3,7 @@ title: Content Cards - A Game-Changer for Mobile Apps
 description: Discover how Content Cards in Adobe Journey Optimizer can deliver personalized, non-intrusive content directly within your app to drive engagement and conversions.
 doc-type: Short Video
 duration: 59
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
