@@ -3,7 +3,7 @@ title: Use Cases
 description: Explore real-world marketing scenarios powered by Adobe Journey Optimizer. These use cases show how brands can build smarter customer journeys—from onboarding and re-engagement to personalized offers and cross-channel orchestration. Each example connects strategy with hands-on execution, helping you apply product features to real business goals.
 feature: Use Cases
 role: User
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 doc-type: Overview
 last-substantial-update: 2025-08-28
 ---
