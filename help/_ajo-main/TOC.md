@@ -35,6 +35,7 @@ auto-video-transcripts: true
   + [Journey Agent - Overview](/help/ai-agents/journey-agent-overview.md)
   + [Discover the new Journey Designer](/help/journeys/new-journey-designer.md)
   + [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md)
+  + [Using dataset lookup in a journey](/help/journeys/lookup-dataset.md)
   + [Create a test profile](/help/journeys/test-a-journey.md)
   + [Publish a journey](/help/journeys/publish-a-journey.md)
   + [Content decision activity](/help/journeys/content-decision-activity.md)
@@ -54,7 +55,7 @@ auto-video-transcripts: true
   + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
   + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
   + [Journey frequency capping & prioritization](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-  + [Using dataset lookup in a journey](/help/journeys/lookup-dataset.md)
+  
   + [Quiet hours](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
   + [Profiles and audiences - Overview](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
