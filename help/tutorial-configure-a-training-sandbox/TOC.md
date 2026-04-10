@@ -3,7 +3,7 @@ user-guide-title: Tutorial - Configure a training sandbox
 user-guide-description: Configure a sandbox for training purposes
 breadcrumb-title: Tutorial - Configure a training sandbox
 breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html
-index: no
+index: false
 role: Admin
 level: Beginner
 auto-video-transcripts: true

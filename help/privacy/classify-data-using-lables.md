@@ -2,7 +2,7 @@
 title: Classify data using labels
 description: Learn how to apply labels to your schemas and datasets.
 feature: Governance, Privacy, Data Management, Access Management
-role: Data Architect, Admin
+role: Developer, Admin
 level: Beginner
 jira: KT-16266
 thumbnail: 29709.jpg

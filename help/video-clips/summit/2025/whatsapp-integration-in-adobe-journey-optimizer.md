@@ -3,7 +3,7 @@ title: WhatsApp Integration in Adobe Journey Optimizer
 description: Discover how AJO's native integration with WhatsApp Business enables seamless marketing and transactional communications.
 doc-type: Short Video
 duration: 50
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

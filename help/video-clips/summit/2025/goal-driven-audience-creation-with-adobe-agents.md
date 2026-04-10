@@ -3,7 +3,7 @@ title: Goal-Driven Audience Creation with Adobe Agents
 description: Watch how Adobe's Audience Agent uses AI to create precise, goal-driven audiences by leveraging real-time data and machine learning models.
 doc-type: Short Video
 duration: 282
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

@@ -2,10 +2,12 @@
 cloud: Experience Cloud
 solution: Journey Optimizer
 feature-set: Journey Optimizer
+landing-page-name: journey-optimizer
+landing-page-breadcrumb-title: Journey Optimizer
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.en
-index: yes
+index: true
 auto-video-transcripts: true
 ---
 

@@ -10,7 +10,7 @@ last-substantial-update: 2024-04-26
 jira: KT-15392
 hidefromtoc: yes
 hide: yes
-Index: no
+index: false
 exl-id: e481336c-eaf2-4fbc-8803-9ba109559dd4
 ---
 # Discover the new Journey Designer

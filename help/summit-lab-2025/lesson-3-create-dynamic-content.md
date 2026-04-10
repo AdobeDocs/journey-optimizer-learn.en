@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 127
 last-substantial-update: 2025-05-01
 jira: KT-17875
-index: no
+index: false
 exl-id: e3a93300-e5db-4c8b-8afc-18f101db93d0
 ---
 # Lesson 3 - Create dynamic content

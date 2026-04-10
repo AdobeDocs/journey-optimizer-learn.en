@@ -3,7 +3,7 @@ title: Scaling Experimentation with Adobe Journey Optimizer
 description: Discover how Adobe leveraged Journey Optimizer to scale experimentation, improve ROI, and deliver personalized experiences at scale.
 doc-type: Short Video
 duration: 125
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

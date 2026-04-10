@@ -11,7 +11,7 @@ last-substantial-update: 2025-04-23
 jira: KT-17533
 hidefromtoc: no
 hide: no
-index: yes
+index: true
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
 ---
 # Adobe Experience Manager Dynamic Media integration

@@ -2,7 +2,7 @@
 title: Data Governance Framework Overview
 description: Understand the governance features in Adobe Experience Platform.
 feature: Governance, Privacy
-role: Data Architect, User
+role: Developer, User
 level: Intermediate
 doc-type: Feature Video
 duration: 474

@@ -3,7 +3,7 @@ title: Human-AI Collaboration - Adobe Agents Enhancing Productivity
 description: Explore how Adobe Agents collaborate with practitioners to deliver actionable insights, optimize workflows, and proactively address challenges in real-time.
 doc-type: Short Video
 duration: 99
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

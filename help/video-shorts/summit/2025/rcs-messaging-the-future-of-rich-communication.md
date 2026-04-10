@@ -3,7 +3,7 @@ title: RCS Messaging - The Future of Rich Communication
 description: Explore how Adobe Journey Optimizer supports RCS messaging, offering branded, interactive, and app-like experiences directly in users' message inboxes.
 doc-type: Short Video
 duration: 187
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

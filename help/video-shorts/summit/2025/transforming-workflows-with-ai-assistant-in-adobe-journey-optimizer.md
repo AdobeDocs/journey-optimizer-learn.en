@@ -3,7 +3,7 @@ title: Transforming Workflows with AI Assistant in Adobe Journey Optimizer
 description: Discover how AI Assistant in Adobe Journey Optimizer revolutionizes workflows by providing instant data insights and troubleshooting capabilities, saving hours of manual effort.
 doc-type: Short Video
 duration: 34
-index: no
+index: false
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay

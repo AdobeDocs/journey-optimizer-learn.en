@@ -32,7 +32,7 @@ Add an identity field **_crmid_** as shown. Mark the crmid field as identity and
 
 Update the dummy email addresses to real ones. These will be used later when sending messages with Adobe Journey Optimizer.
 
-|   | crmId  | firstName | lastName | email                   | loyaltyStatus | zipCode | annualIncome | 
+|   | crmId  | firstName | lastName | email                   | loyaltyStatus | zipCode | annualIncome |
 |---|--------|-----------|----------|-------------------------|---------------|---------|--------------|
 |   | FIN001 | Alice     | Wong     | alice.wong@example.com  | Gold          | 92128   | 120000       |
 |   | FIN002 | Bob       | Smith    | bob.smith@example.com   | Silver        | 92126   | 85000        |
