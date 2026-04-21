@@ -58,11 +58,11 @@ If notifications are blocked or not appearing, you may need to enable them in yo
 
 To help you follow along, a complete sample application is available.
 
-- [Live Demo - Opt-in:](https://ajo-web-push.onrender.com/)
+-   [Live Demo - Opt-in:](https://ajo-web-push.onrender.com/)
 
-* [Trigger Price Drop Event:](https://ajo-web-push.onrender.com/price-drop-trigger.html)
+-   [Trigger Price Drop Event:](https://ajo-web-push.onrender.com/price-drop-trigger.html)
 
-- [Source Code:](https://github.com/gbedekar489/ajo-web-push)  
+-   [Source Code:](https://github.com/gbedekar489/ajo-web-push)  
 
 You can explore the live demo to see the flow in action or clone the repository to run the project locally.
 

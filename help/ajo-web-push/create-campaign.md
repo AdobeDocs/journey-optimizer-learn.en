@@ -31,7 +31,7 @@ Associate the push channel configuration created earlier in this tutorial
 
 ## Associate Audience with the campaign
 
-Associate the audience 'AudienceForPush` with the campaign
+Associate the audience `AudienceForPush` with the campaign
 
 ![campaign-audience](assets/campign-push-notification-audience.png)
 

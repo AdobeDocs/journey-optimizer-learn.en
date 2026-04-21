@@ -27,7 +27,7 @@ For this tutorial, we use the out-of-the-box `AJO Push Profile Schema`. This sch
 
 ## Create datasets for the schema
 
-Create a dataset named `DataSetForPushNotification` using the event schema created earlier. For profile data, use the out-of-the-box `AJO Push Profile Dataset`, which is associated with the push profile schema. Make a note of the 'DataSetForPushNotification` ID, as it will be required later in the tutorial when configuring the application via the .env file.
+Create a dataset named `DataSetForPushNotification` using the event schema created earlier. For profile data, use the out-of-the-box `AJO Push Profile Dataset`, which is associated with the push profile schema. Make a note of the `DataSetForPushNotification` ID, as it will be required later in the tutorial when configuring the application via the .env file.
 
 ## Create Datastream using the event and profile dataset
 

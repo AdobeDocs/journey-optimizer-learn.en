@@ -9,7 +9,7 @@ last-substantial-update: 2026-04-21
 jira: KT-20879
 
 ---
-## Debugging Web push in AJO
+# Debugging Web push in AJO
 
 This page provides helpful tips to debug the web push notification flow, including verifying Web SDK requests, checking the ECID and user profile in AEP, and ensuring that events like price.drop are correctly sent and received.
 
