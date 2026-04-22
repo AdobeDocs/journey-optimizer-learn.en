@@ -1,13 +1,13 @@
 ---
 title: Debugging Web push in AJO
-description: This page provides helpful tips to debug the web push notification flow, including verifying Web SDK requests, 
+description: This page provides helpful tips to debug the web push notification flow, including verifying Web SDK requests,
 feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21
 jira: KT-20879
-
+exl-id: 55cb0875-2953-4d5c-a240-4277aa2f746e
 ---
 # Debugging Web push in AJO
 
@@ -44,4 +44,3 @@ This page provides helpful tips to debug the web push notification flow, includi
 
 -   **Check the journey setup**  
   Make sure the journey is published and configured to listen to the `price.drop` event.
-

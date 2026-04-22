@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21
 jira: KT-20879
-
+exl-id: 427bb35a-d607-48be-845d-9587c4cad86b
 ---
 # Create Audience
 
@@ -15,4 +15,3 @@ To create an audience for the campaign, define a segment in Adobe Experience Pla
  This audience is then used in the campaign to deliver scheduled web push messages only to subscribed users.
  
 ![create-audience](assets/push-audience.png)
-

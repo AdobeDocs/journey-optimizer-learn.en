@@ -1,14 +1,13 @@
 ---
 title: Web push in AJO
 description: This tutorial demonstrates how to implement web push notifications using Adobe Journey Optimizer (AJO). You will learn how to capture user opt-in with the Web SDK, send notifications through scheduled campaigns, and trigger real-time push messages using a custom price.drop event with AEP Tags.
-
 feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21
 jira: KT-20879
-
+exl-id: 5cda28e4-ea2f-4277-8951-a23525ca655a
 ---
 # Web push in Adobe Journey Optimizer
 
@@ -65,4 +64,3 @@ To help you follow along, a complete sample application is available.
 -   [Source Code:](https://github.com/gbedekar489/ajo-web-push)  
 
 You can explore the live demo to see the flow in action or clone the repository to run the project locally.
-

@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-01-21
 jira: KT-20879
-
+exl-id: 108de002-f033-4b88-bee5-2b50463c345c
 ---
 # Create Tag property
 
@@ -45,6 +45,3 @@ The following javascript code sends the price.drop event to AEP Tags from the we
       });
   </script>
 ```
-
-
-

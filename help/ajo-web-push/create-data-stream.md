@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21
 jira: KT-20879
-
+exl-id: d419f6a4-67d5-46b5-9ae7-5a317300d1ad
 ---
 # Create Datastream
 

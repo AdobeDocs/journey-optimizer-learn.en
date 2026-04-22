@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21
 jira: KT-20879
-
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
 ---
 # Create Campaign
 
@@ -52,7 +52,3 @@ Finally make sure you activate the campaign.
 ## Test the campaign
 
 To test the campaign, first enable notifications on the[web page by opting in](http://localhost:3000) when prompted. Once you have opted in, wait for the campaign to run at its scheduled time. When the campaign executes, you should receive the push notification in your browser.
-
-
-
-

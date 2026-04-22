@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21
 jira: KT-20879
-
+exl-id: 2635641b-5ae2-4303-bac7-02c3702950f0
 ---
 # Run the Application Locally
 

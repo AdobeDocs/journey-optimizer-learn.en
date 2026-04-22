@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21
 jira: KT-20879
-
+exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
 ---
 # Create Journey
 
@@ -68,6 +68,3 @@ Finally, save all your changes and publish the journey. Once published, the jour
 ## Test the solution
 
 To trigger the price.drop event, open the [price drop trigger page,](http://localhost:3000/price-drop-trigger.html) select one or more products, and click Trigger Price Drop. This sends the event through the Adobe Data Layer using AEP Tags, which then initiates the journey and delivers the push notification in real time.
-
-
-

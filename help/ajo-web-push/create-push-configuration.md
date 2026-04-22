@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-01-21
 jira: KT-20879
-
+exl-id: 0a8be7eb-9962-466a-9fcc-022cb84c7b0a
 ---
 # Create push channel
 
