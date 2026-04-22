@@ -2,7 +2,7 @@
 title: Web push in Adobe Journey Optimizer
 description: Learn how to send web push messages in Adobe Journey Optimizer
 user-guide-title: Send push messages using campaign and journey in Adobe Journey Optimizer
-user-guide-description: This tutorial walks you thorugh the steps required to send web push messages in AJO
+user-guide-description: This tutorial walks you thorugh the steps required to send web push messages in Adobe Journey Optimizer using campaigns and Journey's
 solution: Journey Optimizer
 role: Developer
 level: Beginner
