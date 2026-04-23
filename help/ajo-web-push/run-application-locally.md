@@ -48,8 +48,9 @@ DATASTREAM_ID=your_datastream_id
 ORG_ID=your_org_id
 VAPID_PUBLIC_KEY=your_vapid_public_key
 APP_ID=your_app_id
-DATASET_ID=your_profile_dataset_id
+DATASET_ID=your_event_dataset_id
 PORT=3000
 ```
+
 
 When running locally, these values are read from the .env file. In production (e.g., Render), they are configured as environment variables.
