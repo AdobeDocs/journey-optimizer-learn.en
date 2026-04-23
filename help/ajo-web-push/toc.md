@@ -13,9 +13,9 @@ breadcrumb-url: /docs/journey-optimizer-learn/ajo-web-push/introduction
 # Web push in Adobe Journey Optimizer{#ajo-web-push}
 
 + [Introduction](./introduction.md)
-+ [Local Setup](./run-application-locally.md)
 + [Create push configuration](./create-push-configuration.md)
 + [Create datastream](./create-data-stream.md)
++ [Local Setup](./run-application-locally.md)
 + [Capture user permission](./capture-user-persmission.md)
 + [Create audience](./create-audience.md)
 + [Create campaign](./create-campaign.md)

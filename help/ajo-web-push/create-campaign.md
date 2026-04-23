@@ -51,4 +51,4 @@ Finally make sure you activate the campaign.
 
 ## Test the campaign
 
-To test the campaign, first enable notifications on the[web page by opting in](http://localhost:3000) when prompted. Once you have opted in, wait for the campaign to run at its scheduled time. When the campaign executes, you should receive the push notification in your browser.
+To test the campaign, first enable notifications on the [web page by opting in](http://localhost:3000) when prompted. Once you have opted in, wait for the campaign to run at its scheduled time. When the campaign executes, you should receive the push notification in your browser.
