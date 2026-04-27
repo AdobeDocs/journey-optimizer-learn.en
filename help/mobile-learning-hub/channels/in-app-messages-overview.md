@@ -4,7 +4,7 @@ description: In-app messages are messages that appear inside an app while the us
 feature: In App
 role: User, Developer, Admin
 level: Beginner
-hide: no
+hide: false
 index: true
 jira: KT-19862
 last-substantial-update: 2025-12-18

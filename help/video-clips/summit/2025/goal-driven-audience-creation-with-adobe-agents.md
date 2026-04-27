@@ -4,7 +4,7 @@ description: Watch how Adobe's Audience Agent uses AI to create precise, goal-dr
 doc-type: Short Video
 duration: 282
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 58006d05-85de-49a1-a046-037cdfa62ca8

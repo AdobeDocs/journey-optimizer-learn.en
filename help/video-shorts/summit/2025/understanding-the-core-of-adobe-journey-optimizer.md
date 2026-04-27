@@ -4,7 +4,7 @@ description: Learn how Adobe Journey Optimizer (AJO) leverages real-time custome
 doc-type: Short Video
 duration: 83
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 1b1b2b1f-c6e7-4afd-bb6f-39de2f93857c

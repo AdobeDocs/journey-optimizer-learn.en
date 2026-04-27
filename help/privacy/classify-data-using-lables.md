@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-16266
 thumbnail: 29709.jpg
 last-substantial-update: 2024-10-01
-hide: No
+hide: false
 hidefromtoc: No
 exl-id: 52930777-3231-4156-b1fe-a2d82003629a
 ---

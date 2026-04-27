@@ -3,7 +3,7 @@ title: Mobile learning hub
 description: The mobile learning hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys in Journey Optimizer.
 feature: Overview
 role: User, Admin, Developer
-hide: no
+hide: false
 index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18

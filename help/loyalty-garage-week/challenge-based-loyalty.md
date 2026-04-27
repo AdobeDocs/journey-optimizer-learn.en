@@ -3,7 +3,7 @@ title: Challenge-Based Loyalty
 description: Designing Behavioral Gamification Systems That Drive Long-Term Engagement
 feature: Overview
 role: User
-hide: yes
+hide: true
 index: false
 exl-id: 57586174-2727-4f3d-96b4-7ca248941ab6
 ---

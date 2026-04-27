@@ -9,7 +9,7 @@ duration: 337
 last-substantial-update: 2024-08-23
 jira: KT-16041
 hidefromtoc: No
-hide: No
+hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 ---
 # Guided channel setup

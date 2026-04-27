@@ -4,7 +4,7 @@ description: Explore how Adobe Journey Optimizer uses AI to optimize journeys, p
 doc-type: Short Video
 duration: 185
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 5c24536a-60ff-4448-b195-bb3cc73b52a4

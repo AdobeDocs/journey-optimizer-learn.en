@@ -9,7 +9,7 @@ role: Admin, Developer
 level: Beginner
 last-substantial-update: 2025-06-11
 exl-id: 8b96e3b0-84f4-4aa8-b2f5-1bf30e3e4106
-hide: no
+hide: false
 hidefromtoc: no
 ---
 # Configure an email channel

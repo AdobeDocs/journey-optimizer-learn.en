@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-10576
 thumbnail: 3420509.jpeg
-hide: no
+hide: false
 hidefromtoc: no 
 last-substantial-update: 2023-06-13
 exl-id: 5d4b6896-0cf2-470d-bcc6-695caa852072

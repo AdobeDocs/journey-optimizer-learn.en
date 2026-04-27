@@ -4,7 +4,7 @@ description: Content Cards are persistent, in-app messages that live inside a de
 feature: Content Cards
 role: User, Developer, Admin
 level: Beginner
-hide: no
+hide: false
 index: true
 jira: KT-19866
 last-substantial-update: 2025-12-18

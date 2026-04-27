@@ -4,7 +4,7 @@ description: Learn how to handle timeouts and errors in Adobe Journey Optimizer 
 doc-type: Short Video
 duration: 37
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 3af0b8fb-06de-4e9d-a605-1e917468fecb

@@ -4,7 +4,7 @@ description: Discover how Content Cards in Adobe Journey Optimizer can deliver p
 doc-type: Short Video
 duration: 59
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: a93ea591-0746-40ec-9139-ac6b826c72e9

@@ -4,7 +4,7 @@ description: Push notifications are short messages that pop up on a phone, table
 feature: Push
 role: User, Developer, Admin
 level: Beginner
-hide: no
+hide: false
 index: true
 jira: KT-19861
 last-substantial-update: 2025-12-18

@@ -8,7 +8,7 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2024-10-01
 jira: KT-16264
-hide: No
+hide: false
 hidefromtoc: No
 badgePrivateBeta: label="Private Beta" type="Informative"
 exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1

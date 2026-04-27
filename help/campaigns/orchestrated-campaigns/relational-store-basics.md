@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Feature Video
 duration: 443
 last-substantial-update: 2025-08-01
-hide: no
+hide: false
 hidefromtoc: no
 index: true
 jira: KT-18519

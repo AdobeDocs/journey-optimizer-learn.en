@@ -6,7 +6,7 @@ doc-type: article
 role: User
 level: Beginner
 recommendations: noDisplay, noCatalog
-hide: yes
+hide: true
 hidefromtoc: yes
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 ---

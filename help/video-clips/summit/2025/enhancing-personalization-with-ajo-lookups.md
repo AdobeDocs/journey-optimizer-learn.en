@@ -4,7 +4,7 @@ description: Explore how to use record-based datasets for personalized messaging
 doc-type: Short Video
 duration: 71
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: a8c45e2d-95f6-41b0-8830-9f8cceef75bb

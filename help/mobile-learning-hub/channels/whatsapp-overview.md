@@ -4,7 +4,7 @@ description: WhatsApp is a popular messaging app that allows businesses to engag
 feature: Whatsapp
 role: User, Developer, Admin
 level: Beginner
-hide: no
+hide: false
 index: true
 jira: KT-19868
 last-substantial-update: 2025-12-18

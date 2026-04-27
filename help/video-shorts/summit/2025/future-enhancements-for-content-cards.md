@@ -4,7 +4,7 @@ description: Get a sneak peek at upcoming features for Content Cards, including 
 doc-type: Short Video
 duration: 84
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 337862e4-6046-4e8e-a40a-2f6481c67af5

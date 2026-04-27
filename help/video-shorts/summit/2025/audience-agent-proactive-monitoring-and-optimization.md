@@ -4,7 +4,7 @@ description: See how the Audience Agent in Adobe Journey Optimizer proactively m
 doc-type: Short Video
 duration: 204
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: c8c3fbd9-3678-4830-800d-33ac627283ed

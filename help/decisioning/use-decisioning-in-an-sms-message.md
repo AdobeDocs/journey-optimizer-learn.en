@@ -9,7 +9,7 @@ duration: 187
 last-substantial-update: 2026-02-03
 jira: KT-20237
 hidefromtoc: No
-hide: No
+hide: false
 exl-id: 60b29c0c-c3a5-4a20-9298-68119f4d4cc6
 ---
 # Use Decisioning in an SMS message

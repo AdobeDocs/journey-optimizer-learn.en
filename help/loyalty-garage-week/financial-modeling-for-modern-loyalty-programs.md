@@ -3,7 +3,7 @@ title: Financial Modeling for Modern Loyalty Programs
 description: A Comprehensive, CFO-Ready Framework for Forecasting Liability, Reward Economics, and Incremental Value.
 feature: Overview
 role: User
-hide: yes
+hide: true
 index: false
 exl-id: de51792e-2cac-410f-b32e-7d443721ff81
 ---

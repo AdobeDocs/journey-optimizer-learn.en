@@ -4,7 +4,7 @@ description: Discover how AI Assistant in Adobe Journey Optimizer revolutionizes
 doc-type: Short Video
 duration: 34
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 78a6ac9b-0a5c-4e07-9877-330098b8dbb9
