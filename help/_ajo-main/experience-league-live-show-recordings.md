@@ -11,7 +11,8 @@ Experience League LIVE is a live streaming show produced by the Digital Experien
 
 ## Recent Episodes
 
-<!-- CARDS
+<!--
+CARDS
 
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
     {title = New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging (April 8 12, 2026)}
@@ -75,7 +76,8 @@ Experience League LIVE is a live streaming show produced by the Digital Experien
 
 ## Past Episodes
 
-<!-- CARDS
+<!-- 
+CARDS
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
     {title = The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth (October 30th 2025)}
     {description = In this Experience League Live session, we unveil Adobe Journey Optimizer Experimentation Accelerator, a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.}
