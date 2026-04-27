@@ -4,7 +4,7 @@ description: Learn how Adobe Journey Optimizer integrates with Experience Manage
 doc-type: Short Video
 duration: 49
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 032316ab-8d8f-4a4f-bc8c-fc2ccc6ea70f

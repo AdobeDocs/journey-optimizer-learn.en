@@ -4,7 +4,7 @@ description: Discover how to test custom actions directly in Adobe Journey Optim
 doc-type: Short Video
 duration: 40
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: ff22ce7a-55fd-4262-b2a0-e7e25479716b

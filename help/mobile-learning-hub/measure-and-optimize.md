@@ -4,7 +4,7 @@ description: Access reports, analyze performance, and refine strategies for bett
 feature: Reporting, Governance, Privacy
 role: User
 level: Beginner, Intermediate
-hide: no
+hide: false
 index: true
 jira: KT-19871
 last-substantial-update: 2025-12-18

@@ -4,7 +4,7 @@ description: Learn how Adobe Journey Optimizer helps deliver personalized conten
 doc-type: Short Video
 duration: 33
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 31f4af67-59f3-417d-b098-3217eb8c357d

@@ -4,7 +4,7 @@ description: Learn how to use Adobe Journey Optimizer's integration with Places 
 doc-type: Short Video
 duration: 190
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: bd6a7a14-f9cf-46de-89d4-3e85f8fc02b0

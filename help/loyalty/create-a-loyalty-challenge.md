@@ -8,7 +8,7 @@ doc-type: Feature Video
 duration: 192
 last-substantial-update: 2026-02-26
 jira: KT-20417
-hide: Yes
+hide: true
 hidefromtoc: Yes
 index: false
 badgeBet: label="Beta" type="Informative"

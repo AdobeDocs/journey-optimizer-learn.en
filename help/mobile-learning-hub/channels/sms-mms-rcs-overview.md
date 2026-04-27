@@ -4,7 +4,7 @@ description: SMS (Short Message Service), MMS (Multimedia Messaging Service), an
 feature: SMS
 role: User, Developer, Admin
 level: Beginner
-hide: no
+hide: false
 index: true
 jira: KT-19867
 last-substantial-update: 2025-12-18

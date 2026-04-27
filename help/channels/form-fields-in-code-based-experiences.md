@@ -9,7 +9,7 @@ duration: 428
 last-substantial-update: 2025-06-17
 jira: KT-18362
 hidefromtoc: no
-hide: no
+hide: false
 exl-id: 046ba026-a166-4b32-be07-393246e3fd3b
 ---
 # Add form fields to code-based experience channel templates

@@ -4,7 +4,7 @@ description: Learn how Adobe Journey Optimizer leverages AI and machine learning
 doc-type: Short Video
 duration: 185
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 68e01fc1-d4b5-47b6-abb1-630406679cb7

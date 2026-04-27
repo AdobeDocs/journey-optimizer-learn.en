@@ -4,7 +4,7 @@ description: Explore the latest channel innovations and integrations in Adobe Jo
 doc-type: Short Video
 duration: 208
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: c14e8b09-b6d5-41e9-8fb3-cd7b55692687

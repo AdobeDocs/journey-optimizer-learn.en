@@ -4,7 +4,7 @@ description: Discover how Adobe leveraged Journey Optimizer to scale experimenta
 doc-type: Short Video
 duration: 125
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: c36c6b4e-3e36-465d-9c75-efbc7586df83

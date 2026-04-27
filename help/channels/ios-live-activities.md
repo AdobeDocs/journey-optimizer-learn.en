@@ -8,7 +8,7 @@ level: Intermediate
 doc-type: Feature Video
 duration: 277
 hidefromtoc: No
-hide: No
+hide: false
 last-substantial-update: 2026-02-18
 jira: KT-20305
 exl-id: f474f1bb-efeb-44fd-9c62-09afdf81ee03

@@ -4,7 +4,7 @@ description: Configure the mobile channels in Adobe Journey Optimizer (AJO) and 
 feature: Overview
 role: Developer, Admin
 level: Beginner, Intermediate
-hide: no
+hide: false
 index: true
 jira: KT-19869
 last-substantial-update: 2025-12-18

@@ -4,7 +4,7 @@ description: Discover how AJO's native integration with WhatsApp Business enable
 doc-type: Short Video
 duration: 50
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 264b1205-8e2a-4f02-aa9c-629413f9dc8d

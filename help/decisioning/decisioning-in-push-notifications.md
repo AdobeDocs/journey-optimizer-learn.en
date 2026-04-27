@@ -9,7 +9,7 @@ duration: 177
 last-substantial-update: 2026-01-24
 jira: KT-20180
 hidefromtoc: no
-hide: no
+hide: false
 exl-id: a5ea65f9-33dd-4904-b205-37c50e8723af
 ---
 # Optimize Push Notifications with AJO Decisioning

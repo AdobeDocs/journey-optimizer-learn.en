@@ -4,7 +4,7 @@ description: Explore how Adobe Agents collaborate with practitioners to deliver 
 doc-type: Short Video
 duration: 99
 index: false
-hide: yes
+hide: true
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 6971211c-d025-44ad-ba34-1cc54805eb68

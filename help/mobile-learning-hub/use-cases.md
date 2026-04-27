@@ -4,7 +4,7 @@ description: Understand the use cases
 feature: Overview
 role: User
 level: Beginner, Intermediate
-hide: yes
+hide: true
 hidefromtoc: yes
 index: false
 jira: KT-19872

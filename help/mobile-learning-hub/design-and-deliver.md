@@ -3,7 +3,7 @@ title: Design and deliver
 description: Discover how to build and deliver impactful mobile communications using Adobe Journey Optimizer. Learn to create, design, and send a variety of message types—including push notifications, in-app messages, content cards, SMS/MMS/RCS, WhatsApp marketing messages, and code-based experiences—tailored to your audience and optimized for mobile engagement.
 role: User
 level: Beginner, Intermediate
-hide: no
+hide: false
 index: true
 jira: KT-19870
 last-substantial-update: 2025-12-18
