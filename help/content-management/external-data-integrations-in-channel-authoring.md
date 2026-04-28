@@ -2,7 +2,7 @@
 title: Enable Data Integrations in Channel Authoring
 description: Learn how to integrate external data into Adobe Journey Optimizer to enhance personalization across outbound channels.
 feature: Personalization, API, Channel Configuration
-role: Developer, User
+role: Admin, User
 level: Intermediate
 doc-type: Feature Video
 duration: 212
