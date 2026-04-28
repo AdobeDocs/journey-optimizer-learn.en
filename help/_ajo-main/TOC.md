@@ -131,6 +131,7 @@ auto-video-transcripts: true
     + [Create content using AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [Brand guideline creation and management](/help/content-management/brand-guideline-creation-and-management.md)
   + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
+  + [Enable external data integrations in channel authoring](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + Personalize content {#personalize-content}
   + [Personalization editor - Overview](/help/personalize-content/personalization-editor-overview.md)
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
