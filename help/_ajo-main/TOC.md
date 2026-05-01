@@ -39,23 +39,25 @@ auto-video-transcripts: true
   + [Create a test profile](/help/journeys/test-a-journey.md)
   + [Publish a journey](/help/journeys/publish-a-journey.md)
   + [Content decision activity](/help/journeys/content-decision-activity.md)
-  + [Use case - Transactional journey](/help/journeys/use-case-transactional-journey.md)
-  + [Use case - Business event](/help/journeys/use-case-business-event.md)
-  + [Use case - Read audience](/help/journeys/use-case-read-audience.md)
-  + [Use case - Audience qualification](/help/journeys/use-case-audience-qualification.md)
   + [Mastering multi-attribute filtering](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Validate the journey logic with Journey Dry run ](/help/journeys/journey-dry-run.md)
   + [Unlock journey reentry with supplemental IDs](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
   + [Update content in a live journey](/help/journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/journeys/copy-a-journey.md)
   + [Trigger daily journey runs after batch segmentation](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+  + [Use Cases] {#use-cases}
+    + [Use case - Transactional journey](/help/journeys/use-case-transactional-journey.md)
+    + [Use case - Business event](/help/journeys/use-case-business-event.md)
+    + [Use case - Read audience](/help/journeys/use-case-read-audience.md)
+    + [Use case - Audience qualification](/help/journeys/use-case-audience-qualification.md)
+  + [Tutorials]{#tutorials}
+    + [Trigger a journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + Loyalty {#loyalty}
   + [Create a loyalty challenge](/help/loyalty/create-a-loyalty-challenge.md)
 + Conflict management & prioritization {#conflict-management}
   + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
   + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
   + [Journey frequency capping & prioritization](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-  
   + [Quiet hours](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
   + [Profiles and audiences - Overview](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
@@ -147,17 +149,22 @@ auto-video-transcripts: true
   + [Experimentation Agent - Overview](/help/ai-agents/experimentation-agent-overview.md)
 + Decision Capabilities{#decision-capabilities}
   + Decisioning {#decisioning}
-    + [Introduction to Decisioning](/help/decisioning/introduction-to-decisioning.md)
-    + [End-to-end Decisioning walkthrough](/help/decisioning/decisioning-end-to-end.md)
-    + [Navigating the Formula Builder Interface](/help/decisioning/formula-builder-ui.md)
-    + [Reusable rules](/help/decisioning/reusable-targeting-rules.md)
-    + [Trigger journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-    + [Personalizing offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-    + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-    + [AI model insights](/help/decisioning/ai-model-insights.md)
-    + [Use decisioning in email channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-    + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
-    + [Use decisioning in an SMS message](/help/decisioning/use-decisioning-in-an-sms-message.md)
+    + Decisioning fundamentals {#fundamentals}
+      + [Introduction to Decisioning](/help/decisioning/introduction-to-decisioning.md)
+      + [End-to-end Decisioning walkthrough](/help/decisioning/decisioning-end-to-end.md)
+      + [Navigating the Formula Builder Interface](/help/decisioning/formula-builder-ui.md)
+      + [Reusable rules](/help/decisioning/reusable-targeting-rules.md)
+      + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [AI model insights](/help/decisioning/ai-model-insights.md)
+    + Apply decisioning to personalize messages {#content-and-offers}
+      + [Introduction to decisioning in emails](/help/decisioning/introduction-to-decisioning-in-emails.md)
+      + [Use decisioning to personalize emails (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
+      + [Use decisioning in an SMS message](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"} 
+    + Triggering decisions from external triggers and interactions
+      + [Trigger journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Personalize offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
   + Decision Management {#decision-management}
     + [Introduction to Decision Management](/help/decision-management/introduction-to-decision-management.md)
     + [Demo of the Decision Management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -171,7 +178,6 @@ auto-video-transcripts: true
     + [Create decisions](/help/decision-management/create-decisions.md)
     + [Deliver offers with the Decisions API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
     + [Frequency capping](/help/decision-management/frequency-capping.md)
-  + [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"} 
 + Data Management {#data-management}
   + [Overview](/help/data-management/set-up-data-overview.md)
   + [Create a schema](/help/data-management/create-schema.md)
