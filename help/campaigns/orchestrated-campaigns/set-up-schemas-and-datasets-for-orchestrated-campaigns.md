@@ -2,7 +2,7 @@
 title: Set Up Schemas and Datasets for Campaigns
 description: Learn to define schemas, ingest data, and validate datasets for Adobe Journey Optimizer campaigns. Get insights on personalization and execution in minutes.
 feature: Campaigns
-role: Data Engineer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 502
