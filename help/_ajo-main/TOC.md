@@ -158,7 +158,7 @@ auto-video-transcripts: true
       + [Reusable rules](/help/decisioning/reusable-targeting-rules.md)
       + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
       + [AI model insights](/help/decisioning/ai-model-insights.md)
-    + Apply decisioning to personalize messages {#content-and-offers}
+    + Use decisioning to personalize messages {#use-decisioning}
       + [Introduction to decisioning in emails](/help/decisioning/introduction-to-decisioning-in-emails.md)
       + [Use decisioning to personalize emails (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
