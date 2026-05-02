@@ -30,6 +30,8 @@ auto-video-transcripts: true
   + Orchestrated Campaigns {#orchestrated-campaigns}
     + [Introduction to Orchestrated Campaigns](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
     + [Relational Store basics](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
+    + [Set up schemas and datasets for orchestrated campaigns](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
+    + [Build an orchestrated campaign](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Journeys {#journeys}
   + [Journey Designer - Overview](/help/journeys/journey-designer-overview.md)
   + [Journey Agent - Overview](/help/ai-agents/journey-agent-overview.md)
@@ -162,7 +164,7 @@ auto-video-transcripts: true
       + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
       + [Use decisioning in an SMS message](/help/decisioning/use-decisioning-in-an-sms-message.md)
       + [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"} 
-    + Trigger decisions from external triggers and interactions {#triggers}
+    + Trigger decisions from external triggers and interactions {#trigger}
       + [Trigger journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Personalize offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
   + Decision Management {#decision-management}
