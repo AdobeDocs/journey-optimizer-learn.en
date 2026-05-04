@@ -112,7 +112,7 @@ An agency provided you with four HTML files with the design for the emails:
          * Message title: *Luma Women's Collection*
          * Subject line: *(recipient's first name), explore Luma's Women Collection!*
          * Email body: `WomensCollectionEmail.html`
-      *   Other customers should receive the **Luma - 20 % off Collection** email.
+      * Other customers should receive the **Luma - 20 % off Collection** email.
          * Message title: *Luma - 20 % off Collection*
          * Subject line: *(recipient's first name), enjoy 20% off sales!*
          * Email body: `20OOffCollectionEmail.html`

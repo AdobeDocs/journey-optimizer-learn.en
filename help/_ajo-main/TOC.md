@@ -156,17 +156,17 @@ auto-video-transcripts: true
       + [End-to-end Decisioning walkthrough](/help/decisioning/decisioning-end-to-end.md)
       + [Navigating the Formula Builder Interface](/help/decisioning/formula-builder-ui.md)
       + [Reusable rules](/help/decisioning/reusable-targeting-rules.md)
-      + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Use ranking formula to deliver personalized offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
       + [AI model insights](/help/decisioning/ai-model-insights.md)
     + Use decisioning to personalize messages {#use-decisioning}
       + [Introduction to decisioning in emails](/help/decisioning/introduction-to-decisioning-in-emails.md)
-      + [Use decisioning to personalize emails (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Use decisioning to personalize emails (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
       + [Use decisioning in an SMS message](/help/decisioning/use-decisioning-in-an-sms-message.md)
       + [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"} 
     + Trigger decisions from external triggers and interactions {#trigger}
-      + [Trigger journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [Personalize offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Trigger journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
+      + [Personalize offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
   + Decision Management {#decision-management}
     + [Introduction to Decision Management](/help/decision-management/introduction-to-decision-management.md)
     + [Demo of the Decision Management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -254,7 +254,7 @@ auto-video-transcripts: true
     + [Create and publish playbook instances](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Exercises, labs, and challenges {#exercises-and-challenges}
   + [Configure a training sandbox](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + [Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + [Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"} 
     + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
