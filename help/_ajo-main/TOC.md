@@ -235,10 +235,10 @@ auto-video-transcripts: true
   + [Create data usage policies](/help/privacy/create-data-usage-policies.md)
   + [Enforce data usage policies in Journey Optimizer channels](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
   + [Mask data in messages](/help/privacy/mask-data-in-messages.md)
-+ AI Assistant {#ai-assistant}
++ AI Assistants and Agents {#ai-assistant}
   + [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)   
   + [AI Assistant for Content Generation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-  + [Journey Agent](/help/ai-agents/journey-agent-overview.md)
+  + [Analyze and Build Journeys with the Journey Agent](/help/ai-agents/journey-agent-overview.md)
   + [Experimentation Agent - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Use cases & best practices{#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
