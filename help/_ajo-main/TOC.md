@@ -238,7 +238,7 @@ auto-video-transcripts: true
 + AI Assistant {#ai-assistant}
   + [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)   
   + [AI Assistant for Content Generation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-  + [Journey Agent - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+  + [Journey Agent](/help/ai-agents/journey-agent-overview.md)
   + [Experimentation Agent - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Use cases & best practices{#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)

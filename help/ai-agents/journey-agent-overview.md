@@ -1,18 +1,17 @@
 ---
-title: Journey Agent overview
-description: Journey Agent uses AI to create, analyze, and optimize B2B/B2C journeys through a conversational interface.
-feature: AI Assistant, Journeys
-feature-set: Journey Optimizer, Experience Platform
-role: User, Developer, Leader, Admin
+title: Analyze Journeys with AI-Powered Journey Agent
+description: Learn how Journey Agent in Adobe Journey Optimizer analyzes live journeys, identifies issues, and builds multi-step journeys with actionable insights.
+feature: 
+role: User
 level: Beginner
-last-substantial-update: 2025-10-08
-jira: KT-19109
-exl-id: 96202701-aa2f-4d6a-816e-c9a8cc433278
+doc-type: Feature Video
+duration: 308
+last-substantial-update: 2026-05-05
+jira: KT-21114
 ---
-# Journey Agent overview
 
-Learn what you can do with AI Assistant in Adobe Experience Platform-based applications like Real-Time Customer Data Platform, Journey Optimizer, and Customer Journey Analytics.
+# Analyze and Build Journeys with Journey Agent
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+Learn how to use Journey Agent, an AI-powered assistant built into Adobe Journey Optimizer, to analyze live journeys, identify audience conflicts and profile fallout, and create complete multi-step journeys using natural language. In this video, you'll see how Journey Agent provides transparent insights, actionable recommendations, and guided approvals, helping you troubleshoot existing journeys and build new ones faster, all without leaving the AI assistant
 
-See [Work with AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) for more information about the use cases supported in Journey Optimizer. For detailed documentation, visit the [AI Assistant in Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) documentation.
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
