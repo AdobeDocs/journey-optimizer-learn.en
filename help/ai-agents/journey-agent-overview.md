@@ -1,13 +1,14 @@
 ---
 title: Analyze and Build Journeys with the Journey Agent
 description: Learn how Journey Agent in Adobe Journey Optimizer analyzes live journeys, identifies issues, and builds multi-step journeys with actionable insights.
-feature: 
+feature: AI Assistant, Journeys
 role: User
 level: Beginner
 doc-type: Feature Video
 duration: 308
 last-substantial-update: 2026-05-05
 jira: KT-21114
+exl-id: 96202701-aa2f-4d6a-816e-c9a8cc433278
 ---
 
 # Analyze and Build Journeys with the Journey Agent
