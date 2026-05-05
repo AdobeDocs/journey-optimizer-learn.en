@@ -34,7 +34,7 @@ auto-video-transcripts: true
     + [Build an orchestrated campaign](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Journeys {#journeys}
   + [Journey Designer - Overview](/help/journeys/journey-designer-overview.md)
-  + [Journey Agent - Overview](/help/ai-agents/journey-agent-overview.md)
+  + [Analyze and Build Journeys with the Journey Agent](/help/ai-agents/journey-agent-overview.md)
   + [Discover the new Journey Designer](/help/journeys/new-journey-designer.md)
   + [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md)
   + [Using dataset lookup in a journey](/help/journeys/lookup-dataset.md)
@@ -238,7 +238,7 @@ auto-video-transcripts: true
 + AI Assistants and Agents {#ai-assistant}
   + [AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)   
   + [AI Assistant for Content Generation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-  + [Analyze and Build Journeys with the Journey Agent](/help/ai-agents/journey-agent-overview.md)
+  + [Analyze and Build Journeys with the Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
   + [Experimentation Agent - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Use cases & best practices{#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
