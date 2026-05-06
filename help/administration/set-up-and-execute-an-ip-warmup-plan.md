@@ -5,7 +5,6 @@ feature: IP Warmup Plans
 role: Admin
 level: Beginner
 doc-type: Feature Video
-hidefromtoc: No
 hide: false
 duration: 741
 last-substantial-update: 2024-08-14

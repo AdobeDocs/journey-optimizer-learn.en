@@ -10,7 +10,6 @@ role: User
 level: Beginner
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
 last-substantial-update: 2023-06-15
-hidefromtoc: no
 hide: false
 ---
 # Use Case - Transactional Journey 

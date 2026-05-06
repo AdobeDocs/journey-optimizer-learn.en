@@ -9,7 +9,6 @@ duration: 123
 last-substantial-update: 2026-02-11
 jira: KT-20141
 hide: false
-hidefromtoc: no
 exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
 ---
 # Content decision activity in the journey canvas
