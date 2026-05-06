@@ -9,7 +9,6 @@ duration: 474
 last-substantial-update: 2024-10-01
 jira: KT-16263
 hide: false
-hidefromtoc: No
 exl-id: e78350c0-543e-4a68-9551-df0c7d9a7be0
 ---
 # Data Governance Framework Overview

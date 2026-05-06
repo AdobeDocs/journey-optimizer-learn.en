@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 598
 last-substantial-update: 2025-07-30
 jira: KT-18657
-hidefromtoc: yes
 exl-id: 0edd792a-14e5-4fb4-94e0-f032be89d267
 ---
 # Get Started with WhatsApp in Adobe Journey Optimizer

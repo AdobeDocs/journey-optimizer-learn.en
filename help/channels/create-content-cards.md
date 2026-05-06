@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 151
 last-substantial-update: 2024-09-26
 jira: KT-15791
-hidefromtoc: no
 hide: false
 exl-id: 404b9b9d-1f68-40a9-a960-26640aacd154
 ---

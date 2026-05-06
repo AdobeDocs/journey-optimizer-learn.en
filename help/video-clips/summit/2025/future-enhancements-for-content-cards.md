@@ -5,7 +5,6 @@ doc-type: Short Video
 duration: 84
 index: false
 hide: true
-hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 4c7f43cb-1157-4e94-9db9-d6346001af6a
 ---
