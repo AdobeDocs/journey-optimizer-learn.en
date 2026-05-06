@@ -21,6 +21,6 @@ auto-video-transcripts: true
 + [Configure and launch](/help/mobile-learning-hub/configure-and-launch.md)
 + [Design and deliver](/help/mobile-learning-hub/design-and-deliver.md)
 + [Measure and optimize](/help/mobile-learning-hub/measure-and-optimize.md)
-+ [Use cases](/help/mobile-learning-hub/use-cases.md)
++ {hide-from-toc} [Use cases](/help/mobile-learning-hub/use-cases.md)
 
 

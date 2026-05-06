@@ -12,7 +12,7 @@ auto-video-transcripts: true
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
   + [Key capabilities and the user interface](/help/introduction/key-capabilities-and-user-interface.md)
-  + [Architecture](/help/introduction/architecture.md)
+  + {hide-from-toc} [Architecture](/help/introduction/architecture.md)
   + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
   + [Get help with the AI-Assistant](/help/ai-agents/ai-assistant.md)
@@ -35,7 +35,7 @@ auto-video-transcripts: true
 + Journeys {#journeys}
   + [Journey Designer - Overview](/help/journeys/journey-designer-overview.md)
   + [Analyze and Build Journeys with the Journey Agent](/help/ai-agents/journey-agent-overview.md)
-  + [Discover the new Journey Designer](/help/journeys/new-journey-designer.md)
+  + {hide-from-toc} [Discover the new Journey Designer](/help/journeys/new-journey-designer.md)
   + [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md)
   + [Using dataset lookup in a journey](/help/journeys/lookup-dataset.md)
   + [Create a test profile](/help/journeys/test-a-journey.md)
@@ -55,7 +55,7 @@ auto-video-transcripts: true
   + Tutorials{#tutorials}
     + [Trigger a journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + Loyalty {#loyalty}
-  + [Create a loyalty challenge](/help/loyalty/create-a-loyalty-challenge.md)
+  + {hide-from-toc} [Create a loyalty challenge](/help/loyalty/create-a-loyalty-challenge.md)
 + Conflict management & prioritization {#conflict-management}
   + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
   + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
@@ -63,7 +63,7 @@ auto-video-transcripts: true
   + [Quiet hours](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profiles, audiences, and subscriptions {#profiles-audiences-subscriptions}
   + [Profiles and audiences - Overview](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-  + [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+  + {hide-from-toc} [Unified profile and segmentation - overview](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
   + [Create audiences using the rule builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
   + [Create an audience by uploading a CSV file](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
   + [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"} 
@@ -109,7 +109,7 @@ auto-video-transcripts: true
     + [Author a web campaign](/help/channels/author-a-web-campaign.md)
     + [SPA support in the web editor](/help/channels/singel-page-application-support.md)
   + WhatsApp {#whatsapp}
-    + [Get started with WhatsApp (end-to-end)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+    + {hide-from-toc} [Get started with WhatsApp (end-to-end)](/help/channels/get-started-with-whatsapp-in-ajo.md)
     + [Introduction to the WhatsApp channel](/help/channels/whatsapp-introduction.md)
     + [Set up the WhatsApp channel](/help/channels/set-up-whatsapp.md)
     + [Create a WhatsApp journey](/help/channels/create-a-whatsapp-journey.md)
@@ -224,9 +224,9 @@ auto-video-transcripts: true
   + Business rules {#business-rules}
     + [Configure frequency capping rules](/help/business-rules/configure-frequency-capping-rules.md)
     + [Work with rule sets](/help/business-rules/work-with-rule-sets.md)
-    + [Test and report on frequency rules](/help/business-rules/test-and-report-on-frequency-rules.md)
+    + {hide-from-toc} [Test and report on frequency rules](/help/business-rules/test-and-report-on-frequency-rules.md)
 + Access Control {#access-control}
-  + [Access management](/help/set-up-access/access-management.md)
+  + {hide-from-toc} [Access management](/help/set-up-access/access-management.md)
   + [Configure attribute-based access control](/help/administration/attribute-based-access-control.md)
   + [Use sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Data Governance and Privacy {#data-governance-and-privacy}

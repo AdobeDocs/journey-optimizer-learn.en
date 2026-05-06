@@ -5,7 +5,6 @@ feature: Overview
 role: User
 level: Beginner, Intermediate
 hide: true
-hidefromtoc: yes
 index: false
 jira: KT-19872
 last-substantial-update: 2025-08-22

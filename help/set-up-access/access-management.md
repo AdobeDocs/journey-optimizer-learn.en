@@ -8,7 +8,6 @@ doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
-hidefromtoc: yes
 hide: true
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
 ---
