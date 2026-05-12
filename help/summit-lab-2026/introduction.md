@@ -37,4 +37,4 @@ Over the course of five exercises, you learn how to construct a decisioning syst
 
 >[!VIDEO](https://video.tv.adobe.com/v/3489058/?learn=on&enablevpops)
 
-View the workbook [here](/help/summit-lab-2026/assets/summit-lab-manual-l610.pdf).
+View the workbook [here](https://adobelabs.dev/developers/l610/).
