@@ -9,7 +9,8 @@ duration: 567
 last-substantial-update: '2026-05-12T00:00:00.000Z'
 jira: KT-21209
 index: false
-autotag-review: '2026-05-13T23:43:48.181Z'
+recommendations: noCatalog, noDisplay
+autotag-review: '2026-05-14T18:09:58.621Z'
 TQID: 'https://experienceleague.adobe.com/l9tG3MYP6wM0nH7fAPN7f-6317FMx6OnrraoT6KDJkw'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
