@@ -8,8 +8,9 @@ doc-type: Technical Video
 duration: 198
 last-substantial-update: '2026-05-12T00:00:00.000Z'
 jira: KT-21187
+recommendations: noCatalog, noDisplay
 index: false
-autotag-review: '2026-05-12T21:22:14.691Z'
+autotag-review: '2026-05-14T18:09:41.572Z'
 TQID: 'https://experienceleague.adobe.com/fucOsInK4Kxj-4fjB-xpwp5v2wCoH7T-d6lklgPQjEo'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79

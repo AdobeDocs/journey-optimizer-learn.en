@@ -12,6 +12,10 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.en
 index: true
 auto-video-transcripts: true
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+autotag-review: '2026-05-14T17:54:05.354Z'
 ---
 
 # Metadata for internal use
