@@ -6,7 +6,7 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 308
-last-substantial-update: 2026-05-05T00:00:00.000Z
+last-substantial-update: 2026-05-05
 jira: KT-21114
 exl-id: 96202701-aa2f-4d6a-816e-c9a8cc433278
 autotag-review: '2026-05-14T18:15:55.314Z'
