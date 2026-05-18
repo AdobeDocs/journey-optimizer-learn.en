@@ -7,6 +7,19 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 606a5cb9-729a-4f30-9929-08c69eb229af
+autotag-review: '2026-05-18T17:20:44.214Z'
+TQID: 'https://experienceleague.adobe.com/CojGl21DXVj50MAS1qNw-lBlz0jGo26-jbuwM0gCcTY'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # AI Decisioning and Next Best Actions in AJO
 
