@@ -47,6 +47,7 @@ auto-video-transcripts: true
   + [Update content in a live journey](/help/journeys/update-content-in-live-journey.md)
   + [Copy a journey to another sandbox](/help/journeys/copy-a-journey.md)
   + [Trigger daily journey runs after batch segmentation](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+  + [Save journey nodes as fragments](/help/journeys/journey-fragments.md)
   + Use Cases {#use-cases}
     + [Use case - Transactional journey](/help/journeys/use-case-transactional-journey.md)
     + [Use case - Business event](/help/journeys/use-case-business-event.md)
