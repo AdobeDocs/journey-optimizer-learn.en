@@ -1,5 +1,5 @@
 ---
-title: Journey Fragments Explained
+title: Save journey nodes as fragments
 description: Learn to save journey nodes as reusable fragments in Adobe Journey Optimizer. Streamline workflows and ensure consistency across multiple journeys.
 feature: Journeys
 role: User
