@@ -5,7 +5,7 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 11
+duration: 93
 last-substantial-update: '2026-05-20T00:00:00.000Z'
 jira: KT-21345
 autotag-review: '2026-05-20T23:14:06.458Z'
