@@ -29,3 +29,4 @@ level_v2:
 Learn how to create reusable journey fragments in Adobe Journey Optimizer. This feature lets users save a set of journey nodes as fragments, enabling quick reuse in other journeys. By using fragments, you save time, streamline workflows, and ensure consistency across multiple journeys. Watch the embedded video for a detailed walkthrough and practical examples.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+
