@@ -30,6 +30,7 @@ autotag-review: '2026-05-12T21:22:53.986Z'
 + [Exercise 1 - Experience the customer journey](/help/summit-lab-2026/exercise-1-experience-the-customer-journey.md)
 + [Lecture 1 - How Experience Decisioning works](/help/summit-lab-2026/lecture-1-how-experience-decisioning-works.md)
 + [Exercise 2 - Under the hood - offers, collections, and decisions rules](/help/summit-lab-2026/exercise-2-under-the-hood.md)
++ [Lecture 3 - Understand ranking methods](/help/summit-lab-2026/lecture-2-understand-ranking-methods.md)
 + [Exercise 3 - Create a ranking method and selection strategy](/help/summit-lab-2026/exercise-3-create-a-ranking-method-and-selection-strategy.md)
 + [Exercise 4 - Create a campaign](/help/summit-lab-2026/exercise-4-create-a-campaign.md)
 + [Exercise 5 - Create a journey](/help/summit-lab-2026/exercise-5-create-a-journey.md)
