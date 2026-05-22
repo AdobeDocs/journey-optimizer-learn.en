@@ -35,6 +35,6 @@ topic_v2:
 
 # Lecture 2 - Understand ranking methods
 
-Learn about the different ranking methods available in Adobe Journey Optimizer Decisioning, including AI optimization models and rule-based ranking formulas.
+Learn about the different ranking methods available in Adobe Journey Optimizer Decisioning, including rule-based ranking formulas and AI optimization models.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491465/?learn=on&enablevpops)
