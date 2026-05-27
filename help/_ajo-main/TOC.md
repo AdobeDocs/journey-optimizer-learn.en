@@ -241,6 +241,7 @@ auto-video-transcripts: true
   + [AI Assistant for Content Generation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
   + [Analyze and Build Journeys with the Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
   + [Experimentation Agent - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+  + [Plan audiences using Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Use cases & best practices{#use-cases}
   + [Customer onboarding](/help/use-cases/customer-onboarding.md)
   + [Abandoned cart](/help/use-cases/abandoned-cart.md)
