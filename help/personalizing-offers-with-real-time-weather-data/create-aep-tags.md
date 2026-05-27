@@ -16,18 +16,18 @@ Adobe Experience Platform Tags (formerly Adobe Launch) help manage and deploy* m
 
 This [video describes the process of creating Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
-1. Log in to Data Collection
-2. Click on _**Tags -> New Property**
-3. Create an Adobe Experience Platform Tag called _**personalization-on-weather**_.
-4. Add the following extensions to the Tag
+* Log in to Data Collection
+* Click on _**Tags -> New Property**
+* Create an Adobe Experience Platform Tag called _**personalization-on-weather**_.
+* Add the following extensions to the Tag
 
 ![tags-extensions](assets/tags-extensions1.png)
 
-5. Add a data element called "ECID" as shown below. This data element is used later in reporting
+* Add a data element called "ECID" as shown below. This data element is used later in reporting
 
 ![ecid-data-element](assets/ecid-data-element.png)
 
-6. Make sure to configure the Adobe Experience Platform Web SDK to use the correct environment and the **weather-related-datastream** created in the earlier step.
+* Make sure to configure the Adobe Experience Platform Web SDK to use the correct environment and the **weather-related-datastream** created in the earlier step.
 
 ![web-sdk-configuration](assets/tags-extensions.png)
 
@@ -53,7 +53,7 @@ Then click on the Save and Build to Development button to build the library
 
 ## Include AEP Tags in the HTML page
 
-When you publish a AEP Tags property, Adobe gives you a script tag that you must place inside your HTML ` <head>` or at the bottom of the ``` <body>``` tags.
+When you publish a AEP Tags property, Adobe gives you a script tag that you must place inside your HTML ` <head>` or at the bottom of the ` <body>` tags.
 
 1. Go to Tags(personalization-on-weather) property.
 2. Click on Environments and click the install icon of the environment you want (for example, Development, Staging, Production).

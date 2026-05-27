@@ -107,7 +107,7 @@ Then click on the Save and Build to Development button to build the library
 
 ## Include AEP Tags in the HTML page
 
-When you publish a AEP Tags property, Adobe gives you a script tag that you must place inside your HTML ` <head>` or at the bottom of the ``` <body>``` tags.
+When you publish a AEP Tags property, Adobe gives you a script tag that you must place inside your HTML ` <head>` or at the bottom of the `<body>` tags.
 
 * Go to your Tags(Financial Advisors) property.
 
