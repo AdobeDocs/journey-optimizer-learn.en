@@ -72,17 +72,20 @@ If nothing is found, return the string "undefined,"
 
 The Rule Builder in Adobe Experience Platform Tags lets you define when and how specific actions should run on your website based on user behavior or events.
 
-*   Create a Rule named Send Preferred Financial Instrument. This rule contains an event and an action
+* Create a Rule named Send Preferred Financial Instrument. This rule contains an event and an action
 
 
-*   Create an event configuration named Preferred Asset Class Selected as shown below. This event listens to assetClassSelection events.
+* Create an event configuration named Preferred Asset Class Selected as shown below. This event listens to assetClassSelection events.
+
 ![rule-event](assets/rule-event.png)
 
 
-*   Create an Action to send the updated XDM schema to AEP
+* Create an Action to send the updated XDM schema to AEP
+
 ![send-event](assets/rule-send-event.png)
 
-*   Your final rule should look like below
+* Your final rule should look like below
+
 ![final-rule](assets/final-rule.png)
 
 ## Build and deploy the AEP Tags
@@ -104,10 +107,10 @@ Then click on the Save and Build to Development button to build the library
 
 ## Include AEP Tags in the HTML page
 
-When you publish a AEP Tags property, Adobe gives you a script tag that you must place inside your HTML ``` <head>``` or at the bottom of the ``` <body>``` tags.
+When you publish a AEP Tags property, Adobe gives you a script tag that you must place inside your HTML ` <head>` or at the bottom of the ``` <body>``` tags.
 
-*   Go to your Tags(Financial Advisors) property.
+* Go to your Tags(Financial Advisors) property.
 
-*   Click on Environments and click the install icon of the environment you want (for example, Development, Staging, Production).
+* Click on Environments and click the install icon of the environment you want (for example, Development, Staging, Production).
 
-*   Make a note of the embedded code. It is needed at a later stage of this tutorial.
+* Make a note of the embedded code. It is needed at a later stage of this tutorial.

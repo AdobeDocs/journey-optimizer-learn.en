@@ -38,7 +38,7 @@ The ECID data element in Experience Platform tags is created solely for debuggin
 
 Build and publish the Adobe Experience Platform Tags.
 
-When an AEP Tags property is published, Adobe gives you a script tag that you must place inside your HTML ``` <head>``` or at the bottom of the ``` <body>``` tags.
+When an AEP Tags property is published, Adobe gives you a script tag that you must place inside your HTML `<head>` or at the bottom of the ``` <body>``` tags.
 
 1. Go to your Tags (ECID Service) property.
 
@@ -46,4 +46,4 @@ When an AEP Tags property is published, Adobe gives you a script tag that you mu
 
 1. Note the embedded code. 
 
-    This code needs to be placed just before the closing ```</body>``` tag in the HTML page.
+    This code needs to be placed just before the closing `</body>`tag in the HTML page.
