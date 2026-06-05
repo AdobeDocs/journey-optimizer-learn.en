@@ -22,7 +22,7 @@ To create a journey that is triggered on price.drop event,please follow the foll
 
 ## Add PriceDropEvent
 
-Drag the `PriceDropEvent` from the events section on to the canvas
+Drag the `PriceDropEvent` from the events section on to the canvas.
 ![price-drop-event](assets/add-price-drop-event.png)
 
 ## Add Push Action
