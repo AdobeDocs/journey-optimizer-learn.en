@@ -42,6 +42,7 @@ auto-video-transcripts: true
   + [Publish a journey](/help/journeys/publish-a-journey.md)
   + [Content decision activity](/help/journeys/content-decision-activity.md)
   + [Mastering multi-attribute filtering](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Use multi-entity targeting with Federated Audiences in journeys](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Validate the journey logic with Journey Dry run ](/help/journeys/journey-dry-run.md)
   + [Unlock journey reentry with supplemental IDs](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
   + [Update content in a live journey](/help/journeys/update-content-in-live-journey.md)
