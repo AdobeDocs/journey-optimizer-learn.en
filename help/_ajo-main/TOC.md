@@ -70,7 +70,7 @@ auto-video-transcripts: true
   + [Create an audience by uploading a CSV file](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
   + [Create audiences using Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"} 
   + [Evaluate audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
-  + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
+  + [Subscriptions and landing pages](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
 + Channels {#channels}
   + [Mobile App Optimization - Overview](/help/channels/mobile-app-optimization-overview.md)
   + Code-based experience channel{#code-based-experience-channel}
