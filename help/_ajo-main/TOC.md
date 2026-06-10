@@ -166,6 +166,7 @@ auto-video-transcripts: true
       + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
       + [Use decisioning in an SMS message](/help/decisioning/use-decisioning-in-an-sms-message.md)
       + [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"} 
+      + [Use Experience Manager Content Fragments with Decisioning](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Trigger decisions from external triggers and interactions {#trigger}
       + [Trigger journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
       + [Personalize offers with real time weather data](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
