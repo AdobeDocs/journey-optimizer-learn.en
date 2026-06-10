@@ -24,20 +24,20 @@ You can [download it here:](https://nodejs.org/)
 
 Verify the installation
 
-```node -v```
+`node -v`
 
-```npm -v```
+`npm -v`
 
 
 ## 2. Clone the Repository
 
-```git clone https://github.com/gbedekar489/ajo-web-push.git```
+`git clone https://github.com/gbedekar489/ajo-web-push.git`
 
-```cd ajo-web-push```
+`cd ajo-web-push`
 
 ## 3. Install Dependencies
 
-  ```npm install```
+  `npm install`
 
 ## 4. Configure Environment Variables
 
