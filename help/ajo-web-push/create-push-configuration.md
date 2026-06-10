@@ -22,11 +22,12 @@ It is generated using a tool like web-push generate-vapid-keys, which creates a 
 For this tutorial we have used Node.js to generate the VAPID keys.
 
 Make sure you have Node.js installed. Then issue the following command
-```npm install web-push -g ```
+
+`npm install web-push -g `
 
 ![web-push](assets/install-web-push.png)
 
-```web-push generate-vapid-keys```
+`web-push generate-vapid-keys`
 
 ![vapid](assets/vapid-keys.png)
 
