@@ -1,6 +1,6 @@
 ---
 title: Optimize channels based on profile preference or propensity scores
-description: Learn how Adobe Journey Optimizer's channel optimization feature helps you reach customers in the most effective channel - whether through manual priority, profile attributes, or Adobe's AI model - ensuring your message is delivered where each customer is most likely to engage.
+description: Learn how Adobe Journey Optimizer's channel optimization feature helps you reach customers on the most effective channel using manual priority, profile attributes, or Adobe's AI model, so your message lands where each customer is most likely to engage.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -39,6 +39,6 @@ topic_v2:
 
 {{limited-availability}}
 
-Learn how Adobe Journey Optimizer's channel optimization feature helps you reach customers in the most effective channel - whether through manual priority, profile attributes, or Adobe's AI model - ensuring your message is delivered where each customer is most likely to engage.
+Learn how Adobe Journey Optimizer's channel optimization feature helps you reach customers on the most effective channel using manual priority, profile attributes, or Adobe's AI model, so your message lands where each customer is most likely to engage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)
