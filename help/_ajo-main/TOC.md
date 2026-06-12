@@ -136,7 +136,7 @@ auto-video-transcripts: true
     + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [Create content using AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [Brand guideline creation and management](/help/content-management/brand-guideline-creation-and-management.md)
-  + {hide-from-toc} [Optimize channels based on profile preference or propensity scores](/help/channels/channel-optimization.md)
+  + {hide-from-toc}[Optimize channels based on profile preference or propensity scores](/help/channels/channel-optimization.md)
   + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Enable external data integrations in channel authoring](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + Personalize content {#personalize-content}
