@@ -1,6 +1,6 @@
 ---
 title: AI Assistant
-description: Learn what you can do with AI Assistant in Adobe Experience Platform-based applications like Real-Time Customer Data Platform, Journey Optimizer, and Customer Journey Analytics.
+description: Learn about AI Assistant in Adobe Experience Platform apps, including Real-Time Customer Data Platform, Journey Optimizer, and Customer Journey Analytics.
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -28,5 +28,5 @@ Learn what you can do with AI Assistant in Adobe Experience Platform-based appli
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-See [Work with AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) for more information about the use cases supported in Journey Optimizer. For detailed documentation, visit the [AI Assistant in Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) documentation.
+See [Work with AI Assistant](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/ai-features) for more information about the use cases supported in Journey Optimizer. For detailed documentation, visit the [AI Assistant in Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home) documentation.
 
