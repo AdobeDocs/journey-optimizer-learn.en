@@ -126,6 +126,7 @@ auto-video-transcripts: true
     + [Create expression fragments](/help/content-management/expression-fragments.md)
     + [Add rich text to an editable fragment](/help/content-management/add-rich-text-to-editable-fragments.md)
     + [Use AEM Content Fragments](/help/content-management/aem-content-fragments.md)
+    + [Use AEM Content Fragments (Managed Services)](/help/content-management/aem-content-fragments-managed-services.md)
   + Content templates{#content-templates}
     + [Create content templates](/help/content-management/templates/create-content-templates.md)
     + [Lock content in templates](/help/content-management/templates/content-locking.md)
