@@ -100,7 +100,7 @@ auto-video-transcripts: true
     + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
     + [Create web push notifications](/help/channels/create-web-push-notifications.md)
-    + [Web push in Adobe Journey Optimizer (Tutorial)](/help/tutorial-ajo-web-push/introduction.md)
+    + [Web push in Adobe Journey Optimizer (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
   + SMS/MMS channel{#sms-channel}
     + [SMS/MMS messages - Overview](/help/channels/sms-mms-messages-overview.md)
     + [Configure, author, and deliver SMS messages](/help/channels/author-sms-messages.md)
