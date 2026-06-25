@@ -18,7 +18,6 @@ In this step, you will create a campaign in Adobe Journey Optimizer to send sche
 
 ## Specify  Campaign Settings
 
-
 Specify the campaign name
 
 ![campaign-name](assets/campign-push-notification.png)
