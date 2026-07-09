@@ -141,6 +141,7 @@ auto-video-transcripts: true
   + [Optimize channels based on profile preference or propensity scores](/help/channels/channel-optimization.md)
   + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Enable external data integrations in channel authoring](/help/content-management/external-data-integrations-in-channel-authoring.md)
+  + [Create on-brand content in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalize content {#personalize-content}
   + [Personalization editor - Overview](/help/personalize-content/personalization-editor-overview.md)
   + [Profile and audience membership-based personalization](/help/personalize-content/profile-and-audience-membership-based-personalization.md)

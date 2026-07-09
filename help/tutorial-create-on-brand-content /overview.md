@@ -9,7 +9,7 @@ doc-type: overview-page
 last-substantial-update: 2026-07-08
 ---
 
-# Create on-brand content in Journey Optimizer
+# Create on-brand content in Journey Optimizer - Tutorial
 
 Learn how to use AI in Adobe Journey Optimizer to create, refine, and scale on-brand content across the entire customer journey.
 
