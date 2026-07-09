@@ -4,12 +4,13 @@ user-guide-description: This tutorial  guides you through everything from buildi
 role: User
 level: Internediate
 breadcrumb-title: create-on-brand-content
-breadcrumb-url: /docs/journey-optimizer-learn/reate-on-brand-content/introduction
+breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
 ---
 
 # Create on-brand content in Journey Optimizer {#create-on-brand-content}
 
++ [Create on-brand content in Journey Optimizer](./overview.md)
 + Introduction and Brand Setup {#introduction-and-brand-setup}
     + [Introduction](./introduction.md)
     + [Configure brands](./configure-brands.md)
@@ -20,6 +21,4 @@ auto-video-transcripts: true
     + [Enhance your visual content](./enhance-your-visual-content.md)
     + [Create and refine multilingual versions of your content](./create-and-refine-multilingual-content.md)
 + [Ensure quality, brand alignment & governance](./quality-brand-alignment-and-governance.md)
-
-
 
