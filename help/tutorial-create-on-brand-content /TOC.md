@@ -10,11 +10,11 @@ auto-video-transcripts: true
 
 # Create on-brand content in Journey Optimizer {#create-on-brand-content}
 
-+ [Introduction and Brand Setup](#introduction-and-brand-setup)
++ Introduction and Brand Setup {#introduction-and-brand-setup}
     + [Introduction](./introduction.md)
     + [Configure brands](./configure-brands.md)
     + [Brand guidelines tips](./brands-tips-and-tricks.md)
-+ [Generate and refine content](#generate-content)
++ Generate and refine content {#generate-content}
     + [Create content from scratch](./create-content-from-scratch.md)
     + [Edit and personalize section content](./edit-and-personalize-section-content.md)
     + [Enhance your visual content](./enhance-your-visual-content.md)
