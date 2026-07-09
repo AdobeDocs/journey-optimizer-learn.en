@@ -14,7 +14,6 @@ last-substantial-update: 2026-07-08
 Learn how to use AI in Adobe Journey Optimizer to create, refine, and scale on-brand content across the entire customer journey.
 
 This course guides you through everything from building and configuring brand guidelines to generating full campaigns, editing individual content components, enhancing visuals, and enabling multilingual experiences.
-
 You'll also discover how to apply automated quality checks, ensure brand alignment, and maintain governance across all communications. By the end, you'll be equipped to streamline content creation, improve consistency, and deliver high-quality, personalized experiences across channels.
 
 ## What you'll learn
