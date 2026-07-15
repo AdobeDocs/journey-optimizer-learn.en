@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 jira: KT-20379
-last-substantial-update: 2026-07-14
+last-substantial-update: 2026-07-15
 ---
 
 # AI-powered, on-brand content creation in Adobe Journey Optimizer for marketers
@@ -16,34 +16,38 @@ Built for marketers who want to scale personalized, consistent content across ev
 
 ## What you learn
 
+* Build and configure a brand profile that guides AI-generated content across Adobe Journey Optimizer, GenStudio, and Adobe Express.
+* Generate and edit omnichannel email, push, and in-app content with AI.
+* Enhance visuals and create multilingual versions using integrated AI tools.
+* Run automated quality checks, evaluate brand alignment, and apply governance before content goes live.
+
 ### Introduction and brand setup
 
-This module walks you through setting up your brand in Adobe Journey Optimizer so your AI-generated content reflects who you are from the start.
+This module walks you through setting up your brand in Adobe Journey Optimizer so your AI-generated content reflects who you are from the start. You see a full example of AI-generated email content, then create and configure a brand profile by uploading guidelines and mapping key elements like tone, legal constraints, and imagery rules. You also learn how to extend that brand across GenStudio and Adobe Express and manage multiple brands for different teams. By the end, you have a working brand profile that meaningfully steers your AI-generated content wherever you create it.
 
-* [Introduction](./introduction.md)
-  This introduction walks through how AI-powered tools help you generate email content and apply brand guidelines.
-* [Configure brands](./configure-brands.md)
-  Learn to upload brand guidelines, define styles, and ensure consistent, on-brand communication across channels in Adobe Journey Optimizer.
-* [Brand guidelines tips](./brands-tips-and-tricks.md)
-  Learn tips to extend brand guidelines across Adobe Journey Optimizer, GenStudio, and Adobe Express for better branding consistency and team collaboration.
+* [Create on-brand email content with AI](./introduction.md)
+  See how AI capabilities in Adobe Journey Optimizer help you build on-brand email content at scale, from a single prompt to a fully generated, on-brand email.
+* [Configure a brand for AI-powered content in Adobe Journey Optimizer](./configure-brands.md)
+  Create and configure a brand that AI capabilities use to generate and validate content, mapping tone of voice, legal constraints, imagery rules, and more.
+* [Extend brand guidelines across creative tools](./brands-tips-and-tricks.md)
+  Learn how to apply a brand configured in Adobe Journey Optimizer across GenStudio and Adobe Express, add examples, and manage multiple brands.
 
 ### Use AI to generate content
 
-This module shows you how to generate and refine on-brand content end-to-end using AI capabilities in Adobe Journey Optimizer.
+This module shows you how to generate and refine on-brand content end-to-end using AI capabilities in Adobe Journey Optimizer. You generate full email, push, and in-app assets from a prompt, edit individual sections like subject lines, preheaders, and images, enhance visuals, and create multilingual versions while preserving your brand voice. By the end, you go from an idea to polished, multilingual, on-brand copy and visuals.
 
-* [Create content from scratch](./create-content-from-scratch.md)
-  Start from a template, apply brand guidelines, and use simple prompts to create emails, push notifications, and in-app messages from scratch.
+* [Create omnichannel content from scratch](./create-content-from-scratch.md)
+  Start from a template and generate a full email, push notification, or in-app message using AI capabilities, brand guidelines, and configurable tone and image settings.
 * [Edit and personalize section content](./edit-and-personalize-section-content.md)
-  Learn how to edit and personalize individual content components in Adobe Journey Optimizer with AI.
-* [Enhance your visual content](./enhance-your-visual-content.md)
-  Learn how to enhance visual content in Adobe Journey Optimizer.
+  Edit and personalize individual sections of an email template with AI capabilities, changing subject lines, preheaders, text blocks, and images while preserving brand voice and compliance.
+* [Enhance your visual content with AI](./enhance-your-visual-content.md)
+  Generate infographics, add overlays, and refine images with AI tools, then extend edits in Adobe Express to produce on-brand visuals ready for reuse.
 * [Create and refine multilingual versions of your content](./create-and-refine-multilingual-content.md)
-  Discover how AI helps translate and localize content while maintaining brand consistency. Learn efficient workflows for global communication scaling.
+  Translate and adapt content into other languages using AI capabilities, brand guidelines, and automated scoring to keep localized content on-brand.
 
 ### Quality, brand alignment & governance
 
-This module helps you evaluate and govern AI-generated content before it goes live.
+This module helps you evaluate and govern AI-generated content before it goes live. You use the brand alignment score to check content against your guidelines, run automated quality checks for readability and compliance, and apply human review as part of your approval process. By the end, you know how to "trust but verify" AI output and keep every asset compliant and consistent.
 
-* [Ensure quality, brand alignment & governance](./quality-brand-alignment-and-governance.md)
-  Learn how to evaluate and improve content quality while maintaining strong brand alignment using AI-powered tools.
-  
+* [Ensure content quality, brand alignment, and governance](./quality-brand-alignment-and-governance.md)
+  Evaluate content quality and brand alignment for AI-generated and manually authored assets, and apply governance as part of your review process before content goes live.
