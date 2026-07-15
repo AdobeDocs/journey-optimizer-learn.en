@@ -1,18 +1,18 @@
 ---
-title: Configure brands in Adobe Journey Optimizer
-description: This video walks through how to upload brand guideline documents, structure key brand elements, and define writing style and visual content.
+title: Configure a brand for AI-powered content in Adobe Journey Optimizer
+description: You learn how to create and configure a brand that AI capabilities use to generate and validate content in Adobe Journey Optimizer.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-14
+last-substantial-update: 2026-07-15
 jira: KT-21952
 ---
 
-# Configure brands in Adobe Journey Optimizer
+# Configure a brand for AI-powered content in Adobe Journey Optimizer
 
-This video walks through how to upload brand guideline documents, structure key brand elements, and define writing style, visual content, and identity details. You also see how to refine and customize these guidelines to power AI-generated content and automated quality checks, ensuring consistent, on-brand communication across every channel.
+You learn how to create and configure a brand that AI capabilities use to generate and validate content in Adobe Journey Optimizer. You upload brand guideline documents and map key elements such as tone of voice, slogans, legal constraints, imagery rules, and CTA formatting. You edit channel- and element-level guidance to improve generation accuracy and automated quality checks.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
