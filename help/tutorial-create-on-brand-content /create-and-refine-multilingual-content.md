@@ -1,18 +1,18 @@
 ---
 title: Create and refine multilingual versions of your content
-description: Learn how to translate and adapt your content across languages while maintaining brand consistency.
+description: In this step you translate and adapt messages into other languages using Adobe Journey Optimizer.
 feature: Multilingual Content
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 191
-last-substantial-update: 2026-07-14
+last-substantial-update: 2026-07-15
 jira: KT-20389
 ---
 
 # Create and refine multilingual versions of your content
 
-Learn how to translate and adapt your content across languages while maintaining brand consistency. This overview shows how to create multilingual versions of your campaigns, use AI-assisted translation to quickly generate localized content, and refine tone and messaging to match your brand guidelines. You also see how to combine automated workflows and on-the-fly translations to efficiently scale global communications across channels.
+In this step you translate and adapt messages into other languages using Adobe Journey Optimizer, using Spanish and French as the example locales. You copy an existing touchpoint into locale templates and use AI capabilities to generate on-brand translations, alongside your other manual or automated translation workflows. You review scoring, refine tone and messaging, and keep translated content aligned with your brand guidelines.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
