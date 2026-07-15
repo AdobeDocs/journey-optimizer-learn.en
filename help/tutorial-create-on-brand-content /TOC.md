@@ -14,7 +14,7 @@ auto-video-transcripts: true
 + Introduction and brand setup {#introduction-and-brand-setup}
     + [Create on-brand email content with AI](./introduction.md)
     + [Configure a brand for AI-powered content](./configure-brands.md)
-    + [Brand guidelines tips](./brands-tips-and-tricks.md)
+    + [Extend brand guidelines across creative tools](./brands-tips-and-tricks.md)
 + Use AI to generate content {#generate-content}
     + [Create content from scratch](./create-content-from-scratch.md)
     + [Edit and personalize section content](./edit-and-personalize-section-content.md)
