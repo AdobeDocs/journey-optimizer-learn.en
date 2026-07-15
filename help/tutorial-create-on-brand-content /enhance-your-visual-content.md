@@ -1,18 +1,18 @@
 ---
-title: Enhance your visual content
-description: Learn how to enhance and customize visual content using AI-powered tools to create more engaging, on-brand designs.
+title: Enhance your visual content with AI
+description: In this step you enhance and customize images and graphics with AI tools in Adobe Journey Optimizer.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 418
-last-substantial-update: 2026-07-14
+last-substantial-update: 2026-07-15
 jira: KT-20386
 ---
 
 # Enhance your visual content with AI
 
-Learn how to enhance and customize visual content using AI-powered tools to create more engaging, on-brand designs. This video shows how to generate infographics, add overlays, and refine images directly within your workflow, while also leveraging integrations to extend editing capabilities. You explore how to apply brand elements like logos, colors, and fonts, and seamlessly move between tools to maintain consistency and control, ensuring every visual asset aligns with your brand identity from creation to final design.
+In this step you enhance and customize images and graphics with AI tools in Adobe Journey Optimizer. You generate infographics, add overlays, and refine images while keeping logos, colors, and fonts aligned with your brand. You move assets between Adobe Journey Optimizer and Adobe Express to extend edits and maintain consistency. By the end of this step, you save on-brand visuals to your repository for reuse across campaigns.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on)
