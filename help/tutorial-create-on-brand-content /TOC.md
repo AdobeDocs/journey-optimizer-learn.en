@@ -13,11 +13,12 @@ auto-video-transcripts: true
 + [AI-powered, on-brand content creation in Adobe Journey Optimizer for marketers](./overview.md)
 + Introduction and brand setup {#introduction-and-brand-setup}
     + [Create on-brand email content with AI](./introduction.md)
-    + [Configure a brand for AI-powered content](./configure-brands.md)
+    + [Configure a brand for AI-powered content in Adobe Journey Optimizer](./configure-brands.md)
     + [Extend brand guidelines across creative tools](./brands-tips-and-tricks.md)
 + Use AI to generate content {#generate-content}
-    + [Create content from scratch](./create-content-from-scratch.md)
+    + [Create omnichannel content from scratch](./create-content-from-scratch.md)
     + [Edit and personalize section content](./edit-and-personalize-section-content.md)
-    + [Enhance your visual content](./enhance-your-visual-content.md)
+    + [Enhance your visual content with AI](./enhance-your-visual-content.md)
     + [Create and refine multilingual versions of your content](./create-and-refine-multilingual-content.md)
-+ [Quality, brand alignment and governance](./quality-brand-alignment-and-governance.md)
++ [Ensure content quality, brand alignment, and governance](./quality-brand-alignment-and-governance.md)
+  
