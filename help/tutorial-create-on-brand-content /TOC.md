@@ -12,7 +12,7 @@ auto-video-transcripts: true
 
 + [AI-powered, on-brand content creation in Adobe Journey Optimizer for marketers](./overview.md)
 + Introduction and brand setup {#introduction-and-brand-setup}
-    + [Introduction](./introduction.md)
+    + [Create on-brand email content with AI](./introduction.md)
     + [Configure brands](./configure-brands.md)
     + [Brand guidelines tips](./brands-tips-and-tricks.md)
 + Use AI to generate content {#generate-content}
