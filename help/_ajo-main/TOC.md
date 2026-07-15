@@ -86,6 +86,7 @@ auto-video-transcripts: true
     + [Create content with the Email Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Import and author HTML email content](/help/channels/import-and-author-html-email-content.md)
     + [Preview, proof, and publish](/help/channels/preview-proof-and-publish.md)
+    + [AI-powered, on-brand content creation - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Content Cards{#content-cards}
     + [Create content cards](/help/channels/create-content-cards.md)
   + In App channel{#in-app-channel}
