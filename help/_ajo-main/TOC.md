@@ -34,6 +34,7 @@ auto-video-transcripts: true
     + [Build an orchestrated campaign](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Journeys {#journeys}
   + [Journey Designer - Overview](/help/journeys/journey-designer-overview.md)
+  + [Introduction to the new journey canvas](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [Analyze and Build Journeys with the Journey Agent](/help/ai-agents/journey-agent-overview.md)
   + {hide-from-toc} [Discover the new Journey Designer](/help/journeys/new-journey-designer.md)
   + [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md)
