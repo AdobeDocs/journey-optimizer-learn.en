@@ -1,5 +1,5 @@
 ---
-title: Introducing to the new journey canvas
+title: Introduction to the new journey canvas
 description: Discover the new journey canvas experience in Adobe Journey Optimizer. This update introduces a modern rendering engine that powers the Journey Canvas, aligning it with the experience already used in orchestrated campaigns and audience composition.
 feature: Journeys
 role: User
@@ -18,7 +18,7 @@ feature_v2:
     internal-label: Journeys
 ---
 
-# Introducing to the new journey canvas
+# Introduction to the new journey canvas
 
 Discover the new journey canvas experience in Adobe Journey Optimizer. This update introduces a modern rendering engine that powers the Journey Canvas, aligning it with the experience already used in orchestrated campaigns and audience composition.
 
