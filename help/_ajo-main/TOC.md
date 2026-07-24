@@ -172,6 +172,7 @@ auto-video-transcripts: true
       + [Use decisioning to personalize emails (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Use decisioning in push notifications](/help/decisioning/decisioning-in-push-notifications.md)
       + [Use decisioning in an SMS message](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc} [Use decisioning within the web visual editor](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Use decisioning to personalize web offers (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"} 
       + [Use Experience Manager Content Fragments with Decisioning](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Trigger decisions from external triggers and interactions {#trigger}
