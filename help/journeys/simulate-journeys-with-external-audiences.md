@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 121
 last-substantial-update: 2026-07-24
 jira: KT-22142
-badgeLA: label="Limited Availability" type="Informative"
 ---
 
 # Simulate journeys with external audiences
