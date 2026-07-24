@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 417
 last-substantial-update: 2026-07-24
 jira: KT-22143
+badgeLA: label="Limited Availability" type="Informative"
 ---
 
 # Configure and use custom channels

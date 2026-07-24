@@ -118,7 +118,7 @@ auto-video-transcripts: true
     + [Introduction to the WhatsApp channel](/help/channels/whatsapp-introduction.md)
     + [Set up the WhatsApp channel](/help/channels/set-up-whatsapp.md)
     + [Create a WhatsApp journey](/help/channels/create-a-whatsapp-journey.md)
-  + [Configure and use custom channels](/help/channels/configure-and-use-custom-channels.md)
+  + {hide-from-toc}[Configure and use custom channels](/help/channels/configure-and-use-custom-channels.md)
 + Content Management{#content-management}
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
   + Manage assets {#assets}
