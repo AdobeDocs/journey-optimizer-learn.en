@@ -24,7 +24,7 @@ Foundational course for marketers to onboard to Adobe Journey Optimizer Loyalty:
 
 This module introduces Journey Optimizer Loyalty: what it is, where it sits under Adobe Journey Optimizer, and the challenge lifecycle from setup to analysis.
 
-* [Discover what Journey Optimizer Loyalty is and tour the UI](./introduction-to-loyalty/discover-what-journey-optimizer-loyalty-is-and-tour-the-ui-feature-video.md)
+* [Discover what Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
   Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.
 
 ### Configure your challenge
@@ -33,7 +33,7 @@ This module walks you through creating and configuring a loyalty challenge end t
 
 * [Create and publish your first loyalty challenge](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
   Learn how to create a challenge: types (Standard / Streak / Sequential), structure & schedule, save and publish a challenge (without journeys).
-* [Set up tasks for your loyalty challenge](./configure-your-challenge/set-up-tasks-for-your-loyalty-challenge.md)
+* [Set up tasks for your loyalty challenge](./configure-your-challenge/create-tasks.md)
   Learn how to set up tasks: purchase & spend, quantities, eligible items & exclusions, and reuse.
 * [Configure rewards for your loyalty challenge](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
   Learn how to configure rewards: provider, milestone vs. completion delivery, reward types & coupons.
