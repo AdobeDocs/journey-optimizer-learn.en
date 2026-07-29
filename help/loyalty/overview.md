@@ -1,0 +1,55 @@
+---
+title: Get started with Journey Optimizer Loyalty for marketers
+description: Learn how to onboard to Adobe Journey Optimizer Loyalty, configure a challenge, apply and display it, and analyze its performance.
+topic: Get Started
+role: User
+level: Beginner
+doc-type: Tutorial
+jira: KT-21773
+last-substantial-update: 2026-07-28
+---
+
+# Get started with Journey Optimizer Loyalty for marketers
+
+Foundational course for marketers to onboard to Adobe Journey Optimizer Loyalty: configure a loyalty challenge, apply and display it, and analyze its performance.
+
+## What you learn
+
+* Understand what Journey Optimizer Loyalty is, how it sits under AJO, and the end-to-end challenge lifecycle.
+* Create and configure a loyalty challenge in the UI, including tasks, rewards, and the Loyalty AI agent.
+* Display and apply a challenge through a content card or code-based experience.
+* Read the built-in challenge report to track performance.
+
+### Introduction to Loyalty
+
+This module introduces Journey Optimizer Loyalty: what it is, where it sits under Adobe Journey Optimizer, and the challenge lifecycle from setup to analysis.
+
+* [Discover what Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.
+
+### Configure your challenge
+
+This module walks you through creating and configuring a loyalty challenge end to end: type, structure and schedule, tasks, and rewards.
+
+* [Create and publish your first loyalty challenge](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
+  Learn how to create a challenge: types (Standard / Streak / Sequential), structure & schedule, save and publish a challenge (without journeys).
+* [Set up tasks for your loyalty challenge](./configure-your-challenge/create-tasks.md)
+  Learn how to set up tasks: purchase & spend, quantities, eligible items & exclusions, and reuse.
+* [Configure rewards for your loyalty challenge](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
+  Learn how to configure rewards: provider, milestone vs. completion delivery, reward types & coupons.
+* [Create challenges and get insights with the Loyalty AI agent](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
+  Learn how to use the Loyalty AI agent to create challenges and get insights.
+
+### Apply and display your challenge
+
+This module shows you how to bring a challenge to your customers through content cards and code-based experiences.
+
+* [Build a challenge content card with a code-based experience](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
+  Learn how to build a challenge content card / code-based experience, covering opt-in and dynamic progress across the opt-in, progress, and completed stages, plus rewards and channel configuration.
+
+### Analyze and report
+
+This module covers how to track how your challenge is performing.
+
+* [Track performance with the challenge report](./analyze-and-report/track-performance-with-the-challenge-report.md)
+  Learn how to track your challenge performance with the challenge performance report.

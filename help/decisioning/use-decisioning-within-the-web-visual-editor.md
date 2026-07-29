@@ -6,6 +6,7 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 192
+hide: true
 last-substantial-update: '2026-07-24T00:00:00.000Z'
 jira: KT-22144
 autotag-review: '2026-07-24T14:37:35.522Z'
