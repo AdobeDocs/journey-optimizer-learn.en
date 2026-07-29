@@ -31,8 +31,8 @@ This module introduces Journey Optimizer Loyalty: what it is, where it sits unde
 
 This module walks you through creating and configuring a loyalty challenge end to end: type, structure and schedule, tasks, and rewards.
 
-* [Create and publish your first loyalty challenge](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
-  Learn how to create a challenge: types (Standard / Streak / Sequential), structure & schedule, save and publish a challenge (without journeys).
+* [Set up a loyalty challenge](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+  Learn how to set up a loyalty challenge by selecting the right challenge type, configuring audiences and schedules, defining participation rules, and controlling how progress is tracked and rewarded.
 * [Set up tasks for your loyalty challenge](./configure-your-challenge/create-tasks.md)
   Learn how to set up tasks: purchase & spend, quantities, eligible items & exclusions, and reuse.
 * [Configure rewards for your loyalty challenge](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)

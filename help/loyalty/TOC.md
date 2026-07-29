@@ -14,7 +14,7 @@ auto-video-transcripts: true
 + Introduction to Loyalty {#introduction-to-loyalty}
     + [Discover what Journey Optimizer Loyalty is](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Configure your challenge {#configure-your-challenge}
-    + [Create and publish your first loyalty challenge](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
+    + [Set up a loyalty challenge](./configure-your-challenge/set-up-a-loyalty-challenge.md)
     + [Create tasks for your loyalty challenge](./configure-your-challenge/create-tasks.md)
     + [Configure rewards for your loyalty challenge](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
     + [Create challenges and get insights with the Loyalty AI agent](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
