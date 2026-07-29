@@ -35,7 +35,7 @@ This module walks you through creating and configuring a loyalty challenge end t
   Learn how to set up a loyalty challenge by selecting the right challenge type, configuring audiences and schedules, defining participation rules, and controlling how progress is tracked and rewarded.
 * [Set up tasks for your loyalty challenge](./configure-your-challenge/create-tasks.md)
   Learn how to set up tasks: purchase & spend, quantities, eligible items & exclusions, and reuse.
-* [Configure rewards for your loyalty challenge](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
+* [Configure rewards for your loyalty challenge](./configure-your-challenge/configure-rewards.md)
   Learn how to configure rewards: provider, milestone vs. completion delivery, reward types & coupons.
 * [Create challenges and get insights with the Loyalty AI agent](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
   Learn how to use the Loyalty AI agent to create challenges and get insights.
