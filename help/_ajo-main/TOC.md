@@ -38,7 +38,7 @@ auto-video-transcripts: true
   + [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md)
   + [Analyze and build journeys using AI](/help/ai-agents/journey-agent-overview.md)
   + [Create a test profile](/help/journeys/test-a-journey.md)
-  + {hide-from-toc}[Simulate journeys with external audiences](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [Simulate journeys with external audiences](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Publish a journey](/help/journeys/publish-a-journey.md)
   + [Content decision activity](/help/journeys/content-decision-activity.md)
   + [Use dataset lookup in a journey](/help/journeys/lookup-dataset.md)
@@ -118,7 +118,7 @@ auto-video-transcripts: true
     + [Introduction to the WhatsApp channel](/help/channels/whatsapp-introduction.md)
     + [Set up the WhatsApp channel](/help/channels/set-up-whatsapp.md)
     + [Create a WhatsApp journey](/help/channels/create-a-whatsapp-journey.md)
-  + {hide-from-toc}[Configure and use custom channels](/help/channels/configure-and-use-custom-channels.md)
+  + [Configure and use custom channels](/help/channels/configure-and-use-custom-channels.md)
 + Content Management{#content-management}
   + [Message authoring - Overview](/help/content-management/message-authoring-overview.md)
   + Manage assets {#assets}
