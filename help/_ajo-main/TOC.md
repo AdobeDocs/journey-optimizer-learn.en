@@ -57,7 +57,7 @@ auto-video-transcripts: true
     + [Use case - Audience qualification](/help/journeys/use-case-audience-qualification.md)
   + Tutorials{#tutorials}
     + [Trigger a journey on form submission](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [Loyalty](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty)
++ [Loyalty](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/overview)
 + Conflict management & prioritization {#conflict-management}
   + [Identify potential conflicts](/help/conflict-management/identify-potential-conflicts.md)
   + [Assign priority scores](/help/conflict-management/assign-priority-score.md)
