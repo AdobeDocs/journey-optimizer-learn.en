@@ -1,5 +1,5 @@
 ---
-title: Get started with Journey Optimizer Loyalty for marketers
+title: Get started with Journey Optimizer Loyalty
 description: Learn how to onboard to Adobe Journey Optimizer Loyalty, configure a challenge, apply and display it, and analyze its performance.
 topic: Get Started
 role: User
@@ -9,16 +9,9 @@ jira: KT-21773
 last-substantial-update: 2026-07-28
 ---
 
-# Get started with Journey Optimizer Loyalty for marketers
+# Get started with Journey Optimizer Loyalty
 
-Foundational course for marketers to onboard to Adobe Journey Optimizer Loyalty: configure a loyalty challenge, apply and display it, and analyze its performance.
-
-## What you learn
-
-* Understand what Journey Optimizer Loyalty is, how it sits under AJO, and the end-to-end challenge lifecycle.
-* Create and configure a loyalty challenge in the UI, including tasks, rewards, and the Loyalty AI agent.
-* Display and apply a challenge through a content card or code-based experience.
-* Read the built-in challenge report to track performance.
+Loyalty Challenges enable you to create engaging, gamified loyalty programs that drive customer behavior and deepen brand relationships. Build challenges that reward customers for specific actions—from making purchases and writing reviews to engaging on social media and referring friends.
 
 ### Introduction to Loyalty
 
