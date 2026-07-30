@@ -13,14 +13,14 @@ last-substantial-update: 2026-07-28
 
 Loyalty Challenges enable you to create engaging, gamified loyalty programs that drive customer behavior and deepen brand relationships. Build challenges that reward customers for specific actions—from making purchases and writing reviews to engaging on social media and referring friends.
 
-### Introduction to Loyalty
+## Introduction to Loyalty
 
 This module introduces Journey Optimizer Loyalty: what it is, where it sits under Adobe Journey Optimizer, and the challenge lifecycle from setup to analysis.
 
 * [Discover what Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
   Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.
 
-### Configure your challenge
+## Configure your challenge
 
 This module walks you through creating and configuring a loyalty challenge end to end: type, structure and schedule, tasks, and rewards.
 
@@ -33,14 +33,14 @@ This module walks you through creating and configuring a loyalty challenge end t
 * [Create challenges and get insights with the Loyalty AI agent](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
   Learn how to use the Loyalty AI agent to create challenges and get insights.
 
-### Apply and display your challenge
+## Apply and display your challenge
 
 This module shows you how to bring a challenge to your customers through content cards and code-based experiences.
 
 * [Build a challenge content card with a code-based experience](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
   Learn how to build a challenge content card / code-based experience, covering opt-in and dynamic progress across the opt-in, progress, and completed stages, plus rewards and channel configuration.
 
-### Analyze and report
+## Analyze and report
 
 This module covers how to track how your challenge is performing.
 
