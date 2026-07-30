@@ -10,14 +10,14 @@ auto-video-transcripts: true
 
 # Get started with Journey Optimizer Loyalty {#loyalty}
 
-+ {hide-from-toc}[Get started with Journey Optimizer Loyalty for marketers](./overview.md)
++ [Get started with Journey Optimizer Loyalty for marketers](./overview.md)
 + [Discover Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Configure your challenge {#configure-your-challenge}
     + [Set up a loyalty challenge](./configure-your-challenge/set-up-a-loyalty-challenge.md)
     + [Create tasks for your loyalty challenge](./configure-your-challenge/create-tasks.md)
     + [Configure rewards for your loyalty challenge](./configure-your-challenge/configure-rewards.md)
-    + {hide-from-toc}[Create challenges and get insights with the Loyalty AI agent](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
+    + [Create challenges and get insights with the Loyalty AI agent](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + Apply and display your challenge {#apply-and-display-your-challenge}
-    + {hide-from-toc}[Build a challenge content card with a code-based experience](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
+    + [Build a challenge content card with a code-based experience](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 + Analyze and report {#analyze-and-report}
     + {hide-from-toc}[Track performance with the challenge report](./analyze-and-report/track-performance-with-the-challenge-report.md)
