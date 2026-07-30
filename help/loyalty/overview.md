@@ -37,7 +37,7 @@ This module walks you through creating and configuring a loyalty challenge end t
 
 This module shows you how to bring a challenge to your customers through content cards and code-based experiences.
 
-* [Build a challenge content card with a code-based experience](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
+* [Build a challenge content card](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   Learn how to build a challenge content card / code-based experience, covering opt-in and dynamic progress across the opt-in, progress, and completed stages, plus rewards and channel configuration.
 
 ## Analyze and report
