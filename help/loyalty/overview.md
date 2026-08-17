@@ -46,3 +46,5 @@ This section shows you how to bring a challenge to your customers through conten
 
 * [Build a challenge content card](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   Learn how to build a challenge content card / code-based experience, covering opt-in and dynamic progress across the opt-in, progress, and completed stages, plus rewards and channel configuration.
+* [Set up lifecycle messaging for your challenge](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+  Learn how to configure multi-channel messaging for every stage of a loyalty challenge, from invitations and engagement messages to completion and reward notifications.
