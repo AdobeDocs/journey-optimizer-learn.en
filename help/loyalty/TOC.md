@@ -12,6 +12,8 @@ auto-video-transcripts: true
 
 + [Get started with Journey Optimizer Loyalty for marketers](./overview.md)
 + [Discover Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
++ Set up Loyalty
+    + [Set up a loyalty reward provider](./help/loyalty/set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configure your challenge {#configure-your-challenge}
     + [Set up a loyalty challenge](./configure-your-challenge/set-up-a-loyalty-challenge.md)
     + [Create tasks for your loyalty challenge](./configure-your-challenge/create-tasks.md)
