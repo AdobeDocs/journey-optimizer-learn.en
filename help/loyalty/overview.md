@@ -20,6 +20,13 @@ This section introduces Journey Optimizer Loyalty: what it is, where it sits und
 * [Discover what Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
   Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.
 
+## Set up Loyalty
+
+This section covers the initial one time setup required before you can start creating a challenge.
+
+* [Set up a loyalty reward provider](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+  Learn how to set up a reward provider, create reward definitions, and configure reward payloads so Adobe Journey Optimizer can issue loyalty rewards through your external rewards system.
+
 ## Configure your challenge
 
 This section walks you through creating and configuring a loyalty challenge end to end: type, structure and schedule, tasks, and rewards.
