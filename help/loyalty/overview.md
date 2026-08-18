@@ -269,9 +269,11 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ## Analyze and report
 
 This section shows you how to measure the performance of your loyalty challenges once they're live.
+
 <!--
 CARDS
 
