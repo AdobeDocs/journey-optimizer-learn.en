@@ -39,6 +39,7 @@ auto-video-transcripts: true
   + [Analyze and build journeys using AI](/help/ai-agents/journey-agent-overview.md)
   + [Create a test profile](/help/journeys/test-a-journey.md)
   + [Simulate journeys with external audiences](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [Accelerate journey testing with Quick Simulation](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Publish a journey](/help/journeys/publish-a-journey.md)
   + [Content decision activity](/help/journeys/content-decision-activity.md)
   + [Use dataset lookup in a journey](/help/journeys/lookup-dataset.md)
