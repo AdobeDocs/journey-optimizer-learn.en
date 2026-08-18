@@ -24,4 +24,4 @@ auto-video-transcripts: true
     + [Display challenge content using the code-based experience channel](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
     + [Set up lifecycle messaging for your challenge](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + Analyze and report {#analyze-and-report}
-    + {hide-from-toc}[Track performance with the challenge report](./analyze-and-report/track-performance-with-the-challenge-report.md)
+    + [Measure challenge performance with challenge reports](./analyze-and-report/measure-performance-with-challenge-reports.md)
