@@ -297,7 +297,7 @@ CARDS
 
 ## Analyze and report
 
-This section shows you how to measure the performance of your loyalty challenges once they're live.
+This sectioncovers how to measure the performance of your loyalty challenges once they're live.
 
 <!--
 CARDS
