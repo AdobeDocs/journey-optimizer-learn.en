@@ -20,7 +20,7 @@ auto-video-transcripts: true
     + [Configure rewards for your loyalty challenge](./configure-your-challenge/configure-rewards.md)
     + [Create challenges and get insights with the Loyalty AI agent](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + Apply and display your challenge {#apply-and-display-your-challenge}
-    + [Build a challenge content card with a code-based experience](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+    + [Build a challenge content card](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
     + [Set up lifecycle messaging for your challenge](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + Analyze and report {#analyze-and-report}
     + {hide-from-toc}[Track performance with the challenge report](./analyze-and-report/track-performance-with-the-challenge-report.md)
