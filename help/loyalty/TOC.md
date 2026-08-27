@@ -26,3 +26,4 @@ auto-video-transcripts: true
     + [Publish a challenge and generate a journey](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + Analyze and report {#analyze-and-report}
     + [Measure challenge performance with challenge reports](./analyze-and-report/measure-performance-with-challenge-reports.md)
+    + [Analyze loyalty performance using the loyalty insights dashboard](./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md)
