@@ -1,6 +1,6 @@
 ---
 title: Measure challenge performance with challenge reports
-description: Learn how to use challenge reports and performance dashboards to measure participation, completion rates, revenue attribution, and overall loyalty program performance.
+description: Use challenge reports and dashboards to measure participation, completion rates, and revenue for your loyalty program.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -28,6 +28,6 @@ level_v2:
 
 # Measure challenge performance with challenge reports
 
-Learn how to use challenge reports and performance dashboards to measure participation, completion rates, revenue attribution, and overall loyalty program performance.
+Use challenge reports and dashboards to measure participation, completion rates, and revenue for your loyalty program.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
