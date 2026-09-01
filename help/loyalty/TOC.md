@@ -11,7 +11,7 @@ auto-video-transcripts: true
 # Get started with Journey Optimizer Loyalty {#loyalty}
 
 + [Get started with Journey Optimizer Loyalty for marketers](./overview.md)
-+ Introduction to Loyalty (#introduction)
++ Introduction to Loyalty {#introduction}
     + [Discover Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Set up Loyalty {#set-up-loyality}
     + [Set up a loyalty reward provider](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
