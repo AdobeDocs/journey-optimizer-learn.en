@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
-last-substantial-update: 2023-06-15
+last-substantial-update: 2026-09-10
 hide: false
 ---
 # Use Case - Transactional Journey 
