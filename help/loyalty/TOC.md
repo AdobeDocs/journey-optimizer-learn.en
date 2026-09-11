@@ -23,6 +23,7 @@ auto-video-transcripts: true
 + Apply and display your challenge {#apply-and-display-your-challenge}
     + [Build a challenge content card](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
     + [Display challenge content using the code-based experience channel](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
+    + [Personalize content with challenge attributes using custom actions](./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md)
     + [Set up lifecycle messaging for your challenge](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
     + [Publish a challenge and generate a journey](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + Analyze and report {#analyze-and-report}
