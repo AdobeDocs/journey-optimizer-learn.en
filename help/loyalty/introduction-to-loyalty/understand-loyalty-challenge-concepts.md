@@ -1,6 +1,6 @@
 ---
-title: Understand loyalty challenge concepts  - Slideshow
-description: In this lesson, you learn the core concepts and vocabulary behind Journey Optimizer Loyalty. You learn what makes up a loyalty challenge - challenges, tasks, and rewards - and how the pieces fit together, so you have the mental model you need before building one in the next module.
+title: Understand loyalty challenge concepts
+description: Understand the core concepts and vocabulary behind Journey Optimizer Loyalty. You learn what makes up a loyalty challenge - challenges, tasks, and rewards - and how the pieces fit together, so you have the mental model you need before building one in the next module.
 role: Admin, User
 level: Beginner
 doc-type: Slideshow
@@ -10,7 +10,9 @@ jira: KT-22490
 thumbnail: KT-22490.jpeg
 ---
 
-# Understand loyalty challenge concepts  - Slideshow
+# Understand loyalty challenge concepts
 
-In this lesson, you learn the core concepts and vocabulary behind Journey Optimizer Loyalty. You learn what makes up a loyalty challenge - challenges, tasks, and rewards - and how the pieces fit together, so you have the mental model you need before building one in the next module.
+Understand the core concepts and vocabulary behind Journey Optimizer Loyalty. You learn what makes up a loyalty challenge and how the pieces fit together, so you have the mental model you need before building one in the next module.
+
+>[!SLIDE](understand-loyalty-challenge-concepts)
 
