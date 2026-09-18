@@ -17,3 +17,5 @@ Understand how to run tests and simulations in Journey Optimizer to refine your 
 >[!VIDEO](https://video.tv.adobe.com/v/3434963/?learn=on)
 
 See [Get started with content experiments](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/get-started-experiment) for more information.
+
+>[!SLIDE](understand-loyalty-challenge-concepts)
