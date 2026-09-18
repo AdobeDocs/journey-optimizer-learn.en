@@ -13,6 +13,7 @@ auto-video-transcripts: true
 + [Get started with Journey Optimizer Loyalty for marketers](./overview.md)
 + Introduction to Loyalty {#introduction}
     + [Discover Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+    + [Understand loyalty challenge concepts](https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts#understand-loyalty-challenge-concepts=from-idea-to-live-challenge)
 + Set up Loyalty {#set-up-loyality}
     + [Set up a loyalty reward provider](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configure your challenge {#configure-your-challenge}
