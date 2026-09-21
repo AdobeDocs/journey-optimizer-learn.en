@@ -98,6 +98,7 @@ auto-video-transcripts: true
     + [Configure content experiments for in-app messages](/help/experimentation/content-experiments-for-in-app-messages.md)
   + Live activities {#live-activities}
     + [iOS live activities](/help/channels/ios-live-activities.md) 
+    + [Set up Live Updates for Android](/help/channels/android-live-updates.md)
   + Push channel{#push-channel}
     + [Push notifications - Overview](/help/channels/push-notifications-overview.md)
     + [Configure and send a push campaign](/help/channels/create-a-push-campaign.md)
