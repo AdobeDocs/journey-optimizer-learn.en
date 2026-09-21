@@ -267,6 +267,32 @@ CARDS
 |![Create and Configure Content Cards](./assets/configuration.svg)[**Create and Configure Content Cards**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} |![Design Content Cards](./assets/content-management.png){width="50"}[**Design Content Cards**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+>[!TAB Live activities]
+
+### Live activities
+
+>[!PREREQUISITES]
+>
+> 1. Verify that the app is integrated with the Mobile SDK and configured with the Live Activity extensions (see [Configure Live Activity](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}).
+> 2. Ensure that customer profiles and audience segments are ready for targeting.
+
+#### iOS Live Activities
+
+Discover how to configure iOS Live Activities with Adobe Journey Optimizer to deliver rich, real-time updates on the iPhone Lock Screen and Dynamic Island.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)
+
+#### Android Live Updates
+
+Learn how to create and deliver Android Live Updates in Adobe Journey Optimizer, enabling real-time, persistent customer experiences that keep users informed as activities progress.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+
+#### Product Documentation
+
+|![Configure Live Activity](./assets/configuration.svg)[**Configure Live Activity**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 >[!TAB SMS/MMS/RCS]
 
 ### SMS/MMS/RCS messages

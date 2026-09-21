@@ -18,6 +18,7 @@ auto-video-transcripts: true
     + [Code-Based experience](/help/mobile-learning-hub/channels/code-based-experience-overview.md)
     + [SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)
     + [WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)
+    + [Live activities](/help/mobile-learning-hub/channels/live-activities-overview.md)
 + [Configure and launch](/help/mobile-learning-hub/configure-and-launch.md)
 + [Design and deliver](/help/mobile-learning-hub/design-and-deliver.md)
 + [Measure and optimize](/help/mobile-learning-hub/measure-and-optimize.md)

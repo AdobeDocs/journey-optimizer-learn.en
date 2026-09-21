@@ -273,6 +273,29 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+### Live activities
+
+Live activities deliver real-time, persistent updates on the iOS Lock Screen/Dynamic Island and Android's notification shade as an activity progresses (for example, an order being prepared or a delivery in transit).
+
+>[!PREREQUISITES]
+>
+>**iOS**
+>
+> * iOS 16.1+ for basic Live Activities, iOS 17.2+ for push-to-start support, and iOS 18+ for broadcast channel support.
+> * Xcode 14.0+ and Swift 5.7+.
+> * AEP Mobile SDK: iOS Messaging 5.11.0 or later, plus the **AEPMessagingLiveActivity** extension and Apple's **ActivityKit**.
+
+To configure the Mobile SDK for live activities:
+
+1. Import the **AEPMessaging**, **AEPMessagingLiveActivity**, and **ActivityKit** frameworks into your iOS project.
+2. Define your activity's attributes in a struct conforming to `LiveActivityAttributes`, with a `liveActivityData` property (`liveActivityID` for individual users, or `channelID` for broadcast) and a `ContentState` struct for the dynamic content that updates over time.
+3. Call `Messaging.registerLiveActivity()` in your AppDelegate after SDK initialization, to enable token collection and lifecycle management.
+4. Implement an `ActivityConfiguration` to define the widget UI for the Lock Screen and Dynamic Island.
+5. Optionally, trigger activities locally from your app's code, in addition to starting, updating, and ending them remotely from Journey Optimizer.
+6. Optionally, implement `LiveActivityAssuranceDebuggable` to debug live activities in Adobe Assurance.
+
+For the full configuration reference, including Android setup, see [Configure Live Activity](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
+
 ### WhatsApp
 
 Understand how to configure the **WhatsApp channel**:
