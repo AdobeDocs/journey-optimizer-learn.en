@@ -1,0 +1,16 @@
+{
+    "brand": "LUMA",
+    "loyaltyPromo": {
+        "tier": "Flow",
+        "trigger": "Activewear purchase or class attendance, 60+ days inactive",
+        "greeting": "Time to get back to your mat, {{firstName}}",
+        "body": "As a Flow member, you're invited back to the studio. Here's 15% off your next activewear pick, plus a free mat spot at our next Sunrise Flow class.",
+        "promoCode": "FLOW15-{{firstName}}",
+        "discount": "15%",
+        "bonus": "Free spot at next Sunrise Flow class",
+        "validThrough": "2026-10-15",
+        "eligibility": "Flow members only",
+        "ctaText": "Book a class now",
+        "ctaUrl": "https://luma.enablementadobe.com/classes/yoga"
+    }
+}
