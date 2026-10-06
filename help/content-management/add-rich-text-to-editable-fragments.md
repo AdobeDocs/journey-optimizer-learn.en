@@ -18,6 +18,9 @@ product_v2:
 feature_v2:
   - id: dc22c819-3f29-4e91-8b7d-5c6719831141
     internal-label: Content management
+subfeature_v2:
+  - id: c6e980f5-2d4f-494f-beef-186b9ecf1513
+    internal-label: Fragments
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

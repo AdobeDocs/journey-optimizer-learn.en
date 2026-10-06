@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 28d2a04b-70b7-4809-876b-d7bf381c1b1f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # AI-Driven Personalization: Adobe Agents in Action
 

@@ -19,6 +19,8 @@ feature_v2:
     internal-label: Configuration
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
     internal-label: Journeys
+  - id: a653cc2e-bc85-4353-a306-399e5b247978
+    internal-label: Journey Optimizer campaigns
 subfeature_v2:
   - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
     internal-label: Business rules

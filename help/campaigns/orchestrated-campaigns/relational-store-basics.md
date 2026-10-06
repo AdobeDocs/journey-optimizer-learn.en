@@ -18,7 +18,9 @@ product_v2:
     internal-label: Journey Optimizer
 feature_v2:
   - id: b423a773-0a58-4a77-b65d-3dd4ae6ef841
-    internal-label: Campaign Orchestration (AJO)
+    internal-label: Campaign Orchestration
+  - id: a653cc2e-bc85-4353-a306-399e5b247978
+    internal-label: Journey Optimizer campaigns
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

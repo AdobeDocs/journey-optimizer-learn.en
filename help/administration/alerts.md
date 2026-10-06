@@ -20,6 +20,11 @@ feature_v2:
     internal-label: Administration
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
     internal-label: Journeys
+  - id: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04
+    internal-label: Track and monitor
+subfeature_v2:
+  - id: f8438d07-70d4-4505-9b79-dd9fb0f1c59f
+    internal-label: Alerts
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

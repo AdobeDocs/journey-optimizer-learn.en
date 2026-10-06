@@ -5,10 +5,25 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30
+last-substantial-update: 2025-04-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Testing the solution
 

@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 5c24536a-60ff-4448-b195-bb3cc73b52a4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # AI Decisioning and Next Best Actions in AJO
 

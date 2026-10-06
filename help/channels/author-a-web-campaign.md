@@ -17,6 +17,17 @@ product_v2:
 feature_v2:
   - id: a653cc2e-bc85-4353-a306-399e5b247978
     internal-label: Journey Optimizer campaigns
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
+    internal-label: Web channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
     internal-label: Web experience

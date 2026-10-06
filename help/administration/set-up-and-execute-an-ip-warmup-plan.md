@@ -18,6 +18,9 @@ product_v2:
 feature_v2:
   - id: d556b755-390a-43f0-be32-a08cf6236126
     internal-label: Configuration
+subfeature_v2:
+  - id: c343082f-e963-4f57-a96b-b64d27f8118e
+    internal-label: IP warmup plans
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 3af0b8fb-06de-4e9d-a605-1e917468fecb
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # Using Timeout Paths in Adobe Journey Optimizer
 

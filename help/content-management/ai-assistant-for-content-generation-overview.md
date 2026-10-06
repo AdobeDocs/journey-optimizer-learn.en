@@ -21,6 +21,8 @@ feature_v2:
 subfeature_v2:
   - id: d6e0d39b-5df3-4c72-8263-fd834397ee97
     internal-label: AI content generation
+  - id: f659587f-8bf8-5d99-be43-652c46ebaa44
+    internal-label: Content Assistant
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

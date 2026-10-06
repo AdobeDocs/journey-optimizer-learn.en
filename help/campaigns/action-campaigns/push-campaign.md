@@ -18,6 +18,8 @@ feature_v2:
     internal-label: Journey Optimizer campaigns
   - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
     internal-label: Communication channels
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

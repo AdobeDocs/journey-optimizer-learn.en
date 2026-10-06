@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 1b1b2b1f-c6e7-4afd-bb6f-39de2f93857c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # Understanding the Core of Adobe Journey Optimizer
 

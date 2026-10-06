@@ -5,9 +5,21 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25
+last-substantial-update: 2025-12-25T00:00:00.000Z
 jira: KT-20014
 exl-id: 9b4a3e0c-d153-4a6b-a7de-b926bd669f6a
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Test the solution
 

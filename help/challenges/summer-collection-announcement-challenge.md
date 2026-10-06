@@ -5,8 +5,27 @@ jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: fda7be7c-b81e-42c0-95a9-616e5b893c03
+    internal-label: Build expressions
+subfeature_v2:
+  - id: a9db6739-b0ee-4ac1-bf1b-d880e21c6a00
+    internal-label: Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Create a Summer Collection announcement - challenge
 

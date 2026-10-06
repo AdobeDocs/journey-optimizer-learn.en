@@ -7,7 +7,15 @@ solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/ajo-web-push/introduction
-
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 
 # Web push in Adobe Journey Optimizer{#ajo-web-push}

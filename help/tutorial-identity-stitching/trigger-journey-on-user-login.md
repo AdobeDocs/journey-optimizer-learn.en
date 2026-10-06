@@ -5,10 +5,25 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24
+last-substantial-update: 2025-09-24T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
 exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Trigger Adobe Journey Optimizer Journey using Adobe Web SDK
 

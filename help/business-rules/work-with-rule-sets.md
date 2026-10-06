@@ -17,9 +17,13 @@ product_v2:
 feature_v2:
   - id: d556b755-390a-43f0-be32-a08cf6236126
     internal-label: Configuration
+  - id: 736fce34-6237-51e6-acd3-371abb174feb
+    internal-label: Rules
 subfeature_v2:
   - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
     internal-label: Business rules
+  - id: 3850e5c3-bf3f-5077-b08f-0917b13faa8a
+    internal-label: Frequency Rules
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

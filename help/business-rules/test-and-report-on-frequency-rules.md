@@ -19,6 +19,10 @@ product_v2:
 feature_v2:
   - id: d556b755-390a-43f0-be32-a08cf6236126
     internal-label: Configuration
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
 subfeature_v2:
   - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
     internal-label: Business rules

@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: c14e8b09-b6d5-41e9-8fb3-cd7b55692687
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # New Channels and Integrations in Adobe Journey Optimizer
 

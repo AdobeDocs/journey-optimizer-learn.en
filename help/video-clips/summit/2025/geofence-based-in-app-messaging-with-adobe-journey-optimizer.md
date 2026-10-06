@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: bd6a7a14-f9cf-46de-89d4-3e85f8fc02b0
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # Geofence-Based In-App Messaging with Adobe Journey Optimizer
 
