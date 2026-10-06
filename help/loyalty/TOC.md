@@ -15,6 +15,10 @@ auto-video-transcripts: true
     + [Discover Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
     + [Understand loyalty challenge concepts](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + Set up Loyalty {#set-up-loyality}
+    + Set up loyalty data ingestion {#set-up-loyalty-data-ingestion}
+        + [Create profile and event schemas and datasets](./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md)
+        + [Configure the HTTP API source and map loyalty data](./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md)
+        + [Test loyalty data ingestion](./set-up-loyalty/test-loyalty-data-ingestion.md)
     + [Set up a loyalty reward provider](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configure your challenge {#configure-your-challenge}
     + [Set up a loyalty challenge](./configure-your-challenge/set-up-a-loyalty-challenge.md)
