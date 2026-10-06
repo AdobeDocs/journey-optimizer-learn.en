@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 32c8202c-eeaf-4365-8131-f3bba6f926e2
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # WhatsApp Integration in Adobe Journey Optimizer
 

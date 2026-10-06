@@ -18,13 +18,15 @@ feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
     internal-label: Journeys
   - id: a4cb03e1-327e-499d-9de8-e0c0db8a63a2
-    internal-label: Decisioning
+    internal-label: Decision capabilities
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 
 # Exercise 4 - Create a journey

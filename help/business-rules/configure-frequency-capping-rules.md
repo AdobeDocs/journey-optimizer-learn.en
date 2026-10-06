@@ -19,9 +19,13 @@ feature_v2:
     internal-label: Configuration
   - id: fe338112-e2ce-4876-8989-fc4d497613f1
     internal-label: Email
+  - id: 736fce34-6237-51e6-acd3-371abb174feb
+    internal-label: Rules
 subfeature_v2:
   - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
     internal-label: Business rules
+  - id: 3850e5c3-bf3f-5077-b08f-0917b13faa8a
+    internal-label: Frequency Rules
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -9,6 +9,18 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Lesson 4 - Create a push campaign
 

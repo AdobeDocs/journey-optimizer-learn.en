@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: d6fbe5e7-69d4-461e-b27d-630278f348b0
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # Human-AI Collaboration: Adobe Agents Enhancing Productivity
 

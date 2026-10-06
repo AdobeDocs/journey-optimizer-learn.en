@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 733b2ab9-6fc1-41ce-8773-d41539cf07c2
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # Introducing the Adobe Journey Optimizer Experimentation Accelerator
 

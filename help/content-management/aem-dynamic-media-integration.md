@@ -22,6 +22,9 @@ feature_v2:
     internal-label: Content management
   - id: fe96aceb-8194-4a8a-a6b0-75302d02804d
     internal-label: Integrations
+subfeature_v2:
+  - id: 76ce9c27-4cb0-5f07-ad92-959506fdee70
+    internal-label: Assets
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

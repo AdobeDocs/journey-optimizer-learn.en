@@ -7,6 +7,9 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 78a6ac9b-0a5c-4e07-9877-330098b8dbb9
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 ---
 # Transforming Workflows with AI Assistant in Adobe Journey Optimizer
 

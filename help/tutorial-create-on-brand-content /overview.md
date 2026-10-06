@@ -6,7 +6,16 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 jira: KT-20379
-last-substantial-update: 2026-07-15
+last-substantial-update: 2026-07-15T00:00:00.000Z
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 
 # AI-powered, on-brand content creation in Adobe Journey Optimizer for marketers

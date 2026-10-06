@@ -17,6 +17,8 @@ product_v2:
 feature_v2:
   - id: a653cc2e-bc85-4353-a306-399e5b247978
     internal-label: Journey Optimizer campaigns
+  - id: 629f438c-ea49-5ade-aa39-c2a256ff3036
+    internal-label: API
 subfeature_v2:
   - id: f7479fa1-474b-479d-8c98-f6cee5865a38
     internal-label: API triggered campaigns

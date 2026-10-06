@@ -10,6 +10,21 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Lesson 3 - Create a Web In-app Campaign
 

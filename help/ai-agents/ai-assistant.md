@@ -14,6 +14,12 @@ TQID: 'https://experienceleague.adobe.com/8RiX51WRVl6eua18TfPLGgNgWB3Eh1rURNxGQ5
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
@@ -21,6 +27,9 @@ role_v2:
     internal-label: Developer
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # AI Assistant
 
