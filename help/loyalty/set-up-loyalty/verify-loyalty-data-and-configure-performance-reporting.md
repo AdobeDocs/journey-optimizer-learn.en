@@ -1,5 +1,5 @@
 ---
-title: Test loyalty data ingestion
+title: Verify loyalty data and configure performance reporting
 description: Learn how to test loyalty profile and event data ingestion, verify datasets and unified customer profiles, and configure Loyalty Performance settings.
 role: Admin, Developer
 level: Beginner
@@ -26,7 +26,7 @@ level_v2:
     internal-label: Beginner
 ---
 
-# Test loyalty data ingestion
+# Verify loyalty data and configure performance reporting
 
 Learn how to send sample loyalty profile and event data to Adobe Experience Platform, verify that it appears in the datasets and unified customer profile, then select the datasets and prioritize a KPI in Loyalty Performance settings.
 
