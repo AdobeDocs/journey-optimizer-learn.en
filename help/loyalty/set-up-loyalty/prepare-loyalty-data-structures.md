@@ -1,12 +1,12 @@
 ---
-title: Configure the HTTP API source and map loyalty data
-description: Learn how to configure an HTTP API source connection and dataflows in Adobe Experience Platform, then map loyalty profile and event fields to your datasets.
+title: Prepare loyalty data structures
+description: Learn how to create XDM schemas and profile-enabled datasets in Adobe Experience Platform to receive loyalty member profile data and loyalty event data.
 role: Admin, Developer
 level: Beginner
 doc-type: Feature Video
-duration: 331
+duration: 314
 last-substantial-update: '2026-10-06'
-jira: KT-22764
+jira: KT-21762
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
@@ -26,8 +26,8 @@ level_v2:
     internal-label: Beginner
 ---
 
-# Configure the HTTP API source and map loyalty data
+# Prepare loyalty data structures
 
-Learn how to create an HTTP API connection and dataflows, then map incoming loyalty profile and event fields to your datasets.
+Learn how to set up the XDM schemas and profile-enabled datasets needed to receive loyalty member and event data in Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504120/?learn=on)
