@@ -16,8 +16,8 @@ auto-video-transcripts: true
     + [Understand loyalty challenge concepts](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + Set up Loyalty {#set-up-loyality}
     + Set up loyalty data ingestion {#set-up-loyalty-data-ingestion}
-        + [Create profile and event schemas and datasets](./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md)
-        + [Configure the HTTP API source and map loyalty data](./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md)
+        + [Prepare loyalty data structures](./set-up-loyalty/prepare-loyalty-data-structures.md)
+        + [Connect and map loyalty data](./set-up-loyalty/connect-and-map-loyalty-data.md)
         + [Verify loyalty data and configure performance reporting](./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md)
     + [Set up a loyalty reward provider](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configure your challenge {#configure-your-challenge}
