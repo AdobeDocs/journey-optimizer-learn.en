@@ -1,12 +1,12 @@
 ---
-title: Enable Data Integrations in Channel Authoring
-description: Learn how to integrate external data into Adobe Journey Optimizer to enhance personalization across outbound channels.
+title: Create a Standard integration
+description: Learn how to create a Standard integration to use external data and content in Adobe Journey Optimizer channel authoring and enhance personalization across outbound channels.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
 doc-type: Feature Video
 duration: 212
-last-substantial-update: 2026-04-28T00:00:00.000Z
+last-substantial-update: '2026-04-28T00:00:00.000Z'
 jira: KT-20916
 exl-id: a056114d-24d4-4168-a9c8-6219570a5261
 product_v2:
@@ -19,9 +19,11 @@ feature_v2:
     internal-label: API
   - id: d556b755-390a-43f0-be32-a08cf6236126
     internal-label: Configuration
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+    internal-label: Content management
 subfeature_v2:
-  - id: 3c5473a1-8c61-58ed-83fe-e928ccbe0743
-    internal-label: Channel Configuration
+  - id: dd51b532-b93f-4bcf-8dbf-0d007f593aca
+    internal-label: Data source configuration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
@@ -31,9 +33,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 ---
-# Enable external data integrations in channel authoring
+# Create a Standard integration
 
-Discover how to integrate external data and content into Adobe Journey Optimizer. This helps you enhance personalization and improve engagement in outbound channels. Watch the video below to learn more.
+Learn how to create a Standard integration to use external data and content in Adobe Journey Optimizer channel authoring. This helps you enhance personalization and improve engagement in outbound channels. Watch the video below to learn more.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 

@@ -74,6 +74,7 @@ auto-video-transcripts: true
   + [Subscriptions and landing pages](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + Channels {#channels}
   + [Mobile App Optimization - Overview](/help/channels/mobile-app-optimization-overview.md)
+  + [Optimize channels based on profile preference or propensity scores](/help/channels/channel-optimization.md)
   + Code-based experience channel{#code-based-experience-channel}
     + [Create a code-based experience campaign](/help/channels/create-a-code-based-experience-campaign.md)
     + [Add form fields to code-based experience channel templates](/help/channels/form-fields-in-code-based-experiences.md)
@@ -142,9 +143,10 @@ auto-video-transcripts: true
     + [AI Assistant for content generation - Overview](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [Create content using AI Assistant for content generation](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [Brand guideline creation and management](/help/content-management/brand-guideline-creation-and-management.md)
-  + [Optimize channels based on profile preference or propensity scores](/help/channels/channel-optimization.md)
   + [Create an email using GenStudio](/help/content-management/create-an-email-using-genstudio.md)
-  + [Enable external data integrations in channel authoring](/help/content-management/external-data-integrations-in-channel-authoring.md)
+  + External data integrations {#external-data-integrations}
+    + [Create a Standard integration](/help/content-management/external-data-integrations/create-a-standard-integration.md)
+    + [Create a Browsing integration](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [Create on-brand content in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalize content {#personalize-content}
   + [Personalization editor - Overview](/help/personalize-content/personalization-editor-overview.md)
