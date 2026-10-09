@@ -38,3 +38,5 @@ level_v2:
 Learn how to configure a Browsing integration for an external API, link it to a Standard integration, and let marketers search, browse, and select items in the AJO editor without entering values manually.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
+
+For more information, see the [Browsing integration documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
