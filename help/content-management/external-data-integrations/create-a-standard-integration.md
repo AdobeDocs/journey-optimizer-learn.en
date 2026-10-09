@@ -39,4 +39,4 @@ Learn how to create a Standard integration to use external data and content in A
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-See the Adobe Journey Optimizer [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration) for more information.
+For more information, see the [Standard integration documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
