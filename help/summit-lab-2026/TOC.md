@@ -6,12 +6,13 @@ level: Beginner,Intermediate
 breadcrumb-title: ai-powered-decisioning-for-web-experiences
 breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/ai-powered-decisioning-for-web-experiences/introduction
 auto-video-transcripts: true
+autotag-review: '2026-05-12T21:22:53.986Z'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
 feature_v2:
   - id: a4cb03e1-327e-499d-9de8-e0c0db8a63a2
-    internal-label: Decisioning
+    internal-label: Decision capabilities
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -20,7 +21,6 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-autotag-review: '2026-05-12T21:22:53.986Z'
 ---
 
 # AI-Powered Decisioning for Web Experiences {#ai-powered-decisioning-for-web-experiences}
