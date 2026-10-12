@@ -15,6 +15,7 @@ auto-video-transcripts: true
     + [Discover Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
     + [Understand loyalty challenge concepts](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + Set up Loyalty {#set-up-loyality}
+    + [Explore the configuration options for loyalty challenges](./set-up-loyalty/explore-the-configuration-options-for-loyalty-challenges.md)
     + Set up loyalty data ingestion {#set-up-loyalty-data-ingestion}
         + [Prepare loyalty data structures](./set-up-loyalty/prepare-loyalty-data-structures.md)
         + [Connect and map loyalty data](./set-up-loyalty/connect-and-map-loyalty-data.md)
