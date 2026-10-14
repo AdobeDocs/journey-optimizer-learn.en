@@ -1,6 +1,6 @@
 ---
 title: Build an orchestrated campaign
-description: Learn to design and execute campaigns using Adobe Journey Optimizer with workflows for audience creation, data manipulation, and multi-channel delivery.
+description: Learn how to design and execute campaigns using Adobe Journey Optimizer with workflows for audience creation, data manipulation, and multi-channel delivery.
 feature: Campaigns
 role: User
 level: Beginner, Intermediate
