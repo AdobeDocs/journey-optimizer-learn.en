@@ -37,6 +37,7 @@ auto-video-transcripts: true
   + [Introduction to the new journey canvas](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [Introduction to building a journey](/help/journeys/introduction-to-building-a-journey.md)
   + [Analyze and build journeys using AI](/help/ai-agents/journey-agent-overview.md)
+  + [Create journey conditions using natural language](/help/journeys/create-journey-conditions-using-natural-language.md)
   + [Create a test profile](/help/journeys/test-a-journey.md)
   + [Simulate journeys with external audiences](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Accelerate journey testing with Quick Simulation](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
