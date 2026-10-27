@@ -43,6 +43,7 @@ auto-video-transcripts: true
   + [Accelerate journey testing with Quick Simulation](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Publish a journey](/help/journeys/publish-a-journey.md)
   + [Content decision activity](/help/journeys/content-decision-activity.md)
+  + [Use channel optimization to reach customers where they engage](/help/journeys/use-channel-optimization.md)
   + [Use dataset lookup in a journey](/help/journeys/lookup-dataset.md)
   + [Master multi-attribute filtering](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Use multi-entity targeting with Federated Audiences in journeys](/help/journeys/multi-entity-targeting-in-journeys.md)
