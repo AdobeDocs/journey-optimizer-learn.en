@@ -1,6 +1,6 @@
 ---
 title: Create a loyalty challenge and surface insights with CX Enterprise Coworker
-description: Learn how to use CX Enterprise Coworker to create, configure, and launch loyalty challenges using natural language, including audiences, rewards, schedules, and automated journey setup.
+description: Learn how to use CX Enterprise Coworker to create and launch loyalty challenges in Adobe Journey Optimizer.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -33,6 +33,6 @@ topic_v2:
 
 # Create a loyalty challenge and surface insights with CX Enterprise Coworker
 
-Learn how to use CX Enterprise Coworker to create, configure, and launch loyalty challenges using natural language, including audiences, rewards, schedules, and automated journey setup.
+Use plain-language prompts to create, configure, and launch loyalty challenges with CX Enterprise Coworker. In this video, see how to set audiences, rewards, and schedules, automate journey setup, and review challenge insights.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)

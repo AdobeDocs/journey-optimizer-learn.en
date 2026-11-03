@@ -8,6 +8,7 @@ auto-video-transcripts: true
 # Journey Optimizer Tutorials {#tutorials}
 
 + [Journey Optimizer Tutorials](/help/_ajo-main/overview.md)
++ {hide-from-toc} [CX Enterprise Coworker in Journey Optimizer](/help/_ajo-main/coworker.md)
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
