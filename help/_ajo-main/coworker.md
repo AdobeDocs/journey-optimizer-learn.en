@@ -32,7 +32,7 @@ topic_v2:
 
 # CX Enterprise Coworker in Journey Optimizer
 
-Coworker is Adobe's conversational AI, deeply integrated with CX Enterprise applications like Adobe Journey Optimizer. It's trained on Adobe best practices for getting work done fast and right, so instead of clicking through multiple screens and tools, you describe what you want in plain language, for example, "Create a welcome journey that sends an email after signup, waits three days, then sends a follow-up" or "Build a journey from this uploaded flowchart image", and Coworker plans the work, runs it across your connected Adobe applications, and shows you the results for review.
+Coworker is Adobe's conversational AI, integrated with CX Enterprise applications such as Adobe Journey Optimizer. It applies Adobe best practices to help you work efficiently and accurately. Describe your task in plain language. You can request a welcome journey with an email after signup and a follow-up three days later. Or ask, "Build a journey from this uploaded flowchart image", and Coworker plans the work. It runs tasks across your connected Adobe applications and presents the results for your review.
 
 For Journey Optimizer, this means less time spent configuring journey steps, preparing simulations, and setting up loyalty challenges, and more time spent reviewing and approving what Coworker produces. You stay in control at every step, while Coworker handles the planning, execution, and follow-through.
 
@@ -106,31 +106,31 @@ CARDS
 
 * https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language
   {title = Generate journeys from natural language}
-  {description = Ask Coworker to turn a plain-language description into a draft Journey Optimizer journey with triggers, timing, channels, and decision logic.}
+  {description = Turn a plain-language prompt into a draft Journey Optimizer journey with Coworker.}
   {image = https://video.tv.adobe.com/v/3496867?format=jpeg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image
   {title = Create a journey from an image}
-  {description = Ask Coworker to turn a flowchart image into a ready-to-edit journey, review the extracted prompt, and save the result as a draft.}
+  {description = Turn a flowchart image into a draft Journey Optimizer journey that you can review and edit.}
   {image = https://video.tv.adobe.com/v/3504865?format=jpeg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker
   {title = Simulate a journey using Coworker}
-  {description = Ask Coworker to generate test profiles and events, test journey paths, and help you review proof messages and path coverage before publishing.}
+  {description = Test journey paths with generated profiles and events. Review proof messages and path coverage before publishing.}
   {image = https://video.tv.adobe.com/v/3507004?format=jpeg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video
   {title = Create, simulate, and analyze cross-channel journeys}
-  {description = Ask Coworker to build a cross-channel journey, create email and SMS content, simulate branching paths, and identify configuration issues.}
+  {description = Build a journey with email and SMS content. Simulate its paths and identify configuration issues with Coworker.}
   {image = https://video.tv.adobe.com/v/3504706?format=jpeg}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker
+* https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge
   {title = Create a loyalty challenge and surface insights}
-  {description = Ask Coworker to configure loyalty challenges with audiences, rewards, schedules, and automated journey setup, and surface insights.}
+  {description = Create loyalty challenges with Coworker. Configure audiences, rewards, and schedules, then review challenge insights.}
   {image = https://video.tv.adobe.com/v/3496528?format=jpeg}
   {cta = Watch}
 -->
@@ -151,7 +151,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" title="Generate journeys from natural language">Generate journeys from natural language</a>
                     </p>
-                    <p class="is-size-6">Ask Coworker to turn a plain-language description into a draft Journey Optimizer journey with triggers, timing, channels, and decision logic.</p>
+                    <p class="is-size-6">Turn a plain-language prompt into a draft Journey Optimizer journey with Coworker.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -174,7 +174,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" title="Create a journey from an image">Create a journey from an image</a>
                     </p>
-                    <p class="is-size-6">Ask Coworker to turn a flowchart image into a ready-to-edit journey, review the extracted prompt, and save the result as a draft.</p>
+                    <p class="is-size-6">Turn a flowchart image into a draft Journey Optimizer journey that you can review and edit.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -197,7 +197,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" title="Simulate a journey using Coworker">Simulate a journey using Coworker</a>
                     </p>
-                    <p class="is-size-6">Ask Coworker to generate test profiles and events, test journey paths, and help you review proof messages and path coverage before publishing.</p>
+                    <p class="is-size-6">Test journey paths with generated profiles and events. Review proof messages and path coverage before publishing.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -220,7 +220,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video" target="_blank" rel="referrer" title="Create, simulate, and analyze cross-channel journeys">Create, simulate, and analyze cross-channel journeys</a>
                     </p>
-                    <p class="is-size-6">Ask Coworker to build a cross-channel journey, create email and SMS content, simulate branching paths, and identify configuration issues.</p>
+                    <p class="is-size-6">Build a journey with email and SMS content. Simulate its paths and identify configuration issues with Coworker.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -232,7 +232,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker" title="Create a loyalty challenge and surface insights" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" title="Create a loyalty challenge and surface insights" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496528?format=jpeg" alt="Create a loyalty challenge and surface insights"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -241,11 +241,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker" target="_blank" rel="referrer" title="Create a loyalty challenge and surface insights">Create a loyalty challenge and surface insights</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" title="Create a loyalty challenge and surface insights">Create a loyalty challenge and surface insights</a>
                     </p>
-                    <p class="is-size-6">Ask Coworker to configure loyalty challenges with audiences, rewards, schedules, and automated journey setup, and surface insights.</p>
+                    <p class="is-size-6">Create loyalty challenges with Coworker. Configure audiences, rewards, and schedules, then review challenge insights.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
