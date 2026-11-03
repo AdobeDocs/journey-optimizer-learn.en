@@ -8,7 +8,7 @@ auto-video-transcripts: true
 # Journey Optimizer Tutorials {#tutorials}
 
 + [Journey Optimizer Tutorials](/help/_ajo-main/overview.md)
-+ {hide-from-toc} [CX Enterprise Coworker in Journey Optimizer](/help/_ajo-main/coworker.md)
++ [CX Enterprise Coworker in Journey Optimizer](/help/_ajo-main/coworker.md)
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
@@ -272,7 +272,7 @@ auto-video-transcripts: true
     + [Create and publish playbook instances](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Exercises, labs, and challenges {#exercises-and-challenges}
   + [Configure a training sandbox](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + [Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[Challenges](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [Build Personalized Mobile Moments with Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"} 
     + [Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"} 
