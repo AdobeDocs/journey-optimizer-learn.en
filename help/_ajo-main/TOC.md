@@ -8,7 +8,6 @@ auto-video-transcripts: true
 # Journey Optimizer Tutorials {#tutorials}
 
 + [Journey Optimizer Tutorials](/help/_ajo-main/overview.md)
-+ [CX Enterprise Coworker in Journey Optimizer](/help/_ajo-main/coworker.md)
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
@@ -17,6 +16,7 @@ auto-video-transcripts: true
   + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
   + [Get help with the AI-Assistant](/help/ai-agents/ai-assistant.md)
++ [CX Enterprise Coworker in Journey Optimizer](/help/_ajo-main/coworker.md)
 + [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"} 
 + Campaigns {#create-campaigns}
   + Action Campaigns {#action-campaigns}
