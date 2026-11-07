@@ -10,8 +10,8 @@ auto-video-transcripts: true
 + [Journey Optimizer Tutorials](/help/_ajo-main/overview.md)
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
-  + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
-  + [Key capabilities and the user interface](/help/introduction/key-capabilities-and-user-interface.md)
+  + {hide-from-toc} [Introduction to Journey Optimizer](/help/introduction/introduction.md)
+  + [Key capabilities](/help/introduction/key-capabilities.md)
   + {hide-from-toc} [Architecture](/help/introduction/architecture.md)
   + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
