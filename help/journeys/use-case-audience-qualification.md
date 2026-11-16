@@ -5,7 +5,7 @@ jira: KT-7704
 thumbnail: 3425028.jpg
 feature: Journeys
 doc-type: feature video
-last-substantial-update: 2023-11-16T00:00:00.000Z
+last-substantial-update: 2026-11-13
 team: PM
 role: User
 level: Beginner
