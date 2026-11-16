@@ -6,7 +6,7 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 250
-last-substantial-update: 2024-06-28T00:00:00.000Z
+last-substantial-update: 2026-11-12
 jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
 product_v2:
