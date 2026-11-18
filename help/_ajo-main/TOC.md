@@ -12,6 +12,7 @@ auto-video-transcripts: true
   + [Journey Optimizer - Overview](/help/introduction/journey-optimizer-overview.md)
   + {hide-from-toc} [Introduction to Journey Optimizer](/help/introduction/introduction.md)
   + [Key capabilities](/help/introduction/key-capabilities.md)
+  + [Roles and the user interface](/help/introduction/roles-and-the-user-interface-feature-video.md)
   + {hide-from-toc} [Architecture](/help/introduction/architecture.md)
   + [Mobile capabilities for marketers](/help/channels/mobile-capabilities.md)
   + [Mobile capabilities for developers](/help/channels/mobile-capabilities-for-developers.md)
