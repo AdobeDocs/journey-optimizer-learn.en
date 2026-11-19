@@ -1,13 +1,13 @@
 ---
-title: Exercise 4 - Create a campaign to deliver a decision to the website
+title: Exercise 4 - Create a campaign to deliver a web decision
 description: Link a selection strategy to a Code-Based Experience for real-time web banner personalization.
 feature: Campaigns, Code-based Experiences
 role: User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 
-last-substantial-update: '2026-05-12T00:00:00.000Z'
-jira: KT-
+last-substantial-update: 2026-11-18
+jira: KT-23180
 index: false
 autotag-review: '2026-05-14T18:11:56.742Z'
 TQID: 'https://experienceleague.adobe.com/OBVVI-6syh1t-svB9xPYz7xuVDsb1x6mPVzOFIZF5dE'
@@ -40,4 +40,4 @@ topic_v2:
 
 In this exercise, you link a selection strategy to a Code-Based Experience for real-time web banner personalization.
 
->[!VIDEO](https://video.tv.adobe.com/v/XXXXXXX/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
