@@ -6,6 +6,7 @@ short-description: Understand the basics of building a journey in the journey ca
 jira: KT-7530
 thumbnail: 3424996.jpg
 feature: Journeys
+last-substantial-update: 2026-11-19
 doc-type: feature video
 team: PM
 role: User
