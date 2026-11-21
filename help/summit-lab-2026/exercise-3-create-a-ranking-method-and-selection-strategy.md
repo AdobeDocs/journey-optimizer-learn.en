@@ -6,8 +6,8 @@ role: User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 
-last-substantial-update: '2026-05-12T00:00:00.000Z'
-jira: KT-
+last-substantial-update: 2026-11-20
+jira: KT-23210
 index: false
 recommendations: noCatalog, noDisplay
 autotag-review: '2026-05-14T18:10:25.897Z'
@@ -40,4 +40,4 @@ topic_v2:
 
 Create a personalized AI optimization model and a rule-based ranking formula, then assemble your offer collection, eligibility rules, and ranking method into a reusable selection strategy.
 
->[!VIDEO](https://video.tv.adobe.com/v/XXXXXXX/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508717/?learn=on&enablevpops)
